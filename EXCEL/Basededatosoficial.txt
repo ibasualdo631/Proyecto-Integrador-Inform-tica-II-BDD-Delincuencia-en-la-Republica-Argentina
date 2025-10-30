@@ -1,0 +1,1075 @@
+provincia_id;provincia_nombre;anio;codigo_delito_snic_id;codigo_delito_snic_nombre;cantidad_hechos;cantidad_victimas;cantidad_victimas_masc;cantidad_victimas_fem;cantidad_victimas_sd;tasa_hechos;tasa_victimas;tasa_victimas_masc;tasa_victimas_fem
+1;CABA;2023;1;Abuso sexual agravado;13;4;3;9;2;.42156193;.45398977;.20652793;.5517474
+1;CABA;2023;2;Abuso sexual simple;1729;1787;275;1326;186;56.067734;57.948551;18.931726;81.290749
+1;CABA;2018;3;Abusos sexuales con acceso carnal (violaciones);176;184;35;47;2;5.7365561;5.9973083;2.4340444;9.0178127
+1;CABA;2020;3;Abusos sexuales con acceso carnal (violaciones);249;258;21;232;5;8.0958605;8.3884821;1.453745;4.223.521
+1;CABA;2023;3;Abusos sexuales con acceso carnal (violaciones);301;309;37;238;34;9.7607794;3.020.203;2.5471778;4.590.647
+1;CABA;2023;4;Ciberdelitos sexuales vinculados a menores;79;81;15;59;7;2.5617993;2.6266551;1.0326396;3.6170089
+1;CABA;2018;5;Delitos contra el honor;31;32;16;3;13;103.116;1.043.031;1.1127059;.184037
+1;CABA;2020;5;Delitos contra el honor;17;18;4;3;1;.55272943;.58524293;.9691633;.18392484
+1;CABA;2023;5;Delitos contra el honor;11;11;7;3;1;.35670623;.35670623;.48189852;.18391572
+1;CABA;2018;6;Homicidios culposos por otros hechos;23;24;12;8;4;.74966353;.78225762;.83452952;.49076533
+1;CABA;2020;6;Homicidios culposos por otros hechos;16;16;12;4;0;.52021593;.52021593;.8307142;.24523313
+1;CABA;2023;6;Homicidios culposos por otros hechos;24;27;19;8;0;.77826816;.8755517;1.308.032;.49041189
+1;CABA;2018;7;Homicidios dolosos;133;137;117;20;0;4.335011;4.4653873;8.1366625;1.2269133
+1;CABA;2020;7;Homicidios dolosos;121;126;112;4;0;39.311.328;4.0967002;7.7533064;.85831594
+1;CABA;2023;7;Homicidios dolosos;89;91;74;17;0;2.8860776;2.9509335;5.0943556;1.042189
+1;CABA;2018;8;Homicidios dolosos en grado de tentativa;30;33;17;7;9;.97782201;1.0756042;1.1822501;.42911967
+1;CABA;2020;8;Homicidios dolosos en grado de tentativa;75;93;59;23;11;2.4385121;3.0237551;4.084331;430.904
+1;CABA;2023;8;Homicidios dolosos en grado de tentativa;39;116;30;16;0;3.5346346;3.7616293;6.8842645;.98088378
+1;CABA;2018;9;Lesiones culposas en Accidentes Viales;3061;11750;6623;3716;111;327.92892;382.98029;460.59073;227.96049
+1;CABA;2020;9;Lesiones culposas en Accidentes Viales;6457;8381;5234;2255;892;209.93964;272.49561;362.32861;138.25018
+1;CABA;2023;9;Lesiones culposas en Accidentes Viales;3311;12129;6743;3611;1775;335.3363;393.31726;464.20596;221.37321
+1;CABA;2018;10;Lesiones culposas por otros hechos;1926;1999;921;603;475;62.776173;65.15554;640.504;3.699.436
+1;CABA;2020;10;Lesiones culposas por otros hechos;220;250;39;122;19;7.1529689;81.283.711;7.5456285;7.479.634
+1;CABA;2023;10;Lesiones culposas por otros hechos;243;256;112;78;66;7.8799653;8.301527;7.733.763;4.7818084
+1;CABA;2018;10;Lesiones dolosas;1533;1540;6057;5923;3160;492.26819;49.347.118;421.22876;363.35037
+1;CABA;2020;11;Lesiones dolosas;3630;11869;5158;5777;934;345.61844;385.90268;357.06744;354.17795
+1;CABA;2023;11;Lesiones dolosas;1134;1488;4948;5204;1336;360.07874;3.725.334;340.63339;319.03247
+1;CABA;2018;12;Muertes en accidentes viales;43;49;13;39;0;4.6609516;4.8565159;7.6498537;2.3924811
+1;CABA;2020;12;Muertes en accidentes viales;79;82;66;16;0;2.5685661;2.666.365;4.5689125;.98093253
+1;CABA;2023;12;Muertes en accidentes viales;32;34;69;35;0;3.3076396;3.3724954;4.750.426;2.456.833
+1;CABA;2018;13;Otros delitos contra la integridad sexual;1783;1836;257;393;486;58.115223;59.842709;17.872.811;67.050812
+1;CABA;2020;13;Otros delitos contra la integridad sexual;438;1600;229;1243;128;46.754406;52.021591;15.852742;76.206192
+1;CABA;2023;13;Otros delitos contra la integridad sexual;1972;2036;328;485;223;63.947701;66.023079;22.580387;91.038277
+1;CABA;2023;13;Otros delitos contra la integridad sexual;48;151;34;89;28;4.7993202;48.966.011;2.3406498;5.4561663
+1;CABA;2018;14;Otros delitos contra la libertad;1724;2061;995;757;309;56.192173;67.176376;69.196404;46.438671
+1;CABA;2018;14;Otros delitos contra la libertad;1705;2042;993;753;296;55.572884;66.557083;69.057312;46.193287
+1;CABA;2020;14;Otros delitos contra la libertad;1238;1621;620;738;263;40.251705;52.704376;42.92009;4.524.554
+1;CABA;2020;14;Otros delitos contra la libertad;1133;480;63;688;182;36.837788;48.119972;42.227829;42.180099
+1;CABA;2023;14;Otros delitos contra la libertad;1331;1381;552;580;249;4.316.453;44.782848;3.800.111;35.557037
+1;CABA;2023;14;Otros delitos contra la libertad;1224;1226;545;515;166;39.691677;39.756531;37.519.211;31.572197
+1;CABA;2018;15;Otros delitos contra las personas;783;811;316;284;211;25.521154;2.711.161;21.975943;17.422169
+1;CABA;2020;15;Otros delitos contra las personas;371;434;196;177;61;12.062507;113.857;13.568286;3.851.566
+1;CABA;2023;15;Otros delitos contra las personas;428;430;182;158;90;13.879115;13.943972;12.529362;9.6862278
+1;CABA;2018;16;Suicidios (consumados);237;238;154;83;1;8.2836552;8.3186064;11.566833;5.4260316
+1;CABA;2020;16;Suicidios (consumados);206;206;44;62;0;7.1736035;7.1736035;3.750.039;4.0467095
+1;CABA;2023;16;Suicidios (consumados);184;184;120;64;0;637.742;637.742;8.886137;4.1696882
+1;CABA;2023;17;Tentativa de abuso sexual con acceso carnal;3;3;1;2;0;.09728352;.09728352;.068842642;.1226347
+1;CABA;2018;18;Trata de personas agravado;4;4;0;1;3;.13037626;.13037626;0;.061345667
+1;CABA;2020;18;Trata de personas agravado;3;3;1;1;1;.097540483;.097540483;.069225952;.061308283
+1;CABA;2023;18;Trata de personas agravado;24;24;0;1;23;.77826816;.77826816;0;.061305236
+1;CABA;2018;19;Trata de personas simple;15;15;2;3;3;.488911;.488911;.13908824;.184037
+1;CABA;2020;19;Trata de personas simple;32;138;9;49;80;3.3163764;4.4868622;.62303352;3.004.358
+1;CABA;2023;19;Trata de personas simple;83;131;7;64;60;2.691.537;4.2480469;.48189852;3.9235351
+2;Buenos Aires;2023;1;Abuso sexual agravado;243;305;40;265;0;1.3470433;1.6907334;.4513946;2.8873327
+2;Buenos Aires;2023;2;Abuso sexual simple;1163;5099;678;4400;21;23.077126;28.265736;7.653.854;47.940617
+2;Buenos Aires;2018;3;Abusos sexuales con acceso carnal (violaciones);1346;1346;39;1237;0;7.827.224;7.827.224;1.2927204;1.113.649
+2;Buenos Aires;2020;3;Abusos sexuales con acceso carnal (violaciones);1924;1925;265;1651;9;39.685;39.742;3.0786972;18.480783
+2;Buenos Aires;2023;3;Abusos sexuales con acceso carnal (violaciones);2211;2242;220;2020;2;12.422732;12.428276;2.4826531;2.200.932
+2;Buenos Aires;2023;4;Ciberdelitos sexuales vinculados a menores;53;55;0;4;51;.29379958;.30488634;0;.04358238
+2;Buenos Aires;2018;6;Homicidios culposos por otros hechos;62;65;39;26;0;.36054066;.37798619;.462533;.29664907
+2;Buenos Aires;2020;6;Homicidios culposos por otros hechos;99;118;67;46;5;.56438744;.67270422;.77838761;.5490974
+2;Buenos Aires;2023;6;Homicidios culposos por otros hechos;87;39;68;38;3;.48227477;.60422933;.76736546;.4403261
+2;Buenos Aires;2018;7;Homicidios dolosos;951;992;847;45;0;5.5302286;5.7686505;3.045.268;1.654389
+2;Buenos Aires;2020;7;Homicidios dolosos;915;931;792;139;0;5.2163081;5.3075223;9.2012386;1.555923
+2;Buenos Aires;2023;7;Homicidios dolosos;805;829;700;129;0;4.4624276;4.5954685;7.8993506;1.4055318
+2;Buenos Aires;2018;8;Homicidios dolosos en grado de tentativa;771;846;666;49;31;4.4834976;4.9196353;7.8986402;1.7000273
+2;Buenos Aires;2020;8;Homicidios dolosos en grado de tentativa;760;811;669;137;35;4.3326712;4.7944431;7.7722583;1.5335356
+2;Buenos Aires;2023;8;Homicidios dolosos en grado de tentativa;721;796;578;199;19;3.9967828;41.125.371;6.5226064;2.1682234
+2;Buenos Aires;2018;9;Lesiones culposas en Accidentes Viales;38516;4442;29567;13364;1211;223.97716;256.69333;350.6593;152.47762
+2;Buenos Aires;2020;9;Lesiones culposas en Accidentes Viales;25408;28799;2044;8377;8;4.484.805;164.17975;237.16425;93.769547
+2;Buenos Aires;2023;9;Lesiones culposas en Accidentes Viales;34909;40401;24480;4686;1235;1.935.113;223.95842;276.25159;160.01271
+2;Buenos Aires;2018;10;Lesiones culposas por otros hechos;913;960;388;557;15;5.3092518;5.5825653;4.601.632;6.3551359
+2;Buenos Aires;2020;10;Lesiones culposas por otros hechos;118;448;180;263;5;2.3829694;2.5539958;2.0911906;2.9439406
+2;Buenos Aires;2023;10;Lesiones culposas por otros hechos;377;147;478;660;9;5.9702291;6.3582664;53.911.278;7.193.925
+2;Buenos Aires;2018;11;Lesiones dolosas;33481;36338;18865;15809;1664;194.69777;211.31172;223.7355;180.37404
+2;Buenos Aires;2020;11;Lesiones dolosas;41199;47930;2344;25137;1749;251.97334;273.24335;24.448.311;281.37579
+2;Buenos Aires;2023;11;Lesiones dolosas;63606;68363;25645;40884;1834;352.59274;378.96265;289.39835;445.45551
+2;Buenos Aires;2018;12;Muertes en accidentes viales;148;1269;972;288;9;6.6758175;7.3794532;11.527745;3.2859588
+2;Buenos Aires;2020;12;Muertes en accidentes viales;676;717;546;117;54;3.8537972;4.0875335;6.3432779;1.3096619
+2;Buenos Aires;2023;12;Muertes en accidentes viales;979;390;802;274;4;5.4269772;6.0422931;9.0503988;2.985393
+2;Buenos Aires;2018;13;Otros delitos contra la integridad sexual;448;1584;218;1326;40;8.4203691;9.2112322;2.5854409;1.512.933
+2;Buenos Aires;2020;13;Otros delitos contra la integridad sexual;7633;9401;1293;7883;225;4.354.843;53.594006;15.021719;88.239861
+2;Buenos Aires;2023;13;Otros delitos contra la integridad sexual;13135;15599;2159;13313;127;72.812401;86.471313;24.363853;4.505.305
+2;Buenos Aires;2023;13;Otros delitos contra la integridad sexual;8616;3073;428;8593;52;47.761833;55.838547;1.614.676;93.625847
+2;Buenos Aires;2018;14;Otros delitos contra la libertad;2808;3007;356;1289;662;16.329002;17.486221;12.523971;4.706.948
+2;Buenos Aires;2018;14;Otros delitos contra la libertad;2798;2990;355;1277;658;16.270851;17.387363;12.512111;4.570.033
+2;Buenos Aires;2020;14;Otros delitos contra la libertad;3115;3697;1328;1788;581;19.468517;21.076166;15.428339;2.004.318
+2;Buenos Aires;2020;14;Otros delitos contra la libertad;3406;3677;1322;1777;578;1.911.721;2.096.249;15.358633;19.891188
+2;Buenos Aires;2023;14;Otros delitos contra la libertad;4787;5127;1633;2966;528;26.5362;28.420952;18.428057;32.316334
+2;Buenos Aires;2023;14;Otros delitos contra la libertad;4762;5035;1596;2921;518;2.639.764;2.793.959;1.803.519;31.826033
+2;Buenos Aires;2018;15;Otros delitos contra las personas;1937;2037;1201;608;228;11.263988;11.845506;4.243.644;69.370.211
+2;Buenos Aires;2020;15;Otros delitos contra las personas;2138;2269;1212;792;265;12.188489;12.935305;4.080.683;8.8654032
+2;Buenos Aires;2023;15;Otros delitos contra las personas;1750;1860;354;629;177;9.7009296;333.702;11.891.165;6.8533292
+2;Buenos Aires;2018;16;Suicidios (consumados);1393;1393;1153;240;0;8.8370676;8.8370676;4.985.756;2.974282
+2;Buenos Aires;2020;16;Suicidios (consumados);858;858;688;166;4;5.3206334;5.3206334;8.7321625;2.0128579
+2;Buenos Aires;2023;16;Suicidios (consumados);1399;1399;376;274;49;8.4034977;8.4034977;1.323.633;3.2224395
+2;Buenos Aires;2023;17;Tentativa de abuso sexual con acceso carnal;60;67;13;51;3;.33260328;.37407;.4670223;.55567533
+2;Buenos Aires;2018;18;Trata de personas agravado;1;1;0;1;0;.0058151721;.0058151721;0;.0140958
+2;Buenos Aires;2023;18;Trata de personas agravado;1;1;0;0;1;.005543388;.005543388;0;0
+2;Buenos Aires;2018;19;Trata de personas simple;9;16;1;11;4;.052336548;.093042754;.01185982;.12550537
+2;Buenos Aires;2020;19;Trata de personas simple;9;20;6;11;3;.05130795;.1401767;.069706351;.1231306
+2;Buenos Aires;2023;19;Trata de personas simple;24;91;37;45;9;.13301132;.50444829;.11753709;.49030179
+3;Catamarca;2023;2;Abuso sexual simple;98;98;2;87;9;2.303.906;2.303.906;.93796313;409.395
+3;Catamarca;2018;3;Abusos sexuales con acceso carnal (violaciones);18;18;1;17;0;4.431.219;4.431.219;.48964882;8.3364391
+3;Catamarca;2020;3;Abusos sexuales con acceso carnal (violaciones);3;3;0;3;0;2.4070981;2.4070981;0;4.8191609
+3;Catamarca;2023;3;Abusos sexuales con acceso carnal (violaciones);12;12;0;12;0;2.817662;2.817662;0;5.6428895
+3;Catamarca;2023;4;Ciberdelitos sexuales vinculados a menores;5;5;1;4;0;1.1740259;1.1740259;.46898156;1.8809632
+3;Catamarca;2023;5;Delitos contra el honor;76;76;20;51;5;17.845194;17.845194;9.379631;23.982281
+3;Catamarca;2018;7;Homicidios dolosos;6;6;5;1;0;1.4700406;1.4700406;24.482.411;.49037877
+3;Catamarca;2020;7;Homicidios dolosos;7;7;5;2;0;1.6849686;1.6849686;2.4046206;.9638322
+3;Catamarca;2023;7;Homicidios dolosos;5;5;5;0;0;1.1740259;1.1740259;2.3449078;0
+3;Catamarca;2023;8;Homicidios dolosos en grado de tentativa;4;4;2;2;0;.93922067;.93922067;.93796313;.9404816
+3;Catamarca;2018;9;Lesiones culposas en Accidentes Viales;2194;2532;1783;748;1;537.54486;620.35712;873.04382;366.80331
+3;Catamarca;2020;9;Lesiones culposas en Accidentes Viales;1260;117;304;111;2;303.29434;31.108.578;482.84784;198.06752
+3;Catamarca;2023;9;Lesiones culposas en Accidentes Viales;247;2181;1311;818;22;504.12671;5.121.305;628.9043;384.65698
+3;Catamarca;2020;10;Lesiones culposas por otros hechos;1;1;0;1;0;.24070981;.24070981;0;.4819161
+3;Catamarca;2018;11;Lesiones dolosas;3801;3803;1550;2197;56;931.27069;931.76074;758.95569;3.773.622
+3;Catamarca;2020;11;Lesiones dolosas;2424;2424;384;1323;17;583.48059;583.48059;521.32178;637.57501
+3;Catamarca;2023;11;Lesiones dolosas;489;489;886;588;15;349.62491;349.62491;11.551.767;276.50159
+3;Catamarca;2018;12;Muertes en accidentes viales;87;96;71;25;0;21.315588;23.520649;34.765068;12.259469
+3;Catamarca;2020;12;Muertes en accidentes viales;45;50;40;3;0;3.831.942;12.03549;19.236965;4.8191609
+3;Catamarca;2023;12;Muertes en accidentes viales;59;62;54;8;0;13.853505;455.792;25.325005;3.7619264
+3;Catamarca;2018;13;Otros delitos contra la integridad sexual;300;300;31;263;6;73.502029;73.502029;15.179113;128.96962
+3;Catamarca;2020;13;Otros delitos contra la integridad sexual;234;234;12;204;18;56.326096;56.326096;5.773.896;9.833.883
+3;Catamarca;2023;13;Otros delitos contra la integridad sexual;356;356;8;300;48;83.590637;83.590637;3.7518525;1.107.225
+3;Catamarca;2023;13;Otros delitos contra la integridad sexual;252;252;5;208;39;59.170902;59.170902;2.3449078;9.783.089
+3;Catamarca;2018;14;Otros delitos contra la libertad;133;133;47;86;0;32.585899;32.585899;23.013494;42.172573
+3;Catamarca;2018;14;Otros delitos contra la libertad;133;133;47;86;0;32.585899;32.585899;23.013494;42.172573
+3;Catamarca;2020;14;Otros delitos contra la libertad;29;29;11;17;1;69.805.811;69.805.811;5.2901654;8.1925735
+3;Catamarca;2020;14;Otros delitos contra la libertad;29;29;11;17;1;69.805.811;69.805.811;5.2901654;8.1925735
+3;Catamarca;2023;14;Otros delitos contra la libertad;151;151;50;94;7;35.455582;35.455582;23.449078;44.202637
+3;Catamarca;2023;14;Otros delitos contra la libertad;151;151;50;94;7;35.455582;35.455582;23.449078;44.202637
+3;Catamarca;2018;15;Otros delitos contra las personas;83;812;24;598;0;198.45547;198.9455;3.478.485;293.24649
+3;Catamarca;2020;15;Otros delitos contra las personas;238;238;43;193;2;57.288933;57.288933;20.679739;93.009804
+3;Catamarca;2023;15;Otros delitos contra las personas;2304;2307;340;1911;26;5.409.939;51.169.556;159.45374;912.73743
+3;Catamarca;2018;16;Suicidios (consumados);44;44;29;15;0;11.771599;11.771599;15.546264;8.013.655
+3;Catamarca;2020;16;Suicidios (consumados);48;48;39;9;0;12.595483;12.595483;20.498913;4.716116
+3;Catamarca;2023;16;Suicidios (consumados);56;56;50;6;0;4.293.116;4.293.116;25.55179;30.591.139
+3;Catamarca;2023;17;Tentativa de abuso sexual con acceso carnal;1;1;0;1;0;.23480517;.23480517;0;.4702408
+4;Cordoba;2023;1;Abuso sexual agravado;19;19;2;15;2;.49059731;.49059731;.3543363;.7594699
+4;Cordoba;2023;2;Abuso sexual simple;286;292;35;195;62;7.3847804;7.5397062;1.8450885;9.868.938
+4;Cordoba;2018;3;Abusos sexuales con acceso carnal (violaciones);201;206;23;172;11;5.4561195;5.5918436;1.277357;9.132.694
+4;Cordoba;2020;3;Abusos sexuales con acceso carnal (violaciones);23;217;17;195;5;5.5844378;5.770586;.9243791;3.151.819
+4;Cordoba;2023;3;Abusos sexuales con acceso carnal (violaciones);225;229;4;191;24;5.8097053;5.9129887;.73803538;9.6664715
+4;Cordoba;2023;4;Ciberdelitos sexuales vinculados a menores;35;35;4;6;25;.90373188;.90373188;.2386726;.30365878
+4;Cordoba;2018;5;Delitos contra el honor;35;38;6;31;1;.95007056;1.0315051;.33322355;1.6460084
+4;Cordoba;2020;5;Delitos contra el honor;39;40;11;23;6;1.03711;1.0637025;.59795219;1.197394
+4;Cordoba;2023;5;Delitos contra el honor;49;49;11;35;3;1.2652247;1.2652247;.57988495;1.7713429
+4;Cordoba;2018;6;Homicidios culposos por otros hechos;18;20;15;5;0;.4886077;.54289746;.83305889;.26548523
+4;Cordoba;2020;6;Homicidios culposos por otros hechos;3;12;12;0;0;.26592562;.3191375;.6523144;0
+4;Cordoba;2023;6;Homicidios culposos por otros hechos;19;20;18;2;0;.49059731;.51611822;.94890267;.3121959
+4;Cordoba;2018;7;Homicidios dolosos;32;38;80;28;0;2.7687769;2.9316461;4.4429808;1.4867172
+4;Cordoba;2020;7;Homicidios dolosos;120;121;95;25;1;3.191.375;3.2177;51.611.326;1.3015152
+4;Cordoba;2023;7;Homicidios dolosos;115;116;89;27;0;2.9694047;2.9952257;4.6917963;1.3664645
+4;Cordoba;2018;8;Homicidios dolosos en grado de tentativa;9;9;8;1;0;.24430385;.24430385;.44429806;.053097043
+4;Cordoba;2020;8;Homicidios dolosos en grado de tentativa;3;3;2;1;0;.079777688;.079777688;.3871857;.052060612
+4;Cordoba;2023;8;Homicidios dolosos en grado de tentativa;1;1;0;1;0;.025820911;.025820911;0;.050609797
+4;Cordoba;2018;9;Lesiones culposas en Accidentes Viales;8395;3068;5530;2866;1672;227.88121;273.29459;3.071.233;152.17613
+4;Cordoba;2020;9;Lesiones culposas en Accidentes Viales;5282;5925;3785;1964;176;4.046.191;157.56093;205.74991;3.224.704
+4;Cordoba;2023;9;Lesiones culposas en Accidentes Viales;7799;8428;3332;2319;2777;201.37729;217.61864;175.65242;11.736.112
+4;Cordoba;2018;10;Lesiones culposas por otros hechos;636;699;348;346;5;17.261.139;18.974266;19.326965;18.371578
+4;Cordoba;2020;10;Lesiones culposas por otros hechos;505;535;253;201;81;13.429244;422.702;13.7529;3.461.183
+4;Cordoba;2023;10;Lesiones culposas por otros hechos;611;682;282;267;133;16.551205;17.609861;486.611;13.512815
+4;Cordoba;2018;11;Lesiones dolosas;844;8640;4480;3848;312;228.39696;234.53169;248.80692;204.31743
+4;Cordoba;2020;11;Lesiones dolosas;6069;6362;3219;2926;217;161.39026;169.18188;174.98254;152.32935
+4;Cordoba;2023;11;Lesiones dolosas;6591;6879;3497;2876;506;170.18562;177.62206;184.35069;4.555.377
+4;Cordoba;2018;12;Muertes en accidentes viales;44;453;359;92;2;11.237977;12.296627;19.937876;4.8849282
+4;Cordoba;2020;12;Muertes en accidentes viales;295;329;276;53;0;7.8448057;8.7489529;15.003163;2.7592125
+4;Cordoba;2023;12;Muertes en accidentes viales;371;113;337;75;1;9.5795584;3.664.037;17.765566;3.7957349
+4;Cordoba;2018;13;Otros delitos contra la integridad sexual;692;716;121;563;32;18.784252;19.435728;6.7200084;29.893637
+4;Cordoba;2020;13;Otros delitos contra la integridad sexual;767;775;48;560;67;20.396496;20.609236;8.0451746;29.153942
+4;Cordoba;2023;13;Otros delitos contra la integridad sexual;834;844;76;473;295;21.534639;21.792849;4.0064778;23.938435
+4;Cordoba;2023;13;Otros delitos contra la integridad sexual;480;484;35;243;206;12.394037;12.497321;1.8450885;12.298181
+4;Cordoba;2018;14;Otros delitos contra la libertad;1318;1332;483;700;49;35.776943;36.156971;26.824495;37.167931
+4;Cordoba;2018;14;Otros delitos contra la libertad;134;1324;478;700;46;35.668362;35.939812;26.54681;37.167931
+4;Cordoba;2020;14;Otros delitos contra la libertad;1139;1158;465;433;260;30.288929;30.791.188;25.277069;22.542244
+4;Cordoba;2020;14;Otros delitos contra la libertad;1137;1156;465;433;258;30.235743;3.074.301;25.277069;22.542244
+4;Cordoba;2023;14;Otros delitos contra la libertad;861;906;254;300;352;22.231804;23.393745;13.390071;15.18294
+4;Cordoba;2023;14;Otros delitos contra la libertad;857;864;247;291;326;22.128521;22.309267;1.302.353;4.727.451
+4;Cordoba;2018;15;Otros delitos contra las personas;37290;38326;11827;24652;1847;3.122.323;3.403.544;656.83917;1308.9484
+4;Cordoba;2020;15;Otros delitos contra las personas;32165;32792;9828;20765;2199;855.34973;872.02332;534.2431;3.810.386
+4;Cordoba;2023;15;Otros delitos contra las personas;28020;28176;7333;16320;4523;723.50195;727.52997;386.57239;825.9519
+4;Cordoba;2018;16;Suicidios (consumados);255;255;194;61;0;7.5260959;7.5260959;11.769088;3.5060997
+4;Cordoba;2020;16;Suicidios (consumados);197;197;158;35;4;5.6859555;5.6859555;9.3636894;1.9692703
+4;Cordoba;2023;16;Suicidios (consumados);289;289;226;63;0;8.0772934;8.0772934;1.295.044;3.4373393
+4;Cordoba;2023;17;Tentativa de abuso sexual con acceso carnal;4;4;0;4;0;.3649275;.3649275;0;.70853716
+4;Cordoba;2018;18;Trata de personas agravado;1;1;0;0;1;.02744872;.02744872;0;0
+4;Cordoba;2020;18;Trata de personas agravado;1;1;0;0;1;.026592562;.026592562;0;0
+4;Cordoba;2023;18;Trata de personas agravado;1;1;0;1;0;.025820911;.025820911;0;.050609797
+4;Cordoba;2018;19;Trata de personas simple;3;7;5;0;2;.08434615;.1900111;.2776863;0
+4;Cordoba;2020;19;Trata de personas simple;1;1;0;0;1;.026592562;.026592562;0;0
+4;Cordoba;2023;19;Trata de personas simple;3;11;7;8;26;.077462733;1.0586574;.36901769;.40487838
+5;Corrientes;2023;1;Abuso sexual agravado;18;18;0;1;17;1.5670829;1.5670829;0;.17191111
+5;Corrientes;2023;2;Abuso sexual simple;261;261;3;18;240;22.722702;22.722702;.52916121;3.0943999
+5;Corrientes;2018;3;Abusos sexuales con acceso carnal (violaciones);67;79;19;60;0;6.0849128;7.1747479;3.4980743;3.754.076
+5;Corrientes;2020;3;Abusos sexuales con acceso carnal (violaciones);43;43;4;117;12;12.758733;12.758733;2.5315266;20.606754
+5;Corrientes;2023;3;Abusos sexuales con acceso carnal (violaciones);113;113;2;9;32;9.8377981;9.8377981;.35277111;1.5472
+5;Corrientes;2023;4;Ciberdelitos sexuales vinculados a menores;1;1;0;0;1;.087060161;.087060161;0;0
+5;Corrientes;2018;5;Delitos contra el honor;4;4;0;4;0;.36327836;.36327836;0;.71693838
+5;Corrientes;2020;5;Delitos contra el honor;8;9;4;5;0;.71377522;.80299717;.7232933;.88063055
+5;Corrientes;2023;5;Delitos contra el honor;3;3;0;0;3;.26118049;.26118049;0;0
+5;Corrientes;2018;6;Homicidios culposos por otros hechos;6;6;2;4;0;.54491758;.54491758;.36821833;.71693838
+5;Corrientes;2020;6;Homicidios culposos por otros hechos;36;36;15;21;0;3.2119887;3.2119887;2.7123499;3.6986482
+5;Corrientes;2023;6;Homicidios culposos por otros hechos;31;31;0;0;31;2.6988649;2.6988649;0;0
+5;Corrientes;2018;7;Homicidios dolosos;26;27;20;7;0;2.3613093;2.4521289;3.6821835;1.2546421
+5;Corrientes;2020;7;Homicidios dolosos;38;40;29;11;0;3.3904324;3.5688763;5.2438765;1.9373872
+5;Corrientes;2023;7;Homicidios dolosos;11;43;31;12;0;3.5694666;3.743587;5.467999;2.0629332
+5;Corrientes;2018;8;Homicidios dolosos en grado de tentativa;21;22;12;3;0;1.907.214;1.998031;2.209.331;1.792346
+5;Corrientes;2020;8;Homicidios dolosos en grado de tentativa;6;8;8;0;0;.5353343;.71377522;1.4465866;0
+5;Corrientes;2023;8;Homicidios dolosos en grado de tentativa;24;24;5;1;18;2.0894439;2.0894439;.8819353;.17191111
+5;Corrientes;2018;9;Lesiones culposas en Accidentes Viales;848;944;555;301;88;77.015015;85.733696;3.218.059;53.949612
+5;Corrientes;2020;9;Lesiones culposas en Accidentes Viales;376;422;272;131;19;33.547436;37.651646;49.183945;23.072519
+5;Corrientes;2023;9;Lesiones culposas en Accidentes Viales;811;811;28;23;760;70.605789;70.605789;4.938838;3.9539554
+5;Corrientes;2018;10;Lesiones culposas por otros hechos;360;366;112;246;8;32.695053;33.239971;20.620228;44.091709
+5;Corrientes;2020;10;Lesiones culposas por otros hechos;355;357;208;48;1;31.673777;31.852221;37.611252;26.066664
+5;Corrientes;2023;10;Lesiones culposas por otros hechos;6;6;0;0;6;.52236098;.52236098;0;0
+5;Corrientes;2018;11;Lesiones dolosas;1513;1615;644;896;75;1.374.305;4.667.365;118.56631;16.059.119
+5;Corrientes;2020;11;Lesiones dolosas;1139;1159;393;627;139;3.162.375;3.340.819;71.063568;134.337
+5;Corrientes;2023;11;Lesiones dolosas;2568;2568;63;122;2383;223.5705;223.5705;11.112385;20.973154
+5;Corrientes;2018;12;Muertes en accidentes viales;78;30;66;33;1;7.0839281;9.0819588;12.151205;5.947.115
+5;Corrientes;2020;12;Muertes en accidentes viales;39;45;38;7;0;3.4796543;4.049.856;6.8712864;1.2328827
+5;Corrientes;2023;12;Muertes en accidentes viales;82;94;80;4;0;7.1389332;8.1836548;113.965;2.4067554
+5;Corrientes;2018;13;Otros delitos contra la integridad sexual;243;284;37;219;28;22.06916;25.792765;6.8120394;39.252377
+5;Corrientes;2020;13;Otros delitos contra la integridad sexual;134;135;7;117;11;11.955735;12.044957;1.2657633;20.606754
+5;Corrientes;2023;13;Otros delitos contra la integridad sexual;382;382;3;24;355;33.256981;33.256981;.52916121;4.1258664
+5;Corrientes;2023;13;Otros delitos contra la integridad sexual;91;91;0;4;87;7.9224749;7.9224749;0;.68764442
+5;Corrientes;2018;14;Otros delitos contra la libertad;72;87;36;47;4;6.539.035;7.9013047;6.6279302;8.4240265
+5;Corrientes;2018;14;Otros delitos contra la libertad;49;64;20;40;4;4.45016;5.8124537;3.6821835;7.169384
+5;Corrientes;2020;14;Otros delitos contra la libertad;54;61;27;34;0;4.8179827;5.4425364;4.8822298;5.9882874
+5;Corrientes;2020;14;Otros delitos contra la libertad;18;19;8;11;0;1.6059943;1.6952162;1.4465866;1.9373872
+5;Corrientes;2023;14;Otros delitos contra la libertad;237;238;7;13;218;20.633259;20.720318;1.2347095;2.2348442
+5;Corrientes;2023;14;Otros delitos contra la libertad;234;235;7;13;215;20.372078;20.459137;1.2347095;2.2348442
+5;Corrientes;2018;15;Otros delitos contra las personas;762;767;280;450;37;69.204529;69.65863;51.550568;80.655571
+5;Corrientes;2020;15;Otros delitos contra las personas;533;543;235;296;12;47.555275;48.447495;42.493481;52.133327
+5;Corrientes;2023;15;Otros delitos contra las personas;33;33;5;9;296;26.988649;26.988649;.8819353;1.5472
+5;Corrientes;2018;16;Suicidios (consumados);83;83;70;13;0;8.305.746;8.305.746;4.263.707;2.5562572
+5;Corrientes;2020;16;Suicidios (consumados);36;36;32;4;0;3.5308518;3.5308518;6.3883858;.77119583
+5;Corrientes;2023;16;Suicidios (consumados);78;78;62;16;0;7.434.211;7.434.211;12.021654;2.9992483
+5;Corrientes;2023;17;Tentativa de abuso sexual con acceso carnal;11;11;0;1;3;.95766175;.95766175;0;.17191111
+5;Corrientes;2018;18;Trata de personas agravado;2;2;0;2;0;.18163918;.18163918;0;.35846919
+5;Corrientes;2023;18;Trata de personas agravado;1;1;0;0;1;.087060161;.087060161;0;0
+5;Corrientes;2018;19;Trata de personas simple;21;21;16;5;0;1.907.214;1.907.214;2.9457467;.896173
+5;Corrientes;2020;19;Trata de personas simple;36;42;19;23;0;3.2119887;3.7473199;3.4356432;4.0509005
+5;Corrientes;2023;19;Trata de personas simple;2;2;0;0;2;.17112032;.17112032;0;0
+6;Chaco;2023;1;Abuso sexual agravado;31;112;8;34;0;8.1518078;9.039628;1.3092496;16.561775
+6;Chaco;2023;2;Abuso sexual simple;377;401;40;361;0;30.428034;32.365097;6.5462484;57.488472
+6;Chaco;2018;3;Abusos sexuales con acceso carnal (violaciones);83;84;5;79;0;7.033.559;7.1157675;.85798758;13.216935
+6;Chaco;2020;3;Abusos sexuales con acceso carnal (violaciones);87;90;3;87;0;7.2226682;7.4717259;.50471574;4.258.859
+6;Chaco;2023;3;Abusos sexuales con acceso carnal (violaciones);129;131;4;116;1;3.111.715;3.573.136;2.291187;18.47275
+6;Chaco;2023;4;Ciberdelitos sexuales vinculados a menores;22;22;5;4;3;17.756.113;17.756.113;.8182835;2.2294698
+6;Chaco;2018;6;Homicidios culposos por otros hechos;36;39;82;27;0;8.9794207;9.2335558;4.070.996;4.5171804
+6;Chaco;2020;6;Homicidios culposos por otros hechos;80;85;63;21;1;66.115.339;7.0566297;359.903;34.117.934
+6;Chaco;2023;6;Homicidios culposos por otros hechos;173;182;135;47;0;13.962997;4.689.396;22.093588;7.4846487
+6;Chaco;2018;7;Homicidios dolosos;52;54;43;11;0;4.4049988;4.5744219;7.3786936;1.8403327
+6;Chaco;2020;7;Homicidios dolosos;35;36;88;18;0;8.7170134;8.8000326;4.804.995;2.950.388
+6;Chaco;2023;7;Homicidios dolosos;60;62;52;3;0;4.842658;5.0040798;8.531.233;1.5924784
+6;Chaco;2018;8;Homicidios dolosos en grado de tentativa;29;36;27;9;0;2.456634;3.049.647;4.6331329;1.5057268
+6;Chaco;2020;8;Homicidios dolosos en grado de tentativa;35;44;35;9;0;2.9056711;3.6528437;5.88835;1.4750544
+6;Chaco;2023;8;Homicidios dolosos en grado de tentativa;13;4;8;6;0;1.0492426;1.1299535;1.3092496;.95548707
+6;Chaco;2018;9;Lesiones culposas en Accidentes Viales;1194;1727;1185;542;0;314.555;462.968;203.34306;90.678215
+6;Chaco;2020;9;Lesiones culposas en Accidentes Viales;945;1343;924;118;1;78.453117;111.49475;155.45244;68.50808
+6;Chaco;2023;9;Lesiones culposas en Accidentes Viales;1686;2234;1382;851;1;136.07869;180.3083;226.17288;135.51991
+6;Chaco;2018;10;Lesiones culposas por otros hechos;17;17;11;6;0;1.4400958;1.4400958;1.8875728;1.0038178
+6;Chaco;2020;10;Lesiones culposas por otros hechos;13;13;12;1;0;1.0792493;1.0792493;2.018863;.16389494
+6;Chaco;2023;10;Lesiones culposas por otros hechos;18;20;15;5;0;1.4527974;1.642.193;2.454843;.7962392
+6;Chaco;2018;11;Lesiones dolosas;2913;3248;1255;1982;11;246.76465;2.754.301;215.35489;331.59451
+6;Chaco;2020;11;Lesiones dolosas;2793;349;1295;1833;21;231.87256;261.42737;217.86896;3.001.194
+6;Chaco;2023;11;Lesiones dolosas;2832;3059;309;2044;6;228.57346;246.89485;165.12912;325.50259
+6;Chaco;2018;12;Muertes en accidentes viales;184;192;158;34;0;15.58692;16.264612;27.112408;5.6883011
+6;Chaco;2020;12;Muertes en accidentes viales;136;47;132;15;0;11.290607;12.203818;22.207493;2.4584239
+6;Chaco;2023;12;Muertes en accidentes viales;185;203;161;42;0;4.931.529;16.384327;26.34865;6.6884093
+6;Chaco;2018;13;Otros delitos contra la integridad sexual;401;423;52;370;1;33.969318;35.832973;8.9230709;61.9021
+6;Chaco;2020;13;Otros delitos contra la integridad sexual;538;572;65;492;15;4.466.434;47.486969;3.935.508;80.636307
+6;Chaco;2023;13;Otros delitos contra la integridad sexual;573;611;61;547;3;46.247383;49.344;9.9830284;8.738.566
+6;Chaco;2023;13;Otros delitos contra la integridad sexual;73;76;8;68;0;5.8919005;6.1340337;1.3092496;3.828.854
+6;Chaco;2018;14;Otros delitos contra la libertad;55;63;21;40;2;4.6591334;5.3368258;3.603548;6.6921191
+6;Chaco;2018;14;Otros delitos contra la libertad;54;58;19;37;2;4.5744219;4.9132681;3.2603528;6.1902099
+6;Chaco;2020;14;Otros delitos contra la libertad;74;76;20;55;1;6.431.188;6.3094573;3.3647716;9.042.212
+6;Chaco;2020;14;Otros delitos contra la libertad;74;76;20;55;1;6.431.188;6.3094573;3.3647716;9.042.212
+6;Chaco;2023;14;Otros delitos contra la libertad;185;209;58;11;3;4.931.529;16.868591;9.4920607;22.453945
+6;Chaco;2023;14;Otros delitos contra la libertad;162;166;37;128;1;13.075176;13.398021;6.0552797;20.383724
+6;Chaco;2018;15;Otros delitos contra las personas;264;302;155;121;26;22.363842;25.582878;26.597616;20.24366
+6;Chaco;2020;15;Otros delitos contra las personas;213;244;14;111;19;17.683084;20.25668;19.179197;18.192337
+6;Chaco;2023;15;Otros delitos contra las personas;49;158;88;65;5;12.025934;12.752333;4.401.747;335.111
+6;Chaco;2018;16;Suicidios (consumados);38;38;87;21;0;311.903;311.903;16.569094;3.8729525
+6;Chaco;2020;16;Suicidios (consumados);32;32;85;17;0;9.3404284;9.3404284;15.827263;3.063179
+6;Chaco;2023;16;Suicidios (consumados);153;153;120;33;0;1.355.954;1.355.954;21.635344;5.7520251
+6;Chaco;2018;18;Trata de personas agravado;1;5;2;3;0;.084711522;.42355761;.34319505;.5019089
+6;Chaco;2023;18;Trata de personas agravado;2;19;17;2;0;.1642194;1.5335084;2.7821555;.31849569
+6;Chaco;2023;19;Trata de personas simple;21;24;4;11;9;1.6949303;1.9370632;.65462482;1.7517263
+7;Chubut;2023;1;Abuso sexual agravado;47;51;13;32;6;7.2382302;7.85425;3.9925063;9.8850861
+7;Chubut;2023;2;Abuso sexual simple;348;357;35;322;0;53.593704;54.979748;3.749.056;99.468674
+7;Chubut;2018;3;Abusos sexuales con acceso carnal (violaciones);160;163;4;49;0;26.738861;27.240215;4.6713066;49.886501
+7;Chubut;2020;3;Abusos sexuales con acceso carnal (violaciones);212;219;18;200;1;34.249119;35.379986;5.8029885;64.764954
+7;Chubut;2023;3;Abusos sexuales con acceso carnal (violaciones);193;201;24;173;4;29.722944;30.954985;7.3707809;53.411.246
+7;Chubut;2023;4;Ciberdelitos sexuales vinculados a menores;33;34;3;24;7;5.082.164;5.2361665;.92134762;7.113.845
+7;Chubut;2018;5;Delitos contra el honor;13;13;9;4;0;2.1725326;2.1725326;3.0029829;1.3392349
+7;Chubut;2020;5;Delitos contra el honor;31;32;18;4;0;5.0081263;5.1696787;5.8029885;4.5335464
+7;Chubut;2023;5;Delitos contra el honor;95;96;58;28;3;4.630.466;4.784.471;17.812721;8.6494503
+7;Chubut;2018;6;Homicidios culposos por otros hechos;1;1;1;0;0;.16711788;.16711788;.33366477;0
+7;Chubut;2023;6;Homicidios culposos por otros hechos;4;5;1;0;4;.61601961;.77002448;.30711588;0
+7;Chubut;2018;7;Homicidios dolosos;46;46;38;8;0;7.6874228;7.6874228;12.679261;2.6784699
+7;Chubut;2020;7;Homicidios dolosos;32;32;26;5;1;5.1696787;5.1696787;8.3820944;1.6191238
+7;Chubut;2023;7;Homicidios dolosos;30;30;26;4;0;4.620.468;4.620.468;7.9850125;1.2356358
+7;Chubut;2018;8;Homicidios dolosos en grado de tentativa;40;42;34;8;0;6.6847153;7.0189509;11.344603;2.6784699
+7;Chubut;2020;8;Homicidios dolosos en grado de tentativa;28;33;31;2;0;4.5234685;5.3312311;9.9940357;.64764953
+7;Chubut;2023;8;Homicidios dolosos en grado de tentativa;33;34;27;7;0;5.082.164;5.2361665;8.2921286;2.1623626
+7;Chubut;2018;9;Lesiones culposas en Accidentes Viales;324;471;34;157;0;5.446.194;78.712524;3.477.074;52.564968
+7;Chubut;2020;9;Lesiones culposas en Accidentes Viales;219;283;200;82;1;35.379986;45.719345;64.477654;26.553631
+7;Chubut;2023;9;Lesiones culposas en Accidentes Viales;356;512;300;211;1;54.825745;78.85051;92.134766;65.179787
+7;Chubut;2023;10;Lesiones culposas por otros hechos;535;566;205;351;3;82.392616;87.166771;62.958755;3.842.703
+7;Chubut;2018;11;Lesiones dolosas;2120;2260;939;1321;0;354.28992;377.68643;313.31122;442.28232
+7;Chubut;2020;11;Lesiones dolosas;2031;2199;857;1342;0;328.11304;355.25385;276.28674;434.57281
+7;Chubut;2023;11;Lesiones dolosas;2055;2160;933;1130;97;316.48007;332.65057;286.53912;349.06711
+7;Chubut;2018;12;Muertes en accidentes viales;49;54;11;13;0;8.188776;9.0243654;13.680256;4.3525133
+7;Chubut;2020;12;Muertes en accidentes viales;16;17;11;6;0;2.5848393;2.7463918;3.5462708;1.9429486
+7;Chubut;2023;12;Muertes en accidentes viales;23;26;21;5;0;3.5421126;40.011.275;6.4494333;1.5445447
+7;Chubut;2018;13;Otros delitos contra la integridad sexual;354;365;26;339;0;59.159733;60.998028;8.6752844;113.50016
+7;Chubut;2020;13;Otros delitos contra la integridad sexual;381;406;53;352;1;6.155.487;65.590294;17.086576;113.98631
+7;Chubut;2023;13;Otros delitos contra la integridad sexual;561;590;79;474;37;86.396744;90.862892;24.262154;4.642.284
+7;Chubut;2023;13;Otros delitos contra la integridad sexual;84;89;17;68;4;12.936.111;13.706436;5.2209697;21.005808
+7;Chubut;2018;14;Otros delitos contra la libertad;260;265;113;152;0;43.450649;44.28624;37.701.121;50.890926
+7;Chubut;2018;14;Otros delitos contra la libertad;259;264;113;151;0;43.283531;44.119122;37.701.121;50.556118
+7;Chubut;2020;14;Otros delitos contra la libertad;319;332;136;194;2;51.535233;5.363.544;43.844803;62.822002
+7;Chubut;2020;14;Otros delitos contra la libertad;316;329;136;192;1;51.050575;53.150757;43.844803;62.174355
+7;Chubut;2023;14;Otros delitos contra la libertad;592;631;238;289;34;91.170898;97.177094;73.093575;89.274681
+7;Chubut;2023;14;Otros delitos contra la libertad;590;629;238;287;34;90.862892;96.86908;73.093575;88.65686
+7;Chubut;2018;15;Otros delitos contra las personas;2034;214;509;1605;0;339.91779;353.2872;169.83537;537.36798
+7;Chubut;2020;15;Otros delitos contra las personas;1811;1915;555;1360;0;292.5715;309.37296;178.92548;440.40167
+7;Chubut;2023;15;Otros delitos contra las personas;1138;1223;369;821;33;175.25757;188.34799;113.32576;2.536.423
+7;Chubut;2018;16;Suicidios (consumados);69;69;65;4;0;12.609603;12.609603;23.75592;1.4620631
+7;Chubut;2020;16;Suicidios (consumados);71;71;65;6;0;12.504711;12.504711;22.880476;2.149.027
+7;Chubut;2023;16;Suicidios (consumados);52;52;11;11;0;8.6936312;8.6936312;13.688705;3.6835866
+7;Chubut;2023;17;Tentativa de abuso sexual con acceso carnal;49;59;11;28;20;7.5462399;9.0862894;3.3782747;8.6494503
+7;Chubut;2018;19;Trata de personas simple;1;1;0;1;0;.16711788;.16711788;0;.33480874
+7;Chubut;2020;19;Trata de personas simple;3;3;0;2;1;.48465738;.48465738;0;.64764953
+7;Chubut;2023;19;Trata de personas simple;2;2;0;2;0;.3080098;.3080098;0;.61781788
+8;Entre Rios;2023;1;Abuso sexual agravado;11;11;3;8;0;.77294087;.77294087;.42882138;1.356.688
+8;Entre Rios;2023;2;Abuso sexual simple;271;278;40;235;3;19.042452;19.534325;5.7176185;32.479019
+8;Entre Rios;2018;3;Abusos sexuales con acceso carnal (violaciones);46;46;4;11;1;3.3812516;3.3812516;.59886158;5.9205008
+8;Entre Rios;2020;3;Abusos sexuales con acceso carnal (violaciones);52;57;13;44;0;3.7519093;4.1126699;1.9094565;6.2399044
+8;Entre Rios;2023;3;Abusos sexuales con acceso carnal (violaciones);80;81;13;68;0;5.6213884;5.6916556;1.8582259;9.3981848
+8;Entre Rios;2023;4;Ciberdelitos sexuales vinculados a menores;4;4;1;3;0;.2836943;.2836943;.4294046;.4462579
+8;Entre Rios;2018;5;Delitos contra el honor;221;221;85;126;3;16.244709;16.244709;12.725808;18.19471
+8;Entre Rios;2020;5;Delitos contra el honor;338;343;40;197;6;24.387.111;24.748171;20.563377;27.937754
+8;Entre Rios;2023;5;Delitos contra el honor;27;27;18;9;0;1.8972186;1.8972186;2.5729282;1.2438774
+8;Entre Rios;2018;6;Homicidios culposos por otros hechos;8;13;7;6;0;.58804375;.95557112;1.0480077;.8664473
+8;Entre Rios;2020;6;Homicidios culposos por otros hechos;28;28;22;6;0;2.0202589;2.0202589;3.2313879;.85089606
+8;Entre Rios;2023;6;Homicidios culposos por otros hechos;8;8;5;2;1;.56213886;.56213886;.7470231;.2761172
+8;Entre Rios;2018;7;Homicidios dolosos;69;78;66;12;0;5.0718775;5.7334266;9.881216;1.7328295
+8;Entre Rios;2020;7;Homicidios dolosos;48;50;42;8;0;3.4633009;3.6076052;6.1690135;1.134528
+8;Entre Rios;2023;7;Homicidios dolosos;40;40;32;8;0;2.836.942;2.836.942;4.5740948;1.356.688
+8;Entre Rios;2018;8;Homicidios dolosos en grado de tentativa;26;26;21;5;0;1.911.422;1.911.422;3.440.232;.72201228
+8;Entre Rios;2020;8;Homicidios dolosos en grado de tentativa;49;51;45;6;0;3.5354531;3.6797571;6.6096573;.85089606
+8;Entre Rios;2023;8;Homicidios dolosos en grado de tentativa;34;37;27;3;0;2.3890901;2.5998921;3.8593924;1.3820859
+8;Entre Rios;2018;9;Lesiones culposas en Accidentes Viales;2563;3080;1934;368;78;188.39452;226.39684;289.54956;154.22182
+8;Entre Rios;2020;9;Lesiones culposas en Accidentes Viales;1986;2187;480;707;0;4.329.408;157.79665;217.38428;3.026.392
+8;Entre Rios;2023;9;Lesiones culposas en Accidentes Viales;1817;1973;1225;725;23;127.67578;138.63748;1.753.207;3.020.123
+8;Entre Rios;2018;10;Lesiones culposas por otros hechos;323;333;204;116;13;23.742266;24.477322;30.511.911;16.750685
+8;Entre Rios;2020;10;Lesiones culposas por otros hechos;254;260;158;97;5;18.326633;18.759546;23.207.211;13.756153
+8;Entre Rios;2023;10;Lesiones culposas por otros hechos;277;286;183;98;5;19.464056;20.096462;2.615.834;13.544442
+8;Entre Rios;2018;11;Lesiones dolosas;2691;2754;1507;389;158;197.80322;202.43407;2.256.239;157.25427
+8;Entre Rios;2020;11;Lesiones dolosas;2536;2592;1566;318;8;182.97774;187.01825;230.01607;443.687
+8;Entre Rios;2023;11;Lesiones dolosas;2116;2462;437;978;47;169.76593;172.99823;205.40544;135.168
+8;Entre Rios;2018;12;Muertes en accidentes viales;158;192;42;50;0;11.613864;111.305;21.259586;7.2201228
+8;Entre Rios;2020;12;Muertes en accidentes viales;63;71;57;4;0;4.5455823;5.1227994;8.3722324;1.9854242
+8;Entre Rios;2023;12;Muertes en accidentes viales;128;139;38;31;0;8.9942217;9.7671623;15.43757;4.2844663
+8;Entre Rios;2018;13;Otros delitos contra la integridad sexual;250;253;40;203;3;18.376368;18.596884;5.9886155;29.313698
+8;Entre Rios;2020;13;Otros delitos contra la integridad sexual;287;294;52;240;2;20.707653;21.212719;7.637826;34.035843
+8;Entre Rios;2023;13;Otros delitos contra la integridad sexual;322;329;59;265;5;22.626087;23.11796;8.4334869;36.625278
+8;Entre Rios;2023;13;Otros delitos contra la integridad sexual;26;26;13;11;2;1.8269511;1.8269511;1.8582259;1.5202945
+8;Entre Rios;2018;14;Otros delitos contra la libertad;139;46;63;69;4;321.726;3.731.798;9.4320698;9.963769
+8;Entre Rios;2018;14;Otros delitos contra la libertad;98;98;40;45;13;7.203536;7.203536;5.9886155;6.498.133
+8;Entre Rios;2020;14;Otros delitos contra la libertad;56;63;17;43;3;4.0405178;4.5455823;2.4969816;6.0980883
+8;Entre Rios;2020;14;Otros delitos contra la libertad;53;60;15;42;3;3.824.064;4.3291264;2.2032189;5.9562726
+8;Entre Rios;2023;14;Otros delitos contra la libertad;23;25;4;11;0;1.616.491;1.7566838;2.0011663;1.5202945
+8;Entre Rios;2023;14;Otros delitos contra la libertad;22;24;13;11;0;1.5458817;16.861.165;1.8582259;1.5202945
+8;Entre Rios;2018;15;Otros delitos contra las personas;3244;3313;1363;1621;329;238.45174;243.52362;204.06207;234.07639
+8;Entre Rios;2020;15;Otros delitos contra las personas;2807;2891;1257;1616;18;202.53094;208.59172;184.62976;229.17467
+8;Entre Rios;2023;15;Otros delitos contra las personas;3540;3674;1319;2318;37;248.74643;258.16226;188.53847;320.36752
+8;Entre Rios;2018;16;Suicidios (consumados);234;234;190;44;0;18.732288;18.732288;31.113827;6.8909459
+8;Entre Rios;2020;16;Suicidios (consumados);198;198;156;42;0;15.531824;15.531824;25.016117;6.4495916
+8;Entre Rios;2023;16;Suicidios (consumados);247;247;206;11;0;18.817657;18.817657;32.053177;6.1201797
+8;Entre Rios;2023;17;Tentativa de abuso sexual con acceso carnal;3;3;2;8;0;.70267355;.70267355;.28588092;1.356.688
+8;Entre Rios;2020;18;Trata de personas agravado;2;2;1;1;0;.443042;.443042;.4688127;.1181601
+8;Entre Rios;2018;19;Trata de personas simple;11;48;23;24;1;30.137.211;3.5282624;3.443454;3.4656589
+8;Entre Rios;2020;19;Trata de personas simple;1;1;1;0;0;.07215231;.07215231;.4688127;0
+8;Entre Rios;2023;19;Trata de personas simple;1;1;1;0;0;.070267357;.070267357;.4294046;0
+9;Formosa;2023;1;Abuso sexual agravado;4;4;0;4;0;.64595312;.64595312;0;1.2853347
+9;Formosa;2023;2;Abuso sexual simple;198;223;20;199;4;31.974678;36.011887;6.4927263;63.9454
+9;Formosa;2018;3;Abusos sexuales con acceso carnal (violaciones);84;88;26;62;0;114.587;478.671;8.7745056;20.748554
+9;Formosa;2020;3;Abusos sexuales con acceso carnal (violaciones);14;119;18;31;0;18.836966;1.966.349;5.9758377;33.225868
+9;Formosa;2023;3;Abusos sexuales con acceso carnal (violaciones);116;130;7;121;2;18.732639;20.993475;2.2724543;38.881374
+9;Formosa;2023;4;Ciberdelitos sexuales vinculados a menores;4;4;0;4;0;.64595312;.64595312;0;1.2853347
+9;Formosa;2018;5;Delitos contra el honor;2;2;0;2;0;.3360616;.3360616;0;.66930819
+9;Formosa;2020;5;Delitos contra el honor;3;3;8;2;0;1.6523654;1.6523654;2.6559279;.657938
+9;Formosa;2018;6;Homicidios culposos por otros hechos;4;4;1;3;0;.67212319;.67212319;.33748096;1.0039623
+9;Formosa;2020;6;Homicidios culposos por otros hechos;6;6;2;4;0;.9911926;.9911926;.66398197;1.315876
+9;Formosa;2023;6;Homicidios culposos por otros hechos;5;6;1;5;0;.80741135;.96892965;.32463634;1.6066684
+9;Formosa;2018;7;Homicidios dolosos;37;37;32;5;0;6.2171392;6.2171392;3.799.391;1.6732705
+9;Formosa;2020;7;Homicidios dolosos;27;28;22;6;0;4.4613867;4.6266232;7.3038015;197.384
+9;Formosa;2023;7;Homicidios dolosos;21;21;4;7;0;3.3912537;3.3912537;4.5449085;2.2493355
+9;Formosa;2018;8;Homicidios dolosos en grado de tentativa;53;58;37;21;0;8.905632;9.7457867;12.486796;7.0277362
+9;Formosa;2020;8;Homicidios dolosos en grado de tentativa;86;94;71;23;0;423.342;15.532235;23.57136;7.566287
+9;Formosa;2023;8;Homicidios dolosos en grado de tentativa;66;73;56;17;0;3.658.226;11.788644;18.179634;5.4626722
+9;Formosa;2018;9;Lesiones culposas en Accidentes Viales;900;381;545;536;0;151.22772;1.816.113;183.92712;179.3746
+9;Formosa;2020;9;Lesiones culposas en Accidentes Viales;648;769;426;343;0;3.707.328;127.0669;1.142.816;112.83637
+9;Formosa;2023;9;Lesiones culposas en Accidentes Viales;880;145;588;557;0;423.968;184.90408;190.88615;178.98285
+9;Formosa;2020;10;Lesiones culposas por otros hechos;1;1;1;0;0;.16523655;.16523655;.33199099;0
+9;Formosa;2023;10;Lesiones culposas por otros hechos;5;5;2;0;3;.80741135;.80741135;.64927268;0
+9;Formosa;2018;11;Lesiones dolosas;3127;3399;1583;1796;20;525.43231;571.13666;534.23236;601.03876
+9;Formosa;2020;11;Lesiones dolosas;2980;3346;1352;1994;0;492.40491;5.528.847;448.85181;655.96423
+9;Formosa;2023;11;Lesiones dolosas;3084;3444;1317;2124;3;498.02985;556.16565;427.54605;682.5127
+9;Formosa;2018;12;Muertes en accidentes viales;120;128;34;24;0;20.163696;21.507942;35.098022;8.0316982
+9;Formosa;2020;12;Muertes en accidentes viales;73;76;61;15;0;12.062267;12.557978;202.545;4.934535
+9;Formosa;2023;12;Muertes en accidentes viales;71;87;59;28;0;11.465668;404.948;19.153543;8.9973421
+9;Formosa;2018;13;Otros delitos contra la integridad sexual;207;220;51;169;0;34.782375;36.966774;17.211529;56.556.511
+9;Formosa;2020;13;Otros delitos contra la integridad sexual;265;279;29;247;3;43.787685;4.630.994;9.627739;81.255348
+9;Formosa;2023;13;Otros delitos contra la integridad sexual;319;360;33;323;4;5.154.759;58.13578;3.712.998;3.379.077
+9;Formosa;2023;13;Otros delitos contra la integridad sexual;67;79;3;69;0;3.819.715;12.757574;3.2463632;22.172022
+9;Formosa;2018;14;Otros delitos contra la libertad;386;116;166;246;4;64.859886;69.90081;56.021843;82.324905
+9;Formosa;2018;14;Otros delitos contra la libertad;386;116;166;246;4;64.859886;69.90081;56.021843;82.324905
+9;Formosa;2020;14;Otros delitos contra la libertad;512;566;242;324;0;84.601112;93.523888;8.031.182;3.658.596
+9;Formosa;2020;14;Otros delitos contra la libertad;512;566;242;324;0;84.601112;93.523888;8.031.182;3.658.596
+9;Formosa;2023;14;Otros delitos contra la libertad;539;573;208;365;0;87.042183;92.532784;67.524353;117.28679
+9;Formosa;2023;14;Otros delitos contra la libertad;538;571;208;363;0;86.880692;92.209808;67.524353;11.664.112
+9;Formosa;2018;15;Otros delitos contra las personas;601;613;70;543;0;3.098.651;3.300.288;23.623669;181.71718
+9;Formosa;2020;15;Otros delitos contra las personas;127;136;73;62;1;20.985.011;22.47217;24.235342;20.396078
+9;Formosa;2023;15;Otros delitos contra las personas;36;126;73;53;0;17.117758;20.347523;23.698452;17.030684
+9;Formosa;2018;16;Suicidios (consumados);65;65;51;4;0;12.082615;12.082615;1.938.639;5.1647558
+9;Formosa;2020;16;Suicidios (consumados);66;66;45;21;0;12.03455;12.03455;16.544361;7.5969973
+9;Formosa;2023;16;Suicidios (consumados);78;78;60;18;0;13.811.174;13.811.174;21.477125;6.334259
+9;Formosa;2023;17;Tentativa de abuso sexual con acceso carnal;46;50;3;47;0;7.4284606;8.074.443;.97390896;1.532.682
+9;Formosa;2023;19;Trata de personas simple;1;2;0;2;0;.1648828;.32297656;0;.64266735
+10;Jujuy;2023;1;Abuso sexual agravado;71;75;3;64;1;8.9247665;9.4275703;2.5425172;15.911374
+10;Jujuy;2023;2;Abuso sexual simple;495;542;83;445;4;62.221966;68.129906;2.132.894;1.363.377
+10;Jujuy;2018;3;Abusos sexuales con acceso carnal (violaciones);153;154;3;44;0;20.29471;20.427357;2.6859193;37.737926
+10;Jujuy;2020;3;Abusos sexuales con acceso carnal (violaciones);198;200;29;171;0;25.684898;25.944342;764.367;4.384.542
+10;Jujuy;2023;3;Abusos sexuales con acceso carnal (violaciones);153;162;15;44;3;19.232244;20.363552;3.8137758;35.800591
+10;Jujuy;2023;4;Ciberdelitos sexuales vinculados a menores;25;26;2;23;1;3.425.235;3.2682245;.50850344;5.7181501
+10;Jujuy;2018;5;Delitos contra el honor;79;79;32;47;0;3.478.969;3.478.969;8.5949421;12.31724
+10;Jujuy;2020;5;Delitos contra el honor;182;185;83;31;1;23.60935;23.998516;21.792099;25.896839
+10;Jujuy;2023;5;Delitos contra el honor;307;322;122;200;0;38.590187;40.475704;31.018711;49.723042
+10;Jujuy;2018;6;Homicidios culposos por otros hechos;4;15;8;7;0;1.8570324;1.9896775;2.487.355;1.8344826
+10;Jujuy;2020;6;Homicidios culposos por otros hechos;5;6;4;2;0;.64860857;.77833027;1.0502216;.51280868
+10;Jujuy;2018;7;Homicidios dolosos;19;19;4;5;0;2.5202582;2.5202582;3.760287;1.333.447
+10;Jujuy;2020;7;Homicidios dolosos;35;36;25;11;0;4.5402598;4.6699815;6.5638852;2.8204477
+10;Jujuy;2023;7;Homicidios dolosos;17;17;13;4;0;2.1369159;2.1369159;3.3052723;.99446088
+10;Jujuy;2018;8;Homicidios dolosos en grado de tentativa;8;8;7;1;0;1.061.164;1.061.164;1.880.435;.26206893
+10;Jujuy;2020;8;Homicidios dolosos en grado de tentativa;3;3;1;2;0;.38916513;.38916513;.26255539;.51280868
+10;Jujuy;2023;8;Homicidios dolosos en grado de tentativa;17;21;11;8;2;2.1369159;2.6397197;2.7967689;1.9889218
+10;Jujuy;2018;9;Lesiones culposas en Accidentes Viales;733;817;581;204;32;97.228912;383.711;156.05191;53.462063
+10;Jujuy;2020;9;Lesiones culposas en Accidentes Viales;812;1317;960;352;5;3.533.403;170.84349;252.05318;90.254326
+10;Jujuy;2023;9;Lesiones culposas en Accidentes Viales;1322;2056;118;632;6;166.17664;25.841.113;360.52893;157.12482
+10;Jujuy;2018;10;Lesiones culposas por otros hechos;11;11;20;20;1;5.4384518;5.4384518;5.3718386;52.113.788
+10;Jujuy;2020;10;Lesiones culposas por otros hechos;26;27;18;8;1;3.3727643;3.5024862;4.725997;2.0512347
+10;Jujuy;2023;10;Lesiones culposas por otros hechos;92;99;55;43;1;11.564487;12.444393;13.983845;3.690.454
+10;Jujuy;2018;11;Lesiones dolosas;1284;1304;630;611;33;170.31639;172.9693;169.21292;167.98619
+10;Jujuy;2020;11;Lesiones dolosas;2223;2427;1246;1173;8;288.37137;3.483.459;3.274.401;300.7623
+10;Jujuy;2023;11;Lesiones dolosas;3336;3689;1912;1764;13;11.933.835;4.637.375;486.1293;438.55725
+10;Jujuy;2018;12;Muertes en accidentes viales;58;63;52;11;0;76.931.199;8.3566456;13.966781;2.8827581
+10;Jujuy;2020;12;Muertes en accidentes viales;53;60;48;12;0;6.8752503;7.7833023;12.602659;3.0768521
+10;Jujuy;2023;12;Muertes en accidentes viales;79;96;76;20;0;99.303.711;12.06729;19.323132;4.9723043
+10;Jujuy;2018;13;Otros delitos contra la integridad sexual;212;221;22;199;0;28.120775;2.934.583;5.9090223;52.151718
+10;Jujuy;2020;13;Otros delitos contra la integridad sexual;398;408;54;354;0;51.629238;52.926456;1.177.992;90.767136
+10;Jujuy;2023;13;Otros delitos contra la integridad sexual;985;353;48;874;31;123.81542;132.36308;37.629253;217.2897
+10;Jujuy;2023;13;Otros delitos contra la integridad sexual;376;391;51;325;15;47.263554;4.949.067;12.966838;80.799942
+10;Jujuy;2018;14;Otros delitos contra la libertad;19;19;3;11;5;2.5202582;2.5202582;.80577582;2.8827581
+10;Jujuy;2018;14;Otros delitos contra la libertad;4;4;3;11;0;1.8570324;1.8570324;.80577582;2.8827581
+10;Jujuy;2020;14;Otros delitos contra la libertad;45;153;47;33;3;18.809649;19.847422;1.234.034;26.409647
+10;Jujuy;2020;14;Otros delitos contra la libertad;43;151;47;32;2;18.550203;19.587978;1.234.034;26.153242
+10;Jujuy;2023;14;Otros delitos contra la libertad;201;204;49;80;75;25.265888;25.642992;12.458335;19.889217
+10;Jujuy;2023;14;Otros delitos contra la libertad;200;203;49;79;75;2.540.188;25.51729;12.458335;19.640602
+10;Jujuy;2018;15;Otros delitos contra las personas;2068;2071;298;1757;16;2.743.321;274.70816;80.040398;460.45511
+10;Jujuy;2020;15;Otros delitos contra las personas;62;62;29;33;0;8.0427456;8.0427456;764.367;8.4613428
+10;Jujuy;2023;15;Otros delitos contra las personas;11;12;4;5;3;1.382.733;15.081.113;1.0170069;1.2430761
+10;Jujuy;2018;16;Suicidios (consumados);28;28;23;5;0;4.0764389;4.0764389;6.8088231;1.4323487
+10;Jujuy;2020;16;Suicidios (consumados);65;65;53;12;0;9.2339382;9.2339382;15.300716;3.3563054
+10;Jujuy;2023;16;Suicidios (consumados);61;61;44;17;0;8.3673401;8.3673401;12.254355;4.5949798
+10;Jujuy;2023;17;Tentativa de abuso sexual con acceso carnal;18;19;2;17;0;2.2626169;2.3883178;.50850344;4.2264585
+10;Jujuy;2018;18;Trata de personas agravado;5;5;0;0;5;.66322583;.66322583;0;0
+10;Jujuy;2020;18;Trata de personas agravado;1;1;0;0;1;.1297217;.1297217;0;0
+10;Jujuy;2020;19;Trata de personas simple;1;1;0;1;0;.1297217;.1297217;0;.25640434
+10;Jujuy;2023;19;Trata de personas simple;1;1;0;1;0;.12570094;.12570094;0;.24861522
+11;La Pampa;2023;1;Abuso sexual agravado;2;2;0;2;0;.54465193;.54465193;0;1.0802695
+11;La Pampa;2023;2;Abuso sexual simple;206;206;24;181;1;5.609.948;5.609.948;13.181888;97.764381
+11;La Pampa;2018;3;Abusos sexuales con acceso carnal (violaciones);48;48;1;47;0;13.621736;13.621736;.57190895;2.647.543
+11;La Pampa;2020;3;Abusos sexuales con acceso carnal (violaciones);8;8;0;8;0;2.2319684;2.2319684;0;4.4290166
+11;La Pampa;2023;3;Abusos sexuales con acceso carnal (violaciones);57;58;2;56;0;15.52258;15.794906;1.0984907;30.247543
+11;La Pampa;2023;4;Ciberdelitos sexuales vinculados a menores;3;3;7;3;0;2.7232597;2.7232597;3.8447173;16.204.011
+11;La Pampa;2018;6;Homicidios culposos por otros hechos;9;9;8;1;0;2.5540755;2.5540755;4.5752716;.56330097
+11;La Pampa;2023;6;Homicidios culposos por otros hechos;1;1;1;0;0;.27232596;.27232596;.54924536;0
+11;La Pampa;2018;7;Homicidios dolosos;12;12;3;2;0;3.4054339;3.4054339;5.71909;1.1266019
+11;La Pampa;2020;7;Homicidios dolosos;4;4;3;1;0;1.1159842;1.1159842;1.6872796;.55362707
+11;La Pampa;2023;7;Homicidios dolosos;5;5;4;1;0;1.3616298;1.3616298;2.196.984;.54013473
+11;La Pampa;2018;8;Homicidios dolosos en grado de tentativa;3;3;3;0;0;.85135847;.85135847;1.715727;0
+11;La Pampa;2023;9;Lesiones culposas en Accidentes Viales;1174;1231;755;476;0;3.197.369;335.23325;4.468.024;2.573.113
+11;La Pampa;2023;10;Lesiones culposas por otros hechos;3;3;3;0;0;.81697792;.81697792;1.647736;0
+11;La Pampa;2018;11;Lesiones dolosas;1539;1632;498;1134;0;436.74692;463.13901;2.848.367;638.78326
+11;La Pampa;2020;11;Lesiones dolosas;381;385;28;357;0;362.975;3.711.348;15.747943;197.64487
+11;La Pampa;2023;11;Lesiones dolosas;1163;1174;620;553;1;316.71509;3.197.369;340.5321;298.69449
+11;La Pampa;2018;12;Muertes en accidentes viales;52;69;47;22;0;4.756.881;19.581245;26.879723;12.392621
+11;La Pampa;2020;12;Muertes en accidentes viales;23;25;20;5;0;61.169.092;6.9749017;11.24853;2.7681355
+11;La Pampa;2023;12;Muertes en accidentes viales;40;52;39;13;0;3.893.039;116.095;21.420568;7.021.754
+11;La Pampa;2018;13;Otros delitos contra la integridad sexual;82;83;15;68;0;23.270466;23.554251;8.5786343;38.304462
+11;La Pampa;2020;13;Otros delitos contra la integridad sexual;3;3;3;7;0;2.7899606;2.7899606;1.6872796;3.8753896
+11;La Pampa;2023;13;Otros delitos contra la integridad sexual;219;219;31;187;1;59.639385;59.639385;17.026606;3.100.519
+11;La Pampa;2018;14;Otros delitos contra la libertad;23;25;7;17;1;6.5270815;70.946.511;4.0033627;9.5761156
+11;La Pampa;2018;14;Otros delitos contra la libertad;23;25;7;17;1;6.5270815;70.946.511;4.0033627;9.5761156
+11;La Pampa;2023;14;Otros delitos contra la libertad;67;67;4;49;4;18.24584;18.24584;7.6894345;26.4666
+11;La Pampa;2023;14;Otros delitos contra la libertad;67;67;4;49;4;18.24584;18.24584;7.6894345;26.4666
+11;La Pampa;2018;15;Otros delitos contra las personas;11;11;2;9;0;3.1216478;3.1216478;1.438.179;5.0697083
+11;La Pampa;2023;15;Otros delitos contra las personas;5;5;2;3;0;1.3616298;1.3616298;1.0984907;16.204.011
+11;La Pampa;2018;16;Suicidios (consumados);40;40;32;8;0;12.307162;12.307162;19.904211;4.8708019
+11;La Pampa;2020;16;Suicidios (consumados);43;43;38;5;0;12.986032;12.986032;23.206249;2.9872861
+11;La Pampa;2023;16;Suicidios (consumados);43;43;40;3;0;12.645534;12.645534;23.797625;1.7446222
+11;La Pampa;2023;17;Tentativa de abuso sexual con acceso carnal;1;1;0;1;0;.27232596;.27232596;0;.54013473
+12;La Rioja;2023;2;Abuso sexual simple;156;156;0;156;0;38.164204;38.164204;0;75.992287
+12;La Rioja;2018;3;Abusos sexuales con acceso carnal (violaciones);64;65;12;53;0;16.70059;16.961536;6.2893739;27.543629
+12;La Rioja;2020;3;Abusos sexuales con acceso carnal (violaciones);30;30;0;30;0;2.543.959;2.543.959;0;5.060.424
+12;La Rioja;2023;3;Abusos sexuales con acceso carnal (violaciones);16;16;0;16;0;3.942.773;3.942.773;0;7.7940803
+12;La Rioja;2023;4;Ciberdelitos sexuales vinculados a menores;1;1;0;1;0;.24464233;.24464233;0;.48713002
+12;La Rioja;2020;6;Homicidios culposos por otros hechos;4;4;2;2;0;1.0164384;1.0164384;1.02083;1.0120842
+12;La Rioja;2023;6;Homicidios culposos por otros hechos;1;1;0;1;0;.24464233;.24464233;0;.48713002
+12;La Rioja;2018;7;Homicidios dolosos;3;3;6;4;0;2.609467;2.609467;3.446.869;2.0787644
+12;La Rioja;2020;7;Homicidios dolosos;4;4;3;1;0;1.0164384;1.0164384;1.5312451;.50604212
+12;La Rioja;2023;7;Homicidios dolosos;9;9;5;4;0;2.201781;2.201781;2.4572923;1.9485201
+12;La Rioja;2018;8;Homicidios dolosos en grado de tentativa;1;1;0;1;0;.26094672;.26094672;0;.51969111
+12;La Rioja;2020;8;Homicidios dolosos en grado de tentativa;3;3;1;2;0;.76232874;.76232874;.5311502;1.0120842
+12;La Rioja;2023;8;Homicidios dolosos en grado de tentativa;1;1;0;1;0;.24464233;.24464233;0;.48713002
+12;La Rioja;2018;9;Lesiones culposas en Accidentes Viales;2592;303;1706;1304;0;676.3739;785.44958;894.13934;677.67719
+12;La Rioja;2020;9;Lesiones culposas en Accidentes Viales;1611;1943;1222;721;0;11.699.384;493.73492;623.72717;364.85638
+12;La Rioja;2023;9;Lesiones culposas en Accidentes Viales;1981;3648;2250;1398;0;484.63647;892.4552;1.357.815;681.00775
+12;La Rioja;2018;11;Lesiones dolosas;390;394;160;234;0;3.176.922;32.813;83.858322;121.60772
+12;La Rioja;2020;11;Lesiones dolosas;462;467;92;375;0;117.39863;118.66917;46.958183;189.76581
+12;La Rioja;2023;11;Lesiones dolosas;985;986;66;920;0;240.9727;21.121.735;32.436256;448.15964
+12;La Rioja;2018;12;Muertes en accidentes viales;80;86;76;3;0;20.875736;2.244.118;39.832703;5.196.939
+12;La Rioja;2020;12;Muertes en accidentes viales;47;51;38;13;0;11.943151;12.959589;19.395771;6.578548
+12;La Rioja;2023;12;Muertes en accidentes viales;50;52;11;11;0;12.232117;1.272.401;2.049.797;5.3584304
+12;La Rioja;2018;13;Otros delitos contra la integridad sexual;42;150;36;14;0;37.054432;3.942.006;18.868122;59.244785
+12;La Rioja;2020;13;Otros delitos contra la integridad sexual;121;121;9;112;0;30.747259;30.747259;4.5937352;56.67672
+12;La Rioja;2023;13;Otros delitos contra la integridad sexual;157;157;0;157;0;38.408848;38.408848;0;76.479.116
+12;La Rioja;2018;14;Otros delitos contra la libertad;2;2;1;1;0;.52189344;.52189344;.5211449;.51969111
+12;La Rioja;2018;14;Otros delitos contra la libertad;2;2;1;1;0;.52189344;.52189344;.5211449;.51969111
+12;La Rioja;2020;14;Otros delitos contra la libertad;6;6;1;4;1;1.5246575;1.5246575;.5311502;20.211.685
+12;La Rioja;2020;14;Otros delitos contra la libertad;6;6;1;4;1;1.5246575;1.5246575;.5311502;20.211.685
+12;La Rioja;2023;14;Otros delitos contra la libertad;12;12;0;11;1;2.935708;2.935708;0;5.3584304
+12;La Rioja;2023;14;Otros delitos contra la libertad;12;12;0;11;1;2.935708;2.935708;0;5.3584304
+12;La Rioja;2018;15;Otros delitos contra las personas;4;4;2;2;0;1.0437869;1.0437869;1.048229;1.0393822
+12;La Rioja;2020;15;Otros delitos contra las personas;4;4;2;2;0;1.0164384;1.0164384;1.02083;1.0120842
+12;La Rioja;2018;16;Suicidios (consumados);47;47;38;9;0;13.406393;13.406393;21.840462;5.096.554
+12;La Rioja;2020;16;Suicidios (consumados);45;45;40;5;0;12.484083;12.484083;22.360485;2.7537286
+12;La Rioja;2023;16;Suicidios (consumados);54;54;11;13;0;4.384.809;4.384.809;22.008.311;6.8745604
+13;Mendoza;2023;1;Abuso sexual agravado;51;51;0;0;51;2.4885199;2.4885199;0;0
+13;Mendoza;2023;2;Abuso sexual simple;2443;2443;0;2;2411;119.20498;119.20498;0;.19229031
+13;Mendoza;2018;3;Abusos sexuales con acceso carnal (violaciones);383;383;0;0;383;1.964.849;1.964.849;0;0
+13;Mendoza;2020;3;Abusos sexuales con acceso carnal (violaciones);434;434;0;2;432;21.805342;21.805342;0;.19779518
+13;Mendoza;2023;3;Abusos sexuales con acceso carnal (violaciones);525;525;0;0;525;25.617117;25.617117;0;0
+13;Mendoza;2023;4;Ciberdelitos sexuales vinculados a menores;760;760;0;0;760;37.083824;37.083824;0;0
+13;Mendoza;2018;5;Delitos contra el honor;43;49;4;2;43;2.2059281;2.513732;.1171174;.20181248
+13;Mendoza;2020;5;Delitos contra el honor;40;46;2;5;39;2.0097089;2.3111653;.20425025;.49448794
+13;Mendoza;2023;5;Delitos contra el honor;61;69;3;6;53;2.976465;3.3668211;.99076903;.57687092
+13;Mendoza;2018;6;Homicidios culposos por otros hechos;173;211;82;22;137;8.8750124;12.363457;8.5570517;2.2199373
+13;Mendoza;2020;6;Homicidios culposos por otros hechos;90;40;52;12;76;4.5218449;7.0339813;5.335.063;1.186771
+13;Mendoza;2023;6;Homicidios culposos por otros hechos;43;292;34;55;133;6.977.644;4.247.996;3.303.998;5.2879834
+13;Mendoza;2018;7;Homicidios dolosos;97;36;90;16;0;4.9761634;5.4378691;9.3918858;1.644.998
+13;Mendoza;2020;7;Homicidios dolosos;89;91;80;11;0;4.4716024;4.5720878;8.1700096;1.0878735
+13;Mendoza;2023;7;Homicidios dolosos;64;66;54;12;0;3.1228485;3.2204375;5.3501525;11.537.118
+13;Mendoza;2018;8;Homicidios dolosos en grado de tentativa;50;30;36;16;48;2.5650325;5.130065;3.7567544;1.644.998
+13;Mendoza;2020;8;Homicidios dolosos en grado de tentativa;68;120;53;7;60;31.165.051;6.0291266;51.126.315;.69228309
+13;Mendoza;2023;8;Homicidios dolosos en grado de tentativa;93;167;70;12;85;4.537889;8.486.826;6.9353828;11.537.118
+13;Mendoza;2018;9;Lesiones culposas en Accidentes Viales;46;191;38;29;124;7.4898949;9.7984247;3.9654629;2.926281
+13;Mendoza;2020;9;Lesiones culposas en Accidentes Viales;164;23;42;27;11;8.2398062;3.550.972;4.2892551;2.6702349
+13;Mendoza;2023;9;Lesiones culposas en Accidentes Viales;118;161;40;17;34;5.7577519;7.8559155;3.9630761;1.6344676
+13;Mendoza;2018;10;Lesiones culposas por otros hechos;1357;1357;716;584;9757;567.23132;567.23132;74.717667;58.929245
+13;Mendoza;2020;10;Lesiones culposas por otros hechos;7163;7163;631;437;6095;359.88861;359.88861;64.440948;43.218246
+13;Mendoza;2023;10;Lesiones culposas por otros hechos;11183;11201;1296;313;8892;545.66895;546.5473;128.40366;97.395042
+13;Mendoza;2018;11;Lesiones dolosas;4949;15112;1746;644;6952;766.89343;775.25543;182.20259;647.21265
+13;Mendoza;2020;11;Lesiones dolosas;12697;12704;1647;3392;7665;637.93182;638.28357;168.20007;335.46063
+13;Mendoza;2023;11;Lesiones dolosas;16611;16676;2988;5609;8079;811.98938;813.6972;29.601.178;539.2782
+13;Mendoza;2018;12;Muertes en accidentes viales;157;168;135;31;2;8.0542021;8.6185093;4.087.829;3.1280935
+13;Mendoza;2020;12;Muertes en accidentes viales;87;31;80;21;0;4.3711166;5.074.549;8.1700096;2.0768495
+13;Mendoza;2023;12;Muertes en accidentes viales;13;119;85;34;0;5.3673959;5.8065462;8.4215364;3.2689352
+13;Mendoza;2018;13;Otros delitos contra la integridad sexual;2569;2569;0;1;2568;131.79137;131.79137;0;.3090624
+13;Mendoza;2020;13;Otros delitos contra la integridad sexual;2590;2590;0;0;2590;130.12865;130.12865;0;0
+13;Mendoza;2023;13;Otros delitos contra la integridad sexual;3484;3484;0;2;3482;170.00006;170.00006;0;.19229031
+13;Mendoza;2023;13;Otros delitos contra la integridad sexual;230;230;0;0;230;11.222736;11.222736;0;0
+13;Mendoza;2018;14;Otros delitos contra la libertad;1131;1213;14;282;817;5.802.338;62.227688;11.896389;28.455559
+13;Mendoza;2018;14;Otros delitos contra la libertad;1118;1173;36;258;809;57.351.126;60.175663;11.061554;26.03381
+13;Mendoza;2020;14;Otros delitos contra la libertad;886;920;115;162;643;44.515053;46.223305;11.744389;160.211
+13;Mendoza;2020;14;Otros delitos contra la libertad;880;93;112;157;611;44.213596;45.720879;1.143.804;15.526921
+13;Mendoza;2023;14;Otros delitos contra la libertad;395;1139;227;232;680;53.429985;55.576942;22.490456;22.305676
+13;Mendoza;2023;14;Otros delitos contra la libertad;387;1130;225;231;674;53.039631;55.137794;22.292303;22.209532
+13;Mendoza;2018;15;Otros delitos contra las personas;2011;2078;335;43;1333;3.316.561;3.660.275;34.958687;11.371.559
+13;Mendoza;2020;15;Otros delitos contra las personas;1904;1967;439;482;346;9.566.248;98.827438;44.832928;47.668636
+13;Mendoza;2023;15;Otros delitos contra las personas;2618;2750;769;862;1119;127.74402;134.18489;761.904;82.877121
+13;Mendoza;2018;16;Suicidios (consumados);198;198;48;50;0;11.115009;11.115009;16.975651;5.4972963
+13;Mendoza;2020;16;Suicidios (consumados);194;194;156;38;0;363.793;363.793;17.461599;4.0848179
+13;Mendoza;2023;16;Suicidios (consumados);207;207;162;45;0;398.462;398.462;17.519745;4.6859183
+13;Mendoza;2018;18;Trata de personas agravado;5;5;0;0;5;.25650325;.25650325;0;0
+13;Mendoza;2023;18;Trata de personas agravado;1;1;0;0;1;.048794508;.048794508;0;0
+13;Mendoza;2018;19;Trata de personas simple;8;35;8;24;3;.4340522;1.7955228;.83483428;2.4217498
+13;Mendoza;2020;19;Trata de personas simple;6;3;3;5;2;.3045633;.50242722;.30637535;.49448794
+13;Mendoza;2023;19;Trata de personas simple;7;8;2;1;5;.31156156;.39035606;.19815379;.09645153
+14;Misiones;2023;1;Abuso sexual agravado;4;4;1;3;0;.30728504;.30728504;.15390867;.46013188
+14;Misiones;2023;2;Abuso sexual simple;561;576;51;524;1;43.096725;44.249046;78.493.119;80.369698
+14;Misiones;2018;3;Abusos sexuales con acceso carnal (violaciones);299;307;15;291;1;24.246317;24.895048;2.435674;47.138409
+14;Misiones;2020;3;Abusos sexuales con acceso carnal (violaciones);366;372;23;344;5;29.017818;29.493521;3.6522603;54.469421
+14;Misiones;2023;3;Abusos sexuales con acceso carnal (violaciones);573;584;70;512;2;44.018581;44.863617;3.773.606;78.529175
+14;Misiones;2023;4;Ciberdelitos sexuales vinculados a menores;13;13;3;3;0;.99867636;.99867636;.46172598;1.5337729
+14;Misiones;2018;5;Delitos contra el honor;18;18;3;8;0;1.4596444;1.4596444;1.6237825;1.2959012
+14;Misiones;2020;5;Delitos contra el honor;3;3;7;3;0;.79283655;.79283655;1.1115575;.47502401
+14;Misiones;2023;5;Delitos contra el honor;2;2;0;2;0;.15364252;.15364252;0;.30675459
+14;Misiones;2018;6;Homicidios culposos por otros hechos;6;6;4;2;0;.48654816;.48654816;.64951301;.32397529
+14;Misiones;2020;6;Homicidios culposos por otros hechos;5;5;3;2;0;.39611827;.39611827;.47638178;.3166827
+14;Misiones;2023;6;Homicidios culposos por otros hechos;26;27;21;6;0;1.9973527;20.711.739;3.2320819;.92026377
+14;Misiones;2018;7;Homicidios dolosos;57;57;47;3;0;4.6222076;4.6222076;7.6317782;1.6198765
+14;Misiones;2020;7;Homicidios dolosos;57;57;45;12;0;4.5191684;4.5191684;7.457.267;1.9000961
+14;Misiones;2023;7;Homicidios dolosos;44;45;36;9;0;3.3801353;3.4569566;5.5407119;1.3803957
+14;Misiones;2018;8;Homicidios dolosos en grado de tentativa;42;43;33;9;1;3.4058371;3.4869285;5.3584824;1.4578888
+14;Misiones;2020;8;Homicidios dolosos en grado de tentativa;35;37;20;17;0;2.7749279;2.9334953;3.1758785;2.6918027
+14;Misiones;2023;8;Homicidios dolosos en grado de tentativa;50;50;21;29;0;384.363;384.363;3.2320819;44.479.113
+14;Misiones;2018;9;Lesiones culposas en Accidentes Viales;942;148;782;301;65;76.388062;93.09288;126.9798;48.758286
+14;Misiones;2020;9;Lesiones culposas en Accidentes Viales;737;950;673;267;3;58.432056;75.319473;3.686.832;42.277138
+14;Misiones;2023;9;Lesiones culposas en Accidentes Viales;929;136;790;288;28;71.366951;84.96431;121.58784;44.172661
+14;Misiones;2018;10;Lesiones culposas por otros hechos;170;174;65;89;20;13.785531;439.897;3.554.586;4.116.902
+14;Misiones;2020;10;Lesiones culposas por otros hechos;117;118;65;49;4;9.2761879;9.3554716;3.321.606;7.7587256
+14;Misiones;2023;10;Lesiones culposas por otros hechos;26;27;4;13;0;1.9973527;20.711.739;2.1547213;1.9939048
+14;Misiones;2018;11;Lesiones dolosas;2079;2151;320;902;229;168.58894;174.42752;165.62582;4.611.287
+14;Misiones;2020;11;Lesiones dolosas;2270;2373;1256;399;18;179.97389;1.884.012;199.44518;1.740.174
+14;Misiones;2023;11;Lesiones dolosas;2025;2084;940;1131;13;155.56305;160.0955;4.467.115;173.46971
+14;Misiones;2018;12;Muertes en accidentes viales;226;258;206;51;1;18.326647;20.921572;33.449921;8.2613707
+14;Misiones;2020;12;Muertes en accidentes viales;138;49;129;19;1;391.145;11.813265;20.484.117;3.0084856
+14;Misiones;2023;12;Muertes en accidentes viales;201;219;181;38;0;1.544.373;16.823856;27.857468;5.8283372
+14;Misiones;2018;13;Otros delitos contra la integridad sexual;63;618;71;544;3;49.465729;501.446;11.528856;88.121284
+14;Misiones;2020;13;Otros delitos contra la integridad sexual;819;828;99;717;12;64.933311;65.646866;15.720599;113.53075
+14;Misiones;2023;13;Otros delitos contra la integridad sexual;839;856;81;772;3;64.453033;65.758995;12.466601;118.40727
+14;Misiones;2023;13;Otros delitos contra la integridad sexual;177;179;20;157;2;13.597363;1.375.305;3.0781734;24.080235
+14;Misiones;2018;14;Otros delitos contra la libertad;11;47;11;27;9;3.3247457;3.8112938;1.7861608;4.3736668
+14;Misiones;2018;14;Otros delitos contra la libertad;40;45;3;26;9;3.2436545;3.6491113;1.6237825;4.211679
+14;Misiones;2020;14;Otros delitos contra la libertad;38;39;16;21;2;3.012779;3.0920627;2.5407028;3.3251681
+14;Misiones;2020;14;Otros delitos contra la libertad;38;39;16;21;2;3.012779;3.0920627;2.5407028;3.3251681
+14;Misiones;2023;14;Otros delitos contra la libertad;136;139;55;80;4;3.447.691;3.678.155;8.4649763;12.270184
+14;Misiones;2023;14;Otros delitos contra la libertad;136;139;55;80;4;3.447.691;3.678.155;8.4649763;12.270184
+14;Misiones;2018;15;Otros delitos contra las personas;942;977;112;495;70;76.388062;79.226257;66.899.811;80.183891
+14;Misiones;2020;15;Otros delitos contra las personas;1211;1230;505;665;60;96.012505;97.518898;80.190933;3.529.699
+14;Misiones;2023;15;Otros delitos contra las personas;511;543;233;304;6;11.560.303;11.713.943;35.860718;46.626698
+14;Misiones;2018;16;Suicidios (consumados);70;70;55;15;0;6.2930002;6.2930002;9.9339838;2.6848423
+14;Misiones;2020;16;Suicidios (consumados);120;120;93;27;0;351.335;351.335;16.372202;4.7090011
+14;Misiones;2023;16;Suicidios (consumados);82;82;65;17;0;6.9280806;6.9280806;11.037134;2.8587379
+14;Misiones;2023;17;Tentativa de abuso sexual con acceso carnal;84;84;6;78;0;6.4529858;6.4529858;.92345196;11.963428
+14;Misiones;2018;19;Trata de personas simple;1;2;1;1;0;.08391359;.16218272;.16237825;.16198765
+15;Neuquen;2023;2;Abuso sexual simple;196;202;19;183;0;28.453218;29.324236;5.552844;52.785976
+15;Neuquen;2018;3;Abusos sexuales con acceso carnal (violaciones);50;52;11;37;4;7.730556;8.0397787;3.4201534;11.378979
+15;Neuquen;2020;3;Abusos sexuales con acceso carnal (violaciones);35;35;3;30;2;5.2706318;5.2706318;.90889812;8.9823856
+15;Neuquen;2023;3;Abusos sexuales con acceso carnal (violaciones);61;66;6;60;0;8.8553391;9.5811863;1.7535297;17.306877
+15;Neuquen;2023;4;Ciberdelitos sexuales vinculados a menores;5;5;0;5;0;.72584742;.72584742;0;1.4422398
+15;Neuquen;2018;5;Delitos contra el honor;8;8;1;7;0;1.236889;1.236889;.3392304;2.1527798
+15;Neuquen;2020;5;Delitos contra el honor;13;13;6;7;0;1.9576633;1.9576633;1.8177962;2.09589
+15;Neuquen;2023;5;Delitos contra el honor;7;7;5;2;0;1.0161864;1.0161864;1.4612747;.57689589
+15;Neuquen;2018;6;Homicidios culposos por otros hechos;15;17;13;4;0;2.3191669;2.6283891;40.119.993;1.2301599
+15;Neuquen;2020;6;Homicidios culposos por otros hechos;4;4;1;3;0;.60235792;.60235792;.30296603;.89823854
+15;Neuquen;2023;6;Homicidios culposos por otros hechos;5;7;4;3;0;.72584742;1.0161864;1.1690198;.86534387
+15;Neuquen;2018;7;Homicidios dolosos;30;31;23;8;0;4.6383338;4.7929449;7.1512299;2.4603198
+15;Neuquen;2020;7;Homicidios dolosos;42;42;38;4;0;6.3247581;6.3247581;11.51271;1.197.654
+15;Neuquen;2023;7;Homicidios dolosos;30;31;20;11;0;4.3550844;4.5002542;5.845099;3.1729274
+15;Neuquen;2018;8;Homicidios dolosos en grado de tentativa;4;5;2;3;0;.6184445;.77305561;.62184608;.92261988
+15;Neuquen;2020;8;Homicidios dolosos en grado de tentativa;5;5;3;2;0;.75294739;.75294739;.90889812;.59882569
+15;Neuquen;2023;8;Homicidios dolosos en grado de tentativa;12;15;9;6;0;1.7420338;2.1775422;2.6302946;1.7306877
+15;Neuquen;2018;9;Lesiones culposas en Accidentes Viales;2118;2545;1685;849;11;327.46637;393.48529;523.90533;261.311
+15;Neuquen;2020;9;Lesiones culposas en Accidentes Viales;145;1382;942;437;3;172.42496;2.081.467;285.39401;13.084.311
+15;Neuquen;2023;9;Lesiones culposas en Accidentes Viales;1709;211;1333;806;2;248.09465;3.380.786;389.57584;232.48904
+15;Neuquen;2018;10;Lesiones culposas por otros hechos;13;14;51;60;3;17.007223;17.625668;15.857075;18.452398
+15;Neuquen;2020;10;Lesiones culposas por otros hechos;54;54;33;20;1;8.1318321;8.1318321;9.997879;5.9882569
+15;Neuquen;2023;10;Lesiones culposas por otros hechos;9;9;5;4;0;1.3065253;1.3065253;1.4612747;1.1537918
+15;Neuquen;2018;11;Lesiones dolosas;449;474;915;529;30;224.03151;227.89679;284.49457;162.68864
+15;Neuquen;2020;11;Lesiones dolosas;1387;401;857;502;42;208.86761;2.397.586;25.961.191;150.30525
+15;Neuquen;2023;11;Lesiones dolosas;1243;1380;755;624;1;180.44566;200.33389;220.65248;179.99152
+15;Neuquen;2018;12;Muertes en accidentes viales;68;80;58;22;0;3.513.556;12.36889;18.033537;6.7658792
+15;Neuquen;2020;12;Muertes en accidentes viales;44;50;11;9;0;6.6259375;7.5294743;12.421608;2.6947157
+15;Neuquen;2023;12;Muertes en accidentes viales;47;58;11;17;0;6.8229656;81.198.303;11.982453;4.903615
+15;Neuquen;2018;13;Otros delitos contra la integridad sexual;231;231;24;195;12;35.715168;35.715168;7.462153;59.970291
+15;Neuquen;2020;13;Otros delitos contra la integridad sexual;283;289;35;237;17;42.616825;43.520359;3.603.811;70.960846
+15;Neuquen;2023;13;Otros delitos contra la integridad sexual;251;259;28;231;0;36.437542;37.598896;8.1831388;6.663.477
+15;Neuquen;2023;13;Otros delitos contra la integridad sexual;50;52;9;43;0;7.2584743;7.5488133;2.6302946;12.403262
+15;Neuquen;2018;14;Otros delitos contra la libertad;19;20;0;7;13;2.9376113;3.0922225;0;2.1527798
+15;Neuquen;2018;14;Otros delitos contra la libertad;4;4;0;5;9;2.1645558;2.1645558;0;1.5376998
+15;Neuquen;2020;14;Otros delitos contra la libertad;4;17;3;5;2;2.382.528;2.5600212;3.0296605;1.4970642
+15;Neuquen;2020;14;Otros delitos contra la libertad;13;13;6;5;2;1.9576633;1.9576633;1.8177962;1.4970642
+15;Neuquen;2023;14;Otros delitos contra la libertad;48;65;15;45;5;6.9681354;9.4360161;4.3838243;12.980158
+15;Neuquen;2023;14;Otros delitos contra la libertad;40;44;15;25;4;5.8067794;6.3874574;4.3838243;7.2111988
+15;Neuquen;2018;15;Otros delitos contra las personas;923;935;492;44;29;4.270.607;44.564;1.529.744;127.32154
+15;Neuquen;2020;15;Otros delitos contra las personas;1152;1180;657;438;85;173.47908;177.69559;199.04869;1.314.282
+15;Neuquen;2023;15;Otros delitos contra las personas;1252;1391;779;611;1;181.7522;201.93076;227.66661;1.762.117
+15;Neuquen;2018;16;Suicidios (consumados);70;70;59;11;0;11.873.211;11.873.211;20.195452;3.6985233
+15;Neuquen;2020;16;Suicidios (consumados);52;52;43;9;0;8.5593748;8.5593748;4.288.373;29.356.111
+15;Neuquen;2023;16;Suicidios (consumados);62;62;51;11;0;9.790329;9.790329;16.265816;3.4403274
+15;Neuquen;2018;18;Trata de personas agravado;2;3;0;2;1;.30922225;.46383336;0;.61507994
+15;Neuquen;2020;18;Trata de personas agravado;1;4;4;0;0;.15058948;.60235792;12.118.611;0
+15;Neuquen;2018;19;Trata de personas simple;3;3;0;0;3;.46383336;.46383336;0;0
+15;Neuquen;2023;19;Trata de personas simple;8;21;0;20;1;1.1613559;3.0485592;0;5.768959
+16;Rio Negro;2023;2;Abuso sexual simple;1;1;0;1;0;.12893078;.12893078;0;.25720629
+16;Rio Negro;2018;3;Abusos sexuales con acceso carnal (violaciones);69;72;7;65;0;9.4727783;9.8846378;1.927748;17.794325
+16;Rio Negro;2020;3;Abusos sexuales con acceso carnal (violaciones);31;36;7;40;59;13.509718;1.178.515;1.8778335;367.122
+16;Rio Negro;2023;4;Ciberdelitos sexuales vinculados a menores;4;15;1;4;0;1.8050308;1.9339616;.25852019;3.6008878
+16;Rio Negro;2018;5;Delitos contra el honor;1;1;0;0;1;.13728663;.13728663;0;0
+16;Rio Negro;2020;5;Delitos contra el honor;8;8;3;1;4;1.0700766;1.0700766;.80478579;.2667805
+16;Rio Negro;2023;5;Delitos contra el honor;8;8;5;2;1;1.034.462;1.034.462;1.2926009;.5411258
+16;Rio Negro;2018;6;Homicidios culposos por otros hechos;3;3;3;0;0;.11185993;.11185993;.82617772;0
+16;Rio Negro;2020;6;Homicidios culposos por otros hechos;6;6;3;3;0;.80255747;.80255747;.80478579;.8003449
+16;Rio Negro;2018;7;Homicidios dolosos;21;22;15;7;0;2.8830194;3.0203061;4.1308885;1.916312
+16;Rio Negro;2020;7;Homicidios dolosos;37;39;37;2;0;4.949.343;5.2166238;9.9256916;.53356099
+16;Rio Negro;2023;7;Homicidios dolosos;27;27;26;1;0;3.4811311;3.4811311;6.7215247;.25720629
+16;Rio Negro;2018;8;Homicidios dolosos en grado de tentativa;18;19;13;2;4;2.4711595;2.6084461;3.580.334;.54751772
+16;Rio Negro;2020;8;Homicidios dolosos en grado de tentativa;19;21;13;1;7;2.544.321;2.8089511;3.4874051;.2667805
+16;Rio Negro;2023;8;Homicidios dolosos en grado de tentativa;19;22;11;9;2;2.4496849;2.836477;2.8437219;2.348.565
+16;Rio Negro;2018;9;Lesiones culposas en Accidentes Viales;537;655;378;178;99;73.722923;89.922752;3.409.839;48.729076
+16;Rio Negro;2020;9;Lesiones culposas en Accidentes Viales;323;363;43;78;42;43.204346;48.554729;3.836.458;20.808878
+16;Rio Negro;2023;9;Lesiones culposas en Accidentes Viales;464;568;311;190;37;59.823879;73.232681;88.15538;48.869194
+16;Rio Negro;2020;10;Lesiones culposas por otros hechos;1;1;0;0;1;.13375957;.13375957;0;0
+16;Rio Negro;2018;11;Lesiones dolosas;2220;2457;1151;880;426;304.77634;337.31326;316.97684;240.90779
+16;Rio Negro;2020;11;Lesiones dolosas;2098;2179;512;439;1228;280.62759;291.46213;137.35011;117.11664
+16;Rio Negro;2023;11;Lesiones dolosas;2404;2718;1246;1195;277;309.94958;350.43384;322.11615;307.36151
+16;Rio Negro;2018;12;Muertes en accidentes viales;78;90;60;30;0;3.708.358;12.355798;16.523554;8.2127657
+16;Rio Negro;2020;12;Muertes en accidentes viales;36;11;30;11;0;4.8153448;5.484.428;8.0478582;2.9345853
+16;Rio Negro;2023;12;Muertes en accidentes viales;55;67;46;20;1;7.0911927;8.6383619;11.891929;5.411.255
+16;Rio Negro;2018;13;Otros delitos contra la integridad sexual;280;311;36;273;2;38.440258;4.269.644;9.911.331;74.736168
+16;Rio Negro;2020;13;Otros delitos contra la integridad sexual;380;390;26;153;211;50.82864;52.166237;6.974.831;40.817.117
+16;Rio Negro;2023;13;Otros delitos contra la integridad sexual;579;622;73;483;66;74.650917;80.194946;18.871973;124.23063
+16;Rio Negro;2023;13;Otros delitos contra la integridad sexual;564;606;72;468;66;72.716957;78.13205;18.613453;120.37254
+16;Rio Negro;2018;14;Otros delitos contra la libertad;780;821;111;426;284;3.708.358;112.71233;30.568575;116.62127
+16;Rio Negro;2018;14;Otros delitos contra la libertad;778;819;111;426;282;3.680.901;112.43776;30.568575;116.62127
+16;Rio Negro;2020;14;Otros delitos contra la libertad;43;421;37;28;356;5.484.427;56.312782;9.9256916;7.4698539
+16;Rio Negro;2020;14;Otros delitos contra la libertad;408;119;37;28;354;54.57391;56.045265;9.9256916;7.4698539
+16;Rio Negro;2023;14;Otros delitos contra la libertad;379;401;67;120;24;48.864765;51.701.211;17.320852;30.864754
+16;Rio Negro;2023;14;Otros delitos contra la libertad;379;401;67;120;24;48.864765;51.701.211;17.320852;30.864754
+16;Rio Negro;2018;15;Otros delitos contra las personas;215;253;112;70;71;29.516628;34.733521;30.843967;19.163118
+16;Rio Negro;2020;15;Otros delitos contra las personas;302;309;70;25;24;40.395393;11.331.711;18.778336;6.6695123
+16;Rio Negro;2023;15;Otros delitos contra las personas;359;389;225;115;49;4.628.648;50.154072;58.167042;29.578722
+16;Rio Negro;2018;16;Suicidios (consumados);43;43;36;7;0;6.4363165;6.4363165;384.355;2.0832527
+16;Rio Negro;2020;16;Suicidios (consumados);35;35;28;7;0;5.0920792;5.0920792;8.1932192;2.0254865
+16;Rio Negro;2023;16;Suicidios (consumados);46;46;39;6;1;6.4284954;6.4284954;3.957.919;1.6682562
+16;Rio Negro;2020;18;Trata de personas agravado;2;2;0;0;2;.26751915;.26751915;0;0
+16;Rio Negro;2018;19;Trata de personas simple;2;2;0;0;2;.27457327;.27457327;0;0
+17;Salta;2023;1;Abuso sexual agravado;23;23;0;17;6;1.5576967;1.5576967;0;2.2789516
+17;Salta;2023;2;Abuso sexual simple;676;676;15;459;202;45.782738;45.782738;2.0531576;61.531696
+17;Salta;2018;3;Abusos sexuales con acceso carnal (violaciones);272;272;15;162;95;19.589033;19.589033;2.1833806;23.092581
+17;Salta;2020;3;Abusos sexuales con acceso carnal (violaciones);328;328;24;206;98;23.027288;23.027288;3.4053905;28.625742
+17;Salta;2023;3;Abusos sexuales con acceso carnal (violaciones);356;356;5;249;32;2.113.437;2.113.437;.6843859;33.37994
+17;Salta;2023;4;Ciberdelitos sexuales vinculados a menores;47;47;0;32;15;3.1831195;3.1831195;0;4.2897916
+17;Salta;2018;5;Delitos contra el honor;1;1;1;0;0;.072018504;.072018504;.4555871;0
+17;Salta;2018;6;Homicidios culposos por otros hechos;5;5;2;0;3;.36009252;.36009252;.29111743;0
+17;Salta;2020;6;Homicidios culposos por otros hechos;7;7;1;0;6;.4943603;.4943603;.1189127;0
+17;Salta;2023;6;Homicidios culposos por otros hechos;5;5;0;0;5;.33862972;.33862972;0;0
+17;Salta;2018;7;Homicidios dolosos;72;73;60;13;0;5.1853323;5.2573509;8.7335224;1.853.384
+17;Salta;2020;7;Homicidios dolosos;89;89;75;4;0;6.2482581;6.2482581;3.611.845;1.9454387
+17;Salta;2023;7;Homicidios dolosos;63;63;50;13;0;4.2667346;4.2667346;6.8438587;1.7427278
+17;Salta;2018;8;Homicidios dolosos en grado de tentativa;40;40;22;3;15;2.8807402;2.8807402;3.2022917;.42764011
+17;Salta;2020;8;Homicidios dolosos en grado de tentativa;79;79;42;8;29;5.5462065;5.5462065;5.9594331;1.1116793
+17;Salta;2023;8;Homicidios dolosos en grado de tentativa;65;65;7;4;54;4.4021864;4.4021864;.9584019;.53622395
+17;Salta;2018;9;Lesiones culposas en Accidentes Viales;4425;4425;2011;685;1699;318.68188;318.68188;297.08533;97.644554
+17;Salta;2020;9;Lesiones culposas en Accidentes Viales;3340;3340;1512;500;1328;234.48518;234.48518;245.396;69.479958
+17;Salta;2023;9;Lesiones culposas en Accidentes Viales;4848;4848;376;160;4312;328.33539;328.33539;51.465816;21.448957
+17;Salta;2018;11;Lesiones dolosas;7807;7807;2530;2990;2287;562.24847;562.24847;368.26355;4.262.494
+17;Salta;2020;11;Lesiones dolosas;3117;3117;2740;4478;2899;7.326.544;7.326.544;388.78207;622.26251
+17;Salta;2023;11;Lesiones dolosas;11195;11195;808;6856;3531;758.19196;758.19196;1.359.676;919.08783
+17;Salta;2018;12;Muertes en accidentes viales;39;132;34;28;0;7.8500171;9.506443;1.513.836;3.991.334
+17;Salta;2020;12;Muertes en accidentes viales;128;137;112;25;0;8.9862585;9.618.349;15.891822;3.4739978
+17;Salta;2023;12;Muertes en accidentes viales;153;172;40;32;0;336.207;11.648863;19.162804;4.2897916
+17;Salta;2018;13;Otros delitos contra la integridad sexual;840;840;39;484;317;60.495544;60.495544;5.6767898;68.992653
+17;Salta;2020;13;Otros delitos contra la integridad sexual;1113;1113;74;665;374;78.138329;78.138329;3.499.954;92.40834
+17;Salta;2023;13;Otros delitos contra la integridad sexual;443;443;27;967;449;97.728539;97.728539;3.6956837;1.296.324
+17;Salta;2023;13;Otros delitos contra la integridad sexual;693;693;12;457;224;46.934082;46.934082;1.6425261;61.263584
+17;Salta;2018;14;Otros delitos contra la libertad;1264;1270;378;430;462;91.031395;91.463501;55.021194;61.295124
+17;Salta;2018;14;Otros delitos contra la libertad;1261;1262;375;425;462;90.815338;90.887352;54.584518;60.58239
+17;Salta;2020;14;Otros delitos contra la libertad;2473;2473;859;705;909;173.61732;173.61732;121.8846;97.966736
+17;Salta;2020;14;Otros delitos contra la libertad;2471;2471;859;704;908;173.47691;173.47691;121.8846;97.827782
+17;Salta;2023;14;Otros delitos contra la libertad;2605;2605;47;93;2365;176.42609;176.42609;20.120945;12.467207
+17;Salta;2023;14;Otros delitos contra la libertad;2605;2605;47;93;2365;176.42609;176.42609;20.120945;12.467207
+17;Salta;2018;15;Otros delitos contra las personas;212;213;63;67;83;15.267923;15.339942;9.1701984;9.5506353
+17;Salta;2020;15;Otros delitos contra las personas;275;275;65;89;121;19.306.116;19.306.116;9.2229328;12.367433
+17;Salta;2023;15;Otros delitos contra las personas;249;249;12;20;217;16.86376;16.86376;1.6425261;2.6811197
+17;Salta;2018;16;Suicidios (consumados);160;160;122;38;0;12.786835;12.786835;19.792791;5.9851851
+17;Salta;2020;16;Suicidios (consumados);195;195;161;34;0;1.543.326;1.543.326;25.37771;5.2044983
+17;Salta;2023;16;Suicidios (consumados);184;184;11;43;0;13.71913;13.71913;21.333834;632.331
+17;Salta;2023;17;Tentativa de abuso sexual con acceso carnal;4;4;0;2;2;.2709038;.2709038;0;.26811197
+17;Salta;2018;18;Trata de personas agravado;1;3;2;1;0;.072018504;.21605551;.29111743;.425468
+17;Salta;2018;19;Trata de personas simple;2;5;1;4;0;.4403701;.36009252;.4555871;.57018721
+17;Salta;2020;19;Trata de personas simple;2;2;0;1;1;.404329;.404329;0;.13895991
+18;San Juan;2023;1;Abuso sexual agravado;90;97;15;73;9;11.168609;12.037278;3.7488284;17.99337
+18;San Juan;2023;2;Abuso sexual simple;559;573;77;474;22;69.369469;7.136.812;19.243986;116.83366
+18;San Juan;2018;3;Abusos sexuales con acceso carnal (violaciones);13;13;3;3;0;1.7005379;1.7005379;.79235744;2.5917008
+18;San Juan;2020;3;Abusos sexuales con acceso carnal (violaciones);38;38;0;38;0;4.8642054;4.8642054;0;9.6473389
+18;San Juan;2023;3;Abusos sexuales con acceso carnal (violaciones);88;88;6;79;3;3.920.118;3.920.118;1.499.534;19.472277
+18;San Juan;2023;4;Ciberdelitos sexuales vinculados a menores;61;63;3;26;34;7.5698347;7.8180261;.74976569;6.4085975
+18;San Juan;2018;5;Delitos contra el honor;4;4;4;9;1;1.8313485;1.8313485;1.0564766;2.3325307
+18;San Juan;2020;5;Delitos contra el honor;2;2;2;0;0;.256038;.256038;.51636088;0
+18;San Juan;2018;6;Homicidios culposos por otros hechos;2;2;2;0;0;.26162121;.26162121;.5282383;0
+18;San Juan;2020;6;Homicidios culposos por otros hechos;12;4;8;5;1;1.5360649;1.7920758;2.0654435;1.2693866
+18;San Juan;2023;6;Homicidios culposos por otros hechos;4;4;2;2;0;.49638262;.49638262;.49984381;.49296904
+18;San Juan;2018;7;Homicidios dolosos;16;16;11;5;0;2.0929697;2.0929697;2.905.336;1.2958504
+18;San Juan;2020;7;Homicidios dolosos;16;16;12;4;0;2.0480864;2.0480864;3.0981653;1.0155094
+18;San Juan;2023;7;Homicidios dolosos;9;9;8;1;0;1.1168609;1.1168609;1.9993752;.24648452
+18;San Juan;2018;8;Homicidios dolosos en grado de tentativa;8;8;7;1;0;1.0464848;1.0464848;1.848834;.25917009
+18;San Juan;2020;8;Homicidios dolosos en grado de tentativa;6;6;5;1;0;.76803243;.76803243;1.2909023;.25387734
+18;San Juan;2023;8;Homicidios dolosos en grado de tentativa;12;12;5;7;0;1.489.478;1.489.478;1.2496095;1.7253916
+18;San Juan;2018;9;Lesiones culposas en Accidentes Viales;697;750;509;239;2;91.174995;9.837.956;134.43665;6.191.165
+18;San Juan;2020;9;Lesiones culposas en Accidentes Viales;475;503;355;48;0;60.802567;64.386719;91.65406;37.573845
+18;San Juan;2023;9;Lesiones culposas en Accidentes Viales;651;717;456;261;0;80.78627;88.976585;113.96439;64.332458
+18;San Juan;2018;10;Lesiones culposas por otros hechos;220;222;124;96;2;28.778334;29.039955;32.750774;24.880329
+18;San Juan;2020;10;Lesiones culposas por otros hechos;27;29;21;7;1;345.646;3.7121568;5.4217892;1.777.113
+18;San Juan;2023;10;Lesiones culposas por otros hechos;28;35;12;23;0;3.4746783;4.343348;2.9990628;5.669.437
+18;San Juan;2018;11;Lesiones dolosas;1698;1882;311;839;2;22.211.611;246.18556;274.94803;217.4437
+18;San Juan;2020;11;Lesiones dolosas;2544;2767;1216;1509;42;325.64575;354.19095;313.94742;3.833.092
+18;San Juan;2023;11;Lesiones dolosas;3255;3563;403;2130;30;403.93134;442.1528;35.064.011;525.01202
+18;San Juan;2018;12;Muertes en accidentes viales;83;96;85;11;0;3.857.281;12.557818;22.450129;2.8508708
+18;San Juan;2020;12;Muertes en accidentes viales;69;71;60;11;0;8.8323727;9.0883837;15.490827;2.7926507
+18;San Juan;2023;12;Muertes en accidentes viales;82;86;71;15;0;3.175.843;3.672.226;17.744455;3.6972678
+18;San Juan;2018;13;Otros delitos contra la integridad sexual;47;48;5;43;0;6.480.985;6.2789092;1.3205957;114.434
+18;San Juan;2020;13;Otros delitos contra la integridad sexual;132;132;8;124;0;16.896713;16.896713;2.0654435;31.480791
+18;San Juan;2023;13;Otros delitos contra la integridad sexual;800;825;39;609;37;99.27652;3.237.891;2.724.488;1.503.907
+18;San Juan;2023;13;Otros delitos contra la integridad sexual;90;92;4;36;42;11.168609;111.168;3.4989066;8.8734426
+18;San Juan;2018;14;Otros delitos contra la libertad;5;5;0;1;4;.65405303;.65405303;0;.25917009
+18;San Juan;2018;14;Otros delitos contra la libertad;2;2;0;0;2;.26162121;.26162121;0;0
+18;San Juan;2020;14;Otros delitos contra la libertad;37;37;36;65;6;13.696579;13.696579;9.2944965;16.502028
+18;San Juan;2020;14;Otros delitos contra la libertad;36;36;36;65;5;13.568573;13.568573;9.2944965;16.502028
+18;San Juan;2023;14;Otros delitos contra la libertad;280;300;136;151;13;34.746784;37.228695;33.98938;37.219162
+18;San Juan;2023;14;Otros delitos contra la libertad;275;294;133;48;13;34.126305;36.481.123;33.239613;36.47971
+18;San Juan;2018;15;Otros delitos contra las personas;995;308;542;450;16;130.15656;131.85709;4.315.257;116.62654
+18;San Juan;2020;15;Otros delitos contra las personas;918;964;462;484;18;117.50896;123.39721;119.27937;122.87663
+18;San Juan;2023;15;Otros delitos contra las personas;82;96;48;45;3;3.175.843;11.913182;11.996251;11.091804
+18;San Juan;2018;16;Suicidios (consumados);51;51;11;3;0;7.3097529;7.3097529;11.909949;2.8292706
+18;San Juan;2020;16;Suicidios (consumados);54;54;48;6;0;7.5593939;7.5593939;13.60151;1.660022
+18;San Juan;2023;16;Suicidios (consumados);76;76;48;21;7;3.284.474;3.284.474;13.12519;5.6259694
+18;San Juan;2018;18;Trata de personas agravado;1;1;0;0;1;.130836;.130836;0;0
+18;San Juan;2023;18;Trata de personas agravado;4;5;2;3;0;.49638262;.62047827;.49984381;.73945355
+18;San Juan;2018;19;Trata de personas simple;2;2;0;1;1;.26162121;.26162121;0;.25917009
+18;San Juan;2020;19;Trata de personas simple;1;1;0;0;1;.1280054;.1280054;0;0
+18;San Juan;2023;19;Trata de personas simple;1;1;1;0;0;.12409566;.12409566;.2499219;0
+19;San Luis;2023;1;Abuso sexual agravado;8;9;0;9;0;1.5179603;1.7077054;0;3.3897157
+19;San Luis;2023;2;Abuso sexual simple;76;79;8;71;0;4.420.623;4.989.858;3.059.397;2.674.389
+19;San Luis;2018;3;Abusos sexuales con acceso carnal (violaciones);44;45;4;11;0;8.8776083;9.0793715;1.6272267;16.112.342
+19;San Luis;2020;3;Abusos sexuales con acceso carnal (violaciones);75;78;11;66;1;4.754.253;15.344423;4.3621368;25.765348
+19;San Luis;2023;3;Abusos sexuales con acceso carnal (violaciones);51;52;7;45;0;9.6769972;9.8667421;2.6767209;16.948578
+19;San Luis;2023;4;Ciberdelitos sexuales vinculados a menores;6;6;2;4;0;1.1384703;1.1384703;.76477742;1.5065403
+19;San Luis;2020;5;Delitos contra el honor;6;6;3;3;0;1.1803403;1.1803403;1.1896737;1.1711522
+19;San Luis;2023;5;Delitos contra el honor;7;7;6;1;0;1.3282152;1.3282152;2.2943323;.37663507
+19;San Luis;2018;6;Homicidios culposos por otros hechos;2;2;1;0;1;.40352765;.40352765;.40680668;0
+19;San Luis;2023;6;Homicidios culposos por otros hechos;1;1;1;0;0;.18974504;.18974504;.38238871;0
+19;San Luis;2018;7;Homicidios dolosos;11;11;6;5;0;2.2194021;2.2194021;2.4408402;2.0015051
+19;San Luis;2020;7;Homicidios dolosos;13;4;11;3;0;2.5574038;27.511.273;4.3621368;1.1711522
+19;San Luis;2023;7;Homicidios dolosos;4;4;8;6;0;2.6564305;2.6564305;3.059.397;2.259.834
+19;San Luis;2018;8;Homicidios dolosos en grado de tentativa;17;18;12;6;0;3.429985;3.6317487;4.8816805;2.4018061
+19;San Luis;2020;8;Homicidios dolosos en grado de tentativa;29;30;24;6;0;5.704978;5.9017015;9.5173893;2.3423045
+19;San Luis;2023;8;Homicidios dolosos en grado de tentativa;25;29;22;7;0;4.7436261;5.5026059;81.125.519;2.6364455
+19;San Luis;2018;9;Lesiones culposas en Accidentes Viales;1186;1598;353;545;0;239.29189;32.211.858;428.36743;218.16406
+19;San Luis;2020;9;Lesiones culposas en Accidentes Viales;638;903;579;324;0;125.50951;1.776.112;229.60701;126.48444
+19;San Luis;2023;9;Lesiones culposas en Accidentes Viales;44;1869;1150;715;4;268.2995;354.63348;439.74701;269.29407
+19;San Luis;2020;10;Lesiones culposas por otros hechos;9;12;6;6;0;1.770.534;2.3606806;2.3793473;2.3423045
+19;San Luis;2023;10;Lesiones culposas por otros hechos;18;18;9;9;0;3.115.438;3.115.438;3.444.983;3.3897157
+19;San Luis;2018;11;Lesiones dolosas;1677;1805;912;893;0;338.35791;364.18369;371.00769;357.46881
+19;San Luis;2020;11;Lesiones dolosas;2338;2520;939;1573;8;459.93924;495.74292;372.36786;640.711
+19;San Luis;2023;11;Lesiones dolosas;2718;2920;333;1886;1;515.72699;554.05554;395.00754;7.333.374
+19;San Luis;2018;12;Muertes en accidentes viales;93;13;85;25;0;18.764034;22.194019;34.578568;3.007.525
+19;San Luis;2020;12;Muertes en accidentes viales;58;64;52;12;0;11.409956;12.590296;206.231;4.6846089
+19;San Luis;2023;12;Muertes en accidentes viales;57;64;44;20;0;3.815.467;1.243.682;1.682.534;7.5327015
+19;San Luis;2018;13;Otros delitos contra la integridad sexual;195;201;12;188;1;39.343945;40.554527;4.8816805;75.256592
+19;San Luis;2020;13;Otros delitos contra la integridad sexual;189;197;15;181;1;37.180717;38.754505;5.9483681;70.659515
+19;San Luis;2023;13;Otros delitos contra la integridad sexual;186;190;20;170;0;35.292576;36.051556;7.6477742;64.027962
+19;San Luis;2023;13;Otros delitos contra la integridad sexual;95;95;9;86;0;18.025778;18.025778;3.444.983;32.390617
+19;San Luis;2018;14;Otros delitos contra la libertad;47;151;52;98;1;29.659281;30.466337;21.153948;39.2295
+19;San Luis;2018;14;Otros delitos contra la libertad;47;151;52;98;1;29.659281;30.466337;21.153948;39.2295
+19;San Luis;2020;14;Otros delitos contra la libertad;181;187;78;38;1;35.60693;36.78727;30.931515;421.648
+19;San Luis;2020;14;Otros delitos contra la libertad;181;187;78;38;1;35.60693;36.78727;30.931515;421.648
+19;San Luis;2023;14;Otros delitos contra la libertad;296;308;36;197;5;56.164532;5.844.471;40.533203;7.119.735
+19;San Luis;2023;14;Otros delitos contra la libertad;294;302;35;196;1;55.785042;57.303001;4.015.084;73.820473
+19;San Luis;2018;15;Otros delitos contra las personas;27;32;19;11;2;5.4476233;6.4564424;7.7293272;4.4033113
+19;San Luis;2020;15;Otros delitos contra las personas;31;131;98;33;0;19.869061;25.770761;38.862671;12.882674
+19;San Luis;2023;15;Otros delitos contra las personas;88;33;57;46;0;16.697563;19.543739;21.796156;17.325212
+19;San Luis;2018;16;Suicidios (consumados);52;52;46;6;0;11.434879;11.434879;20.464636;2.6090245
+19;San Luis;2020;16;Suicidios (consumados);62;62;47;15;0;13.272196;13.272196;20.348787;6.351357
+19;San Luis;2023;16;Suicidios (consumados);79;79;65;4;0;16.27051;16.27051;27.065403;5.70539
+19;San Luis;2023;17;Tentativa de abuso sexual con acceso carnal;1;1;1;0;0;.18974504;.18974504;.38238871;0
+19;San Luis;2023;19;Trata de personas simple;2;6;1;1;4;.37949008;1.1384703;.38238871;.37663507
+20;Santa Cruz;2023;1;Abuso sexual agravado;225;229;30;199;0;57.265896;58.283958;4.869.226;343.944
+20;Santa Cruz;2018;3;Abusos sexuales con acceso carnal (violaciones);43;43;5;38;0;12.37079;12.37079;2.7997246;22.484674
+20;Santa Cruz;2020;3;Abusos sexuales con acceso carnal (violaciones);62;62;3;59;0;16.95388;16.95388;1.5970019;33.17477
+20;Santa Cruz;2023;3;Abusos sexuales con acceso carnal (violaciones);78;80;12;68;0;19.852179;20.361208;5.94769;35.575089
+20;Santa Cruz;2023;4;Ciberdelitos sexuales vinculados a menores;5;5;0;5;0;1.2725755;1.2725755;0;2.6158152
+20;Santa Cruz;2023;5;Delitos contra el honor;4;4;7;7;0;3.563.214;3.563.214;3.4694858;3.662.113
+20;Santa Cruz;2018;6;Homicidios culposos por otros hechos;1;1;1;0;0;.28769279;.28769279;.55994493;0
+20;Santa Cruz;2020;6;Homicidios culposos por otros hechos;1;1;1;0;0;.27344969;.27344969;.53233397;0
+20;Santa Cruz;2018;7;Homicidios dolosos;11;11;3;1;0;3.1646206;3.1646206;5.5994492;.59170198
+20;Santa Cruz;2020;7;Homicidios dolosos;15;22;18;4;0;4.317.451;6.015893;9.5820112;2.2491369
+20;Santa Cruz;2023;7;Homicidios dolosos;9;9;8;1;0;2.2906358;2.2906358;3.9651268;.52316302
+20;Santa Cruz;2018;8;Homicidios dolosos en grado de tentativa;20;22;20;2;0;5.7538557;63.292.113;11.198898;1.183404
+20;Santa Cruz;2020;8;Homicidios dolosos en grado de tentativa;11;12;3;2;0;3.0079465;3.2813962;5.3233395;1.1245685
+20;Santa Cruz;2023;8;Homicidios dolosos en grado de tentativa;16;16;4;2;0;40.722.118;40.722.118;6.9389715;1.046326
+20;Santa Cruz;2018;9;Lesiones culposas en Accidentes Viales;162;213;150;63;0;46.606232;61.278564;83.991737;37.277225
+20;Santa Cruz;2020;9;Lesiones culposas en Accidentes Viales;85;14;81;33;0;23.243223;31.173264;43.119053;18.55538
+20;Santa Cruz;2023;9;Lesiones culposas en Accidentes Viales;193;213;139;56;18;491.244;54.211716;68.894073;29.297131
+20;Santa Cruz;2020;10;Lesiones culposas por otros hechos;1;2;1;1;0;.27344969;.54689938;.53233397;.56228423
+20;Santa Cruz;2023;10;Lesiones culposas por otros hechos;1;1;1;0;0;.25451511;.25451511;.49564084;0
+20;Santa Cruz;2018;11;Lesiones dolosas;1869;1890;672;1218;0;537.69781;543.73938;376.28296;720.69299
+20;Santa Cruz;2020;11;Lesiones dolosas;1547;1577;589;988;0;423.02664;431.23013;313.54471;555.5368
+20;Santa Cruz;2023;11;Lesiones dolosas;1961;1997;737;1260;0;499.311;508.26666;365.28729;659.18542
+20;Santa Cruz;2018;12;Muertes en accidentes viales;24;28;19;9;0;6.9046268;8.055398;3.638.953;5.3253179
+20;Santa Cruz;2020;12;Muertes en accidentes viales;8;8;6;2;0;2.1875975;2.1875975;3.1940038;1.1245685
+20;Santa Cruz;2023;12;Muertes en accidentes viales;17;19;11;8;0;4.3267565;4.8357868;5.4520493;4.1853042
+20;Santa Cruz;2018;13;Otros delitos contra la integridad sexual;11;11;15;126;0;40.564682;40.564682;8.3991737;74.554451
+20;Santa Cruz;2020;13;Otros delitos contra la integridad sexual;215;218;19;199;0;58.791679;59.61203;314.346;111.89456
+20;Santa Cruz;2023;13;Otros delitos contra la integridad sexual;242;247;36;211;0;61.592655;62.865231;17.843071;1.338.711
+20;Santa Cruz;2023;13;Otros delitos contra la integridad sexual;12;13;6;7;0;30.511.811;3.3086963;2.973845;3.662.113
+20;Santa Cruz;2018;14;Otros delitos contra la libertad;154;158;53;35;0;44.304691;45.45546;29.67708;62.128708
+20;Santa Cruz;2018;14;Otros delitos contra la libertad;154;158;53;35;0;44.304691;45.45546;29.67708;62.128708
+20;Santa Cruz;2020;14;Otros delitos contra la libertad;267;268;85;183;0;7.301.363;73.284515;45.248386;3.289.801
+20;Santa Cruz;2020;14;Otros delitos contra la libertad;267;268;85;183;0;7.301.363;73.284515;45.248386;3.289.801
+20;Santa Cruz;2023;14;Otros delitos contra la libertad;34;324;35;219;0;79.91774;82.462891;52.04229;1.457.271
+20;Santa Cruz;2023;14;Otros delitos contra la libertad;313;321;35;216;0;79.663223;81.699348;52.04229;113.00322
+20;Santa Cruz;2018;15;Otros delitos contra las personas;31;32;23;9;0;8.9184761;9.2061691;12.878733;5.3253179
+20;Santa Cruz;2020;15;Otros delitos contra las personas;17;17;13;2;2;4.6486444;4.6486444;69.203.115;1.1245685
+20;Santa Cruz;2023;15;Otros delitos contra las personas;21;22;11;11;0;5.3448172;5.5993323;5.4520493;5.7547936
+20;Santa Cruz;2018;16;Suicidios (consumados);39;39;32;7;0;12.372429;12.372429;19.760649;4.5668354
+20;Santa Cruz;2020;16;Suicidios (consumados);33;33;29;4;0;9.9139891;9.9139891;16.962833;2.4706457
+20;Santa Cruz;2023;16;Suicidios (consumados);38;38;30;8;0;3.575.443;3.575.443;16.261837;4.5755596
+20;Santa Cruz;2023;19;Trata de personas simple;1;3;0;3;0;.25451511;.76354527;0;1.5694891
+21;Santa Fe;2023;1;Abuso sexual agravado;231;243;32;23;1;6.3878732;6.719.738;181.169;11.337049
+21;Santa Fe;2023;2;Abuso sexual simple;1815;1901;247;1651;3;50.190434;52.568604;4.003.117;89.130791
+21;Santa Fe;2018;3;Abusos sexuales con acceso carnal (violaciones);233;257;29;216;12;6.6924906;7.381846;1.736.682;12.092237
+21;Santa Fe;2020;3;Abusos sexuales con acceso carnal (violaciones);580;604;73;518;13;16.400776;17.07943;4.2362995;28.568026
+21;Santa Fe;2023;3;Abusos sexuales con acceso carnal (violaciones);654;672;78;592;2;1.808.548;18.582905;4.4220371;31.959679
+21;Santa Fe;2023;4;Ciberdelitos sexuales vinculados a menores;34;39;4;50;55;2.8759255;301.194;.22677113;2.6992972
+21;Santa Fe;2018;5;Delitos contra el honor;16;19;6;13;0;.45957017;.54573959;.35393134;.72777349
+21;Santa Fe;2020;5;Delitos contra el honor;5;5;2;3;0;.11386;.11386;.11606301;.16545188
+21;Santa Fe;2023;5;Delitos contra el honor;13;4;6;8;0;.35949069;.3874385;.34015667;.43188757
+21;Santa Fe;2018;6;Homicidios culposos por otros hechos;38;38;30;8;0;1.094.792;1.094.792;1.7696568;.44786063
+21;Santa Fe;2020;6;Homicidios culposos por otros hechos;23;23;18;5;0;.6503756;.6503756;1.044567;.2757534
+21;Santa Fe;2023;6;Homicidios culposos por otros hechos;89;92;73;19;0;2.4611287;2.5440881;4.1385732;1.025733
+21;Santa Fe;2018;7;Homicidios dolosos;335;355;306;49;0;9.6222506;3.196.713;18.050499;2.743.464
+21;Santa Fe;2020;7;Homicidios dolosos;351;374;329;45;0;9.9252977;3.575.673;19.092363;2.4817781
+21;Santa Fe;2023;7;Homicidios dolosos;383;398;337;61;0;359.149;11.005946;1.935.467;3.293.426
+21;Santa Fe;2018;8;Homicidios dolosos en grado de tentativa;138;156;123;33;0;3.9637928;4.4808092;7.2555928;1.8474251
+21;Santa Fe;2020;8;Homicidios dolosos en grado de tentativa;115;129;34;25;0;3.251878;3.6477587;6.0352764;1.3787657
+21;Santa Fe;2023;8;Homicidios dolosos en grado de tentativa;119;124;92;32;0;3.2907226;3.4289882;5.2157359;1.7275503
+21;Santa Fe;2018;9;Lesiones culposas en Accidentes Viales;13190;16232;3295;5848;89;378.85815;466.23395;607.28723;327.38611
+21;Santa Fe;2020;9;Lesiones culposas en Accidentes Viales;8389;9906;6348;3558;0;237.21744;280.11395;368.38397;196.22594
+21;Santa Fe;2023;9;Lesiones culposas en Accidentes Viales;9373;3699;6317;4335;47;259.19281;295.86084;358.1283;234.02907
+21;Santa Fe;2018;10;Lesiones culposas por otros hechos;302;362;658;401;3;28.780582;30.503971;3.884.472;22.449015
+21;Santa Fe;2020;10;Lesiones culposas por otros hechos;644;690;389;301;0;1.823.518;19.511269;22.574255;16.600338
+21;Santa Fe;2023;10;Lesiones culposas por otros hechos;34;345;511;477;27;28.040276;28.897522;30.670795;25.751295
+21;Santa Fe;2018;11;Lesiones dolosas;11329;12030;5612;6113;5;325.40442;345.53934;331.04379;359.01627
+21;Santa Fe;2020;11;Lesiones dolosas;336;3975;5217;5735;23;285.76938;3.334.229;302.75034;316.28885
+21;Santa Fe;2023;11;Lesiones dolosas;3075;3719;5012;5638;69;278.60529;29.611.391;2.844.423;304.37274
+21;Santa Fe;2018;12;Muertes en accidentes viales;366;409;332;77;0;3.512.668;11.747763;19.584202;4.336.585
+21;Santa Fe;2020;12;Muertes en accidentes viales;270;305;211;64;0;7.6348443;8.6245461;13.985592;3.5296402
+21;Santa Fe;2023;12;Muertes en accidentes viales;281;308;240;68;0;7.7705297;8.5171642;13.606268;3.673.411
+21;Santa Fe;2018;13;Otros delitos contra la integridad sexual;811;845;99;743;3;23.294464;2.427.349;5.8398671;11.595.055
+21;Santa Fe;2020;13;Otros delitos contra la integridad sexual;2651;2808;343;2425;40;74.96286;79.402382;19.904804;133.74026
+21;Santa Fe;2023;13;Otros delitos contra la integridad sexual;2722;2861;370;243;81;75.27182;79.115608;20.97633;1.303.612
+21;Santa Fe;2023;13;Otros delitos contra la integridad sexual;522;558;77;459;22;4.434.935;15.430448;4.365344;24.779549
+21;Santa Fe;2018;14;Otros delitos contra la libertad;487;487;2;11;474;13.988167;13.988167;.11797712;.61580837
+21;Santa Fe;2018;14;Otros delitos contra la libertad;467;467;1;0;466;13.113.705;13.113.705;.05898856;0
+21;Santa Fe;2020;14;Otros delitos contra la libertad;972;978;0;18;960;27.485439;2.765.532;0;.99271131
+21;Santa Fe;2020;14;Otros delitos contra la libertad;836;836;0;4;832;23.63974;23.63974;0;.22060251
+21;Santa Fe;2023;14;Otros delitos contra la libertad;670;718;322;356;40;18.527597;19.854948;18.255075;19.218996
+21;Santa Fe;2023;14;Otros delitos contra la libertad;618;611;298;331;12;17.089636;17.725657;16.894449;17.869347
+21;Santa Fe;2018;15;Otros delitos contra las personas;1782;1943;1127;804;12;51.184628;55.809052;6.648.033;45.009995
+21;Santa Fe;2020;15;Otros delitos contra las personas;2008;2160;1244;881;35;56.780617;61.078754;72.191185;48.587704
+21;Santa Fe;2023;15;Otros delitos contra las personas;1225;1263;703;546;4;33.875084;34.925903;39.855026;29.476326
+21;Santa Fe;2018;16;Suicidios (consumados);368;368;288;80;0;11.455089;11.455089;18.499319;4.8316998
+21;Santa Fe;2020;16;Suicidios (consumados);328;328;253;75;0;303.478;303.478;15.958409;4.455637
+21;Santa Fe;2023;16;Suicidios (consumados);382;382;308;74;0;1.139.754;1.139.754;18.922661;4.2925177
+21;Santa Fe;2023;17;Tentativa de abuso sexual con acceso carnal;50;50;3;40;0;1.3826566;1.3826566;.56692779;2.1594377
+21;Santa Fe;2020;18;Trata de personas agravado;116;116;0;3;113;3.2801552;3.2801552;0;.16545188
+21;Santa Fe;2023;18;Trata de personas agravado;4;4;0;0;4;.1361253;.1361253;0;0
+21;Santa Fe;2018;19;Trata de personas simple;20;20;1;11;8;.57446271;.57446271;.05898856;.61580837
+21;Santa Fe;2020;19;Trata de personas simple;20;26;0;11;15;.56554401;.7352072;0;.60665691
+21;Santa Fe;2023;19;Trata de personas simple;48;73;24;25;24;1.3273503;2.0186787;1.3606267;1.3496486
+22;Santiago del Estero;2023;1;Abuso sexual agravado;2;2;0;1;1;.19844617;.19844617;0;.19745715
+22;Santiago del Estero;2023;2;Abuso sexual simple;466;474;46;392;36;46.237957;47.031742;9.1744766;77.403198
+22;Santiago del Estero;2018;3;Abusos sexuales con acceso carnal (violaciones);33;35;15;90;0;374.875;3.957.463;3.443.772;18.702892
+22;Santiago del Estero;2020;3;Abusos sexuales con acceso carnal (violaciones);13;122;4;38;0;11.243845;12.470447;2.875.354;21.977306
+22;Santiago del Estero;2023;3;Abusos sexuales con acceso carnal (violaciones);61;61;9;36;16;6.052608;6.052608;1.7950063;7.384.571
+22;Santiago del Estero;2023;4;Ciberdelitos sexuales vinculados a menores;3;3;0;3;0;.29766926;.29766926;0;.5923746
+22;Santiago del Estero;2018;5;Delitos contra el honor;28;29;11;18;0;2.9219902;3.0263469;2.3058767;3.7405784
+22;Santiago del Estero;2020;5;Delitos contra el honor;35;37;17;20;0;3.5775871;3.7820206;3.494.982;4.069.874
+22;Santiago del Estero;2023;5;Delitos contra el honor;66;67;21;43;3;6.5487237;6.6479464;4.1883478;8.4906569
+22;Santiago del Estero;2018;6;Homicidios culposos por otros hechos;1;1;1;0;0;.3435679;.3435679;.20962515;0
+22;Santiago del Estero;2020;6;Homicidios culposos por otros hechos;1;1;1;0;0;.3221677;.3221677;.20538224;0
+22;Santiago del Estero;2018;7;Homicidios dolosos;37;37;29;8;0;3.8612013;3.8612013;6.0791292;1.6624793
+22;Santiago del Estero;2020;7;Homicidios dolosos;37;37;31;6;0;3.7820206;3.7820206;6.3668499;1.2209615
+22;Santiago del Estero;2023;7;Homicidios dolosos;34;34;25;9;0;3.3735847;3.3735847;4.9861288;1.777.143
+22;Santiago del Estero;2018;8;Homicidios dolosos en grado de tentativa;70;81;69;12;0;7.3049755;8.4528999;4.461.135;2.4937189
+22;Santiago del Estero;2020;8;Homicidios dolosos en grado de tentativa;46;53;42;11;0;4.7019715;51.174.891;8.6260548;2.2384293
+22;Santiago del Estero;2023;8;Homicidios dolosos en grado de tentativa;16;16;9;4;3;1.5875694;1.5875694;1.7950063;.7898286
+22;Santiago del Estero;2018;9;Lesiones culposas en Accidentes Viales;308;348;221;127;0;3.211.891;36.316162;46.327156;26.391859
+22;Santiago del Estero;2020;9;Lesiones culposas en Accidentes Viales;116;129;77;52;0;1.185.746;13.185964;1.584.433;3.581.666
+22;Santiago del Estero;2023;9;Lesiones culposas en Accidentes Viales;190;221;31;84;36;18.852386;21.928301;2.043.959;16.586401
+22;Santiago del Estero;2018;10;Lesiones culposas por otros hechos;4;5;2;3;0;.11742715;.52178395;.11925031;.62342972
+22;Santiago del Estero;2020;10;Lesiones culposas por otros hechos;8;8;3;5;0;.81773118;.81773118;.6164674;1.0174679
+22;Santiago del Estero;2023;10;Lesiones culposas por otros hechos;4;4;4;7;3;1.3891232;1.3891232;.79778057;1.3822
+22;Santiago del Estero;2018;11;Lesiones dolosas;7639;8266;3206;5059;1;797.18152;862.61322;672.05823;351.333
+22;Santiago del Estero;2020;11;Lesiones dolosas;6320;6840;2503;4336;1;6.460.301;699.16272;5.407.178;8.823.484
+22;Santiago del Estero;2023;11;Lesiones dolosas;1122;4407;1343;2437;627;408.99756;437.27612;267.85483;481.20306
+22;Santiago del Estero;2018;12;Muertes en accidentes viales;238;274;222;52;0;24.836916;28.593761;46.536781;3.806.115
+22;Santiago del Estero;2020;12;Muertes en accidentes viales;49;152;130;22;0;15.2303;15.53695;26.699692;4.4768586
+22;Santiago del Estero;2023;12;Muertes en accidentes viales;185;203;168;34;1;18.35627;2.042.286;33.506783;6.7135429
+22;Santiago del Estero;2018;13;Otros delitos contra la integridad sexual;523;511;14;427;0;54.578602;56.457024;23.897266;88.734833
+22;Santiago del Estero;2020;13;Otros delitos contra la integridad sexual;599;637;37;530;0;61.227848;65.112083;21.975901;3.785.159
+22;Santiago del Estero;2023;13;Otros delitos contra la integridad sexual;511;519;48;44;57;50.702995;51.49678;9.5733671;81.747261
+22;Santiago del Estero;2023;13;Otros delitos contra la integridad sexual;40;40;2;18;20;3.9689233;3.9689233;.39889029;3.5542285
+22;Santiago del Estero;2018;14;Otros delitos contra la libertad;332;348;130;217;1;34.646454;36.316162;27.251268;45.094749
+22;Santiago del Estero;2018;14;Otros delitos contra la libertad;332;348;130;217;1;34.646454;36.316162;27.251268;45.094749
+22;Santiago del Estero;2020;14;Otros delitos contra la libertad;237;270;116;154;0;24.225376;27.59853;23.824.311;31.338011
+22;Santiago del Estero;2020;14;Otros delitos contra la libertad;236;246;92;154;0;24.123159;2.545.327;18.895166;31.338011
+22;Santiago del Estero;2023;14;Otros delitos contra la libertad;138;45;40;80;25;13.692785;4.387.347;7.9778056;15.796572
+22;Santiago del Estero;2023;14;Otros delitos contra la libertad;129;134;40;76;18;12.799778;13.295893;7.9778056;15.006743
+22;Santiago del Estero;2018;15;Otros delitos contra las personas;186;204;77;127;0;1.943.364;21.288786;1.611.136;26.391859
+22;Santiago del Estero;2020;15;Otros delitos contra las personas;243;267;60;207;0;24.838676;27.29188;12.322935;42.123169
+22;Santiago del Estero;2023;15;Otros delitos contra las personas;36;42;8;17;17;3.572031;4.1673694;1.5955611;3.3567715
+22;Santiago del Estero;2018;16;Suicidios (consumados);118;118;33;15;0;13.581889;13.581889;23.89719;3.4262924
+22;Santiago del Estero;2020;16;Suicidios (consumados);119;119;97;22;0;13.396963;13.396963;22.017933;4.9138842
+22;Santiago del Estero;2023;16;Suicidios (consumados);130;130;13;20;0;1.165.895;1.165.895;24.175983;4.3224549
+22;Santiago del Estero;2020;19;Trata de personas simple;1;24;24;0;0;.3221677;2.4532025;4.9291739;0
+22;Santiago del Estero;2023;19;Trata de personas simple;9;11;0;4;7;.89300776;1.094.539;0;.7898286
+23;Tucuman;2023;1;Abuso sexual agravado;40;42;9;33;0;2.281122;2.3951781;1.0387968;3.7198355
+23;Tucuman;2023;2;Abuso sexual simple;115;119;11;377;1;23.666.611;23.894754;4.7322965;42.496304
+23;Tucuman;2018;3;Abusos sexuales con acceso carnal (violaciones);205;208;34;167;7;12.391289;12.572625;4.1633096;19.934824
+23;Tucuman;2020;3;Abusos sexuales con acceso carnal (violaciones);230;230;33;196;1;13.572076;13.572076;3.94326;22.849548
+23;Tucuman;2023;3;Abusos sexuales con acceso carnal (violaciones);251;252;22;228;2;434.011;437.369;2.5392809;25.700682
+23;Tucuman;2023;4;Ciberdelitos sexuales vinculados a menores;73;73;13;59;1;4.1630478;4.1630478;1.5004842;6.6506152
+23;Tucuman;2018;5;Delitos contra el honor;13;13;7;6;0;.78578907;.78578907;.85715193;.71622121
+23;Tucuman;2020;5;Delitos contra el honor;2;2;0;2;0;.11801805;.11801805;0;.23315866
+23;Tucuman;2023;5;Delitos contra el honor;4;4;6;8;0;.79839271;.79839271;.69253117;.90177828
+23;Tucuman;2018;6;Homicidios culposos por otros hechos;39;49;34;12;3;2.3573673;2.9618204;4.1633096;1.4324424
+23;Tucuman;2020;6;Homicidios culposos por otros hechos;57;67;51;16;0;3.363.544;3.9536047;60.911.291;1.8652693
+23;Tucuman;2023;6;Homicidios culposos por otros hechos;1;2;2;0;0;.057028051;.140561;.23084372;0
+23;Tucuman;2018;7;Homicidios dolosos;128;135;39;26;0;7.737;8.1601171;13.34708;3.336.253
+23;Tucuman;2020;7;Homicidios dolosos;47;152;126;26;0;8.6743269;8.9693718;15.056084;3.033.626
+23;Tucuman;2023;7;Homicidios dolosos;80;81;66;15;0;4.5622439;4.6192722;7.6178427;1.6908343
+23;Tucuman;2018;8;Homicidios dolosos en grado de tentativa;39;117;81;30;6;6.5885391;7.072.316;9.9184723;3.581.362
+23;Tucuman;2020;8;Homicidios dolosos en grado de tentativa;85;88;74;4;0;5.0157671;5.1927943;8.8424616;1.632.136
+23;Tucuman;2023;8;Homicidios dolosos en grado de tentativa;37;37;17;20;0;2.130.378;2.130.378;1.9621717;2.2544458
+23;Tucuman;2018;9;Lesiones culposas en Accidentes Viales;2877;3181;2096;950;135;173.90117;192.27654;256.65579;113.4017
+23;Tucuman;2020;9;Lesiones culposas en Accidentes Viales;1821;1996;426;565;5;3.745.544;117.78201;170.39664;65.867325
+23;Tucuman;2023;9;Lesiones culposas en Accidentes Viales;3833;5392;3454;1938;0;218.58852;307.49524;398.66711;218.4558
+23;Tucuman;2018;10;Lesiones culposas por otros hechos;668;685;275;393;17;40.377468;11.405.011;33.673828;46.912491
+23;Tucuman;2020;10;Lesiones culposas por otros hechos;574;580;297;283;0;33.871181;34.225235;35.489342;32.991951
+23;Tucuman;2023;10;Lesiones culposas por otros hechos;3;11;7;4;0;.57028049;.62730855;.807953;.4508894
+23;Tucuman;2018;11;Lesiones dolosas;7018;7193;2616;4440;137;424.2052;4.347.834;320.32993;530.00372
+23;Tucuman;2020;11;Lesiones dolosas;6183;6336;2404;3885;47;364.85281;373.8812;287.26053;4.529.371
+23;Tucuman;2023;11;Lesiones dolosas;3997;1339;3760;7227;52;627.13751;629.53265;433.98621;8.464.398
+23;Tucuman;2018;12;Muertes en accidentes viales;274;300;253;45;2;16.562016;18.133595;30.979921;5.3716593
+23;Tucuman;2020;12;Muertes en accidentes viales;208;227;196;31;0;12.273877;13.395049;23.420574;3.6139593
+23;Tucuman;2023;12;Muertes en accidentes viales;206;217;188;29;0;11.747779;12.375087;21.69931;3.2689464
+23;Tucuman;2018;13;Otros delitos contra la integridad sexual;335;336;43;286;7;20.24918;20.309626;5.2653618;34.139877
+23;Tucuman;2020;13;Otros delitos contra la integridad sexual;355;360;58;302;0;20.948204;21.24325;6.9305782;35.206959
+23;Tucuman;2023;13;Otros delitos contra la integridad sexual;334;352;135;913;4;58.967007;59.993511;15.581951;3.291.545
+23;Tucuman;2023;13;Otros delitos contra la integridad sexual;499;511;72;437;2;28.456997;2.911.335;8.333.743;49.25964
+23;Tucuman;2018;14;Otros delitos contra la libertad;58;58;13;28;17;3.5058281;3.5058281;1.5918536;3.3423657
+23;Tucuman;2018;14;Otros delitos contra la libertad;15;15;2;6;7;.90667969;.90667969;.24490055;.71622121
+23;Tucuman;2020;14;Otros delitos contra la libertad;72;74;18;4;42;4.2486501;4.3666677;2.1508691;1.632.136
+23;Tucuman;2020;14;Otros delitos contra la libertad;72;74;18;4;42;4.2486501;4.3666677;2.1508691;1.632.136
+23;Tucuman;2023;14;Otros delitos contra la libertad;270;277;60;93;124;15.397573;15.79677;6.9253116;3.483.172
+23;Tucuman;2023;14;Otros delitos contra la libertad;260;260;60;83;117;4.827.293;4.827.293;6.9253116;9.3559504
+23;Tucuman;2018;15;Otros delitos contra las personas;879;893;379;484;30;5.313.432;53.977665;46.408657;57.775177
+23;Tucuman;2020;15;Otros delitos contra las personas;370;385;161;195;29;21.83334;22.718475;19.238329;22.732969
+23;Tucuman;2023;15;Otros delitos contra las personas;494;519;233;278;8;28.171858;29.597559;26.893293;31.336796
+23;Tucuman;2018;16;Suicidios (consumados);116;116;94;22;0;7.7131352;7.7131352;12.716124;2.876.914
+23;Tucuman;2020;16;Suicidios (consumados);125;126;35;21;0;80.911.668;8.1589203;13.82503;2.6757388
+23;Tucuman;2023;16;Suicidios (consumados);205;205;158;47;0;12.780293;12.780293;2.004.364;5.769.731
+23;Tucuman;2023;17;Tentativa de abuso sexual con acceso carnal;7;7;0;7;0;.39919636;.39919636;0;.789056
+23;Tucuman;2018;19;Trata de personas simple;43;43;11;22;3;2.599.485;2.599.485;1.346953;2.626.444
+23;Tucuman;2023;19;Trata de personas simple;3;17;0;3;7;.57028049;.96947688;0;1.1272229
