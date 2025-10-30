@@ -1,0 +1,21 @@
+|1 |CABA                |2018 |6  |Homicidios culposos por otros hechos            |23    |24    |12    |8     |4    |
+|2 |Buenos Aires        |2018 |6  |Homicidios culposos por otros hechos            |62    |65    |39    |26    |0    |
+|4 |Cordoba             |2018 |6  |Homicidios culposos por otros hechos            |18    |20    |15    |5     |0    |
+|5 |Corrientes          |2018 |6  |Homicidios culposos por otros hechos            |6     |6     |2     |4     |0    |
+|6 |Chaco               |2018 |6  |Homicidios culposos por otros hechos            |36    |39    |82    |27    |0    |
+|7 |Chubut              |2018 |6  |Homicidios culposos por otros hechos            |1     |1     |1     |0     |0    |
+|8 |Entre Rios          |2018 |6  |Homicidios culposos por otros hechos            |8     |13    |7     |6     |0    |
+|9 |Formosa             |2018 |6  |Homicidios culposos por otros hechos            |4     |4     |1     |3     |0    |
+|10|Jujuy               |2018 |6  |Homicidios culposos por otros hechos            |4     |15    |8     |7     |0    |
+|11|La Pampa            |2018 |6  |Homicidios culposos por otros hechos            |9     |9     |8     |1     |0    |
+|13|Mendoza             |2018 |6  |Homicidios culposos por otros hechos            |173   |211   |82    |22    |137  |
+|14|Misiones            |2018 |6  |Homicidios culposos por otros hechos            |6     |6     |4     |2     |0    |
+|15|Neuquen             |2018 |6  |Homicidios culposos por otros hechos            |15    |17    |13    |4     |0    |
+|16|Rio Negro           |2018 |6  |Homicidios culposos por otros hechos            |3     |3     |3     |0     |0    |
+|17|Salta               |2018 |6  |Homicidios culposos por otros hechos            |5     |5     |2     |0     |3    |
+|18|San Juan            |2018 |6  |Homicidios culposos por otros hechos            |2     |2     |2     |0     |0    |
+|19|San Luis            |2018 |6  |Homicidios culposos por otros hechos            |2     |2     |1     |0     |1    |
+|20|Santa Cruz          |2018 |6  |Homicidios culposos por otros hechos            |1     |1     |1     |0     |0    |
+|21|Santa Fe            |2018 |6  |Homicidios culposos por otros hechos            |38    |38    |30    |8     |0    |
+|22|Santiago del Estero |2018 |6  |Homicidios culposos por otros hechos            |1     |1     |1     |0     |0    |
+|23|Tucuman             |2018 |6  |Homicidios culposos por otros hechos            |39    |49    |34    |12    |3    |

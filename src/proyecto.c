@@ -24,7 +24,6 @@ int main()
         printf(" || [2] GENERAR Reporte por Provincia                                      ||\n");
         printf(" || [3] GENERAR Reporte de Delitos totales por Anio                        ||\n");
         printf(" || [4] GENERAR Reporte de Delitos totales por Anio y tipo de delito       ||\n");
-        printf(" || [5] GENERAR graficos TORTA de        ||\n");
         printf(" || [0] Salir                                                              ||\n");
         printf("=============================================================================\n");
         printf("   >>> Seleccione una opcion: ");
@@ -65,27 +64,6 @@ int main()
                     separaraniodelito(delitos);
                 }
                 break;
-            case 5:
-                if (delitos == NULL)
-                {
-                    printf("NO HAY DATOS EN LA LISTA\n");
-                }
-                else
-                {
-                    if (graficar_tortas_2018_2020_2023(&db, "data", 8) == APP_OK) 
-                    {
-                        puts("Graficos generados correctamente:");
-                        puts("   data/torta_2018_tipos.png");
-                        puts("   data/torta_2020_tipos.png");
-                        puts("   data/torta_2023_tipos.png");
-                    } 
-                    else 
-                    {
-                        puts("Error al generar los graficos.");
-                    }
-                 }
-                break;
-            
             case 0:
                 seguir = 'n';
                 printf("\nSALIENDO DEL PROGRAMA...\n");

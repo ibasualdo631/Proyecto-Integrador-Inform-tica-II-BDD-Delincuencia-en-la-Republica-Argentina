@@ -1,0 +1,22 @@
+|2 |Buenos Aires        |2018 |11 |Lesiones dolosas                                |33481 |36338 |18865 |15809 |1664 |
+|3 |Catamarca           |2018 |11 |Lesiones dolosas                                |3801  |3803  |1550  |2197  |56   |
+|4 |Cordoba             |2018 |11 |Lesiones dolosas                                |844   |8640  |4480  |3848  |312  |
+|5 |Corrientes          |2018 |11 |Lesiones dolosas                                |1513  |1615  |644   |896   |75   |
+|6 |Chaco               |2018 |11 |Lesiones dolosas                                |2913  |3248  |1255  |1982  |11   |
+|7 |Chubut              |2018 |11 |Lesiones dolosas                                |2120  |2260  |939   |1321  |0    |
+|8 |Entre Rios          |2018 |11 |Lesiones dolosas                                |2691  |2754  |1507  |389   |158  |
+|9 |Formosa             |2018 |11 |Lesiones dolosas                                |3127  |3399  |1583  |1796  |20   |
+|10|Jujuy               |2018 |11 |Lesiones dolosas                                |1284  |1304  |630   |611   |33   |
+|11|La Pampa            |2018 |11 |Lesiones dolosas                                |1539  |1632  |498   |1134  |0    |
+|12|La Rioja            |2018 |11 |Lesiones dolosas                                |390   |394   |160   |234   |0    |
+|13|Mendoza             |2018 |11 |Lesiones dolosas                                |4949  |15112 |1746  |644   |6952 |
+|14|Misiones            |2018 |11 |Lesiones dolosas                                |2079  |2151  |320   |902   |229  |
+|15|Neuquen             |2018 |11 |Lesiones dolosas                                |449   |474   |915   |529   |30   |
+|16|Rio Negro           |2018 |11 |Lesiones dolosas                                |2220  |2457  |1151  |880   |426  |
+|17|Salta               |2018 |11 |Lesiones dolosas                                |7807  |7807  |2530  |2990  |2287 |
+|18|San Juan            |2018 |11 |Lesiones dolosas                                |1698  |1882  |311   |839   |2    |
+|19|San Luis            |2018 |11 |Lesiones dolosas                                |1677  |1805  |912   |893   |0    |
+|20|Santa Cruz          |2018 |11 |Lesiones dolosas                                |1869  |1890  |672   |1218  |0    |
+|21|Santa Fe            |2018 |11 |Lesiones dolosas                                |11329 |12030 |5612  |6113  |5    |
+|22|Santiago del Estero |2018 |11 |Lesiones dolosas                                |7639  |8266  |3206  |5059  |1    |
+|23|Tucuman             |2018 |11 |Lesiones dolosas                                |7018  |7193  |2616  |4440  |137  |

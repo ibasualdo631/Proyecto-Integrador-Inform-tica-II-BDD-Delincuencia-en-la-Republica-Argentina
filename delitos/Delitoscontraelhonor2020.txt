@@ -1,0 +1,16 @@
+|1 |CABA                |2020 |5  |Delitos contra el honor                         |17    |18    |4     |3     |1    |
+|4 |Cordoba             |2020 |5  |Delitos contra el honor                         |39    |40    |11    |23    |6    |
+|5 |Corrientes          |2020 |5  |Delitos contra el honor                         |8     |9     |4     |5     |0    |
+|7 |Chubut              |2020 |5  |Delitos contra el honor                         |31    |32    |18    |4     |0    |
+|8 |Entre Rios          |2020 |5  |Delitos contra el honor                         |338   |343   |40    |197   |6    |
+|9 |Formosa             |2020 |5  |Delitos contra el honor                         |3     |3     |8     |2     |0    |
+|10|Jujuy               |2020 |5  |Delitos contra el honor                         |182   |185   |83    |31    |1    |
+|13|Mendoza             |2020 |5  |Delitos contra el honor                         |40    |46    |2     |5     |39   |
+|14|Misiones            |2020 |5  |Delitos contra el honor                         |3     |3     |7     |3     |0    |
+|15|Neuquen             |2020 |5  |Delitos contra el honor                         |13    |13    |6     |7     |0    |
+|16|Rio Negro           |2020 |5  |Delitos contra el honor                         |8     |8     |3     |1     |4    |
+|18|San Juan            |2020 |5  |Delitos contra el honor                         |2     |2     |2     |0     |0    |
+|19|San Luis            |2020 |5  |Delitos contra el honor                         |6     |6     |3     |3     |0    |
+|21|Santa Fe            |2020 |5  |Delitos contra el honor                         |5     |5     |2     |3     |0    |
+|22|Santiago del Estero |2020 |5  |Delitos contra el honor                         |35    |37    |17    |20    |0    |
+|23|Tucuman             |2020 |5  |Delitos contra el honor                         |2     |2     |0     |2     |0    |

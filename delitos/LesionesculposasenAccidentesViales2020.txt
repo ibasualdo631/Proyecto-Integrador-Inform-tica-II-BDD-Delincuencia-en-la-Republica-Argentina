@@ -1,0 +1,22 @@
+|1 |CABA                |2020 |9  |Lesiones culposas en Accidentes Viales          |6457  |8381  |5234  |2255  |892  |
+|2 |Buenos Aires        |2020 |9  |Lesiones culposas en Accidentes Viales          |25408 |28799 |2044  |8377  |8    |
+|3 |Catamarca           |2020 |9  |Lesiones culposas en Accidentes Viales          |1260  |117   |304   |111   |2    |
+|4 |Cordoba             |2020 |9  |Lesiones culposas en Accidentes Viales          |5282  |5925  |3785  |1964  |176  |
+|5 |Corrientes          |2020 |9  |Lesiones culposas en Accidentes Viales          |376   |422   |272   |131   |19   |
+|6 |Chaco               |2020 |9  |Lesiones culposas en Accidentes Viales          |945   |1343  |924   |118   |1    |
+|7 |Chubut              |2020 |9  |Lesiones culposas en Accidentes Viales          |219   |283   |200   |82    |1    |
+|8 |Entre Rios          |2020 |9  |Lesiones culposas en Accidentes Viales          |1986  |2187  |480   |707   |0    |
+|9 |Formosa             |2020 |9  |Lesiones culposas en Accidentes Viales          |648   |769   |426   |343   |0    |
+|10|Jujuy               |2020 |9  |Lesiones culposas en Accidentes Viales          |812   |1317  |960   |352   |5    |
+|12|La Rioja            |2020 |9  |Lesiones culposas en Accidentes Viales          |1611  |1943  |1222  |721   |0    |
+|13|Mendoza             |2020 |9  |Lesiones culposas en Accidentes Viales          |164   |23    |42    |27    |11   |
+|14|Misiones            |2020 |9  |Lesiones culposas en Accidentes Viales          |737   |950   |673   |267   |3    |
+|15|Neuquen             |2020 |9  |Lesiones culposas en Accidentes Viales          |145   |1382  |942   |437   |3    |
+|16|Rio Negro           |2020 |9  |Lesiones culposas en Accidentes Viales          |323   |363   |43    |78    |42   |
+|17|Salta               |2020 |9  |Lesiones culposas en Accidentes Viales          |3340  |3340  |1512  |500   |1328 |
+|18|San Juan            |2020 |9  |Lesiones culposas en Accidentes Viales          |475   |503   |355   |48    |0    |
+|19|San Luis            |2020 |9  |Lesiones culposas en Accidentes Viales          |638   |903   |579   |324   |0    |
+|20|Santa Cruz          |2020 |9  |Lesiones culposas en Accidentes Viales          |85    |14    |81    |33    |0    |
+|21|Santa Fe            |2020 |9  |Lesiones culposas en Accidentes Viales          |8389  |9906  |6348  |3558  |0    |
+|22|Santiago del Estero |2020 |9  |Lesiones culposas en Accidentes Viales          |116   |129   |77    |52    |0    |
+|23|Tucuman             |2020 |9  |Lesiones culposas en Accidentes Viales          |1821  |1996  |426   |565   |5    |

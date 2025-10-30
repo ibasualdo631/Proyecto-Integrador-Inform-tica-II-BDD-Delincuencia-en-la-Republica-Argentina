@@ -3,6 +3,7 @@
         "PROYECTO.C": "cpp",
         "COPIA_PROYECTO.C": "cpp",
         "tempCodeRunnerFile.C": "cpp",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "carga.h": "c"
     }
 }

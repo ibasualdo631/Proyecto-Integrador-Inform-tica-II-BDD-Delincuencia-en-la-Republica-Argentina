@@ -1,0 +1,428 @@
+|1 |CABA                |2023 |1  |Abuso sexual agravado                           |13    |4     |3     |9     |2    |
+|1 |CABA                |2023 |2  |Abuso sexual simple                             |1729  |1787  |275   |1326  |186  |
+|1 |CABA                |2023 |3  |Abusos sexuales con acceso carnal (violacion    |301   |309   |37    |238   |34   |
+|1 |CABA                |2023 |4  |Ciberdelitos sexuales vinculados a menores      |79    |81    |15    |59    |7    |
+|1 |CABA                |2023 |5  |Delitos contra el honor                         |11    |11    |7     |3     |1    |
+|1 |CABA                |2023 |6  |Homicidios culposos por otros hechos            |24    |27    |19    |8     |0    |
+|1 |CABA                |2023 |7  |Homicidios dolosos                              |89    |91    |74    |17    |0    |
+|1 |CABA                |2023 |8  |Homicidios dolosos en grado de tentativa        |39    |116   |30    |16    |0    |
+|1 |CABA                |2023 |9  |Lesiones culposas en Accidentes Viales          |3311  |12129 |6743  |3611  |1775 |
+|1 |CABA                |2023 |10 |Lesiones culposas por otros hechos              |243   |256   |112   |78    |66   |
+|1 |CABA                |2023 |11 |Lesiones dolosas                                |1134  |1488  |4948  |5204  |1336 |
+|1 |CABA                |2023 |12 |Muertes en accidentes viales                    |32    |34    |69    |35    |0    |
+|1 |CABA                |2023 |13 |Otros delitos contra la integridad sexual       |1972  |2036  |328   |485   |223  |
+|1 |CABA                |2023 |13 |Otros delitos contra la integridad sexual       |48    |151   |34    |89    |28   |
+|1 |CABA                |2023 |14 |Otros delitos contra la libertad                |1331  |1381  |552   |580   |249  |
+|1 |CABA                |2023 |14 |Otros delitos contra la libertad                |1224  |1226  |545   |515   |166  |
+|1 |CABA                |2023 |15 |Otros delitos contra las personas               |428   |430   |182   |158   |90   |
+|1 |CABA                |2023 |16 |Suicidios (consumados)                          |184   |184   |120   |64    |0    |
+|1 |CABA                |2023 |17 |Tentativa de abuso sexual con acceso carnal     |3     |3     |1     |2     |0    |
+|1 |CABA                |2023 |18 |Trata de personas agravado                      |24    |24    |0     |1     |23   |
+|1 |CABA                |2023 |19 |Trata de personas simple                        |83    |131   |7     |64    |60   |
+|2 |Buenos Aires        |2023 |1  |Abuso sexual agravado                           |243   |305   |40    |265   |0    |
+|2 |Buenos Aires        |2023 |2  |Abuso sexual simple                             |1163  |5099  |678   |4400  |21   |
+|2 |Buenos Aires        |2023 |3  |Abusos sexuales con acceso carnal (violacion    |2211  |2242  |220   |2020  |2    |
+|2 |Buenos Aires        |2023 |4  |Ciberdelitos sexuales vinculados a menores      |53    |55    |0     |4     |51   |
+|2 |Buenos Aires        |2023 |6  |Homicidios culposos por otros hechos            |87    |39    |68    |38    |3    |
+|2 |Buenos Aires        |2023 |7  |Homicidios dolosos                              |805   |829   |700   |129   |0    |
+|2 |Buenos Aires        |2023 |8  |Homicidios dolosos en grado de tentativa        |721   |796   |578   |199   |19   |
+|2 |Buenos Aires        |2023 |9  |Lesiones culposas en Accidentes Viales          |34909 |40401 |24480 |4686  |1235 |
+|2 |Buenos Aires        |2023 |10 |Lesiones culposas por otros hechos              |377   |147   |478   |660   |9    |
+|2 |Buenos Aires        |2023 |11 |Lesiones dolosas                                |63606 |68363 |25645 |40884 |1834 |
+|2 |Buenos Aires        |2023 |12 |Muertes en accidentes viales                    |979   |390   |802   |274   |4    |
+|2 |Buenos Aires        |2023 |13 |Otros delitos contra la integridad sexual       |13135 |15599 |2159  |13313 |127  |
+|2 |Buenos Aires        |2023 |13 |Otros delitos contra la integridad sexual       |8616  |3073  |428   |8593  |52   |
+|2 |Buenos Aires        |2023 |14 |Otros delitos contra la libertad                |4787  |5127  |1633  |2966  |528  |
+|2 |Buenos Aires        |2023 |14 |Otros delitos contra la libertad                |4762  |5035  |1596  |2921  |518  |
+|2 |Buenos Aires        |2023 |15 |Otros delitos contra las personas               |1750  |1860  |354   |629   |177  |
+|2 |Buenos Aires        |2023 |16 |Suicidios (consumados)                          |1399  |1399  |376   |274   |49   |
+|2 |Buenos Aires        |2023 |17 |Tentativa de abuso sexual con acceso carnal     |60    |67    |13    |51    |3    |
+|2 |Buenos Aires        |2023 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
+|2 |Buenos Aires        |2023 |19 |Trata de personas simple                        |24    |91    |37    |45    |9    |
+|3 |Catamarca           |2023 |2  |Abuso sexual simple                             |98    |98    |2     |87    |9    |
+|3 |Catamarca           |2023 |3  |Abusos sexuales con acceso carnal (violacion    |12    |12    |0     |12    |0    |
+|3 |Catamarca           |2023 |4  |Ciberdelitos sexuales vinculados a menores      |5     |5     |1     |4     |0    |
+|3 |Catamarca           |2023 |5  |Delitos contra el honor                         |76    |76    |20    |51    |5    |
+|3 |Catamarca           |2023 |7  |Homicidios dolosos                              |5     |5     |5     |0     |0    |
+|3 |Catamarca           |2023 |8  |Homicidios dolosos en grado de tentativa        |4     |4     |2     |2     |0    |
+|3 |Catamarca           |2023 |9  |Lesiones culposas en Accidentes Viales          |247   |2181  |1311  |818   |22   |
+|3 |Catamarca           |2023 |11 |Lesiones dolosas                                |489   |489   |886   |588   |15   |
+|3 |Catamarca           |2023 |12 |Muertes en accidentes viales                    |59    |62    |54    |8     |0    |
+|3 |Catamarca           |2023 |13 |Otros delitos contra la integridad sexual       |356   |356   |8     |300   |48   |
+|3 |Catamarca           |2023 |13 |Otros delitos contra la integridad sexual       |252   |252   |5     |208   |39   |
+|3 |Catamarca           |2023 |14 |Otros delitos contra la libertad                |151   |151   |50    |94    |7    |
+|3 |Catamarca           |2023 |14 |Otros delitos contra la libertad                |151   |151   |50    |94    |7    |
+|3 |Catamarca           |2023 |15 |Otros delitos contra las personas               |2304  |2307  |340   |1911  |26   |
+|3 |Catamarca           |2023 |16 |Suicidios (consumados)                          |56    |56    |50    |6     |0    |
+|3 |Catamarca           |2023 |17 |Tentativa de abuso sexual con acceso carnal     |1     |1     |0     |1     |0    |
+|4 |Cordoba             |2023 |1  |Abuso sexual agravado                           |19    |19    |2     |15    |2    |
+|4 |Cordoba             |2023 |2  |Abuso sexual simple                             |286   |292   |35    |195   |62   |
+|4 |Cordoba             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |225   |229   |4     |191   |24   |
+|4 |Cordoba             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |35    |35    |4     |6     |25   |
+|4 |Cordoba             |2023 |5  |Delitos contra el honor                         |49    |49    |11    |35    |3    |
+|4 |Cordoba             |2023 |6  |Homicidios culposos por otros hechos            |19    |20    |18    |2     |0    |
+|4 |Cordoba             |2023 |7  |Homicidios dolosos                              |115   |116   |89    |27    |0    |
+|4 |Cordoba             |2023 |8  |Homicidios dolosos en grado de tentativa        |1     |1     |0     |1     |0    |
+|4 |Cordoba             |2023 |9  |Lesiones culposas en Accidentes Viales          |7799  |8428  |3332  |2319  |2777 |
+|4 |Cordoba             |2023 |10 |Lesiones culposas por otros hechos              |611   |682   |282   |267   |133  |
+|4 |Cordoba             |2023 |11 |Lesiones dolosas                                |6591  |6879  |3497  |2876  |506  |
+|4 |Cordoba             |2023 |12 |Muertes en accidentes viales                    |371   |113   |337   |75    |1    |
+|4 |Cordoba             |2023 |13 |Otros delitos contra la integridad sexual       |834   |844   |76    |473   |295  |
+|4 |Cordoba             |2023 |13 |Otros delitos contra la integridad sexual       |480   |484   |35    |243   |206  |
+|4 |Cordoba             |2023 |14 |Otros delitos contra la libertad                |861   |906   |254   |300   |352  |
+|4 |Cordoba             |2023 |14 |Otros delitos contra la libertad                |857   |864   |247   |291   |326  |
+|4 |Cordoba             |2023 |15 |Otros delitos contra las personas               |28020 |28176 |7333  |16320 |4523 |
+|4 |Cordoba             |2023 |16 |Suicidios (consumados)                          |289   |289   |226   |63    |0    |
+|4 |Cordoba             |2023 |17 |Tentativa de abuso sexual con acceso carnal     |4     |4     |0     |4     |0    |
+|4 |Cordoba             |2023 |18 |Trata de personas agravado                      |1     |1     |0     |1     |0    |
+|4 |Cordoba             |2023 |19 |Trata de personas simple                        |3     |11    |7     |8     |26   |
+|5 |Corrientes          |2023 |1  |Abuso sexual agravado                           |18    |18    |0     |1     |17   |
+|5 |Corrientes          |2023 |2  |Abuso sexual simple                             |261   |261   |3     |18    |240  |
+|5 |Corrientes          |2023 |3  |Abusos sexuales con acceso carnal (violacion    |113   |113   |2     |9     |32   |
+|5 |Corrientes          |2023 |4  |Ciberdelitos sexuales vinculados a menores      |1     |1     |0     |0     |1    |
+|5 |Corrientes          |2023 |5  |Delitos contra el honor                         |3     |3     |0     |0     |3    |
+|5 |Corrientes          |2023 |6  |Homicidios culposos por otros hechos            |31    |31    |0     |0     |31   |
+|5 |Corrientes          |2023 |7  |Homicidios dolosos                              |11    |43    |31    |12    |0    |
+|5 |Corrientes          |2023 |8  |Homicidios dolosos en grado de tentativa        |24    |24    |5     |1     |18   |
+|5 |Corrientes          |2023 |9  |Lesiones culposas en Accidentes Viales          |811   |811   |28    |23    |760  |
+|5 |Corrientes          |2023 |10 |Lesiones culposas por otros hechos              |6     |6     |0     |0     |6    |
+|5 |Corrientes          |2023 |11 |Lesiones dolosas                                |2568  |2568  |63    |122   |2383 |
+|5 |Corrientes          |2023 |12 |Muertes en accidentes viales                    |82    |94    |80    |4     |0    |
+|5 |Corrientes          |2023 |13 |Otros delitos contra la integridad sexual       |382   |382   |3     |24    |355  |
+|5 |Corrientes          |2023 |13 |Otros delitos contra la integridad sexual       |91    |91    |0     |4     |87   |
+|5 |Corrientes          |2023 |14 |Otros delitos contra la libertad                |237   |238   |7     |13    |218  |
+|5 |Corrientes          |2023 |14 |Otros delitos contra la libertad                |234   |235   |7     |13    |215  |
+|5 |Corrientes          |2023 |15 |Otros delitos contra las personas               |33    |33    |5     |9     |296  |
+|5 |Corrientes          |2023 |16 |Suicidios (consumados)                          |78    |78    |62    |16    |0    |
+|5 |Corrientes          |2023 |17 |Tentativa de abuso sexual con acceso carnal     |11    |11    |0     |1     |3    |
+|5 |Corrientes          |2023 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
+|5 |Corrientes          |2023 |19 |Trata de personas simple                        |2     |2     |0     |0     |2    |
+|6 |Chaco               |2023 |1  |Abuso sexual agravado                           |31    |112   |8     |34    |0    |
+|6 |Chaco               |2023 |2  |Abuso sexual simple                             |377   |401   |40    |361   |0    |
+|6 |Chaco               |2023 |3  |Abusos sexuales con acceso carnal (violacion    |129   |131   |4     |116   |1    |
+|6 |Chaco               |2023 |4  |Ciberdelitos sexuales vinculados a menores      |22    |22    |5     |4     |3    |
+|6 |Chaco               |2023 |6  |Homicidios culposos por otros hechos            |173   |182   |135   |47    |0    |
+|6 |Chaco               |2023 |7  |Homicidios dolosos                              |60    |62    |52    |3     |0    |
+|6 |Chaco               |2023 |8  |Homicidios dolosos en grado de tentativa        |13    |4     |8     |6     |0    |
+|6 |Chaco               |2023 |9  |Lesiones culposas en Accidentes Viales          |1686  |2234  |1382  |851   |1    |
+|6 |Chaco               |2023 |10 |Lesiones culposas por otros hechos              |18    |20    |15    |5     |0    |
+|6 |Chaco               |2023 |11 |Lesiones dolosas                                |2832  |3059  |309   |2044  |6    |
+|6 |Chaco               |2023 |12 |Muertes en accidentes viales                    |185   |203   |161   |42    |0    |
+|6 |Chaco               |2023 |13 |Otros delitos contra la integridad sexual       |573   |611   |61    |547   |3    |
+|6 |Chaco               |2023 |13 |Otros delitos contra la integridad sexual       |73    |76    |8     |68    |0    |
+|6 |Chaco               |2023 |14 |Otros delitos contra la libertad                |185   |209   |58    |11    |3    |
+|6 |Chaco               |2023 |14 |Otros delitos contra la libertad                |162   |166   |37    |128   |1    |
+|6 |Chaco               |2023 |15 |Otros delitos contra las personas               |49    |158   |88    |65    |5    |
+|6 |Chaco               |2023 |16 |Suicidios (consumados)                          |153   |153   |120   |33    |0    |
+|6 |Chaco               |2023 |18 |Trata de personas agravado                      |2     |19    |17    |2     |0    |
+|6 |Chaco               |2023 |19 |Trata de personas simple                        |21    |24    |4     |11    |9    |
+|7 |Chubut              |2023 |1  |Abuso sexual agravado                           |47    |51    |13    |32    |6    |
+|7 |Chubut              |2023 |2  |Abuso sexual simple                             |348   |357   |35    |322   |0    |
+|7 |Chubut              |2023 |3  |Abusos sexuales con acceso carnal (violacion    |193   |201   |24    |173   |4    |
+|7 |Chubut              |2023 |4  |Ciberdelitos sexuales vinculados a menores      |33    |34    |3     |24    |7    |
+|7 |Chubut              |2023 |5  |Delitos contra el honor                         |95    |96    |58    |28    |3    |
+|7 |Chubut              |2023 |6  |Homicidios culposos por otros hechos            |4     |5     |1     |0     |4    |
+|7 |Chubut              |2023 |7  |Homicidios dolosos                              |30    |30    |26    |4     |0    |
+|7 |Chubut              |2023 |8  |Homicidios dolosos en grado de tentativa        |33    |34    |27    |7     |0    |
+|7 |Chubut              |2023 |9  |Lesiones culposas en Accidentes Viales          |356   |512   |300   |211   |1    |
+|7 |Chubut              |2023 |10 |Lesiones culposas por otros hechos              |535   |566   |205   |351   |3    |
+|7 |Chubut              |2023 |11 |Lesiones dolosas                                |2055  |2160  |933   |1130  |97   |
+|7 |Chubut              |2023 |12 |Muertes en accidentes viales                    |23    |26    |21    |5     |0    |
+|7 |Chubut              |2023 |13 |Otros delitos contra la integridad sexual       |561   |590   |79    |474   |37   |
+|7 |Chubut              |2023 |13 |Otros delitos contra la integridad sexual       |84    |89    |17    |68    |4    |
+|7 |Chubut              |2023 |14 |Otros delitos contra la libertad                |592   |631   |238   |289   |34   |
+|7 |Chubut              |2023 |14 |Otros delitos contra la libertad                |590   |629   |238   |287   |34   |
+|7 |Chubut              |2023 |15 |Otros delitos contra las personas               |1138  |1223  |369   |821   |33   |
+|7 |Chubut              |2023 |16 |Suicidios (consumados)                          |52    |52    |11    |11    |0    |
+|7 |Chubut              |2023 |17 |Tentativa de abuso sexual con acceso carnal     |49    |59    |11    |28    |20   |
+|7 |Chubut              |2023 |19 |Trata de personas simple                        |2     |2     |0     |2     |0    |
+|8 |Entre Rios          |2023 |1  |Abuso sexual agravado                           |11    |11    |3     |8     |0    |
+|8 |Entre Rios          |2023 |2  |Abuso sexual simple                             |271   |278   |40    |235   |3    |
+|8 |Entre Rios          |2023 |3  |Abusos sexuales con acceso carnal (violacion    |80    |81    |13    |68    |0    |
+|8 |Entre Rios          |2023 |4  |Ciberdelitos sexuales vinculados a menores      |4     |4     |1     |3     |0    |
+|8 |Entre Rios          |2023 |5  |Delitos contra el honor                         |27    |27    |18    |9     |0    |
+|8 |Entre Rios          |2023 |6  |Homicidios culposos por otros hechos            |8     |8     |5     |2     |1    |
+|8 |Entre Rios          |2023 |7  |Homicidios dolosos                              |40    |40    |32    |8     |0    |
+|8 |Entre Rios          |2023 |8  |Homicidios dolosos en grado de tentativa        |34    |37    |27    |3     |0    |
+|8 |Entre Rios          |2023 |9  |Lesiones culposas en Accidentes Viales          |1817  |1973  |1225  |725   |23   |
+|8 |Entre Rios          |2023 |10 |Lesiones culposas por otros hechos              |277   |286   |183   |98    |5    |
+|8 |Entre Rios          |2023 |11 |Lesiones dolosas                                |2116  |2462  |437   |978   |47   |
+|8 |Entre Rios          |2023 |12 |Muertes en accidentes viales                    |128   |139   |38    |31    |0    |
+|8 |Entre Rios          |2023 |13 |Otros delitos contra la integridad sexual       |322   |329   |59    |265   |5    |
+|8 |Entre Rios          |2023 |13 |Otros delitos contra la integridad sexual       |26    |26    |13    |11    |2    |
+|8 |Entre Rios          |2023 |14 |Otros delitos contra la libertad                |23    |25    |4     |11    |0    |
+|8 |Entre Rios          |2023 |14 |Otros delitos contra la libertad                |22    |24    |13    |11    |0    |
+|8 |Entre Rios          |2023 |15 |Otros delitos contra las personas               |3540  |3674  |1319  |2318  |37   |
+|8 |Entre Rios          |2023 |16 |Suicidios (consumados)                          |247   |247   |206   |11    |0    |
+|8 |Entre Rios          |2023 |17 |Tentativa de abuso sexual con acceso carnal     |3     |3     |2     |8     |0    |
+|8 |Entre Rios          |2023 |19 |Trata de personas simple                        |1     |1     |1     |0     |0    |
+|9 |Formosa             |2023 |1  |Abuso sexual agravado                           |4     |4     |0     |4     |0    |
+|9 |Formosa             |2023 |2  |Abuso sexual simple                             |198   |223   |20    |199   |4    |
+|9 |Formosa             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |116   |130   |7     |121   |2    |
+|9 |Formosa             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |4     |4     |0     |4     |0    |
+|9 |Formosa             |2023 |6  |Homicidios culposos por otros hechos            |5     |6     |1     |5     |0    |
+|9 |Formosa             |2023 |7  |Homicidios dolosos                              |21    |21    |4     |7     |0    |
+|9 |Formosa             |2023 |8  |Homicidios dolosos en grado de tentativa        |66    |73    |56    |17    |0    |
+|9 |Formosa             |2023 |9  |Lesiones culposas en Accidentes Viales          |880   |145   |588   |557   |0    |
+|9 |Formosa             |2023 |10 |Lesiones culposas por otros hechos              |5     |5     |2     |0     |3    |
+|9 |Formosa             |2023 |11 |Lesiones dolosas                                |3084  |3444  |1317  |2124  |3    |
+|9 |Formosa             |2023 |12 |Muertes en accidentes viales                    |71    |87    |59    |28    |0    |
+|9 |Formosa             |2023 |13 |Otros delitos contra la integridad sexual       |319   |360   |33    |323   |4    |
+|9 |Formosa             |2023 |13 |Otros delitos contra la integridad sexual       |67    |79    |3     |69    |0    |
+|9 |Formosa             |2023 |14 |Otros delitos contra la libertad                |539   |573   |208   |365   |0    |
+|9 |Formosa             |2023 |14 |Otros delitos contra la libertad                |538   |571   |208   |363   |0    |
+|9 |Formosa             |2023 |15 |Otros delitos contra las personas               |36    |126   |73    |53    |0    |
+|9 |Formosa             |2023 |16 |Suicidios (consumados)                          |78    |78    |60    |18    |0    |
+|9 |Formosa             |2023 |17 |Tentativa de abuso sexual con acceso carnal     |46    |50    |3     |47    |0    |
+|9 |Formosa             |2023 |19 |Trata de personas simple                        |1     |2     |0     |2     |0    |
+|10|Jujuy               |2023 |1  |Abuso sexual agravado                           |71    |75    |3     |64    |1    |
+|10|Jujuy               |2023 |2  |Abuso sexual simple                             |495   |542   |83    |445   |4    |
+|10|Jujuy               |2023 |3  |Abusos sexuales con acceso carnal (violacion    |153   |162   |15    |44    |3    |
+|10|Jujuy               |2023 |4  |Ciberdelitos sexuales vinculados a menores      |25    |26    |2     |23    |1    |
+|10|Jujuy               |2023 |5  |Delitos contra el honor                         |307   |322   |122   |200   |0    |
+|10|Jujuy               |2023 |7  |Homicidios dolosos                              |17    |17    |13    |4     |0    |
+|10|Jujuy               |2023 |8  |Homicidios dolosos en grado de tentativa        |17    |21    |11    |8     |2    |
+|10|Jujuy               |2023 |9  |Lesiones culposas en Accidentes Viales          |1322  |2056  |118   |632   |6    |
+|10|Jujuy               |2023 |10 |Lesiones culposas por otros hechos              |92    |99    |55    |43    |1    |
+|10|Jujuy               |2023 |11 |Lesiones dolosas                                |3336  |3689  |1912  |1764  |13   |
+|10|Jujuy               |2023 |12 |Muertes en accidentes viales                    |79    |96    |76    |20    |0    |
+|10|Jujuy               |2023 |13 |Otros delitos contra la integridad sexual       |985   |353   |48    |874   |31   |
+|10|Jujuy               |2023 |13 |Otros delitos contra la integridad sexual       |376   |391   |51    |325   |15   |
+|10|Jujuy               |2023 |14 |Otros delitos contra la libertad                |201   |204   |49    |80    |75   |
+|10|Jujuy               |2023 |14 |Otros delitos contra la libertad                |200   |203   |49    |79    |75   |
+|10|Jujuy               |2023 |15 |Otros delitos contra las personas               |11    |12    |4     |5     |3    |
+|10|Jujuy               |2023 |16 |Suicidios (consumados)                          |61    |61    |44    |17    |0    |
+|10|Jujuy               |2023 |17 |Tentativa de abuso sexual con acceso carnal     |18    |19    |2     |17    |0    |
+|10|Jujuy               |2023 |19 |Trata de personas simple                        |1     |1     |0     |1     |0    |
+|11|La Pampa            |2023 |1  |Abuso sexual agravado                           |2     |2     |0     |2     |0    |
+|11|La Pampa            |2023 |2  |Abuso sexual simple                             |206   |206   |24    |181   |1    |
+|11|La Pampa            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |57    |58    |2     |56    |0    |
+|11|La Pampa            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |3     |3     |7     |3     |0    |
+|11|La Pampa            |2023 |6  |Homicidios culposos por otros hechos            |1     |1     |1     |0     |0    |
+|11|La Pampa            |2023 |7  |Homicidios dolosos                              |5     |5     |4     |1     |0    |
+|11|La Pampa            |2023 |9  |Lesiones culposas en Accidentes Viales          |1174  |1231  |755   |476   |0    |
+|11|La Pampa            |2023 |10 |Lesiones culposas por otros hechos              |3     |3     |3     |0     |0    |
+|11|La Pampa            |2023 |11 |Lesiones dolosas                                |1163  |1174  |620   |553   |1    |
+|11|La Pampa            |2023 |12 |Muertes en accidentes viales                    |40    |52    |39    |13    |0    |
+|11|La Pampa            |2023 |13 |Otros delitos contra la integridad sexual       |219   |219   |31    |187   |1    |
+|11|La Pampa            |2023 |14 |Otros delitos contra la libertad                |67    |67    |4     |49    |4    |
+|11|La Pampa            |2023 |14 |Otros delitos contra la libertad                |67    |67    |4     |49    |4    |
+|11|La Pampa            |2023 |15 |Otros delitos contra las personas               |5     |5     |2     |3     |0    |
+|11|La Pampa            |2023 |16 |Suicidios (consumados)                          |43    |43    |40    |3     |0    |
+|11|La Pampa            |2023 |17 |Tentativa de abuso sexual con acceso carnal     |1     |1     |0     |1     |0    |
+|12|La Rioja            |2023 |2  |Abuso sexual simple                             |156   |156   |0     |156   |0    |
+|12|La Rioja            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |16    |16    |0     |16    |0    |
+|12|La Rioja            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |1     |1     |0     |1     |0    |
+|12|La Rioja            |2023 |6  |Homicidios culposos por otros hechos            |1     |1     |0     |1     |0    |
+|12|La Rioja            |2023 |7  |Homicidios dolosos                              |9     |9     |5     |4     |0    |
+|12|La Rioja            |2023 |8  |Homicidios dolosos en grado de tentativa        |1     |1     |0     |1     |0    |
+|12|La Rioja            |2023 |9  |Lesiones culposas en Accidentes Viales          |1981  |3648  |2250  |1398  |0    |
+|12|La Rioja            |2023 |11 |Lesiones dolosas                                |985   |986   |66    |920   |0    |
+|12|La Rioja            |2023 |12 |Muertes en accidentes viales                    |50    |52    |11    |11    |0    |
+|12|La Rioja            |2023 |13 |Otros delitos contra la integridad sexual       |157   |157   |0     |157   |0    |
+|12|La Rioja            |2023 |14 |Otros delitos contra la libertad                |12    |12    |0     |11    |1    |
+|12|La Rioja            |2023 |14 |Otros delitos contra la libertad                |12    |12    |0     |11    |1    |
+|12|La Rioja            |2023 |16 |Suicidios (consumados)                          |54    |54    |11    |13    |0    |
+|13|Mendoza             |2023 |1  |Abuso sexual agravado                           |51    |51    |0     |0     |51   |
+|13|Mendoza             |2023 |2  |Abuso sexual simple                             |2443  |2443  |0     |2     |2411 |
+|13|Mendoza             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |525   |525   |0     |0     |525  |
+|13|Mendoza             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |760   |760   |0     |0     |760  |
+|13|Mendoza             |2023 |5  |Delitos contra el honor                         |61    |69    |3     |6     |53   |
+|13|Mendoza             |2023 |6  |Homicidios culposos por otros hechos            |43    |292   |34    |55    |133  |
+|13|Mendoza             |2023 |7  |Homicidios dolosos                              |64    |66    |54    |12    |0    |
+|13|Mendoza             |2023 |8  |Homicidios dolosos en grado de tentativa        |93    |167   |70    |12    |85   |
+|13|Mendoza             |2023 |9  |Lesiones culposas en Accidentes Viales          |118   |161   |40    |17    |34   |
+|13|Mendoza             |2023 |10 |Lesiones culposas por otros hechos              |11183 |11201 |1296  |313   |8892 |
+|13|Mendoza             |2023 |11 |Lesiones dolosas                                |16611 |16676 |2988  |5609  |8079 |
+|13|Mendoza             |2023 |12 |Muertes en accidentes viales                    |13    |119   |85    |34    |0    |
+|13|Mendoza             |2023 |13 |Otros delitos contra la integridad sexual       |3484  |3484  |0     |2     |3482 |
+|13|Mendoza             |2023 |13 |Otros delitos contra la integridad sexual       |230   |230   |0     |0     |230  |
+|13|Mendoza             |2023 |14 |Otros delitos contra la libertad                |395   |1139  |227   |232   |680  |
+|13|Mendoza             |2023 |14 |Otros delitos contra la libertad                |387   |1130  |225   |231   |674  |
+|13|Mendoza             |2023 |15 |Otros delitos contra las personas               |2618  |2750  |769   |862   |1119 |
+|13|Mendoza             |2023 |16 |Suicidios (consumados)                          |207   |207   |162   |45    |0    |
+|13|Mendoza             |2023 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
+|13|Mendoza             |2023 |19 |Trata de personas simple                        |7     |8     |2     |1     |5    |
+|14|Misiones            |2023 |1  |Abuso sexual agravado                           |4     |4     |1     |3     |0    |
+|14|Misiones            |2023 |2  |Abuso sexual simple                             |561   |576   |51    |524   |1    |
+|14|Misiones            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |573   |584   |70    |512   |2    |
+|14|Misiones            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |13    |13    |3     |3     |0    |
+|14|Misiones            |2023 |5  |Delitos contra el honor                         |2     |2     |0     |2     |0    |
+|14|Misiones            |2023 |6  |Homicidios culposos por otros hechos            |26    |27    |21    |6     |0    |
+|14|Misiones            |2023 |7  |Homicidios dolosos                              |44    |45    |36    |9     |0    |
+|14|Misiones            |2023 |8  |Homicidios dolosos en grado de tentativa        |50    |50    |21    |29    |0    |
+|14|Misiones            |2023 |9  |Lesiones culposas en Accidentes Viales          |929   |136   |790   |288   |28   |
+|14|Misiones            |2023 |10 |Lesiones culposas por otros hechos              |26    |27    |4     |13    |0    |
+|14|Misiones            |2023 |11 |Lesiones dolosas                                |2025  |2084  |940   |1131  |13   |
+|14|Misiones            |2023 |12 |Muertes en accidentes viales                    |201   |219   |181   |38    |0    |
+|14|Misiones            |2023 |13 |Otros delitos contra la integridad sexual       |839   |856   |81    |772   |3    |
+|14|Misiones            |2023 |13 |Otros delitos contra la integridad sexual       |177   |179   |20    |157   |2    |
+|14|Misiones            |2023 |14 |Otros delitos contra la libertad                |136   |139   |55    |80    |4    |
+|14|Misiones            |2023 |14 |Otros delitos contra la libertad                |136   |139   |55    |80    |4    |
+|14|Misiones            |2023 |15 |Otros delitos contra las personas               |511   |543   |233   |304   |6    |
+|14|Misiones            |2023 |16 |Suicidios (consumados)                          |82    |82    |65    |17    |0    |
+|14|Misiones            |2023 |17 |Tentativa de abuso sexual con acceso carnal     |84    |84    |6     |78    |0    |
+|15|Neuquen             |2023 |2  |Abuso sexual simple                             |196   |202   |19    |183   |0    |
+|15|Neuquen             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |61    |66    |6     |60    |0    |
+|15|Neuquen             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |5     |5     |0     |5     |0    |
+|15|Neuquen             |2023 |5  |Delitos contra el honor                         |7     |7     |5     |2     |0    |
+|15|Neuquen             |2023 |6  |Homicidios culposos por otros hechos            |5     |7     |4     |3     |0    |
+|15|Neuquen             |2023 |7  |Homicidios dolosos                              |30    |31    |20    |11    |0    |
+|15|Neuquen             |2023 |8  |Homicidios dolosos en grado de tentativa        |12    |15    |9     |6     |0    |
+|15|Neuquen             |2023 |9  |Lesiones culposas en Accidentes Viales          |1709  |211   |1333  |806   |2    |
+|15|Neuquen             |2023 |10 |Lesiones culposas por otros hechos              |9     |9     |5     |4     |0    |
+|15|Neuquen             |2023 |11 |Lesiones dolosas                                |1243  |1380  |755   |624   |1    |
+|15|Neuquen             |2023 |12 |Muertes en accidentes viales                    |47    |58    |11    |17    |0    |
+|15|Neuquen             |2023 |13 |Otros delitos contra la integridad sexual       |251   |259   |28    |231   |0    |
+|15|Neuquen             |2023 |13 |Otros delitos contra la integridad sexual       |50    |52    |9     |43    |0    |
+|15|Neuquen             |2023 |14 |Otros delitos contra la libertad                |48    |65    |15    |45    |5    |
+|15|Neuquen             |2023 |14 |Otros delitos contra la libertad                |40    |44    |15    |25    |4    |
+|15|Neuquen             |2023 |15 |Otros delitos contra las personas               |1252  |1391  |779   |611   |1    |
+|15|Neuquen             |2023 |16 |Suicidios (consumados)                          |62    |62    |51    |11    |0    |
+|15|Neuquen             |2023 |19 |Trata de personas simple                        |8     |21    |0     |20    |1    |
+|16|Rio Negro           |2023 |2  |Abuso sexual simple                             |1     |1     |0     |1     |0    |
+|16|Rio Negro           |2023 |4  |Ciberdelitos sexuales vinculados a menores      |4     |15    |1     |4     |0    |
+|16|Rio Negro           |2023 |5  |Delitos contra el honor                         |8     |8     |5     |2     |1    |
+|16|Rio Negro           |2023 |7  |Homicidios dolosos                              |27    |27    |26    |1     |0    |
+|16|Rio Negro           |2023 |8  |Homicidios dolosos en grado de tentativa        |19    |22    |11    |9     |2    |
+|16|Rio Negro           |2023 |9  |Lesiones culposas en Accidentes Viales          |464   |568   |311   |190   |37   |
+|16|Rio Negro           |2023 |11 |Lesiones dolosas                                |2404  |2718  |1246  |1195  |277  |
+|16|Rio Negro           |2023 |12 |Muertes en accidentes viales                    |55    |67    |46    |20    |1    |
+|16|Rio Negro           |2023 |13 |Otros delitos contra la integridad sexual       |579   |622   |73    |483   |66   |
+|16|Rio Negro           |2023 |13 |Otros delitos contra la integridad sexual       |564   |606   |72    |468   |66   |
+|16|Rio Negro           |2023 |14 |Otros delitos contra la libertad                |379   |401   |67    |120   |24   |
+|16|Rio Negro           |2023 |14 |Otros delitos contra la libertad                |379   |401   |67    |120   |24   |
+|16|Rio Negro           |2023 |15 |Otros delitos contra las personas               |359   |389   |225   |115   |49   |
+|16|Rio Negro           |2023 |16 |Suicidios (consumados)                          |46    |46    |39    |6     |1    |
+|17|Salta               |2023 |1  |Abuso sexual agravado                           |23    |23    |0     |17    |6    |
+|17|Salta               |2023 |2  |Abuso sexual simple                             |676   |676   |15    |459   |202  |
+|17|Salta               |2023 |3  |Abusos sexuales con acceso carnal (violacion    |356   |356   |5     |249   |32   |
+|17|Salta               |2023 |4  |Ciberdelitos sexuales vinculados a menores      |47    |47    |0     |32    |15   |
+|17|Salta               |2023 |6  |Homicidios culposos por otros hechos            |5     |5     |0     |0     |5    |
+|17|Salta               |2023 |7  |Homicidios dolosos                              |63    |63    |50    |13    |0    |
+|17|Salta               |2023 |8  |Homicidios dolosos en grado de tentativa        |65    |65    |7     |4     |54   |
+|17|Salta               |2023 |9  |Lesiones culposas en Accidentes Viales          |4848  |4848  |376   |160   |4312 |
+|17|Salta               |2023 |11 |Lesiones dolosas                                |11195 |11195 |808   |6856  |3531 |
+|17|Salta               |2023 |12 |Muertes en accidentes viales                    |153   |172   |40    |32    |0    |
+|17|Salta               |2023 |13 |Otros delitos contra la integridad sexual       |443   |443   |27    |967   |449  |
+|17|Salta               |2023 |13 |Otros delitos contra la integridad sexual       |693   |693   |12    |457   |224  |
+|17|Salta               |2023 |14 |Otros delitos contra la libertad                |2605  |2605  |47    |93    |2365 |
+|17|Salta               |2023 |14 |Otros delitos contra la libertad                |2605  |2605  |47    |93    |2365 |
+|17|Salta               |2023 |15 |Otros delitos contra las personas               |249   |249   |12    |20    |217  |
+|17|Salta               |2023 |16 |Suicidios (consumados)                          |184   |184   |11    |43    |0    |
+|17|Salta               |2023 |17 |Tentativa de abuso sexual con acceso carnal     |4     |4     |0     |2     |2    |
+|18|San Juan            |2023 |1  |Abuso sexual agravado                           |90    |97    |15    |73    |9    |
+|18|San Juan            |2023 |2  |Abuso sexual simple                             |559   |573   |77    |474   |22   |
+|18|San Juan            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |88    |88    |6     |79    |3    |
+|18|San Juan            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |61    |63    |3     |26    |34   |
+|18|San Juan            |2023 |6  |Homicidios culposos por otros hechos            |4     |4     |2     |2     |0    |
+|18|San Juan            |2023 |7  |Homicidios dolosos                              |9     |9     |8     |1     |0    |
+|18|San Juan            |2023 |8  |Homicidios dolosos en grado de tentativa        |12    |12    |5     |7     |0    |
+|18|San Juan            |2023 |9  |Lesiones culposas en Accidentes Viales          |651   |717   |456   |261   |0    |
+|18|San Juan            |2023 |10 |Lesiones culposas por otros hechos              |28    |35    |12    |23    |0    |
+|18|San Juan            |2023 |11 |Lesiones dolosas                                |3255  |3563  |403   |2130  |30   |
+|18|San Juan            |2023 |12 |Muertes en accidentes viales                    |82    |86    |71    |15    |0    |
+|18|San Juan            |2023 |13 |Otros delitos contra la integridad sexual       |800   |825   |39    |609   |37   |
+|18|San Juan            |2023 |13 |Otros delitos contra la integridad sexual       |90    |92    |4     |36    |42   |
+|18|San Juan            |2023 |14 |Otros delitos contra la libertad                |280   |300   |136   |151   |13   |
+|18|San Juan            |2023 |14 |Otros delitos contra la libertad                |275   |294   |133   |48    |13   |
+|18|San Juan            |2023 |15 |Otros delitos contra las personas               |82    |96    |48    |45    |3    |
+|18|San Juan            |2023 |16 |Suicidios (consumados)                          |76    |76    |48    |21    |7    |
+|18|San Juan            |2023 |18 |Trata de personas agravado                      |4     |5     |2     |3     |0    |
+|18|San Juan            |2023 |19 |Trata de personas simple                        |1     |1     |1     |0     |0    |
+|19|San Luis            |2023 |1  |Abuso sexual agravado                           |8     |9     |0     |9     |0    |
+|19|San Luis            |2023 |2  |Abuso sexual simple                             |76    |79    |8     |71    |0    |
+|19|San Luis            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |51    |52    |7     |45    |0    |
+|19|San Luis            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |6     |6     |2     |4     |0    |
+|19|San Luis            |2023 |5  |Delitos contra el honor                         |7     |7     |6     |1     |0    |
+|19|San Luis            |2023 |6  |Homicidios culposos por otros hechos            |1     |1     |1     |0     |0    |
+|19|San Luis            |2023 |7  |Homicidios dolosos                              |4     |4     |8     |6     |0    |
+|19|San Luis            |2023 |8  |Homicidios dolosos en grado de tentativa        |25    |29    |22    |7     |0    |
+|19|San Luis            |2023 |9  |Lesiones culposas en Accidentes Viales          |44    |1869  |1150  |715   |4    |
+|19|San Luis            |2023 |10 |Lesiones culposas por otros hechos              |18    |18    |9     |9     |0    |
+|19|San Luis            |2023 |11 |Lesiones dolosas                                |2718  |2920  |333   |1886  |1    |
+|19|San Luis            |2023 |12 |Muertes en accidentes viales                    |57    |64    |44    |20    |0    |
+|19|San Luis            |2023 |13 |Otros delitos contra la integridad sexual       |186   |190   |20    |170   |0    |
+|19|San Luis            |2023 |13 |Otros delitos contra la integridad sexual       |95    |95    |9     |86    |0    |
+|19|San Luis            |2023 |14 |Otros delitos contra la libertad                |296   |308   |36    |197   |5    |
+|19|San Luis            |2023 |14 |Otros delitos contra la libertad                |294   |302   |35    |196   |1    |
+|19|San Luis            |2023 |15 |Otros delitos contra las personas               |88    |33    |57    |46    |0    |
+|19|San Luis            |2023 |16 |Suicidios (consumados)                          |79    |79    |65    |4     |0    |
+|19|San Luis            |2023 |17 |Tentativa de abuso sexual con acceso carnal     |1     |1     |1     |0     |0    |
+|19|San Luis            |2023 |19 |Trata de personas simple                        |2     |6     |1     |1     |4    |
+|20|Santa Cruz          |2023 |1  |Abuso sexual agravado                           |225   |229   |30    |199   |0    |
+|20|Santa Cruz          |2023 |3  |Abusos sexuales con acceso carnal (violacion    |78    |80    |12    |68    |0    |
+|20|Santa Cruz          |2023 |4  |Ciberdelitos sexuales vinculados a menores      |5     |5     |0     |5     |0    |
+|20|Santa Cruz          |2023 |5  |Delitos contra el honor                         |4     |4     |7     |7     |0    |
+|20|Santa Cruz          |2023 |7  |Homicidios dolosos                              |9     |9     |8     |1     |0    |
+|20|Santa Cruz          |2023 |8  |Homicidios dolosos en grado de tentativa        |16    |16    |4     |2     |0    |
+|20|Santa Cruz          |2023 |9  |Lesiones culposas en Accidentes Viales          |193   |213   |139   |56    |18   |
+|20|Santa Cruz          |2023 |10 |Lesiones culposas por otros hechos              |1     |1     |1     |0     |0    |
+|20|Santa Cruz          |2023 |11 |Lesiones dolosas                                |1961  |1997  |737   |1260  |0    |
+|20|Santa Cruz          |2023 |12 |Muertes en accidentes viales                    |17    |19    |11    |8     |0    |
+|20|Santa Cruz          |2023 |13 |Otros delitos contra la integridad sexual       |242   |247   |36    |211   |0    |
+|20|Santa Cruz          |2023 |13 |Otros delitos contra la integridad sexual       |12    |13    |6     |7     |0    |
+|20|Santa Cruz          |2023 |14 |Otros delitos contra la libertad                |34    |324   |35    |219   |0    |
+|20|Santa Cruz          |2023 |14 |Otros delitos contra la libertad                |313   |321   |35    |216   |0    |
+|20|Santa Cruz          |2023 |15 |Otros delitos contra las personas               |21    |22    |11    |11    |0    |
+|20|Santa Cruz          |2023 |16 |Suicidios (consumados)                          |38    |38    |30    |8     |0    |
+|20|Santa Cruz          |2023 |19 |Trata de personas simple                        |1     |3     |0     |3     |0    |
+|21|Santa Fe            |2023 |1  |Abuso sexual agravado                           |231   |243   |32    |23    |1    |
+|21|Santa Fe            |2023 |2  |Abuso sexual simple                             |1815  |1901  |247   |1651  |3    |
+|21|Santa Fe            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |654   |672   |78    |592   |2    |
+|21|Santa Fe            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |34    |39    |4     |50    |55   |
+|21|Santa Fe            |2023 |5  |Delitos contra el honor                         |13    |4     |6     |8     |0    |
+|21|Santa Fe            |2023 |6  |Homicidios culposos por otros hechos            |89    |92    |73    |19    |0    |
+|21|Santa Fe            |2023 |7  |Homicidios dolosos                              |383   |398   |337   |61    |0    |
+|21|Santa Fe            |2023 |8  |Homicidios dolosos en grado de tentativa        |119   |124   |92    |32    |0    |
+|21|Santa Fe            |2023 |9  |Lesiones culposas en Accidentes Viales          |9373  |3699  |6317  |4335  |47   |
+|21|Santa Fe            |2023 |10 |Lesiones culposas por otros hechos              |34    |345   |511   |477   |27   |
+|21|Santa Fe            |2023 |11 |Lesiones dolosas                                |3075  |3719  |5012  |5638  |69   |
+|21|Santa Fe            |2023 |12 |Muertes en accidentes viales                    |281   |308   |240   |68    |0    |
+|21|Santa Fe            |2023 |13 |Otros delitos contra la integridad sexual       |2722  |2861  |370   |243   |81   |
+|21|Santa Fe            |2023 |13 |Otros delitos contra la integridad sexual       |522   |558   |77    |459   |22   |
+|21|Santa Fe            |2023 |14 |Otros delitos contra la libertad                |670   |718   |322   |356   |40   |
+|21|Santa Fe            |2023 |14 |Otros delitos contra la libertad                |618   |611   |298   |331   |12   |
+|21|Santa Fe            |2023 |15 |Otros delitos contra las personas               |1225  |1263  |703   |546   |4    |
+|21|Santa Fe            |2023 |16 |Suicidios (consumados)                          |382   |382   |308   |74    |0    |
+|21|Santa Fe            |2023 |17 |Tentativa de abuso sexual con acceso carnal     |50    |50    |3     |40    |0    |
+|21|Santa Fe            |2023 |18 |Trata de personas agravado                      |4     |4     |0     |0     |4    |
+|21|Santa Fe            |2023 |19 |Trata de personas simple                        |48    |73    |24    |25    |24   |
+|22|Santiago del Estero |2023 |1  |Abuso sexual agravado                           |2     |2     |0     |1     |1    |
+|22|Santiago del Estero |2023 |2  |Abuso sexual simple                             |466   |474   |46    |392   |36   |
+|22|Santiago del Estero |2023 |3  |Abusos sexuales con acceso carnal (violacion    |61    |61    |9     |36    |16   |
+|22|Santiago del Estero |2023 |4  |Ciberdelitos sexuales vinculados a menores      |3     |3     |0     |3     |0    |
+|22|Santiago del Estero |2023 |5  |Delitos contra el honor                         |66    |67    |21    |43    |3    |
+|22|Santiago del Estero |2023 |7  |Homicidios dolosos                              |34    |34    |25    |9     |0    |
+|22|Santiago del Estero |2023 |8  |Homicidios dolosos en grado de tentativa        |16    |16    |9     |4     |3    |
+|22|Santiago del Estero |2023 |9  |Lesiones culposas en Accidentes Viales          |190   |221   |31    |84    |36   |
+|22|Santiago del Estero |2023 |10 |Lesiones culposas por otros hechos              |4     |4     |4     |7     |3    |
+|22|Santiago del Estero |2023 |11 |Lesiones dolosas                                |1122  |4407  |1343  |2437  |627  |
+|22|Santiago del Estero |2023 |12 |Muertes en accidentes viales                    |185   |203   |168   |34    |1    |
+|22|Santiago del Estero |2023 |13 |Otros delitos contra la integridad sexual       |511   |519   |48    |44    |57   |
+|22|Santiago del Estero |2023 |13 |Otros delitos contra la integridad sexual       |40    |40    |2     |18    |20   |
+|22|Santiago del Estero |2023 |14 |Otros delitos contra la libertad                |138   |45    |40    |80    |25   |
+|22|Santiago del Estero |2023 |14 |Otros delitos contra la libertad                |129   |134   |40    |76    |18   |
+|22|Santiago del Estero |2023 |15 |Otros delitos contra las personas               |36    |42    |8     |17    |17   |
+|22|Santiago del Estero |2023 |16 |Suicidios (consumados)                          |130   |130   |13    |20    |0    |
+|22|Santiago del Estero |2023 |19 |Trata de personas simple                        |9     |11    |0     |4     |7    |
+|23|Tucuman             |2023 |1  |Abuso sexual agravado                           |40    |42    |9     |33    |0    |
+|23|Tucuman             |2023 |2  |Abuso sexual simple                             |115   |119   |11    |377   |1    |
+|23|Tucuman             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |251   |252   |22    |228   |2    |
+|23|Tucuman             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |73    |73    |13    |59    |1    |
+|23|Tucuman             |2023 |5  |Delitos contra el honor                         |4     |4     |6     |8     |0    |
+|23|Tucuman             |2023 |6  |Homicidios culposos por otros hechos            |1     |2     |2     |0     |0    |
+|23|Tucuman             |2023 |7  |Homicidios dolosos                              |80    |81    |66    |15    |0    |
+|23|Tucuman             |2023 |8  |Homicidios dolosos en grado de tentativa        |37    |37    |17    |20    |0    |
+|23|Tucuman             |2023 |9  |Lesiones culposas en Accidentes Viales          |3833  |5392  |3454  |1938  |0    |
+|23|Tucuman             |2023 |10 |Lesiones culposas por otros hechos              |3     |11    |7     |4     |0    |
+|23|Tucuman             |2023 |11 |Lesiones dolosas                                |3997  |1339  |3760  |7227  |52   |
+|23|Tucuman             |2023 |12 |Muertes en accidentes viales                    |206   |217   |188   |29    |0    |
+|23|Tucuman             |2023 |13 |Otros delitos contra la integridad sexual       |334   |352   |135   |913   |4    |
+|23|Tucuman             |2023 |13 |Otros delitos contra la integridad sexual       |499   |511   |72    |437   |2    |
+|23|Tucuman             |2023 |14 |Otros delitos contra la libertad                |270   |277   |60    |93    |124  |
+|23|Tucuman             |2023 |14 |Otros delitos contra la libertad                |260   |260   |60    |83    |117  |
+|23|Tucuman             |2023 |15 |Otros delitos contra las personas               |494   |519   |233   |278   |8    |
+|23|Tucuman             |2023 |16 |Suicidios (consumados)                          |205   |205   |158   |47    |0    |
+|23|Tucuman             |2023 |17 |Tentativa de abuso sexual con acceso carnal     |7     |7     |0     |7     |0    |
+|23|Tucuman             |2023 |19 |Trata de personas simple                        |3     |17    |0     |3     |7    |

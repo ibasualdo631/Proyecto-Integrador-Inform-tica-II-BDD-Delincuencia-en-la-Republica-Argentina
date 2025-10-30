@@ -1,4 +1,5 @@
 #include "../include/carga.h"
+#include "../include/escribir.h"
 #include <string.h>
 
 void cargar_informacion(nodo **delitos)

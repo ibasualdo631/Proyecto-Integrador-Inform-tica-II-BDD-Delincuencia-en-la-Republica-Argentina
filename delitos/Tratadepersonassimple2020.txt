@@ -1,0 +1,12 @@
+|1 |CABA                |2020 |19 |Trata de personas simple                        |32    |138   |9     |49    |80   |
+|2 |Buenos Aires        |2020 |19 |Trata de personas simple                        |9     |20    |6     |11    |3    |
+|4 |Cordoba             |2020 |19 |Trata de personas simple                        |1     |1     |0     |0     |1    |
+|5 |Corrientes          |2020 |19 |Trata de personas simple                        |36    |42    |19    |23    |0    |
+|7 |Chubut              |2020 |19 |Trata de personas simple                        |3     |3     |0     |2     |1    |
+|8 |Entre Rios          |2020 |19 |Trata de personas simple                        |1     |1     |1     |0     |0    |
+|10|Jujuy               |2020 |19 |Trata de personas simple                        |1     |1     |0     |1     |0    |
+|13|Mendoza             |2020 |19 |Trata de personas simple                        |6     |3     |3     |5     |2    |
+|17|Salta               |2020 |19 |Trata de personas simple                        |2     |2     |0     |1     |1    |
+|18|San Juan            |2020 |19 |Trata de personas simple                        |1     |1     |0     |0     |1    |
+|21|Santa Fe            |2020 |19 |Trata de personas simple                        |20    |26    |0     |11    |15   |
+|22|Santiago del Estero |2020 |19 |Trata de personas simple                        |1     |24    |24    |0     |0    |

@@ -17,6 +17,7 @@ typedef struct nodo {
     struct nodo *sig;
 } nodo;
 
+
 // Prototipos de funciones del módulo carga
 void cargar_informacion(nodo **delitos);
 void liberartodamemoria(nodo **delitos);

@@ -1,0 +1,50 @@
+|10|Jujuy               |2023 |1  |Abuso sexual agravado                           |71    |75    |3     |64    |1    |
+|10|Jujuy               |2023 |2  |Abuso sexual simple                             |495   |542   |83    |445   |4    |
+|10|Jujuy               |2018 |3  |Abusos sexuales con acceso carnal (violacion    |153   |154   |3     |44    |0    |
+|10|Jujuy               |2020 |3  |Abusos sexuales con acceso carnal (violacion    |198   |200   |29    |171   |0    |
+|10|Jujuy               |2023 |3  |Abusos sexuales con acceso carnal (violacion    |153   |162   |15    |44    |3    |
+|10|Jujuy               |2023 |4  |Ciberdelitos sexuales vinculados a menores      |25    |26    |2     |23    |1    |
+|10|Jujuy               |2018 |5  |Delitos contra el honor                         |79    |79    |32    |47    |0    |
+|10|Jujuy               |2020 |5  |Delitos contra el honor                         |182   |185   |83    |31    |1    |
+|10|Jujuy               |2023 |5  |Delitos contra el honor                         |307   |322   |122   |200   |0    |
+|10|Jujuy               |2018 |6  |Homicidios culposos por otros hechos            |4     |15    |8     |7     |0    |
+|10|Jujuy               |2020 |6  |Homicidios culposos por otros hechos            |5     |6     |4     |2     |0    |
+|10|Jujuy               |2018 |7  |Homicidios dolosos                              |19    |19    |4     |5     |0    |
+|10|Jujuy               |2020 |7  |Homicidios dolosos                              |35    |36    |25    |11    |0    |
+|10|Jujuy               |2023 |7  |Homicidios dolosos                              |17    |17    |13    |4     |0    |
+|10|Jujuy               |2018 |8  |Homicidios dolosos en grado de tentativa        |8     |8     |7     |1     |0    |
+|10|Jujuy               |2020 |8  |Homicidios dolosos en grado de tentativa        |3     |3     |1     |2     |0    |
+|10|Jujuy               |2023 |8  |Homicidios dolosos en grado de tentativa        |17    |21    |11    |8     |2    |
+|10|Jujuy               |2018 |9  |Lesiones culposas en Accidentes Viales          |733   |817   |581   |204   |32   |
+|10|Jujuy               |2020 |9  |Lesiones culposas en Accidentes Viales          |812   |1317  |960   |352   |5    |
+|10|Jujuy               |2023 |9  |Lesiones culposas en Accidentes Viales          |1322  |2056  |118   |632   |6    |
+|10|Jujuy               |2018 |10 |Lesiones culposas por otros hechos              |11    |11    |20    |20    |1    |
+|10|Jujuy               |2020 |10 |Lesiones culposas por otros hechos              |26    |27    |18    |8     |1    |
+|10|Jujuy               |2023 |10 |Lesiones culposas por otros hechos              |92    |99    |55    |43    |1    |
+|10|Jujuy               |2018 |11 |Lesiones dolosas                                |1284  |1304  |630   |611   |33   |
+|10|Jujuy               |2020 |11 |Lesiones dolosas                                |2223  |2427  |1246  |1173  |8    |
+|10|Jujuy               |2023 |11 |Lesiones dolosas                                |3336  |3689  |1912  |1764  |13   |
+|10|Jujuy               |2018 |12 |Muertes en accidentes viales                    |58    |63    |52    |11    |0    |
+|10|Jujuy               |2020 |12 |Muertes en accidentes viales                    |53    |60    |48    |12    |0    |
+|10|Jujuy               |2023 |12 |Muertes en accidentes viales                    |79    |96    |76    |20    |0    |
+|10|Jujuy               |2018 |13 |Otros delitos contra la integridad sexual       |212   |221   |22    |199   |0    |
+|10|Jujuy               |2020 |13 |Otros delitos contra la integridad sexual       |398   |408   |54    |354   |0    |
+|10|Jujuy               |2023 |13 |Otros delitos contra la integridad sexual       |985   |353   |48    |874   |31   |
+|10|Jujuy               |2023 |13 |Otros delitos contra la integridad sexual       |376   |391   |51    |325   |15   |
+|10|Jujuy               |2018 |14 |Otros delitos contra la libertad                |19    |19    |3     |11    |5    |
+|10|Jujuy               |2018 |14 |Otros delitos contra la libertad                |4     |4     |3     |11    |0    |
+|10|Jujuy               |2020 |14 |Otros delitos contra la libertad                |45    |153   |47    |33    |3    |
+|10|Jujuy               |2020 |14 |Otros delitos contra la libertad                |43    |151   |47    |32    |2    |
+|10|Jujuy               |2023 |14 |Otros delitos contra la libertad                |201   |204   |49    |80    |75   |
+|10|Jujuy               |2023 |14 |Otros delitos contra la libertad                |200   |203   |49    |79    |75   |
+|10|Jujuy               |2018 |15 |Otros delitos contra las personas               |2068  |2071  |298   |1757  |16   |
+|10|Jujuy               |2020 |15 |Otros delitos contra las personas               |62    |62    |29    |33    |0    |
+|10|Jujuy               |2023 |15 |Otros delitos contra las personas               |11    |12    |4     |5     |3    |
+|10|Jujuy               |2018 |16 |Suicidios (consumados)                          |28    |28    |23    |5     |0    |
+|10|Jujuy               |2020 |16 |Suicidios (consumados)                          |65    |65    |53    |12    |0    |
+|10|Jujuy               |2023 |16 |Suicidios (consumados)                          |61    |61    |44    |17    |0    |
+|10|Jujuy               |2023 |17 |Tentativa de abuso sexual con acceso carnal     |18    |19    |2     |17    |0    |
+|10|Jujuy               |2018 |18 |Trata de personas agravado                      |5     |5     |0     |0     |5    |
+|10|Jujuy               |2020 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
+|10|Jujuy               |2020 |19 |Trata de personas simple                        |1     |1     |0     |1     |0    |
+|10|Jujuy               |2023 |19 |Trata de personas simple                        |1     |1     |0     |1     |0    |

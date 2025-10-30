@@ -1,0 +1,23 @@
+|1 |CABA                |2020 |11 |Lesiones dolosas                                |3630  |11869 |5158  |5777  |934  |
+|2 |Buenos Aires        |2020 |11 |Lesiones dolosas                                |41199 |47930 |2344  |25137 |1749 |
+|3 |Catamarca           |2020 |11 |Lesiones dolosas                                |2424  |2424  |384   |1323  |17   |
+|4 |Cordoba             |2020 |11 |Lesiones dolosas                                |6069  |6362  |3219  |2926  |217  |
+|5 |Corrientes          |2020 |11 |Lesiones dolosas                                |1139  |1159  |393   |627   |139  |
+|6 |Chaco               |2020 |11 |Lesiones dolosas                                |2793  |349   |1295  |1833  |21   |
+|7 |Chubut              |2020 |11 |Lesiones dolosas                                |2031  |2199  |857   |1342  |0    |
+|8 |Entre Rios          |2020 |11 |Lesiones dolosas                                |2536  |2592  |1566  |318   |8    |
+|9 |Formosa             |2020 |11 |Lesiones dolosas                                |2980  |3346  |1352  |1994  |0    |
+|10|Jujuy               |2020 |11 |Lesiones dolosas                                |2223  |2427  |1246  |1173  |8    |
+|11|La Pampa            |2020 |11 |Lesiones dolosas                                |381   |385   |28    |357   |0    |
+|12|La Rioja            |2020 |11 |Lesiones dolosas                                |462   |467   |92    |375   |0    |
+|13|Mendoza             |2020 |11 |Lesiones dolosas                                |12697 |12704 |1647  |3392  |7665 |
+|14|Misiones            |2020 |11 |Lesiones dolosas                                |2270  |2373  |1256  |399   |18   |
+|15|Neuquen             |2020 |11 |Lesiones dolosas                                |1387  |401   |857   |502   |42   |
+|16|Rio Negro           |2020 |11 |Lesiones dolosas                                |2098  |2179  |512   |439   |1228 |
+|17|Salta               |2020 |11 |Lesiones dolosas                                |3117  |3117  |2740  |4478  |2899 |
+|18|San Juan            |2020 |11 |Lesiones dolosas                                |2544  |2767  |1216  |1509  |42   |
+|19|San Luis            |2020 |11 |Lesiones dolosas                                |2338  |2520  |939   |1573  |8    |
+|20|Santa Cruz          |2020 |11 |Lesiones dolosas                                |1547  |1577  |589   |988   |0    |
+|21|Santa Fe            |2020 |11 |Lesiones dolosas                                |336   |3975  |5217  |5735  |23   |
+|22|Santiago del Estero |2020 |11 |Lesiones dolosas                                |6320  |6840  |2503  |4336  |1    |
+|23|Tucuman             |2020 |11 |Lesiones dolosas                                |6183  |6336  |2404  |3885  |47   |

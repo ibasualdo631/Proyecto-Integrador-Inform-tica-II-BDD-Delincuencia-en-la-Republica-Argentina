@@ -1,0 +1,7 @@
+|1 |CABA                |2020 |18 |Trata de personas agravado                      |3     |3     |1     |1     |1    |
+|4 |Cordoba             |2020 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
+|8 |Entre Rios          |2020 |18 |Trata de personas agravado                      |2     |2     |1     |1     |0    |
+|10|Jujuy               |2020 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
+|15|Neuquen             |2020 |18 |Trata de personas agravado                      |1     |4     |4     |0     |0    |
+|16|Rio Negro           |2020 |18 |Trata de personas agravado                      |2     |2     |0     |0     |2    |
+|21|Santa Fe            |2020 |18 |Trata de personas agravado                      |116   |116   |0     |3     |113  |

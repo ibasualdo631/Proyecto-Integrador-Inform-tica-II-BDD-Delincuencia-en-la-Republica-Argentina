@@ -1,0 +1,22 @@
+|1 |CABA                |2018 |9  |Lesiones culposas en Accidentes Viales          |3061  |11750 |6623  |3716  |111  |
+|2 |Buenos Aires        |2018 |9  |Lesiones culposas en Accidentes Viales          |38516 |4442  |29567 |13364 |1211 |
+|3 |Catamarca           |2018 |9  |Lesiones culposas en Accidentes Viales          |2194  |2532  |1783  |748   |1    |
+|4 |Cordoba             |2018 |9  |Lesiones culposas en Accidentes Viales          |8395  |3068  |5530  |2866  |1672 |
+|5 |Corrientes          |2018 |9  |Lesiones culposas en Accidentes Viales          |848   |944   |555   |301   |88   |
+|6 |Chaco               |2018 |9  |Lesiones culposas en Accidentes Viales          |1194  |1727  |1185  |542   |0    |
+|7 |Chubut              |2018 |9  |Lesiones culposas en Accidentes Viales          |324   |471   |34    |157   |0    |
+|8 |Entre Rios          |2018 |9  |Lesiones culposas en Accidentes Viales          |2563  |3080  |1934  |368   |78   |
+|9 |Formosa             |2018 |9  |Lesiones culposas en Accidentes Viales          |900   |381   |545   |536   |0    |
+|10|Jujuy               |2018 |9  |Lesiones culposas en Accidentes Viales          |733   |817   |581   |204   |32   |
+|12|La Rioja            |2018 |9  |Lesiones culposas en Accidentes Viales          |2592  |303   |1706  |1304  |0    |
+|13|Mendoza             |2018 |9  |Lesiones culposas en Accidentes Viales          |46    |191   |38    |29    |124  |
+|14|Misiones            |2018 |9  |Lesiones culposas en Accidentes Viales          |942   |148   |782   |301   |65   |
+|15|Neuquen             |2018 |9  |Lesiones culposas en Accidentes Viales          |2118  |2545  |1685  |849   |11   |
+|16|Rio Negro           |2018 |9  |Lesiones culposas en Accidentes Viales          |537   |655   |378   |178   |99   |
+|17|Salta               |2018 |9  |Lesiones culposas en Accidentes Viales          |4425  |4425  |2011  |685   |1699 |
+|18|San Juan            |2018 |9  |Lesiones culposas en Accidentes Viales          |697   |750   |509   |239   |2    |
+|19|San Luis            |2018 |9  |Lesiones culposas en Accidentes Viales          |1186  |1598  |353   |545   |0    |
+|20|Santa Cruz          |2018 |9  |Lesiones culposas en Accidentes Viales          |162   |213   |150   |63    |0    |
+|21|Santa Fe            |2018 |9  |Lesiones culposas en Accidentes Viales          |13190 |16232 |3295  |5848  |89   |
+|22|Santiago del Estero |2018 |9  |Lesiones culposas en Accidentes Viales          |308   |348   |221   |127   |0    |
+|23|Tucuman             |2018 |9  |Lesiones culposas en Accidentes Viales          |2877  |3181  |2096  |950   |135  |
