@@ -1,36 +1,41 @@
-|12|La Rioja            |2023 |2  |Abuso sexual simple                             |156   |156   |0     |156   |0    |
-|12|La Rioja            |2018 |3  |Abusos sexuales con acceso carnal (violacion    |64    |65    |12    |53    |0    |
-|12|La Rioja            |2020 |3  |Abusos sexuales con acceso carnal (violacion    |30    |30    |0     |30    |0    |
-|12|La Rioja            |2023 |3  |Abusos sexuales con acceso carnal (violacion    |16    |16    |0     |16    |0    |
-|12|La Rioja            |2023 |4  |Ciberdelitos sexuales vinculados a menores      |1     |1     |0     |1     |0    |
-|12|La Rioja            |2020 |6  |Homicidios culposos por otros hechos            |4     |4     |2     |2     |0    |
-|12|La Rioja            |2023 |6  |Homicidios culposos por otros hechos            |1     |1     |0     |1     |0    |
-|12|La Rioja            |2018 |7  |Homicidios dolosos                              |3     |3     |6     |4     |0    |
-|12|La Rioja            |2020 |7  |Homicidios dolosos                              |4     |4     |3     |1     |0    |
-|12|La Rioja            |2023 |7  |Homicidios dolosos                              |9     |9     |5     |4     |0    |
-|12|La Rioja            |2018 |8  |Homicidios dolosos en grado de tentativa        |1     |1     |0     |1     |0    |
-|12|La Rioja            |2020 |8  |Homicidios dolosos en grado de tentativa        |3     |3     |1     |2     |0    |
-|12|La Rioja            |2023 |8  |Homicidios dolosos en grado de tentativa        |1     |1     |0     |1     |0    |
-|12|La Rioja            |2018 |9  |Lesiones culposas en Accidentes Viales          |2592  |303   |1706  |1304  |0    |
-|12|La Rioja            |2020 |9  |Lesiones culposas en Accidentes Viales          |1611  |1943  |1222  |721   |0    |
-|12|La Rioja            |2023 |9  |Lesiones culposas en Accidentes Viales          |1981  |3648  |2250  |1398  |0    |
-|12|La Rioja            |2018 |11 |Lesiones dolosas                                |390   |394   |160   |234   |0    |
-|12|La Rioja            |2020 |11 |Lesiones dolosas                                |462   |467   |92    |375   |0    |
-|12|La Rioja            |2023 |11 |Lesiones dolosas                                |985   |986   |66    |920   |0    |
-|12|La Rioja            |2018 |12 |Muertes en accidentes viales                    |80    |86    |76    |3     |0    |
-|12|La Rioja            |2020 |12 |Muertes en accidentes viales                    |47    |51    |38    |13    |0    |
-|12|La Rioja            |2023 |12 |Muertes en accidentes viales                    |50    |52    |11    |11    |0    |
-|12|La Rioja            |2018 |13 |Otros delitos contra la integridad sexual       |42    |150   |36    |14    |0    |
-|12|La Rioja            |2020 |13 |Otros delitos contra la integridad sexual       |121   |121   |9     |112   |0    |
-|12|La Rioja            |2023 |13 |Otros delitos contra la integridad sexual       |157   |157   |0     |157   |0    |
-|12|La Rioja            |2018 |14 |Otros delitos contra la libertad                |2     |2     |1     |1     |0    |
-|12|La Rioja            |2018 |14 |Otros delitos contra la libertad                |2     |2     |1     |1     |0    |
-|12|La Rioja            |2020 |14 |Otros delitos contra la libertad                |6     |6     |1     |4     |1    |
-|12|La Rioja            |2020 |14 |Otros delitos contra la libertad                |6     |6     |1     |4     |1    |
-|12|La Rioja            |2023 |14 |Otros delitos contra la libertad                |12    |12    |0     |11    |1    |
-|12|La Rioja            |2023 |14 |Otros delitos contra la libertad                |12    |12    |0     |11    |1    |
-|12|La Rioja            |2018 |15 |Otros delitos contra las personas               |4     |4     |2     |2     |0    |
-|12|La Rioja            |2020 |15 |Otros delitos contra las personas               |4     |4     |2     |2     |0    |
-|12|La Rioja            |2018 |16 |Suicidios (consumados)                          |47    |47    |38    |9     |0    |
-|12|La Rioja            |2020 |16 |Suicidios (consumados)                          |45    |45    |40    |5     |0    |
-|12|La Rioja            |2023 |16 |Suicidios (consumados)                          |54    |54    |11    |13    |0    |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (LA RIOJA)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|12      |La Rioja             |2023   |2       |Abuso sexual simple                             |156     |156       |0        |156     |0      |
+|12      |La Rioja             |2018   |3       |Abusos sexuales con acceso carnal (violacion    |64      |65        |12       |53      |0      |
+|12      |La Rioja             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |30      |30        |0        |30      |0      |
+|12      |La Rioja             |2023   |3       |Abusos sexuales con acceso carnal (violacion    |16      |16        |0        |16      |0      |
+|12      |La Rioja             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |1       |1         |0        |1       |0      |
+|12      |La Rioja             |2020   |6       |Homicidios culposos por otros hechos            |4       |4         |2        |2       |0      |
+|12      |La Rioja             |2023   |6       |Homicidios culposos por otros hechos            |1       |1         |0        |1       |0      |
+|12      |La Rioja             |2018   |7       |Homicidios dolosos                              |3       |3         |6        |4       |0      |
+|12      |La Rioja             |2020   |7       |Homicidios dolosos                              |4       |4         |3        |1       |0      |
+|12      |La Rioja             |2023   |7       |Homicidios dolosos                              |9       |9         |5        |4       |0      |
+|12      |La Rioja             |2018   |8       |Homicidios dolosos en grado de tentativa        |1       |1         |0        |1       |0      |
+|12      |La Rioja             |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |1        |2       |0      |
+|12      |La Rioja             |2023   |8       |Homicidios dolosos en grado de tentativa        |1       |1         |0        |1       |0      |
+|12      |La Rioja             |2018   |9       |Lesiones culposas en Accidentes Viales          |2592    |303       |1706     |1304    |0      |
+|12      |La Rioja             |2020   |9       |Lesiones culposas en Accidentes Viales          |1611    |1943      |1222     |721     |0      |
+|12      |La Rioja             |2023   |9       |Lesiones culposas en Accidentes Viales          |1981    |3648      |2250     |1398    |0      |
+|12      |La Rioja             |2018   |11      |Lesiones dolosas                                |390     |394       |160      |234     |0      |
+|12      |La Rioja             |2020   |11      |Lesiones dolosas                                |462     |467       |92       |375     |0      |
+|12      |La Rioja             |2023   |11      |Lesiones dolosas                                |985     |986       |66       |920     |0      |
+|12      |La Rioja             |2018   |12      |Muertes en accidentes viales                    |80      |86        |76       |3       |0      |
+|12      |La Rioja             |2020   |12      |Muertes en accidentes viales                    |47      |51        |38       |13      |0      |
+|12      |La Rioja             |2023   |12      |Muertes en accidentes viales                    |50      |52        |11       |11      |0      |
+|12      |La Rioja             |2018   |13      |Otros delitos contra la integridad sexual       |42      |150       |36       |14      |0      |
+|12      |La Rioja             |2020   |13      |Otros delitos contra la integridad sexual       |121     |121       |9        |112     |0      |
+|12      |La Rioja             |2023   |13      |Otros delitos contra la integridad sexual       |157     |157       |0        |157     |0      |
+|12      |La Rioja             |2018   |14      |Otros delitos contra la libertad                |2       |2         |1        |1       |0      |
+|12      |La Rioja             |2018   |14      |Otros delitos contra la libertad                |2       |2         |1        |1       |0      |
+|12      |La Rioja             |2020   |14      |Otros delitos contra la libertad                |6       |6         |1        |4       |1      |
+|12      |La Rioja             |2020   |14      |Otros delitos contra la libertad                |6       |6         |1        |4       |1      |
+|12      |La Rioja             |2023   |14      |Otros delitos contra la libertad                |12      |12        |0        |11      |1      |
+|12      |La Rioja             |2023   |14      |Otros delitos contra la libertad                |12      |12        |0        |11      |1      |
+|12      |La Rioja             |2018   |15      |Otros delitos contra las personas               |4       |4         |2        |2       |0      |
+|12      |La Rioja             |2020   |15      |Otros delitos contra las personas               |4       |4         |2        |2       |0      |
+|12      |La Rioja             |2018   |16      |Suicidios (consumados)                          |47      |47        |38       |9       |0      |
+|12      |La Rioja             |2020   |16      |Suicidios (consumados)                          |45      |45        |40       |5       |0      |
+|12      |La Rioja             |2023   |16      |Suicidios (consumados)                          |54      |54        |11       |13      |0      |

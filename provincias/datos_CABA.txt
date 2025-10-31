@@ -1,53 +1,58 @@
-|1 |CABA                |2023 |1  |Abuso sexual agravado                           |13    |4     |3     |9     |2    |
-|1 |CABA                |2023 |2  |Abuso sexual simple                             |1729  |1787  |275   |1326  |186  |
-|1 |CABA                |2018 |3  |Abusos sexuales con acceso carnal (violacion    |176   |184   |35    |47    |2    |
-|1 |CABA                |2020 |3  |Abusos sexuales con acceso carnal (violacion    |249   |258   |21    |232   |5    |
-|1 |CABA                |2023 |3  |Abusos sexuales con acceso carnal (violacion    |301   |309   |37    |238   |34   |
-|1 |CABA                |2023 |4  |Ciberdelitos sexuales vinculados a menores      |79    |81    |15    |59    |7    |
-|1 |CABA                |2018 |5  |Delitos contra el honor                         |31    |32    |16    |3     |13   |
-|1 |CABA                |2020 |5  |Delitos contra el honor                         |17    |18    |4     |3     |1    |
-|1 |CABA                |2023 |5  |Delitos contra el honor                         |11    |11    |7     |3     |1    |
-|1 |CABA                |2018 |6  |Homicidios culposos por otros hechos            |23    |24    |12    |8     |4    |
-|1 |CABA                |2020 |6  |Homicidios culposos por otros hechos            |16    |16    |12    |4     |0    |
-|1 |CABA                |2023 |6  |Homicidios culposos por otros hechos            |24    |27    |19    |8     |0    |
-|1 |CABA                |2018 |7  |Homicidios dolosos                              |133   |137   |117   |20    |0    |
-|1 |CABA                |2020 |7  |Homicidios dolosos                              |121   |126   |112   |4     |0    |
-|1 |CABA                |2023 |7  |Homicidios dolosos                              |89    |91    |74    |17    |0    |
-|1 |CABA                |2018 |8  |Homicidios dolosos en grado de tentativa        |30    |33    |17    |7     |9    |
-|1 |CABA                |2020 |8  |Homicidios dolosos en grado de tentativa        |75    |93    |59    |23    |11   |
-|1 |CABA                |2023 |8  |Homicidios dolosos en grado de tentativa        |39    |116   |30    |16    |0    |
-|1 |CABA                |2018 |9  |Lesiones culposas en Accidentes Viales          |3061  |11750 |6623  |3716  |111  |
-|1 |CABA                |2020 |9  |Lesiones culposas en Accidentes Viales          |6457  |8381  |5234  |2255  |892  |
-|1 |CABA                |2023 |9  |Lesiones culposas en Accidentes Viales          |3311  |12129 |6743  |3611  |1775 |
-|1 |CABA                |2018 |10 |Lesiones culposas por otros hechos              |1926  |1999  |921   |603   |475  |
-|1 |CABA                |2020 |10 |Lesiones culposas por otros hechos              |220   |250   |39    |122   |19   |
-|1 |CABA                |2023 |10 |Lesiones culposas por otros hechos              |243   |256   |112   |78    |66   |
-|1 |CABA                |2018 |10 |Lesiones dolosas                                |1533  |1540  |6057  |5923  |3160 |
-|1 |CABA                |2020 |11 |Lesiones dolosas                                |3630  |11869 |5158  |5777  |934  |
-|1 |CABA                |2023 |11 |Lesiones dolosas                                |1134  |1488  |4948  |5204  |1336 |
-|1 |CABA                |2018 |12 |Muertes en accidentes viales                    |43    |49    |13    |39    |0    |
-|1 |CABA                |2020 |12 |Muertes en accidentes viales                    |79    |82    |66    |16    |0    |
-|1 |CABA                |2023 |12 |Muertes en accidentes viales                    |32    |34    |69    |35    |0    |
-|1 |CABA                |2018 |13 |Otros delitos contra la integridad sexual       |1783  |1836  |257   |393   |486  |
-|1 |CABA                |2020 |13 |Otros delitos contra la integridad sexual       |438   |1600  |229   |1243  |128  |
-|1 |CABA                |2023 |13 |Otros delitos contra la integridad sexual       |1972  |2036  |328   |485   |223  |
-|1 |CABA                |2023 |13 |Otros delitos contra la integridad sexual       |48    |151   |34    |89    |28   |
-|1 |CABA                |2018 |14 |Otros delitos contra la libertad                |1724  |2061  |995   |757   |309  |
-|1 |CABA                |2018 |14 |Otros delitos contra la libertad                |1705  |2042  |993   |753   |296  |
-|1 |CABA                |2020 |14 |Otros delitos contra la libertad                |1238  |1621  |620   |738   |263  |
-|1 |CABA                |2020 |14 |Otros delitos contra la libertad                |1133  |480   |63    |688   |182  |
-|1 |CABA                |2023 |14 |Otros delitos contra la libertad                |1331  |1381  |552   |580   |249  |
-|1 |CABA                |2023 |14 |Otros delitos contra la libertad                |1224  |1226  |545   |515   |166  |
-|1 |CABA                |2018 |15 |Otros delitos contra las personas               |783   |811   |316   |284   |211  |
-|1 |CABA                |2020 |15 |Otros delitos contra las personas               |371   |434   |196   |177   |61   |
-|1 |CABA                |2023 |15 |Otros delitos contra las personas               |428   |430   |182   |158   |90   |
-|1 |CABA                |2018 |16 |Suicidios (consumados)                          |237   |238   |154   |83    |1    |
-|1 |CABA                |2020 |16 |Suicidios (consumados)                          |206   |206   |44    |62    |0    |
-|1 |CABA                |2023 |16 |Suicidios (consumados)                          |184   |184   |120   |64    |0    |
-|1 |CABA                |2023 |17 |Tentativa de abuso sexual con acceso carnal     |3     |3     |1     |2     |0    |
-|1 |CABA                |2018 |18 |Trata de personas agravado                      |4     |4     |0     |1     |3    |
-|1 |CABA                |2020 |18 |Trata de personas agravado                      |3     |3     |1     |1     |1    |
-|1 |CABA                |2023 |18 |Trata de personas agravado                      |24    |24    |0     |1     |23   |
-|1 |CABA                |2018 |19 |Trata de personas simple                        |15    |15    |2     |3     |3    |
-|1 |CABA                |2020 |19 |Trata de personas simple                        |32    |138   |9     |49    |80   |
-|1 |CABA                |2023 |19 |Trata de personas simple                        |83    |131   |7     |64    |60   |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (CABA)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|1       |CABA                 |2023   |1       |Abuso sexual agravado                           |13      |4         |3        |9       |2      |
+|1       |CABA                 |2023   |2       |Abuso sexual simple                             |1729    |1787      |275      |1326    |186    |
+|1       |CABA                 |2018   |3       |Abusos sexuales con acceso carnal (violacion    |176     |184       |35       |47      |2      |
+|1       |CABA                 |2020   |3       |Abusos sexuales con acceso carnal (violacion    |249     |258       |21       |232     |5      |
+|1       |CABA                 |2023   |3       |Abusos sexuales con acceso carnal (violacion    |301     |309       |37       |238     |34     |
+|1       |CABA                 |2023   |4       |Ciberdelitos sexuales vinculados a menores      |79      |81        |15       |59      |7      |
+|1       |CABA                 |2018   |5       |Delitos contra el honor                         |31      |32        |16       |3       |13     |
+|1       |CABA                 |2020   |5       |Delitos contra el honor                         |17      |18        |4        |3       |1      |
+|1       |CABA                 |2023   |5       |Delitos contra el honor                         |11      |11        |7        |3       |1      |
+|1       |CABA                 |2018   |6       |Homicidios culposos por otros hechos            |23      |24        |12       |8       |4      |
+|1       |CABA                 |2020   |6       |Homicidios culposos por otros hechos            |16      |16        |12       |4       |0      |
+|1       |CABA                 |2023   |6       |Homicidios culposos por otros hechos            |24      |27        |19       |8       |0      |
+|1       |CABA                 |2018   |7       |Homicidios dolosos                              |133     |137       |117      |20      |0      |
+|1       |CABA                 |2020   |7       |Homicidios dolosos                              |121     |126       |112      |4       |0      |
+|1       |CABA                 |2023   |7       |Homicidios dolosos                              |89      |91        |74       |17      |0      |
+|1       |CABA                 |2018   |8       |Homicidios dolosos en grado de tentativa        |30      |33        |17       |7       |9      |
+|1       |CABA                 |2020   |8       |Homicidios dolosos en grado de tentativa        |75      |93        |59       |23      |11     |
+|1       |CABA                 |2023   |8       |Homicidios dolosos en grado de tentativa        |39      |116       |30       |16      |0      |
+|1       |CABA                 |2018   |9       |Lesiones culposas en Accidentes Viales          |3061    |11750     |6623     |3716    |111    |
+|1       |CABA                 |2020   |9       |Lesiones culposas en Accidentes Viales          |6457    |8381      |5234     |2255    |892    |
+|1       |CABA                 |2023   |9       |Lesiones culposas en Accidentes Viales          |3311    |12129     |6743     |3611    |1775   |
+|1       |CABA                 |2018   |10      |Lesiones culposas por otros hechos              |1926    |1999      |921      |603     |475    |
+|1       |CABA                 |2020   |10      |Lesiones culposas por otros hechos              |220     |250       |39       |122     |19     |
+|1       |CABA                 |2023   |10      |Lesiones culposas por otros hechos              |243     |256       |112      |78      |66     |
+|1       |CABA                 |2018   |10      |Lesiones dolosas                                |1533    |1540      |6057     |5923    |3160   |
+|1       |CABA                 |2020   |11      |Lesiones dolosas                                |3630    |11869     |5158     |5777    |934    |
+|1       |CABA                 |2023   |11      |Lesiones dolosas                                |1134    |1488      |4948     |5204    |1336   |
+|1       |CABA                 |2018   |12      |Muertes en accidentes viales                    |43      |49        |13       |39      |0      |
+|1       |CABA                 |2020   |12      |Muertes en accidentes viales                    |79      |82        |66       |16      |0      |
+|1       |CABA                 |2023   |12      |Muertes en accidentes viales                    |32      |34        |69       |35      |0      |
+|1       |CABA                 |2018   |13      |Otros delitos contra la integridad sexual       |1783    |1836      |257      |393     |486    |
+|1       |CABA                 |2020   |13      |Otros delitos contra la integridad sexual       |438     |1600      |229      |1243    |128    |
+|1       |CABA                 |2023   |13      |Otros delitos contra la integridad sexual       |1972    |2036      |328      |485     |223    |
+|1       |CABA                 |2023   |13      |Otros delitos contra la integridad sexual       |48      |151       |34       |89      |28     |
+|1       |CABA                 |2018   |14      |Otros delitos contra la libertad                |1724    |2061      |995      |757     |309    |
+|1       |CABA                 |2018   |14      |Otros delitos contra la libertad                |1705    |2042      |993      |753     |296    |
+|1       |CABA                 |2020   |14      |Otros delitos contra la libertad                |1238    |1621      |620      |738     |263    |
+|1       |CABA                 |2020   |14      |Otros delitos contra la libertad                |1133    |480       |63       |688     |182    |
+|1       |CABA                 |2023   |14      |Otros delitos contra la libertad                |1331    |1381      |552      |580     |249    |
+|1       |CABA                 |2023   |14      |Otros delitos contra la libertad                |1224    |1226      |545      |515     |166    |
+|1       |CABA                 |2018   |15      |Otros delitos contra las personas               |783     |811       |316      |284     |211    |
+|1       |CABA                 |2020   |15      |Otros delitos contra las personas               |371     |434       |196      |177     |61     |
+|1       |CABA                 |2023   |15      |Otros delitos contra las personas               |428     |430       |182      |158     |90     |
+|1       |CABA                 |2018   |16      |Suicidios (consumados)                          |237     |238       |154      |83      |1      |
+|1       |CABA                 |2020   |16      |Suicidios (consumados)                          |206     |206       |44       |62      |0      |
+|1       |CABA                 |2023   |16      |Suicidios (consumados)                          |184     |184       |120      |64      |0      |
+|1       |CABA                 |2023   |17      |Tentativa de abuso sexual con acceso carnal     |3       |3         |1        |2       |0      |
+|1       |CABA                 |2018   |18      |Trata de personas agravado                      |4       |4         |0        |1       |3      |
+|1       |CABA                 |2020   |18      |Trata de personas agravado                      |3       |3         |1        |1       |1      |
+|1       |CABA                 |2023   |18      |Trata de personas agravado                      |24      |24        |0        |1       |23     |
+|1       |CABA                 |2018   |19      |Trata de personas simple                        |15      |15        |2        |3       |3      |
+|1       |CABA                 |2020   |19      |Trata de personas simple                        |32      |138       |9        |49      |80     |
+|1       |CABA                 |2023   |19      |Trata de personas simple                        |83      |131       |7        |64      |60     |

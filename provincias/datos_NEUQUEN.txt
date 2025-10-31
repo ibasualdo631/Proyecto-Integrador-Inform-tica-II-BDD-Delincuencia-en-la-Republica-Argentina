@@ -1,49 +1,54 @@
-|15|Neuquen             |2023 |2  |Abuso sexual simple                             |196   |202   |19    |183   |0    |
-|15|Neuquen             |2018 |3  |Abusos sexuales con acceso carnal (violacion    |50    |52    |11    |37    |4    |
-|15|Neuquen             |2020 |3  |Abusos sexuales con acceso carnal (violacion    |35    |35    |3     |30    |2    |
-|15|Neuquen             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |61    |66    |6     |60    |0    |
-|15|Neuquen             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |5     |5     |0     |5     |0    |
-|15|Neuquen             |2018 |5  |Delitos contra el honor                         |8     |8     |1     |7     |0    |
-|15|Neuquen             |2020 |5  |Delitos contra el honor                         |13    |13    |6     |7     |0    |
-|15|Neuquen             |2023 |5  |Delitos contra el honor                         |7     |7     |5     |2     |0    |
-|15|Neuquen             |2018 |6  |Homicidios culposos por otros hechos            |15    |17    |13    |4     |0    |
-|15|Neuquen             |2020 |6  |Homicidios culposos por otros hechos            |4     |4     |1     |3     |0    |
-|15|Neuquen             |2023 |6  |Homicidios culposos por otros hechos            |5     |7     |4     |3     |0    |
-|15|Neuquen             |2018 |7  |Homicidios dolosos                              |30    |31    |23    |8     |0    |
-|15|Neuquen             |2020 |7  |Homicidios dolosos                              |42    |42    |38    |4     |0    |
-|15|Neuquen             |2023 |7  |Homicidios dolosos                              |30    |31    |20    |11    |0    |
-|15|Neuquen             |2018 |8  |Homicidios dolosos en grado de tentativa        |4     |5     |2     |3     |0    |
-|15|Neuquen             |2020 |8  |Homicidios dolosos en grado de tentativa        |5     |5     |3     |2     |0    |
-|15|Neuquen             |2023 |8  |Homicidios dolosos en grado de tentativa        |12    |15    |9     |6     |0    |
-|15|Neuquen             |2018 |9  |Lesiones culposas en Accidentes Viales          |2118  |2545  |1685  |849   |11   |
-|15|Neuquen             |2020 |9  |Lesiones culposas en Accidentes Viales          |145   |1382  |942   |437   |3    |
-|15|Neuquen             |2023 |9  |Lesiones culposas en Accidentes Viales          |1709  |211   |1333  |806   |2    |
-|15|Neuquen             |2018 |10 |Lesiones culposas por otros hechos              |13    |14    |51    |60    |3    |
-|15|Neuquen             |2020 |10 |Lesiones culposas por otros hechos              |54    |54    |33    |20    |1    |
-|15|Neuquen             |2023 |10 |Lesiones culposas por otros hechos              |9     |9     |5     |4     |0    |
-|15|Neuquen             |2018 |11 |Lesiones dolosas                                |449   |474   |915   |529   |30   |
-|15|Neuquen             |2020 |11 |Lesiones dolosas                                |1387  |401   |857   |502   |42   |
-|15|Neuquen             |2023 |11 |Lesiones dolosas                                |1243  |1380  |755   |624   |1    |
-|15|Neuquen             |2018 |12 |Muertes en accidentes viales                    |68    |80    |58    |22    |0    |
-|15|Neuquen             |2020 |12 |Muertes en accidentes viales                    |44    |50    |11    |9     |0    |
-|15|Neuquen             |2023 |12 |Muertes en accidentes viales                    |47    |58    |11    |17    |0    |
-|15|Neuquen             |2018 |13 |Otros delitos contra la integridad sexual       |231   |231   |24    |195   |12   |
-|15|Neuquen             |2020 |13 |Otros delitos contra la integridad sexual       |283   |289   |35    |237   |17   |
-|15|Neuquen             |2023 |13 |Otros delitos contra la integridad sexual       |251   |259   |28    |231   |0    |
-|15|Neuquen             |2023 |13 |Otros delitos contra la integridad sexual       |50    |52    |9     |43    |0    |
-|15|Neuquen             |2018 |14 |Otros delitos contra la libertad                |19    |20    |0     |7     |13   |
-|15|Neuquen             |2018 |14 |Otros delitos contra la libertad                |4     |4     |0     |5     |9    |
-|15|Neuquen             |2020 |14 |Otros delitos contra la libertad                |4     |17    |3     |5     |2    |
-|15|Neuquen             |2020 |14 |Otros delitos contra la libertad                |13    |13    |6     |5     |2    |
-|15|Neuquen             |2023 |14 |Otros delitos contra la libertad                |48    |65    |15    |45    |5    |
-|15|Neuquen             |2023 |14 |Otros delitos contra la libertad                |40    |44    |15    |25    |4    |
-|15|Neuquen             |2018 |15 |Otros delitos contra las personas               |923   |935   |492   |44    |29   |
-|15|Neuquen             |2020 |15 |Otros delitos contra las personas               |1152  |1180  |657   |438   |85   |
-|15|Neuquen             |2023 |15 |Otros delitos contra las personas               |1252  |1391  |779   |611   |1    |
-|15|Neuquen             |2018 |16 |Suicidios (consumados)                          |70    |70    |59    |11    |0    |
-|15|Neuquen             |2020 |16 |Suicidios (consumados)                          |52    |52    |43    |9     |0    |
-|15|Neuquen             |2023 |16 |Suicidios (consumados)                          |62    |62    |51    |11    |0    |
-|15|Neuquen             |2018 |18 |Trata de personas agravado                      |2     |3     |0     |2     |1    |
-|15|Neuquen             |2020 |18 |Trata de personas agravado                      |1     |4     |4     |0     |0    |
-|15|Neuquen             |2018 |19 |Trata de personas simple                        |3     |3     |0     |0     |3    |
-|15|Neuquen             |2023 |19 |Trata de personas simple                        |8     |21    |0     |20    |1    |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (NEUQUEN)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|15      |Neuquen              |2023   |2       |Abuso sexual simple                             |196     |202       |19       |183     |0      |
+|15      |Neuquen              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |50      |52        |11       |37      |4      |
+|15      |Neuquen              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |35      |35        |3        |30      |2      |
+|15      |Neuquen              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |61      |66        |6        |60      |0      |
+|15      |Neuquen              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |5       |5         |0        |5       |0      |
+|15      |Neuquen              |2018   |5       |Delitos contra el honor                         |8       |8         |1        |7       |0      |
+|15      |Neuquen              |2020   |5       |Delitos contra el honor                         |13      |13        |6        |7       |0      |
+|15      |Neuquen              |2023   |5       |Delitos contra el honor                         |7       |7         |5        |2       |0      |
+|15      |Neuquen              |2018   |6       |Homicidios culposos por otros hechos            |15      |17        |13       |4       |0      |
+|15      |Neuquen              |2020   |6       |Homicidios culposos por otros hechos            |4       |4         |1        |3       |0      |
+|15      |Neuquen              |2023   |6       |Homicidios culposos por otros hechos            |5       |7         |4        |3       |0      |
+|15      |Neuquen              |2018   |7       |Homicidios dolosos                              |30      |31        |23       |8       |0      |
+|15      |Neuquen              |2020   |7       |Homicidios dolosos                              |42      |42        |38       |4       |0      |
+|15      |Neuquen              |2023   |7       |Homicidios dolosos                              |30      |31        |20       |11      |0      |
+|15      |Neuquen              |2018   |8       |Homicidios dolosos en grado de tentativa        |4       |5         |2        |3       |0      |
+|15      |Neuquen              |2020   |8       |Homicidios dolosos en grado de tentativa        |5       |5         |3        |2       |0      |
+|15      |Neuquen              |2023   |8       |Homicidios dolosos en grado de tentativa        |12      |15        |9        |6       |0      |
+|15      |Neuquen              |2018   |9       |Lesiones culposas en Accidentes Viales          |2118    |2545      |1685     |849     |11     |
+|15      |Neuquen              |2020   |9       |Lesiones culposas en Accidentes Viales          |145     |1382      |942      |437     |3      |
+|15      |Neuquen              |2023   |9       |Lesiones culposas en Accidentes Viales          |1709    |211       |1333     |806     |2      |
+|15      |Neuquen              |2018   |10      |Lesiones culposas por otros hechos              |13      |14        |51       |60      |3      |
+|15      |Neuquen              |2020   |10      |Lesiones culposas por otros hechos              |54      |54        |33       |20      |1      |
+|15      |Neuquen              |2023   |10      |Lesiones culposas por otros hechos              |9       |9         |5        |4       |0      |
+|15      |Neuquen              |2018   |11      |Lesiones dolosas                                |449     |474       |915      |529     |30     |
+|15      |Neuquen              |2020   |11      |Lesiones dolosas                                |1387    |401       |857      |502     |42     |
+|15      |Neuquen              |2023   |11      |Lesiones dolosas                                |1243    |1380      |755      |624     |1      |
+|15      |Neuquen              |2018   |12      |Muertes en accidentes viales                    |68      |80        |58       |22      |0      |
+|15      |Neuquen              |2020   |12      |Muertes en accidentes viales                    |44      |50        |11       |9       |0      |
+|15      |Neuquen              |2023   |12      |Muertes en accidentes viales                    |47      |58        |11       |17      |0      |
+|15      |Neuquen              |2018   |13      |Otros delitos contra la integridad sexual       |231     |231       |24       |195     |12     |
+|15      |Neuquen              |2020   |13      |Otros delitos contra la integridad sexual       |283     |289       |35       |237     |17     |
+|15      |Neuquen              |2023   |13      |Otros delitos contra la integridad sexual       |251     |259       |28       |231     |0      |
+|15      |Neuquen              |2023   |13      |Otros delitos contra la integridad sexual       |50      |52        |9        |43      |0      |
+|15      |Neuquen              |2018   |14      |Otros delitos contra la libertad                |19      |20        |0        |7       |13     |
+|15      |Neuquen              |2018   |14      |Otros delitos contra la libertad                |4       |4         |0        |5       |9      |
+|15      |Neuquen              |2020   |14      |Otros delitos contra la libertad                |4       |17        |3        |5       |2      |
+|15      |Neuquen              |2020   |14      |Otros delitos contra la libertad                |13      |13        |6        |5       |2      |
+|15      |Neuquen              |2023   |14      |Otros delitos contra la libertad                |48      |65        |15       |45      |5      |
+|15      |Neuquen              |2023   |14      |Otros delitos contra la libertad                |40      |44        |15       |25      |4      |
+|15      |Neuquen              |2018   |15      |Otros delitos contra las personas               |923     |935       |492      |44      |29     |
+|15      |Neuquen              |2020   |15      |Otros delitos contra las personas               |1152    |1180      |657      |438     |85     |
+|15      |Neuquen              |2023   |15      |Otros delitos contra las personas               |1252    |1391      |779      |611     |1      |
+|15      |Neuquen              |2018   |16      |Suicidios (consumados)                          |70      |70        |59       |11      |0      |
+|15      |Neuquen              |2020   |16      |Suicidios (consumados)                          |52      |52        |43       |9       |0      |
+|15      |Neuquen              |2023   |16      |Suicidios (consumados)                          |62      |62        |51       |11      |0      |
+|15      |Neuquen              |2018   |18      |Trata de personas agravado                      |2       |3         |0        |2       |1      |
+|15      |Neuquen              |2020   |18      |Trata de personas agravado                      |1       |4         |4        |0       |0      |
+|15      |Neuquen              |2018   |19      |Trata de personas simple                        |3       |3         |0        |0       |3      |
+|15      |Neuquen              |2023   |19      |Trata de personas simple                        |8       |21        |0        |20      |1      |

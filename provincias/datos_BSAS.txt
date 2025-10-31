@@ -1,49 +1,54 @@
-|2 |Buenos Aires        |2023 |1  |Abuso sexual agravado                           |243   |305   |40    |265   |0    |
-|2 |Buenos Aires        |2023 |2  |Abuso sexual simple                             |1163  |5099  |678   |4400  |21   |
-|2 |Buenos Aires        |2018 |3  |Abusos sexuales con acceso carnal (violacion    |1346  |1346  |39    |1237  |0    |
-|2 |Buenos Aires        |2020 |3  |Abusos sexuales con acceso carnal (violacion    |1924  |1925  |265   |1651  |9    |
-|2 |Buenos Aires        |2023 |3  |Abusos sexuales con acceso carnal (violacion    |2211  |2242  |220   |2020  |2    |
-|2 |Buenos Aires        |2023 |4  |Ciberdelitos sexuales vinculados a menores      |53    |55    |0     |4     |51   |
-|2 |Buenos Aires        |2018 |6  |Homicidios culposos por otros hechos            |62    |65    |39    |26    |0    |
-|2 |Buenos Aires        |2020 |6  |Homicidios culposos por otros hechos            |99    |118   |67    |46    |5    |
-|2 |Buenos Aires        |2023 |6  |Homicidios culposos por otros hechos            |87    |39    |68    |38    |3    |
-|2 |Buenos Aires        |2018 |7  |Homicidios dolosos                              |951   |992   |847   |45    |0    |
-|2 |Buenos Aires        |2020 |7  |Homicidios dolosos                              |915   |931   |792   |139   |0    |
-|2 |Buenos Aires        |2023 |7  |Homicidios dolosos                              |805   |829   |700   |129   |0    |
-|2 |Buenos Aires        |2018 |8  |Homicidios dolosos en grado de tentativa        |771   |846   |666   |49    |31   |
-|2 |Buenos Aires        |2020 |8  |Homicidios dolosos en grado de tentativa        |760   |811   |669   |137   |35   |
-|2 |Buenos Aires        |2023 |8  |Homicidios dolosos en grado de tentativa        |721   |796   |578   |199   |19   |
-|2 |Buenos Aires        |2018 |9  |Lesiones culposas en Accidentes Viales          |38516 |4442  |29567 |13364 |1211 |
-|2 |Buenos Aires        |2020 |9  |Lesiones culposas en Accidentes Viales          |25408 |28799 |2044  |8377  |8    |
-|2 |Buenos Aires        |2023 |9  |Lesiones culposas en Accidentes Viales          |34909 |40401 |24480 |4686  |1235 |
-|2 |Buenos Aires        |2018 |10 |Lesiones culposas por otros hechos              |913   |960   |388   |557   |15   |
-|2 |Buenos Aires        |2020 |10 |Lesiones culposas por otros hechos              |118   |448   |180   |263   |5    |
-|2 |Buenos Aires        |2023 |10 |Lesiones culposas por otros hechos              |377   |147   |478   |660   |9    |
-|2 |Buenos Aires        |2018 |11 |Lesiones dolosas                                |33481 |36338 |18865 |15809 |1664 |
-|2 |Buenos Aires        |2020 |11 |Lesiones dolosas                                |41199 |47930 |2344  |25137 |1749 |
-|2 |Buenos Aires        |2023 |11 |Lesiones dolosas                                |63606 |68363 |25645 |40884 |1834 |
-|2 |Buenos Aires        |2018 |12 |Muertes en accidentes viales                    |148   |1269  |972   |288   |9    |
-|2 |Buenos Aires        |2020 |12 |Muertes en accidentes viales                    |676   |717   |546   |117   |54   |
-|2 |Buenos Aires        |2023 |12 |Muertes en accidentes viales                    |979   |390   |802   |274   |4    |
-|2 |Buenos Aires        |2018 |13 |Otros delitos contra la integridad sexual       |448   |1584  |218   |1326  |40   |
-|2 |Buenos Aires        |2020 |13 |Otros delitos contra la integridad sexual       |7633  |9401  |1293  |7883  |225  |
-|2 |Buenos Aires        |2023 |13 |Otros delitos contra la integridad sexual       |13135 |15599 |2159  |13313 |127  |
-|2 |Buenos Aires        |2023 |13 |Otros delitos contra la integridad sexual       |8616  |3073  |428   |8593  |52   |
-|2 |Buenos Aires        |2018 |14 |Otros delitos contra la libertad                |2808  |3007  |356   |1289  |662  |
-|2 |Buenos Aires        |2018 |14 |Otros delitos contra la libertad                |2798  |2990  |355   |1277  |658  |
-|2 |Buenos Aires        |2020 |14 |Otros delitos contra la libertad                |3115  |3697  |1328  |1788  |581  |
-|2 |Buenos Aires        |2020 |14 |Otros delitos contra la libertad                |3406  |3677  |1322  |1777  |578  |
-|2 |Buenos Aires        |2023 |14 |Otros delitos contra la libertad                |4787  |5127  |1633  |2966  |528  |
-|2 |Buenos Aires        |2023 |14 |Otros delitos contra la libertad                |4762  |5035  |1596  |2921  |518  |
-|2 |Buenos Aires        |2018 |15 |Otros delitos contra las personas               |1937  |2037  |1201  |608   |228  |
-|2 |Buenos Aires        |2020 |15 |Otros delitos contra las personas               |2138  |2269  |1212  |792   |265  |
-|2 |Buenos Aires        |2023 |15 |Otros delitos contra las personas               |1750  |1860  |354   |629   |177  |
-|2 |Buenos Aires        |2018 |16 |Suicidios (consumados)                          |1393  |1393  |1153  |240   |0    |
-|2 |Buenos Aires        |2020 |16 |Suicidios (consumados)                          |858   |858   |688   |166   |4    |
-|2 |Buenos Aires        |2023 |16 |Suicidios (consumados)                          |1399  |1399  |376   |274   |49   |
-|2 |Buenos Aires        |2023 |17 |Tentativa de abuso sexual con acceso carnal     |60    |67    |13    |51    |3    |
-|2 |Buenos Aires        |2018 |18 |Trata de personas agravado                      |1     |1     |0     |1     |0    |
-|2 |Buenos Aires        |2023 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
-|2 |Buenos Aires        |2018 |19 |Trata de personas simple                        |9     |16    |1     |11    |4    |
-|2 |Buenos Aires        |2020 |19 |Trata de personas simple                        |9     |20    |6     |11    |3    |
-|2 |Buenos Aires        |2023 |19 |Trata de personas simple                        |24    |91    |37    |45    |9    |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (BSAS)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|2       |Buenos Aires         |2023   |1       |Abuso sexual agravado                           |243     |305       |40       |265     |0      |
+|2       |Buenos Aires         |2023   |2       |Abuso sexual simple                             |1163    |5099      |678      |4400    |21     |
+|2       |Buenos Aires         |2018   |3       |Abusos sexuales con acceso carnal (violacion    |1346    |1346      |39       |1237    |0      |
+|2       |Buenos Aires         |2020   |3       |Abusos sexuales con acceso carnal (violacion    |1924    |1925      |265      |1651    |9      |
+|2       |Buenos Aires         |2023   |3       |Abusos sexuales con acceso carnal (violacion    |2211    |2242      |220      |2020    |2      |
+|2       |Buenos Aires         |2023   |4       |Ciberdelitos sexuales vinculados a menores      |53      |55        |0        |4       |51     |
+|2       |Buenos Aires         |2018   |6       |Homicidios culposos por otros hechos            |62      |65        |39       |26      |0      |
+|2       |Buenos Aires         |2020   |6       |Homicidios culposos por otros hechos            |99      |118       |67       |46      |5      |
+|2       |Buenos Aires         |2023   |6       |Homicidios culposos por otros hechos            |87      |39        |68       |38      |3      |
+|2       |Buenos Aires         |2018   |7       |Homicidios dolosos                              |951     |992       |847      |45      |0      |
+|2       |Buenos Aires         |2020   |7       |Homicidios dolosos                              |915     |931       |792      |139     |0      |
+|2       |Buenos Aires         |2023   |7       |Homicidios dolosos                              |805     |829       |700      |129     |0      |
+|2       |Buenos Aires         |2018   |8       |Homicidios dolosos en grado de tentativa        |771     |846       |666      |49      |31     |
+|2       |Buenos Aires         |2020   |8       |Homicidios dolosos en grado de tentativa        |760     |811       |669      |137     |35     |
+|2       |Buenos Aires         |2023   |8       |Homicidios dolosos en grado de tentativa        |721     |796       |578      |199     |19     |
+|2       |Buenos Aires         |2018   |9       |Lesiones culposas en Accidentes Viales          |38516   |4442      |29567    |13364   |1211   |
+|2       |Buenos Aires         |2020   |9       |Lesiones culposas en Accidentes Viales          |25408   |28799     |2044     |8377    |8      |
+|2       |Buenos Aires         |2023   |9       |Lesiones culposas en Accidentes Viales          |34909   |40401     |24480    |4686    |1235   |
+|2       |Buenos Aires         |2018   |10      |Lesiones culposas por otros hechos              |913     |960       |388      |557     |15     |
+|2       |Buenos Aires         |2020   |10      |Lesiones culposas por otros hechos              |118     |448       |180      |263     |5      |
+|2       |Buenos Aires         |2023   |10      |Lesiones culposas por otros hechos              |377     |147       |478      |660     |9      |
+|2       |Buenos Aires         |2018   |11      |Lesiones dolosas                                |33481   |36338     |18865    |15809   |1664   |
+|2       |Buenos Aires         |2020   |11      |Lesiones dolosas                                |41199   |47930     |2344     |25137   |1749   |
+|2       |Buenos Aires         |2023   |11      |Lesiones dolosas                                |63606   |68363     |25645    |40884   |1834   |
+|2       |Buenos Aires         |2018   |12      |Muertes en accidentes viales                    |148     |1269      |972      |288     |9      |
+|2       |Buenos Aires         |2020   |12      |Muertes en accidentes viales                    |676     |717       |546      |117     |54     |
+|2       |Buenos Aires         |2023   |12      |Muertes en accidentes viales                    |979     |390       |802      |274     |4      |
+|2       |Buenos Aires         |2018   |13      |Otros delitos contra la integridad sexual       |448     |1584      |218      |1326    |40     |
+|2       |Buenos Aires         |2020   |13      |Otros delitos contra la integridad sexual       |7633    |9401      |1293     |7883    |225    |
+|2       |Buenos Aires         |2023   |13      |Otros delitos contra la integridad sexual       |13135   |15599     |2159     |13313   |127    |
+|2       |Buenos Aires         |2023   |13      |Otros delitos contra la integridad sexual       |8616    |3073      |428      |8593    |52     |
+|2       |Buenos Aires         |2018   |14      |Otros delitos contra la libertad                |2808    |3007      |356      |1289    |662    |
+|2       |Buenos Aires         |2018   |14      |Otros delitos contra la libertad                |2798    |2990      |355      |1277    |658    |
+|2       |Buenos Aires         |2020   |14      |Otros delitos contra la libertad                |3115    |3697      |1328     |1788    |581    |
+|2       |Buenos Aires         |2020   |14      |Otros delitos contra la libertad                |3406    |3677      |1322     |1777    |578    |
+|2       |Buenos Aires         |2023   |14      |Otros delitos contra la libertad                |4787    |5127      |1633     |2966    |528    |
+|2       |Buenos Aires         |2023   |14      |Otros delitos contra la libertad                |4762    |5035      |1596     |2921    |518    |
+|2       |Buenos Aires         |2018   |15      |Otros delitos contra las personas               |1937    |2037      |1201     |608     |228    |
+|2       |Buenos Aires         |2020   |15      |Otros delitos contra las personas               |2138    |2269      |1212     |792     |265    |
+|2       |Buenos Aires         |2023   |15      |Otros delitos contra las personas               |1750    |1860      |354      |629     |177    |
+|2       |Buenos Aires         |2018   |16      |Suicidios (consumados)                          |1393    |1393      |1153     |240     |0      |
+|2       |Buenos Aires         |2020   |16      |Suicidios (consumados)                          |858     |858       |688      |166     |4      |
+|2       |Buenos Aires         |2023   |16      |Suicidios (consumados)                          |1399    |1399      |376      |274     |49     |
+|2       |Buenos Aires         |2023   |17      |Tentativa de abuso sexual con acceso carnal     |60      |67        |13       |51      |3      |
+|2       |Buenos Aires         |2018   |18      |Trata de personas agravado                      |1       |1         |0        |1       |0      |
+|2       |Buenos Aires         |2023   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
+|2       |Buenos Aires         |2018   |19      |Trata de personas simple                        |9       |16        |1        |11      |4      |
+|2       |Buenos Aires         |2020   |19      |Trata de personas simple                        |9       |20        |6        |11      |3      |
+|2       |Buenos Aires         |2023   |19      |Trata de personas simple                        |24      |91        |37       |45      |9      |

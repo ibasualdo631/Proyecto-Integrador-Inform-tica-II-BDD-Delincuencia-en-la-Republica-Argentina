@@ -1,46 +1,51 @@
-|9 |Formosa             |2023 |1  |Abuso sexual agravado                           |4     |4     |0     |4     |0    |
-|9 |Formosa             |2023 |2  |Abuso sexual simple                             |198   |223   |20    |199   |4    |
-|9 |Formosa             |2018 |3  |Abusos sexuales con acceso carnal (violacion    |84    |88    |26    |62    |0    |
-|9 |Formosa             |2020 |3  |Abusos sexuales con acceso carnal (violacion    |14    |119   |18    |31    |0    |
-|9 |Formosa             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |116   |130   |7     |121   |2    |
-|9 |Formosa             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |4     |4     |0     |4     |0    |
-|9 |Formosa             |2018 |5  |Delitos contra el honor                         |2     |2     |0     |2     |0    |
-|9 |Formosa             |2020 |5  |Delitos contra el honor                         |3     |3     |8     |2     |0    |
-|9 |Formosa             |2018 |6  |Homicidios culposos por otros hechos            |4     |4     |1     |3     |0    |
-|9 |Formosa             |2020 |6  |Homicidios culposos por otros hechos            |6     |6     |2     |4     |0    |
-|9 |Formosa             |2023 |6  |Homicidios culposos por otros hechos            |5     |6     |1     |5     |0    |
-|9 |Formosa             |2018 |7  |Homicidios dolosos                              |37    |37    |32    |5     |0    |
-|9 |Formosa             |2020 |7  |Homicidios dolosos                              |27    |28    |22    |6     |0    |
-|9 |Formosa             |2023 |7  |Homicidios dolosos                              |21    |21    |4     |7     |0    |
-|9 |Formosa             |2018 |8  |Homicidios dolosos en grado de tentativa        |53    |58    |37    |21    |0    |
-|9 |Formosa             |2020 |8  |Homicidios dolosos en grado de tentativa        |86    |94    |71    |23    |0    |
-|9 |Formosa             |2023 |8  |Homicidios dolosos en grado de tentativa        |66    |73    |56    |17    |0    |
-|9 |Formosa             |2018 |9  |Lesiones culposas en Accidentes Viales          |900   |381   |545   |536   |0    |
-|9 |Formosa             |2020 |9  |Lesiones culposas en Accidentes Viales          |648   |769   |426   |343   |0    |
-|9 |Formosa             |2023 |9  |Lesiones culposas en Accidentes Viales          |880   |145   |588   |557   |0    |
-|9 |Formosa             |2020 |10 |Lesiones culposas por otros hechos              |1     |1     |1     |0     |0    |
-|9 |Formosa             |2023 |10 |Lesiones culposas por otros hechos              |5     |5     |2     |0     |3    |
-|9 |Formosa             |2018 |11 |Lesiones dolosas                                |3127  |3399  |1583  |1796  |20   |
-|9 |Formosa             |2020 |11 |Lesiones dolosas                                |2980  |3346  |1352  |1994  |0    |
-|9 |Formosa             |2023 |11 |Lesiones dolosas                                |3084  |3444  |1317  |2124  |3    |
-|9 |Formosa             |2018 |12 |Muertes en accidentes viales                    |120   |128   |34    |24    |0    |
-|9 |Formosa             |2020 |12 |Muertes en accidentes viales                    |73    |76    |61    |15    |0    |
-|9 |Formosa             |2023 |12 |Muertes en accidentes viales                    |71    |87    |59    |28    |0    |
-|9 |Formosa             |2018 |13 |Otros delitos contra la integridad sexual       |207   |220   |51    |169   |0    |
-|9 |Formosa             |2020 |13 |Otros delitos contra la integridad sexual       |265   |279   |29    |247   |3    |
-|9 |Formosa             |2023 |13 |Otros delitos contra la integridad sexual       |319   |360   |33    |323   |4    |
-|9 |Formosa             |2023 |13 |Otros delitos contra la integridad sexual       |67    |79    |3     |69    |0    |
-|9 |Formosa             |2018 |14 |Otros delitos contra la libertad                |386   |116   |166   |246   |4    |
-|9 |Formosa             |2018 |14 |Otros delitos contra la libertad                |386   |116   |166   |246   |4    |
-|9 |Formosa             |2020 |14 |Otros delitos contra la libertad                |512   |566   |242   |324   |0    |
-|9 |Formosa             |2020 |14 |Otros delitos contra la libertad                |512   |566   |242   |324   |0    |
-|9 |Formosa             |2023 |14 |Otros delitos contra la libertad                |539   |573   |208   |365   |0    |
-|9 |Formosa             |2023 |14 |Otros delitos contra la libertad                |538   |571   |208   |363   |0    |
-|9 |Formosa             |2018 |15 |Otros delitos contra las personas               |601   |613   |70    |543   |0    |
-|9 |Formosa             |2020 |15 |Otros delitos contra las personas               |127   |136   |73    |62    |1    |
-|9 |Formosa             |2023 |15 |Otros delitos contra las personas               |36    |126   |73    |53    |0    |
-|9 |Formosa             |2018 |16 |Suicidios (consumados)                          |65    |65    |51    |4     |0    |
-|9 |Formosa             |2020 |16 |Suicidios (consumados)                          |66    |66    |45    |21    |0    |
-|9 |Formosa             |2023 |16 |Suicidios (consumados)                          |78    |78    |60    |18    |0    |
-|9 |Formosa             |2023 |17 |Tentativa de abuso sexual con acceso carnal     |46    |50    |3     |47    |0    |
-|9 |Formosa             |2023 |19 |Trata de personas simple                        |1     |2     |0     |2     |0    |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (FORMOSA)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|9       |Formosa              |2023   |1       |Abuso sexual agravado                           |4       |4         |0        |4       |0      |
+|9       |Formosa              |2023   |2       |Abuso sexual simple                             |198     |223       |20       |199     |4      |
+|9       |Formosa              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |84      |88        |26       |62      |0      |
+|9       |Formosa              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |14      |119       |18       |31      |0      |
+|9       |Formosa              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |116     |130       |7        |121     |2      |
+|9       |Formosa              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |4       |4         |0        |4       |0      |
+|9       |Formosa              |2018   |5       |Delitos contra el honor                         |2       |2         |0        |2       |0      |
+|9       |Formosa              |2020   |5       |Delitos contra el honor                         |3       |3         |8        |2       |0      |
+|9       |Formosa              |2018   |6       |Homicidios culposos por otros hechos            |4       |4         |1        |3       |0      |
+|9       |Formosa              |2020   |6       |Homicidios culposos por otros hechos            |6       |6         |2        |4       |0      |
+|9       |Formosa              |2023   |6       |Homicidios culposos por otros hechos            |5       |6         |1        |5       |0      |
+|9       |Formosa              |2018   |7       |Homicidios dolosos                              |37      |37        |32       |5       |0      |
+|9       |Formosa              |2020   |7       |Homicidios dolosos                              |27      |28        |22       |6       |0      |
+|9       |Formosa              |2023   |7       |Homicidios dolosos                              |21      |21        |4        |7       |0      |
+|9       |Formosa              |2018   |8       |Homicidios dolosos en grado de tentativa        |53      |58        |37       |21      |0      |
+|9       |Formosa              |2020   |8       |Homicidios dolosos en grado de tentativa        |86      |94        |71       |23      |0      |
+|9       |Formosa              |2023   |8       |Homicidios dolosos en grado de tentativa        |66      |73        |56       |17      |0      |
+|9       |Formosa              |2018   |9       |Lesiones culposas en Accidentes Viales          |900     |381       |545      |536     |0      |
+|9       |Formosa              |2020   |9       |Lesiones culposas en Accidentes Viales          |648     |769       |426      |343     |0      |
+|9       |Formosa              |2023   |9       |Lesiones culposas en Accidentes Viales          |880     |145       |588      |557     |0      |
+|9       |Formosa              |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |1        |0       |0      |
+|9       |Formosa              |2023   |10      |Lesiones culposas por otros hechos              |5       |5         |2        |0       |3      |
+|9       |Formosa              |2018   |11      |Lesiones dolosas                                |3127    |3399      |1583     |1796    |20     |
+|9       |Formosa              |2020   |11      |Lesiones dolosas                                |2980    |3346      |1352     |1994    |0      |
+|9       |Formosa              |2023   |11      |Lesiones dolosas                                |3084    |3444      |1317     |2124    |3      |
+|9       |Formosa              |2018   |12      |Muertes en accidentes viales                    |120     |128       |34       |24      |0      |
+|9       |Formosa              |2020   |12      |Muertes en accidentes viales                    |73      |76        |61       |15      |0      |
+|9       |Formosa              |2023   |12      |Muertes en accidentes viales                    |71      |87        |59       |28      |0      |
+|9       |Formosa              |2018   |13      |Otros delitos contra la integridad sexual       |207     |220       |51       |169     |0      |
+|9       |Formosa              |2020   |13      |Otros delitos contra la integridad sexual       |265     |279       |29       |247     |3      |
+|9       |Formosa              |2023   |13      |Otros delitos contra la integridad sexual       |319     |360       |33       |323     |4      |
+|9       |Formosa              |2023   |13      |Otros delitos contra la integridad sexual       |67      |79        |3        |69      |0      |
+|9       |Formosa              |2018   |14      |Otros delitos contra la libertad                |386     |116       |166      |246     |4      |
+|9       |Formosa              |2018   |14      |Otros delitos contra la libertad                |386     |116       |166      |246     |4      |
+|9       |Formosa              |2020   |14      |Otros delitos contra la libertad                |512     |566       |242      |324     |0      |
+|9       |Formosa              |2020   |14      |Otros delitos contra la libertad                |512     |566       |242      |324     |0      |
+|9       |Formosa              |2023   |14      |Otros delitos contra la libertad                |539     |573       |208      |365     |0      |
+|9       |Formosa              |2023   |14      |Otros delitos contra la libertad                |538     |571       |208      |363     |0      |
+|9       |Formosa              |2018   |15      |Otros delitos contra las personas               |601     |613       |70       |543     |0      |
+|9       |Formosa              |2020   |15      |Otros delitos contra las personas               |127     |136       |73       |62      |1      |
+|9       |Formosa              |2023   |15      |Otros delitos contra las personas               |36      |126       |73       |53      |0      |
+|9       |Formosa              |2018   |16      |Suicidios (consumados)                          |65      |65        |51       |4       |0      |
+|9       |Formosa              |2020   |16      |Suicidios (consumados)                          |66      |66        |45       |21      |0      |
+|9       |Formosa              |2023   |16      |Suicidios (consumados)                          |78      |78        |60       |18      |0      |
+|9       |Formosa              |2023   |17      |Tentativa de abuso sexual con acceso carnal     |46      |50        |3        |47      |0      |
+|9       |Formosa              |2023   |19      |Trata de personas simple                        |1       |2         |0        |2       |0      |

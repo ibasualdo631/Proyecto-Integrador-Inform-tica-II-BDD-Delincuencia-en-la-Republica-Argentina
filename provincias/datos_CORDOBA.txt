@@ -1,53 +1,58 @@
-|4 |Cordoba             |2023 |1  |Abuso sexual agravado                           |19    |19    |2     |15    |2    |
-|4 |Cordoba             |2023 |2  |Abuso sexual simple                             |286   |292   |35    |195   |62   |
-|4 |Cordoba             |2018 |3  |Abusos sexuales con acceso carnal (violacion    |201   |206   |23    |172   |11   |
-|4 |Cordoba             |2020 |3  |Abusos sexuales con acceso carnal (violacion    |23    |217   |17    |195   |5    |
-|4 |Cordoba             |2023 |3  |Abusos sexuales con acceso carnal (violacion    |225   |229   |4     |191   |24   |
-|4 |Cordoba             |2023 |4  |Ciberdelitos sexuales vinculados a menores      |35    |35    |4     |6     |25   |
-|4 |Cordoba             |2018 |5  |Delitos contra el honor                         |35    |38    |6     |31    |1    |
-|4 |Cordoba             |2020 |5  |Delitos contra el honor                         |39    |40    |11    |23    |6    |
-|4 |Cordoba             |2023 |5  |Delitos contra el honor                         |49    |49    |11    |35    |3    |
-|4 |Cordoba             |2018 |6  |Homicidios culposos por otros hechos            |18    |20    |15    |5     |0    |
-|4 |Cordoba             |2020 |6  |Homicidios culposos por otros hechos            |3     |12    |12    |0     |0    |
-|4 |Cordoba             |2023 |6  |Homicidios culposos por otros hechos            |19    |20    |18    |2     |0    |
-|4 |Cordoba             |2018 |7  |Homicidios dolosos                              |32    |38    |80    |28    |0    |
-|4 |Cordoba             |2020 |7  |Homicidios dolosos                              |120   |121   |95    |25    |1    |
-|4 |Cordoba             |2023 |7  |Homicidios dolosos                              |115   |116   |89    |27    |0    |
-|4 |Cordoba             |2018 |8  |Homicidios dolosos en grado de tentativa        |9     |9     |8     |1     |0    |
-|4 |Cordoba             |2020 |8  |Homicidios dolosos en grado de tentativa        |3     |3     |2     |1     |0    |
-|4 |Cordoba             |2023 |8  |Homicidios dolosos en grado de tentativa        |1     |1     |0     |1     |0    |
-|4 |Cordoba             |2018 |9  |Lesiones culposas en Accidentes Viales          |8395  |3068  |5530  |2866  |1672 |
-|4 |Cordoba             |2020 |9  |Lesiones culposas en Accidentes Viales          |5282  |5925  |3785  |1964  |176  |
-|4 |Cordoba             |2023 |9  |Lesiones culposas en Accidentes Viales          |7799  |8428  |3332  |2319  |2777 |
-|4 |Cordoba             |2018 |10 |Lesiones culposas por otros hechos              |636   |699   |348   |346   |5    |
-|4 |Cordoba             |2020 |10 |Lesiones culposas por otros hechos              |505   |535   |253   |201   |81   |
-|4 |Cordoba             |2023 |10 |Lesiones culposas por otros hechos              |611   |682   |282   |267   |133  |
-|4 |Cordoba             |2018 |11 |Lesiones dolosas                                |844   |8640  |4480  |3848  |312  |
-|4 |Cordoba             |2020 |11 |Lesiones dolosas                                |6069  |6362  |3219  |2926  |217  |
-|4 |Cordoba             |2023 |11 |Lesiones dolosas                                |6591  |6879  |3497  |2876  |506  |
-|4 |Cordoba             |2018 |12 |Muertes en accidentes viales                    |44    |453   |359   |92    |2    |
-|4 |Cordoba             |2020 |12 |Muertes en accidentes viales                    |295   |329   |276   |53    |0    |
-|4 |Cordoba             |2023 |12 |Muertes en accidentes viales                    |371   |113   |337   |75    |1    |
-|4 |Cordoba             |2018 |13 |Otros delitos contra la integridad sexual       |692   |716   |121   |563   |32   |
-|4 |Cordoba             |2020 |13 |Otros delitos contra la integridad sexual       |767   |775   |48    |560   |67   |
-|4 |Cordoba             |2023 |13 |Otros delitos contra la integridad sexual       |834   |844   |76    |473   |295  |
-|4 |Cordoba             |2023 |13 |Otros delitos contra la integridad sexual       |480   |484   |35    |243   |206  |
-|4 |Cordoba             |2018 |14 |Otros delitos contra la libertad                |1318  |1332  |483   |700   |49   |
-|4 |Cordoba             |2018 |14 |Otros delitos contra la libertad                |134   |1324  |478   |700   |46   |
-|4 |Cordoba             |2020 |14 |Otros delitos contra la libertad                |1139  |1158  |465   |433   |260  |
-|4 |Cordoba             |2020 |14 |Otros delitos contra la libertad                |1137  |1156  |465   |433   |258  |
-|4 |Cordoba             |2023 |14 |Otros delitos contra la libertad                |861   |906   |254   |300   |352  |
-|4 |Cordoba             |2023 |14 |Otros delitos contra la libertad                |857   |864   |247   |291   |326  |
-|4 |Cordoba             |2018 |15 |Otros delitos contra las personas               |37290 |38326 |11827 |24652 |1847 |
-|4 |Cordoba             |2020 |15 |Otros delitos contra las personas               |32165 |32792 |9828  |20765 |2199 |
-|4 |Cordoba             |2023 |15 |Otros delitos contra las personas               |28020 |28176 |7333  |16320 |4523 |
-|4 |Cordoba             |2018 |16 |Suicidios (consumados)                          |255   |255   |194   |61    |0    |
-|4 |Cordoba             |2020 |16 |Suicidios (consumados)                          |197   |197   |158   |35    |4    |
-|4 |Cordoba             |2023 |16 |Suicidios (consumados)                          |289   |289   |226   |63    |0    |
-|4 |Cordoba             |2023 |17 |Tentativa de abuso sexual con acceso carnal     |4     |4     |0     |4     |0    |
-|4 |Cordoba             |2018 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
-|4 |Cordoba             |2020 |18 |Trata de personas agravado                      |1     |1     |0     |0     |1    |
-|4 |Cordoba             |2023 |18 |Trata de personas agravado                      |1     |1     |0     |1     |0    |
-|4 |Cordoba             |2018 |19 |Trata de personas simple                        |3     |7     |5     |0     |2    |
-|4 |Cordoba             |2020 |19 |Trata de personas simple                        |1     |1     |0     |0     |1    |
-|4 |Cordoba             |2023 |19 |Trata de personas simple                        |3     |11    |7     |8     |26   |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (CORDOBA)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|4       |Cordoba              |2023   |1       |Abuso sexual agravado                           |19      |19        |2        |15      |2      |
+|4       |Cordoba              |2023   |2       |Abuso sexual simple                             |286     |292       |35       |195     |62     |
+|4       |Cordoba              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |201     |206       |23       |172     |11     |
+|4       |Cordoba              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |23      |217       |17       |195     |5      |
+|4       |Cordoba              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |225     |229       |4        |191     |24     |
+|4       |Cordoba              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |35      |35        |4        |6       |25     |
+|4       |Cordoba              |2018   |5       |Delitos contra el honor                         |35      |38        |6        |31      |1      |
+|4       |Cordoba              |2020   |5       |Delitos contra el honor                         |39      |40        |11       |23      |6      |
+|4       |Cordoba              |2023   |5       |Delitos contra el honor                         |49      |49        |11       |35      |3      |
+|4       |Cordoba              |2018   |6       |Homicidios culposos por otros hechos            |18      |20        |15       |5       |0      |
+|4       |Cordoba              |2020   |6       |Homicidios culposos por otros hechos            |3       |12        |12       |0       |0      |
+|4       |Cordoba              |2023   |6       |Homicidios culposos por otros hechos            |19      |20        |18       |2       |0      |
+|4       |Cordoba              |2018   |7       |Homicidios dolosos                              |32      |38        |80       |28      |0      |
+|4       |Cordoba              |2020   |7       |Homicidios dolosos                              |120     |121       |95       |25      |1      |
+|4       |Cordoba              |2023   |7       |Homicidios dolosos                              |115     |116       |89       |27      |0      |
+|4       |Cordoba              |2018   |8       |Homicidios dolosos en grado de tentativa        |9       |9         |8        |1       |0      |
+|4       |Cordoba              |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |2        |1       |0      |
+|4       |Cordoba              |2023   |8       |Homicidios dolosos en grado de tentativa        |1       |1         |0        |1       |0      |
+|4       |Cordoba              |2018   |9       |Lesiones culposas en Accidentes Viales          |8395    |3068      |5530     |2866    |1672   |
+|4       |Cordoba              |2020   |9       |Lesiones culposas en Accidentes Viales          |5282    |5925      |3785     |1964    |176    |
+|4       |Cordoba              |2023   |9       |Lesiones culposas en Accidentes Viales          |7799    |8428      |3332     |2319    |2777   |
+|4       |Cordoba              |2018   |10      |Lesiones culposas por otros hechos              |636     |699       |348      |346     |5      |
+|4       |Cordoba              |2020   |10      |Lesiones culposas por otros hechos              |505     |535       |253      |201     |81     |
+|4       |Cordoba              |2023   |10      |Lesiones culposas por otros hechos              |611     |682       |282      |267     |133    |
+|4       |Cordoba              |2018   |11      |Lesiones dolosas                                |844     |8640      |4480     |3848    |312    |
+|4       |Cordoba              |2020   |11      |Lesiones dolosas                                |6069    |6362      |3219     |2926    |217    |
+|4       |Cordoba              |2023   |11      |Lesiones dolosas                                |6591    |6879      |3497     |2876    |506    |
+|4       |Cordoba              |2018   |12      |Muertes en accidentes viales                    |44      |453       |359      |92      |2      |
+|4       |Cordoba              |2020   |12      |Muertes en accidentes viales                    |295     |329       |276      |53      |0      |
+|4       |Cordoba              |2023   |12      |Muertes en accidentes viales                    |371     |113       |337      |75      |1      |
+|4       |Cordoba              |2018   |13      |Otros delitos contra la integridad sexual       |692     |716       |121      |563     |32     |
+|4       |Cordoba              |2020   |13      |Otros delitos contra la integridad sexual       |767     |775       |48       |560     |67     |
+|4       |Cordoba              |2023   |13      |Otros delitos contra la integridad sexual       |834     |844       |76       |473     |295    |
+|4       |Cordoba              |2023   |13      |Otros delitos contra la integridad sexual       |480     |484       |35       |243     |206    |
+|4       |Cordoba              |2018   |14      |Otros delitos contra la libertad                |1318    |1332      |483      |700     |49     |
+|4       |Cordoba              |2018   |14      |Otros delitos contra la libertad                |134     |1324      |478      |700     |46     |
+|4       |Cordoba              |2020   |14      |Otros delitos contra la libertad                |1139    |1158      |465      |433     |260    |
+|4       |Cordoba              |2020   |14      |Otros delitos contra la libertad                |1137    |1156      |465      |433     |258    |
+|4       |Cordoba              |2023   |14      |Otros delitos contra la libertad                |861     |906       |254      |300     |352    |
+|4       |Cordoba              |2023   |14      |Otros delitos contra la libertad                |857     |864       |247      |291     |326    |
+|4       |Cordoba              |2018   |15      |Otros delitos contra las personas               |37290   |38326     |11827    |24652   |1847   |
+|4       |Cordoba              |2020   |15      |Otros delitos contra las personas               |32165   |32792     |9828     |20765   |2199   |
+|4       |Cordoba              |2023   |15      |Otros delitos contra las personas               |28020   |28176     |7333     |16320   |4523   |
+|4       |Cordoba              |2018   |16      |Suicidios (consumados)                          |255     |255       |194      |61      |0      |
+|4       |Cordoba              |2020   |16      |Suicidios (consumados)                          |197     |197       |158      |35      |4      |
+|4       |Cordoba              |2023   |16      |Suicidios (consumados)                          |289     |289       |226      |63      |0      |
+|4       |Cordoba              |2023   |17      |Tentativa de abuso sexual con acceso carnal     |4       |4         |0        |4       |0      |
+|4       |Cordoba              |2018   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
+|4       |Cordoba              |2020   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
+|4       |Cordoba              |2023   |18      |Trata de personas agravado                      |1       |1         |0        |1       |0      |
+|4       |Cordoba              |2018   |19      |Trata de personas simple                        |3       |7         |5        |0       |2      |
+|4       |Cordoba              |2020   |19      |Trata de personas simple                        |1       |1         |0        |0       |1      |
+|4       |Cordoba              |2023   |19      |Trata de personas simple                        |3       |11        |7        |8       |26     |

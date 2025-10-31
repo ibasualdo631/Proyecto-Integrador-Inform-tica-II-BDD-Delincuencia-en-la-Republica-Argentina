@@ -1,43 +1,48 @@
-|16|Rio Negro           |2023 |2  |Abuso sexual simple                             |1     |1     |0     |1     |0    |
-|16|Rio Negro           |2018 |3  |Abusos sexuales con acceso carnal (violacion    |69    |72    |7     |65    |0    |
-|16|Rio Negro           |2020 |3  |Abusos sexuales con acceso carnal (violacion    |31    |36    |7     |40    |59   |
-|16|Rio Negro           |2023 |4  |Ciberdelitos sexuales vinculados a menores      |4     |15    |1     |4     |0    |
-|16|Rio Negro           |2018 |5  |Delitos contra el honor                         |1     |1     |0     |0     |1    |
-|16|Rio Negro           |2020 |5  |Delitos contra el honor                         |8     |8     |3     |1     |4    |
-|16|Rio Negro           |2023 |5  |Delitos contra el honor                         |8     |8     |5     |2     |1    |
-|16|Rio Negro           |2018 |6  |Homicidios culposos por otros hechos            |3     |3     |3     |0     |0    |
-|16|Rio Negro           |2020 |6  |Homicidios culposos por otros hechos            |6     |6     |3     |3     |0    |
-|16|Rio Negro           |2018 |7  |Homicidios dolosos                              |21    |22    |15    |7     |0    |
-|16|Rio Negro           |2020 |7  |Homicidios dolosos                              |37    |39    |37    |2     |0    |
-|16|Rio Negro           |2023 |7  |Homicidios dolosos                              |27    |27    |26    |1     |0    |
-|16|Rio Negro           |2018 |8  |Homicidios dolosos en grado de tentativa        |18    |19    |13    |2     |4    |
-|16|Rio Negro           |2020 |8  |Homicidios dolosos en grado de tentativa        |19    |21    |13    |1     |7    |
-|16|Rio Negro           |2023 |8  |Homicidios dolosos en grado de tentativa        |19    |22    |11    |9     |2    |
-|16|Rio Negro           |2018 |9  |Lesiones culposas en Accidentes Viales          |537   |655   |378   |178   |99   |
-|16|Rio Negro           |2020 |9  |Lesiones culposas en Accidentes Viales          |323   |363   |43    |78    |42   |
-|16|Rio Negro           |2023 |9  |Lesiones culposas en Accidentes Viales          |464   |568   |311   |190   |37   |
-|16|Rio Negro           |2020 |10 |Lesiones culposas por otros hechos              |1     |1     |0     |0     |1    |
-|16|Rio Negro           |2018 |11 |Lesiones dolosas                                |2220  |2457  |1151  |880   |426  |
-|16|Rio Negro           |2020 |11 |Lesiones dolosas                                |2098  |2179  |512   |439   |1228 |
-|16|Rio Negro           |2023 |11 |Lesiones dolosas                                |2404  |2718  |1246  |1195  |277  |
-|16|Rio Negro           |2018 |12 |Muertes en accidentes viales                    |78    |90    |60    |30    |0    |
-|16|Rio Negro           |2020 |12 |Muertes en accidentes viales                    |36    |11    |30    |11    |0    |
-|16|Rio Negro           |2023 |12 |Muertes en accidentes viales                    |55    |67    |46    |20    |1    |
-|16|Rio Negro           |2018 |13 |Otros delitos contra la integridad sexual       |280   |311   |36    |273   |2    |
-|16|Rio Negro           |2020 |13 |Otros delitos contra la integridad sexual       |380   |390   |26    |153   |211  |
-|16|Rio Negro           |2023 |13 |Otros delitos contra la integridad sexual       |579   |622   |73    |483   |66   |
-|16|Rio Negro           |2023 |13 |Otros delitos contra la integridad sexual       |564   |606   |72    |468   |66   |
-|16|Rio Negro           |2018 |14 |Otros delitos contra la libertad                |780   |821   |111   |426   |284  |
-|16|Rio Negro           |2018 |14 |Otros delitos contra la libertad                |778   |819   |111   |426   |282  |
-|16|Rio Negro           |2020 |14 |Otros delitos contra la libertad                |43    |421   |37    |28    |356  |
-|16|Rio Negro           |2020 |14 |Otros delitos contra la libertad                |408   |119   |37    |28    |354  |
-|16|Rio Negro           |2023 |14 |Otros delitos contra la libertad                |379   |401   |67    |120   |24   |
-|16|Rio Negro           |2023 |14 |Otros delitos contra la libertad                |379   |401   |67    |120   |24   |
-|16|Rio Negro           |2018 |15 |Otros delitos contra las personas               |215   |253   |112   |70    |71   |
-|16|Rio Negro           |2020 |15 |Otros delitos contra las personas               |302   |309   |70    |25    |24   |
-|16|Rio Negro           |2023 |15 |Otros delitos contra las personas               |359   |389   |225   |115   |49   |
-|16|Rio Negro           |2018 |16 |Suicidios (consumados)                          |43    |43    |36    |7     |0    |
-|16|Rio Negro           |2020 |16 |Suicidios (consumados)                          |35    |35    |28    |7     |0    |
-|16|Rio Negro           |2023 |16 |Suicidios (consumados)                          |46    |46    |39    |6     |1    |
-|16|Rio Negro           |2020 |18 |Trata de personas agravado                      |2     |2     |0     |0     |2    |
-|16|Rio Negro           |2018 |19 |Trata de personas simple                        |2     |2     |0     |0     |2    |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (RIO NEGRO)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|16      |Rio Negro            |2023   |2       |Abuso sexual simple                             |1       |1         |0        |1       |0      |
+|16      |Rio Negro            |2018   |3       |Abusos sexuales con acceso carnal (violacion    |69      |72        |7        |65      |0      |
+|16      |Rio Negro            |2020   |3       |Abusos sexuales con acceso carnal (violacion    |31      |36        |7        |40      |59     |
+|16      |Rio Negro            |2023   |4       |Ciberdelitos sexuales vinculados a menores      |4       |15        |1        |4       |0      |
+|16      |Rio Negro            |2018   |5       |Delitos contra el honor                         |1       |1         |0        |0       |1      |
+|16      |Rio Negro            |2020   |5       |Delitos contra el honor                         |8       |8         |3        |1       |4      |
+|16      |Rio Negro            |2023   |5       |Delitos contra el honor                         |8       |8         |5        |2       |1      |
+|16      |Rio Negro            |2018   |6       |Homicidios culposos por otros hechos            |3       |3         |3        |0       |0      |
+|16      |Rio Negro            |2020   |6       |Homicidios culposos por otros hechos            |6       |6         |3        |3       |0      |
+|16      |Rio Negro            |2018   |7       |Homicidios dolosos                              |21      |22        |15       |7       |0      |
+|16      |Rio Negro            |2020   |7       |Homicidios dolosos                              |37      |39        |37       |2       |0      |
+|16      |Rio Negro            |2023   |7       |Homicidios dolosos                              |27      |27        |26       |1       |0      |
+|16      |Rio Negro            |2018   |8       |Homicidios dolosos en grado de tentativa        |18      |19        |13       |2       |4      |
+|16      |Rio Negro            |2020   |8       |Homicidios dolosos en grado de tentativa        |19      |21        |13       |1       |7      |
+|16      |Rio Negro            |2023   |8       |Homicidios dolosos en grado de tentativa        |19      |22        |11       |9       |2      |
+|16      |Rio Negro            |2018   |9       |Lesiones culposas en Accidentes Viales          |537     |655       |378      |178     |99     |
+|16      |Rio Negro            |2020   |9       |Lesiones culposas en Accidentes Viales          |323     |363       |43       |78      |42     |
+|16      |Rio Negro            |2023   |9       |Lesiones culposas en Accidentes Viales          |464     |568       |311      |190     |37     |
+|16      |Rio Negro            |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |0        |0       |1      |
+|16      |Rio Negro            |2018   |11      |Lesiones dolosas                                |2220    |2457      |1151     |880     |426    |
+|16      |Rio Negro            |2020   |11      |Lesiones dolosas                                |2098    |2179      |512      |439     |1228   |
+|16      |Rio Negro            |2023   |11      |Lesiones dolosas                                |2404    |2718      |1246     |1195    |277    |
+|16      |Rio Negro            |2018   |12      |Muertes en accidentes viales                    |78      |90        |60       |30      |0      |
+|16      |Rio Negro            |2020   |12      |Muertes en accidentes viales                    |36      |11        |30       |11      |0      |
+|16      |Rio Negro            |2023   |12      |Muertes en accidentes viales                    |55      |67        |46       |20      |1      |
+|16      |Rio Negro            |2018   |13      |Otros delitos contra la integridad sexual       |280     |311       |36       |273     |2      |
+|16      |Rio Negro            |2020   |13      |Otros delitos contra la integridad sexual       |380     |390       |26       |153     |211    |
+|16      |Rio Negro            |2023   |13      |Otros delitos contra la integridad sexual       |579     |622       |73       |483     |66     |
+|16      |Rio Negro            |2023   |13      |Otros delitos contra la integridad sexual       |564     |606       |72       |468     |66     |
+|16      |Rio Negro            |2018   |14      |Otros delitos contra la libertad                |780     |821       |111      |426     |284    |
+|16      |Rio Negro            |2018   |14      |Otros delitos contra la libertad                |778     |819       |111      |426     |282    |
+|16      |Rio Negro            |2020   |14      |Otros delitos contra la libertad                |43      |421       |37       |28      |356    |
+|16      |Rio Negro            |2020   |14      |Otros delitos contra la libertad                |408     |119       |37       |28      |354    |
+|16      |Rio Negro            |2023   |14      |Otros delitos contra la libertad                |379     |401       |67       |120     |24     |
+|16      |Rio Negro            |2023   |14      |Otros delitos contra la libertad                |379     |401       |67       |120     |24     |
+|16      |Rio Negro            |2018   |15      |Otros delitos contra las personas               |215     |253       |112      |70      |71     |
+|16      |Rio Negro            |2020   |15      |Otros delitos contra las personas               |302     |309       |70       |25      |24     |
+|16      |Rio Negro            |2023   |15      |Otros delitos contra las personas               |359     |389       |225      |115     |49     |
+|16      |Rio Negro            |2018   |16      |Suicidios (consumados)                          |43      |43        |36       |7       |0      |
+|16      |Rio Negro            |2020   |16      |Suicidios (consumados)                          |35      |35        |28       |7       |0      |
+|16      |Rio Negro            |2023   |16      |Suicidios (consumados)                          |46      |46        |39       |6       |1      |
+|16      |Rio Negro            |2020   |18      |Trata de personas agravado                      |2       |2         |0        |0       |2      |
+|16      |Rio Negro            |2018   |19      |Trata de personas simple                        |2       |2         |0        |0       |2      |

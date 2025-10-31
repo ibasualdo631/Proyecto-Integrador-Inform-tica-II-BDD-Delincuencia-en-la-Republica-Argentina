@@ -16,16 +16,13 @@ void cargar_informacion(nodo **delitos)
         return;
     }
 
-
-
     
     fgets(linea, 1024, archivo); // saltamos la linea del encabezado
 
-    // aca arrancamos a hacer una lectura linea por linea hasta llegar al final del csv
+   // aca arrancamos a hacer una lectura linea por linea hasta llegar al final del csv
     
     while (fgets(linea, 1024, archivo) != NULL) 
     {
-        
         nodo *nuevo = (nodo *)malloc(sizeof(nodo)); // creamos el nuevo nodo dinámicamente
         if(nuevo == NULL)
         {
@@ -181,6 +178,8 @@ void cargar_informacion(nodo **delitos)
     fclose(archivo);
     printf("Archivo cargado exitosamente. Total de registros cargados: %d\n", cuenta_registros);
 }
+
+
 void liberartodamemoria(nodo **delitos)
 {
     nodo *aux = *delitos;

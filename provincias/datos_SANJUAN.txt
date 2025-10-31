@@ -1,0 +1,55 @@
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (SAN JUAN)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|18      |San Juan             |2023   |1       |Abuso sexual agravado                           |90      |97        |15       |73      |9      |
+|18      |San Juan             |2023   |2       |Abuso sexual simple                             |559     |573       |77       |474     |22     |
+|18      |San Juan             |2018   |3       |Abusos sexuales con acceso carnal (violacion    |13      |13        |3        |3       |0      |
+|18      |San Juan             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |38      |38        |0        |38      |0      |
+|18      |San Juan             |2023   |3       |Abusos sexuales con acceso carnal (violacion    |88      |88        |6        |79      |3      |
+|18      |San Juan             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |61      |63        |3        |26      |34     |
+|18      |San Juan             |2018   |5       |Delitos contra el honor                         |4       |4         |4        |9       |1      |
+|18      |San Juan             |2020   |5       |Delitos contra el honor                         |2       |2         |2        |0       |0      |
+|18      |San Juan             |2018   |6       |Homicidios culposos por otros hechos            |2       |2         |2        |0       |0      |
+|18      |San Juan             |2020   |6       |Homicidios culposos por otros hechos            |12      |4         |8        |5       |1      |
+|18      |San Juan             |2023   |6       |Homicidios culposos por otros hechos            |4       |4         |2        |2       |0      |
+|18      |San Juan             |2018   |7       |Homicidios dolosos                              |16      |16        |11       |5       |0      |
+|18      |San Juan             |2020   |7       |Homicidios dolosos                              |16      |16        |12       |4       |0      |
+|18      |San Juan             |2023   |7       |Homicidios dolosos                              |9       |9         |8        |1       |0      |
+|18      |San Juan             |2018   |8       |Homicidios dolosos en grado de tentativa        |8       |8         |7        |1       |0      |
+|18      |San Juan             |2020   |8       |Homicidios dolosos en grado de tentativa        |6       |6         |5        |1       |0      |
+|18      |San Juan             |2023   |8       |Homicidios dolosos en grado de tentativa        |12      |12        |5        |7       |0      |
+|18      |San Juan             |2018   |9       |Lesiones culposas en Accidentes Viales          |697     |750       |509      |239     |2      |
+|18      |San Juan             |2020   |9       |Lesiones culposas en Accidentes Viales          |475     |503       |355      |48      |0      |
+|18      |San Juan             |2023   |9       |Lesiones culposas en Accidentes Viales          |651     |717       |456      |261     |0      |
+|18      |San Juan             |2018   |10      |Lesiones culposas por otros hechos              |220     |222       |124      |96      |2      |
+|18      |San Juan             |2020   |10      |Lesiones culposas por otros hechos              |27      |29        |21       |7       |1      |
+|18      |San Juan             |2023   |10      |Lesiones culposas por otros hechos              |28      |35        |12       |23      |0      |
+|18      |San Juan             |2018   |11      |Lesiones dolosas                                |1698    |1882      |311      |839     |2      |
+|18      |San Juan             |2020   |11      |Lesiones dolosas                                |2544    |2767      |1216     |1509    |42     |
+|18      |San Juan             |2023   |11      |Lesiones dolosas                                |3255    |3563      |403      |2130    |30     |
+|18      |San Juan             |2018   |12      |Muertes en accidentes viales                    |83      |96        |85       |11      |0      |
+|18      |San Juan             |2020   |12      |Muertes en accidentes viales                    |69      |71        |60       |11      |0      |
+|18      |San Juan             |2023   |12      |Muertes en accidentes viales                    |82      |86        |71       |15      |0      |
+|18      |San Juan             |2018   |13      |Otros delitos contra la integridad sexual       |47      |48        |5        |43      |0      |
+|18      |San Juan             |2020   |13      |Otros delitos contra la integridad sexual       |132     |132       |8        |124     |0      |
+|18      |San Juan             |2023   |13      |Otros delitos contra la integridad sexual       |800     |825       |39       |609     |37     |
+|18      |San Juan             |2023   |13      |Otros delitos contra la integridad sexual       |90      |92        |4        |36      |42     |
+|18      |San Juan             |2018   |14      |Otros delitos contra la libertad                |5       |5         |0        |1       |4      |
+|18      |San Juan             |2018   |14      |Otros delitos contra la libertad                |2       |2         |0        |0       |2      |
+|18      |San Juan             |2020   |14      |Otros delitos contra la libertad                |37      |37        |36       |65      |6      |
+|18      |San Juan             |2020   |14      |Otros delitos contra la libertad                |36      |36        |36       |65      |5      |
+|18      |San Juan             |2023   |14      |Otros delitos contra la libertad                |280     |300       |136      |151     |13     |
+|18      |San Juan             |2023   |14      |Otros delitos contra la libertad                |275     |294       |133      |48      |13     |
+|18      |San Juan             |2018   |15      |Otros delitos contra las personas               |995     |308       |542      |450     |16     |
+|18      |San Juan             |2020   |15      |Otros delitos contra las personas               |918     |964       |462      |484     |18     |
+|18      |San Juan             |2023   |15      |Otros delitos contra las personas               |82      |96        |48       |45      |3      |
+|18      |San Juan             |2018   |16      |Suicidios (consumados)                          |51      |51        |11       |3       |0      |
+|18      |San Juan             |2020   |16      |Suicidios (consumados)                          |54      |54        |48       |6       |0      |
+|18      |San Juan             |2023   |16      |Suicidios (consumados)                          |76      |76        |48       |21      |7      |
+|18      |San Juan             |2018   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
+|18      |San Juan             |2023   |18      |Trata de personas agravado                      |4       |5         |2        |3       |0      |
+|18      |San Juan             |2018   |19      |Trata de personas simple                        |2       |2         |0        |1       |1      |
+|18      |San Juan             |2020   |19      |Trata de personas simple                        |1       |1         |0        |0       |1      |
+|18      |San Juan             |2023   |19      |Trata de personas simple                        |1       |1         |1        |0       |0      |

@@ -1,45 +1,50 @@
-|17|Salta               |2023 |1  |Abuso sexual agravado                           |23    |23    |0     |17    |6    |
-|17|Salta               |2023 |2  |Abuso sexual simple                             |676   |676   |15    |459   |202  |
-|17|Salta               |2018 |3  |Abusos sexuales con acceso carnal (violacion    |272   |272   |15    |162   |95   |
-|17|Salta               |2020 |3  |Abusos sexuales con acceso carnal (violacion    |328   |328   |24    |206   |98   |
-|17|Salta               |2023 |3  |Abusos sexuales con acceso carnal (violacion    |356   |356   |5     |249   |32   |
-|17|Salta               |2023 |4  |Ciberdelitos sexuales vinculados a menores      |47    |47    |0     |32    |15   |
-|17|Salta               |2018 |5  |Delitos contra el honor                         |1     |1     |1     |0     |0    |
-|17|Salta               |2018 |6  |Homicidios culposos por otros hechos            |5     |5     |2     |0     |3    |
-|17|Salta               |2020 |6  |Homicidios culposos por otros hechos            |7     |7     |1     |0     |6    |
-|17|Salta               |2023 |6  |Homicidios culposos por otros hechos            |5     |5     |0     |0     |5    |
-|17|Salta               |2018 |7  |Homicidios dolosos                              |72    |73    |60    |13    |0    |
-|17|Salta               |2020 |7  |Homicidios dolosos                              |89    |89    |75    |4     |0    |
-|17|Salta               |2023 |7  |Homicidios dolosos                              |63    |63    |50    |13    |0    |
-|17|Salta               |2018 |8  |Homicidios dolosos en grado de tentativa        |40    |40    |22    |3     |15   |
-|17|Salta               |2020 |8  |Homicidios dolosos en grado de tentativa        |79    |79    |42    |8     |29   |
-|17|Salta               |2023 |8  |Homicidios dolosos en grado de tentativa        |65    |65    |7     |4     |54   |
-|17|Salta               |2018 |9  |Lesiones culposas en Accidentes Viales          |4425  |4425  |2011  |685   |1699 |
-|17|Salta               |2020 |9  |Lesiones culposas en Accidentes Viales          |3340  |3340  |1512  |500   |1328 |
-|17|Salta               |2023 |9  |Lesiones culposas en Accidentes Viales          |4848  |4848  |376   |160   |4312 |
-|17|Salta               |2018 |11 |Lesiones dolosas                                |7807  |7807  |2530  |2990  |2287 |
-|17|Salta               |2020 |11 |Lesiones dolosas                                |3117  |3117  |2740  |4478  |2899 |
-|17|Salta               |2023 |11 |Lesiones dolosas                                |11195 |11195 |808   |6856  |3531 |
-|17|Salta               |2018 |12 |Muertes en accidentes viales                    |39    |132   |34    |28    |0    |
-|17|Salta               |2020 |12 |Muertes en accidentes viales                    |128   |137   |112   |25    |0    |
-|17|Salta               |2023 |12 |Muertes en accidentes viales                    |153   |172   |40    |32    |0    |
-|17|Salta               |2018 |13 |Otros delitos contra la integridad sexual       |840   |840   |39    |484   |317  |
-|17|Salta               |2020 |13 |Otros delitos contra la integridad sexual       |1113  |1113  |74    |665   |374  |
-|17|Salta               |2023 |13 |Otros delitos contra la integridad sexual       |443   |443   |27    |967   |449  |
-|17|Salta               |2023 |13 |Otros delitos contra la integridad sexual       |693   |693   |12    |457   |224  |
-|17|Salta               |2018 |14 |Otros delitos contra la libertad                |1264  |1270  |378   |430   |462  |
-|17|Salta               |2018 |14 |Otros delitos contra la libertad                |1261  |1262  |375   |425   |462  |
-|17|Salta               |2020 |14 |Otros delitos contra la libertad                |2473  |2473  |859   |705   |909  |
-|17|Salta               |2020 |14 |Otros delitos contra la libertad                |2471  |2471  |859   |704   |908  |
-|17|Salta               |2023 |14 |Otros delitos contra la libertad                |2605  |2605  |47    |93    |2365 |
-|17|Salta               |2023 |14 |Otros delitos contra la libertad                |2605  |2605  |47    |93    |2365 |
-|17|Salta               |2018 |15 |Otros delitos contra las personas               |212   |213   |63    |67    |83   |
-|17|Salta               |2020 |15 |Otros delitos contra las personas               |275   |275   |65    |89    |121  |
-|17|Salta               |2023 |15 |Otros delitos contra las personas               |249   |249   |12    |20    |217  |
-|17|Salta               |2018 |16 |Suicidios (consumados)                          |160   |160   |122   |38    |0    |
-|17|Salta               |2020 |16 |Suicidios (consumados)                          |195   |195   |161   |34    |0    |
-|17|Salta               |2023 |16 |Suicidios (consumados)                          |184   |184   |11    |43    |0    |
-|17|Salta               |2023 |17 |Tentativa de abuso sexual con acceso carnal     |4     |4     |0     |2     |2    |
-|17|Salta               |2018 |18 |Trata de personas agravado                      |1     |3     |2     |1     |0    |
-|17|Salta               |2018 |19 |Trata de personas simple                        |2     |5     |1     |4     |0    |
-|17|Salta               |2020 |19 |Trata de personas simple                        |2     |2     |0     |1     |1    |
+=================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (SALTA)
+=============================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+=================================================================================================================================================
+|17      |Salta                |2023   |1       |Abuso sexual agravado                           |23      |23        |0        |17      |6      |
+|17      |Salta                |2023   |2       |Abuso sexual simple                             |676     |676       |15       |459     |202    |
+|17      |Salta                |2018   |3       |Abusos sexuales con acceso carnal (violacion    |272     |272       |15       |162     |95     |
+|17      |Salta                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |328     |328       |24       |206     |98     |
+|17      |Salta                |2023   |3       |Abusos sexuales con acceso carnal (violacion    |356     |356       |5        |249     |32     |
+|17      |Salta                |2023   |4       |Ciberdelitos sexuales vinculados a menores      |47      |47        |0        |32      |15     |
+|17      |Salta                |2018   |5       |Delitos contra el honor                         |1       |1         |1        |0       |0      |
+|17      |Salta                |2018   |6       |Homicidios culposos por otros hechos            |5       |5         |2        |0       |3      |
+|17      |Salta                |2020   |6       |Homicidios culposos por otros hechos            |7       |7         |1        |0       |6      |
+|17      |Salta                |2023   |6       |Homicidios culposos por otros hechos            |5       |5         |0        |0       |5      |
+|17      |Salta                |2018   |7       |Homicidios dolosos                              |72      |73        |60       |13      |0      |
+|17      |Salta                |2020   |7       |Homicidios dolosos                              |89      |89        |75       |4       |0      |
+|17      |Salta                |2023   |7       |Homicidios dolosos                              |63      |63        |50       |13      |0      |
+|17      |Salta                |2018   |8       |Homicidios dolosos en grado de tentativa        |40      |40        |22       |3       |15     |
+|17      |Salta                |2020   |8       |Homicidios dolosos en grado de tentativa        |79      |79        |42       |8       |29     |
+|17      |Salta                |2023   |8       |Homicidios dolosos en grado de tentativa        |65      |65        |7        |4       |54     |
+|17      |Salta                |2018   |9       |Lesiones culposas en Accidentes Viales          |4425    |4425      |2011     |685     |1699   |
+|17      |Salta                |2020   |9       |Lesiones culposas en Accidentes Viales          |3340    |3340      |1512     |500     |1328   |
+|17      |Salta                |2023   |9       |Lesiones culposas en Accidentes Viales          |4848    |4848      |376      |160     |4312   |
+|17      |Salta                |2018   |11      |Lesiones dolosas                                |7807    |7807      |2530     |2990    |2287   |
+|17      |Salta                |2020   |11      |Lesiones dolosas                                |3117    |3117      |2740     |4478    |2899   |
+|17      |Salta                |2023   |11      |Lesiones dolosas                                |11195   |11195     |808      |6856    |3531   |
+|17      |Salta                |2018   |12      |Muertes en accidentes viales                    |39      |132       |34       |28      |0      |
+|17      |Salta                |2020   |12      |Muertes en accidentes viales                    |128     |137       |112      |25      |0      |
+|17      |Salta                |2023   |12      |Muertes en accidentes viales                    |153     |172       |40       |32      |0      |
+|17      |Salta                |2018   |13      |Otros delitos contra la integridad sexual       |840     |840       |39       |484     |317    |
+|17      |Salta                |2020   |13      |Otros delitos contra la integridad sexual       |1113    |1113      |74       |665     |374    |
+|17      |Salta                |2023   |13      |Otros delitos contra la integridad sexual       |443     |443       |27       |967     |449    |
+|17      |Salta                |2023   |13      |Otros delitos contra la integridad sexual       |693     |693       |12       |457     |224    |
+|17      |Salta                |2018   |14      |Otros delitos contra la libertad                |1264    |1270      |378      |430     |462    |
+|17      |Salta                |2018   |14      |Otros delitos contra la libertad                |1261    |1262      |375      |425     |462    |
+|17      |Salta                |2020   |14      |Otros delitos contra la libertad                |2473    |2473      |859      |705     |909    |
+|17      |Salta                |2020   |14      |Otros delitos contra la libertad                |2471    |2471      |859      |704     |908    |
+|17      |Salta                |2023   |14      |Otros delitos contra la libertad                |2605    |2605      |47       |93      |2365   |
+|17      |Salta                |2023   |14      |Otros delitos contra la libertad                |2605    |2605      |47       |93      |2365   |
+|17      |Salta                |2018   |15      |Otros delitos contra las personas               |212     |213       |63       |67      |83     |
+|17      |Salta                |2020   |15      |Otros delitos contra las personas               |275     |275       |65       |89      |121    |
+|17      |Salta                |2023   |15      |Otros delitos contra las personas               |249     |249       |12       |20      |217    |
+|17      |Salta                |2018   |16      |Suicidios (consumados)                          |160     |160       |122      |38      |0      |
+|17      |Salta                |2020   |16      |Suicidios (consumados)                          |195     |195       |161      |34      |0      |
+|17      |Salta                |2023   |16      |Suicidios (consumados)                          |184     |184       |11       |43      |0      |
+|17      |Salta                |2023   |17      |Tentativa de abuso sexual con acceso carnal     |4       |4         |0        |2       |2      |
+|17      |Salta                |2018   |18      |Trata de personas agravado                      |1       |3         |2        |1       |0      |
+|17      |Salta                |2018   |19      |Trata de personas simple                        |2       |5         |1        |4       |0      |
+|17      |Salta                |2020   |19      |Trata de personas simple                        |2       |2         |0        |1       |1      |
