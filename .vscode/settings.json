@@ -6,6 +6,8 @@
         "stdlib.h": "c",
         "carga.h": "c",
         "stdio.h": "c",
-        "escribir.h": "c"
+        "escribir.h": "c",
+        "ranges": "c",
+        "variant": "c"
     }
 }

@@ -341,6 +341,8 @@ void menu_poblaciones()
 
 
 
+
+
 void exportar_datos_csv_hechos_provincia_anio(nodo *delitos)
 {
     
@@ -362,32 +364,32 @@ void exportar_datos_csv_hechos_provincia_anio(nodo *delitos)
 
         // a. Inicializar el acumulador para esta provincia
         
-        strcpy(acumulado[index].provincia_nombre, "N/D"); // Ponemos "N/D" por si no encontramos datos
-        acumulado[index].total_hechos_2018 = 0;
-        acumulado[index].total_hechos_2020 = 0;
-        acumulado[index].total_hechos_2023 = 0;
+        strcpy(acumulado[id_aux].provincia_nombre, "N/D"); // Ponemos "N/D" por si no encontramos datos
+        acumulado[id_aux].total_hechos_2018 = 0;
+        acumulado[id_aux].total_hechos_2020 = 0;
+        acumulado[id_aux].total_hechos_2023 = 0;
 
         
         aux = delitos;
         while(aux != NULL)
         {
             // c. Si el nodo coincide con el ID de esta pasada...
-            if (aux->provincia_id == id_actual)
+            if (aux->provincia_id == id)
             {
                 // d. (El "truco") Si es la primera vez que vemos esta ID,
                 // le "robamos" el nombre de provincia a este nodo.
-                if (strcmp(acumulado[index].provincia_nombre, "N/D") == 0)
+                if (strcmp(acumulado[id_aux].provincia_nombre, "N/D") == 0)
                 {
-                    strcpy(acumulado[index].provincia_nombre, aux->provincia_nombre);
+                    strcpy(acumulado[id_aux].provincia_nombre, aux->provincia_nombre);
                 }
             
                 // e. ...acumulamos en el año correcto
                 if (aux->anio == 2018) {
-                    acumulado[index].total_hechos_2018 += aux->cantidad_hechos;
+                    acumulado[id_aux].total_hechos_2018 += aux->cantidad_hechos;
                 } else if (aux->anio == 2020) {
-                    acumulado[index].total_hechos_2020 += aux->cantidad_hechos;
+                    acumulado[id_aux].total_hechos_2020 += aux->cantidad_hechos;
                 } else if (aux->anio == 2023) {
-                    acumulado[index].total_hechos_2023 += aux->cantidad_hechos;
+                    acumulado[id_aux].total_hechos_2023 += aux->cantidad_hechos;
                 }
             }
             aux = aux->sig; // Siguiente nodo
@@ -406,7 +408,7 @@ void exportar_datos_csv_hechos_provincia_anio(nodo *delitos)
     
     fprintf(abrir, "Provincia,Hechos_2018,Hechos_2020,Hechos_2023\n");
     
-    for(int i = 0; i < num_jurisdicciones; i++)
+    for(int i = 0; i < provincias; i++)
     {
         fprintf(abrir, "%s,%d,%d,%d\n", 
             acumulado[i].provincia_nombre,
@@ -416,16 +418,10 @@ void exportar_datos_csv_hechos_provincia_anio(nodo *delitos)
     }
 
     fclose(abrir);
-    printf("Archivo '1_delitosxprovincia_por_anio.csv' generado (con 23 pasadas por ID).\n");
-
-    printf("Presione Enter para continuar...");
-    int c;
-    while ((c = getchar()) != '\n' && c != EOF); // Limpia buffer
-    getchar(); // Espera Enter
+    printf("Archivo '1_delitosxprovincia_por_anio.csv' generado.\n");
 }
      
 
     
-    
-}
-    
+
+
