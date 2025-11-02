@@ -1,0 +1,23 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (HOMICIDIOS CULPOSOS POR OTROS HECHOS) EN EL ANIO (2023)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2023   |6       |Homicidios culposos por otros hechos            |24      |27        |19       |8       |0       |
+|2       |Buenos Aires         |2023   |6       |Homicidios culposos por otros hechos            |87      |39        |68       |38      |3       |
+|4       |Cordoba              |2023   |6       |Homicidios culposos por otros hechos            |19      |20        |18       |2       |0       |
+|5       |Corrientes           |2023   |6       |Homicidios culposos por otros hechos            |31      |31        |0        |0       |31      |
+|6       |Chaco                |2023   |6       |Homicidios culposos por otros hechos            |173     |182       |135      |47      |0       |
+|7       |Chubut               |2023   |6       |Homicidios culposos por otros hechos            |4       |5         |1        |0       |4       |
+|8       |Entre Rios           |2023   |6       |Homicidios culposos por otros hechos            |8       |8         |5        |2       |1       |
+|9       |Formosa              |2023   |6       |Homicidios culposos por otros hechos            |5       |6         |1        |5       |0       |
+|11      |La Pampa             |2023   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|12      |La Rioja             |2023   |6       |Homicidios culposos por otros hechos            |1       |1         |0        |1       |0       |
+|13      |Mendoza              |2023   |6       |Homicidios culposos por otros hechos            |43      |292       |34       |55      |133     |
+|14      |Misiones             |2023   |6       |Homicidios culposos por otros hechos            |26      |27        |21       |6       |0       |
+|15      |Neuquen              |2023   |6       |Homicidios culposos por otros hechos            |5       |7         |4        |3       |0       |
+|17      |Salta                |2023   |6       |Homicidios culposos por otros hechos            |5       |5         |0        |0       |5       |
+|18      |San Juan             |2023   |6       |Homicidios culposos por otros hechos            |4       |4         |2        |2       |0       |
+|19      |San Luis             |2023   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|21      |Santa Fe             |2023   |6       |Homicidios culposos por otros hechos            |89      |92        |73       |19      |0       |
+|23      |Tucuman              |2023   |6       |Homicidios culposos por otros hechos            |1       |2         |2        |0       |0       |

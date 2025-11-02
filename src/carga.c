@@ -2,6 +2,8 @@
 #include "../include/escribir.h"
 #include <string.h>
 
+
+
 void cargar_informacion(nodo **delitos)
 {
     FILE *archivo = NULL;
@@ -179,8 +181,262 @@ void cargar_informacion(nodo **delitos)
     printf("Archivo cargado exitosamente. Total de registros cargados: %d\n", cuenta_registros);
 }
 
+void acumulador_delitos_mostrar(nodo *delitos)
+{
+    struct  nodo *aux = delitos;
+    struct acumulador d2018={0};
+    struct acumulador d2020={0};    
+    struct acumulador d2023={0};
+  
+    while(aux != NULL)
+    {
+        if(aux->anio == 2018)
+        {
+            d2018.cant = d2018.cant + aux->cantidad_hechos;
+            d2018.masc = d2018.masc + aux->cantidad_masculinos;
+            d2018.fem = d2018.fem + aux->cantidad_femeninos;
+            d2018.sindef = d2018.sindef + aux->cantidad_si;
+        }
+        else if(aux->anio == 2020)
+        {
+            d2020.cant = d2020.cant + aux->cantidad_hechos;
+            d2020.masc = d2020.masc + aux->cantidad_masculinos;
+            d2020.fem = d2020.fem + aux->cantidad_femeninos;
+            d2020.sindef = d2020.sindef + aux->cantidad_si;
+        }
+        else
+        {
+            d2023.cant = d2023.cant + aux->cantidad_hechos;
+            d2023.masc = d2023.masc + aux->cantidad_masculinos;
+            d2023.fem = d2023.fem + aux->cantidad_femeninos;
+            d2023.sindef = d2023.sindef + aux->cantidad_si;
+        }
+        aux = aux->sig;        
+    }
+    printf("=============================================================================\n");
+    printf("|           CANTIDAD DE HECHOS GENERAL EN CADA ANIO (2018, 2020, 2023)       |\n");
+    printf("=============================================================================\n");
+    printf("Anio 2018:\n");
+    printf("| CANTIDAD DE HECHOS: %d\n", d2018.cant);
+    printf("| VICTIMAS MASCULINAS: %d\n", d2018.masc);
+    printf("| VICTIMAS FEMENINAS: %d\n", d2018.fem);
+    printf("| VICTIMAS SIN DEFINIR: %d\n", d2018.sindef);
+    printf("=============================================================================\n");
+    printf("\nAnio 2020:\n");
+    printf("| CANTIDAD DE HECHOS: %d\n", d2020.cant);
+    printf("| VICTIMAS MASCULINAS: %d\n", d2020.masc);
+    printf("| VICTIMAS FEMENINAS: %d\n", d2020.fem);
+    printf("| VICTIMAS SIN DEFINIR: %d\n", d2020.sindef);
+    printf("=============================================================================\n");
+    printf("\nAnio 2023:\n");
+    printf("| CANTIDAD DE HECHOS: %d\n", d2023.cant);
+    printf("| VICTIMAS MASCULINAS: %d\n", d2023.masc);
+    printf("| VICTIMAS FEMENINAS: %d\n", d2023.fem);
+    printf("| VICTIMAS SIN DEFINIR: %d\n", d2023.sindef);
+    printf("=============================================================================\n");
+}
 
-void liberartodamemoria(nodo **delitos)
+void acumulador_delitos_principales_mostrar(nodo *delitos)
+{
+    struct nodo *aux = delitos;
+    struct acumulador abusosexualconaccesocarnal2018={0};
+    struct acumulador homicidiosdolosos2018={0};
+    struct acumulador suicidioconsumados2018={0};
+    struct acumulador tratadepersonassimple2018={0};
+    struct acumulador abusosexualconaccesocarnal2020={0};
+    struct acumulador homicidiosdolosos2020={0};
+    struct acumulador suicidioconsumados2020={0};
+    struct acumulador tratadepersonassimple2020={0};
+    struct acumulador abusosexualconaccesocarnal2023={0};
+    struct acumulador homicidiosdolosos2023={0};
+    struct acumulador suicidioconsumados2023={0};
+    struct acumulador tratadepersonassimple2023={0};
+    int anios;
+
+    while (aux != NULL)
+    {
+        anios = aux->anio;
+        switch (anios)
+        {
+        case 2018:
+            if (strcmp(aux->delito_nombre, "Abusos sexuales con acceso carnal (violacion") == 0)
+            {
+                abusosexualconaccesocarnal2018.cant = abusosexualconaccesocarnal2018.cant + aux->cantidad_hechos;
+                abusosexualconaccesocarnal2018.masc = abusosexualconaccesocarnal2018.masc + aux->cantidad_masculinos;
+                abusosexualconaccesocarnal2018.fem = abusosexualconaccesocarnal2018.fem + aux->cantidad_femeninos;
+                abusosexualconaccesocarnal2018.sindef = abusosexualconaccesocarnal2018.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Homicidios dolosos") == 0)
+            {
+                homicidiosdolosos2018.cant = homicidiosdolosos2018.cant + aux->cantidad_hechos;
+                homicidiosdolosos2018.masc = homicidiosdolosos2018.masc + aux->cantidad_masculinos;
+                homicidiosdolosos2018.fem = homicidiosdolosos2018.fem + aux->cantidad_femeninos;
+                homicidiosdolosos2018.sindef = homicidiosdolosos2018.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Suicidios (consumados)") == 0)
+            {
+                suicidioconsumados2018.cant = suicidioconsumados2018.cant + aux->cantidad_hechos;
+                suicidioconsumados2018.masc = suicidioconsumados2018.masc + aux->cantidad_masculinos;
+                suicidioconsumados2018.fem = suicidioconsumados2018.fem + aux->cantidad_femeninos;
+                suicidioconsumados2018.sindef = suicidioconsumados2018.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Trata de personas simple") == 0)
+            {
+                tratadepersonassimple2018.cant = tratadepersonassimple2018.cant + aux->cantidad_hechos;
+                tratadepersonassimple2018.masc = tratadepersonassimple2018.masc + aux->cantidad_masculinos;
+                tratadepersonassimple2018.fem = tratadepersonassimple2018.fem + aux->cantidad_femeninos;
+                tratadepersonassimple2018.sindef = tratadepersonassimple2018.sindef + aux->cantidad_si;
+            }
+            break;
+        case 2020:
+        if (strcmp(aux->delito_nombre, "Abusos sexuales con acceso carnal (violacion") == 0)
+            {
+               abusosexualconaccesocarnal2020.cant = abusosexualconaccesocarnal2020.cant + aux->cantidad_hechos;
+                abusosexualconaccesocarnal2020.masc = abusosexualconaccesocarnal2020.masc + aux->cantidad_masculinos;
+                abusosexualconaccesocarnal2020.fem = abusosexualconaccesocarnal2020.fem + aux->cantidad_femeninos;
+                abusosexualconaccesocarnal2020.sindef = abusosexualconaccesocarnal2020.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Homicidios dolosos") == 0)
+            {
+                homicidiosdolosos2020.cant = homicidiosdolosos2020.cant + aux->cantidad_hechos;
+                homicidiosdolosos2020.masc = homicidiosdolosos2020.masc + aux->cantidad_masculinos;
+                homicidiosdolosos2020.fem = homicidiosdolosos2020.fem + aux->cantidad_femeninos;
+                homicidiosdolosos2020.sindef = homicidiosdolosos2020.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Suicidios (consumados)") == 0)
+            {
+                suicidioconsumados2020.cant = suicidioconsumados2020.cant + aux->cantidad_hechos;
+                suicidioconsumados2020.masc = suicidioconsumados2020.masc + aux->cantidad_masculinos;
+                suicidioconsumados2020.fem = suicidioconsumados2020.fem + aux->cantidad_femeninos;
+                suicidioconsumados2020.sindef = suicidioconsumados2020.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Trata de personas simple") == 0)
+            {
+                tratadepersonassimple2020.cant = tratadepersonassimple2020.cant + aux->cantidad_hechos;
+                tratadepersonassimple2020.masc = tratadepersonassimple2020.masc + aux->cantidad_masculinos;
+                tratadepersonassimple2020.fem = tratadepersonassimple2020.fem + aux->cantidad_femeninos;
+                tratadepersonassimple2020.sindef = tratadepersonassimple2020.sindef + aux->cantidad_si;
+            }
+            break;
+        case 2023:
+            if (strcmp(aux->delito_nombre, "Abusos sexuales con acceso carnal (violacion") == 0)
+            {
+                abusosexualconaccesocarnal2023.cant = abusosexualconaccesocarnal2023.cant + aux->cantidad_hechos;
+                abusosexualconaccesocarnal2023.masc = abusosexualconaccesocarnal2023.masc + aux->cantidad_masculinos;
+                abusosexualconaccesocarnal2023.fem = abusosexualconaccesocarnal2023.fem + aux->cantidad_femeninos;
+                abusosexualconaccesocarnal2023.sindef = abusosexualconaccesocarnal2023.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Homicidios dolosos") == 0)
+            {
+                homicidiosdolosos2023.cant = homicidiosdolosos2023.cant + aux->cantidad_hechos;
+                homicidiosdolosos2023.masc = homicidiosdolosos2023.masc + aux->cantidad_masculinos;
+                homicidiosdolosos2023.fem = homicidiosdolosos2023.fem + aux->cantidad_femeninos;
+                homicidiosdolosos2023.sindef = homicidiosdolosos2023.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Suicidios (consumados)") == 0)
+            {
+                suicidioconsumados2023.cant = suicidioconsumados2023.cant + aux->cantidad_hechos;
+                suicidioconsumados2023.masc = suicidioconsumados2023.masc + aux->cantidad_masculinos;
+                suicidioconsumados2023.fem = suicidioconsumados2023.fem + aux->cantidad_femeninos;
+                suicidioconsumados2023.sindef = suicidioconsumados2023.sindef + aux->cantidad_si;
+            }
+            else if (strcmp(aux->delito_nombre, "Trata de personas simple") == 0)
+            {
+                tratadepersonassimple2023.cant = tratadepersonassimple2023.cant + aux->cantidad_hechos;
+                tratadepersonassimple2023.masc = tratadepersonassimple2023.masc + aux->cantidad_masculinos;
+                tratadepersonassimple2023.fem = tratadepersonassimple2023.fem + aux->cantidad_femeninos;
+                tratadepersonassimple2023.sindef = tratadepersonassimple2023.sindef + aux->cantidad_si;
+            }
+            break;
+        }
+        aux = aux->sig;
+    }
+    
+    printf("----------CANTIDAD DE DELITOS ESPECIFICOS EN SU RESPECTIVO ANIO----------\n");
+    
+    printf("-----2018-----\n");
+
+    printf("---ABUSO SEXUAL CON ACCESO CARNAL---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", abusosexualconaccesocarnal2018.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", abusosexualconaccesocarnal2018.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", abusosexualconaccesocarnal2018.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", abusosexualconaccesocarnal2018.sindef);
+    
+    printf("\n---HOMICIDIOS DOLOSOS---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", homicidiosdolosos2018.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", homicidiosdolosos2018.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", homicidiosdolosos2018.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", homicidiosdolosos2018.sindef);
+    
+    printf("\n---SUICIDIO (CONSUMADO)---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", suicidioconsumados2018.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", suicidioconsumados2018.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", suicidioconsumados2018.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", suicidioconsumados2018.sindef);
+    
+    printf("\n---TRATA DE PERSONAS SIMPLE---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", tratadepersonassimple2018.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", tratadepersonassimple2018.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", tratadepersonassimple2018.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", tratadepersonassimple2018.sindef);
+    
+    printf("\n-----2020-----\n");
+    
+    printf("---ABUSO SEXUAL CON ACCESO CARNAL---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", abusosexualconaccesocarnal2020.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", abusosexualconaccesocarnal2020.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", abusosexualconaccesocarnal2020.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", abusosexualconaccesocarnal2020.sindef);
+    
+    printf("\n---HOMICIDIOS DOLOSOS---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", homicidiosdolosos2020.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", homicidiosdolosos2020.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", homicidiosdolosos2020.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", homicidiosdolosos2020.sindef);
+
+    printf("\n---SUICIDIO (CONSUMADO)---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", suicidioconsumados2020.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", suicidioconsumados2020.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", suicidioconsumados2020.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", suicidioconsumados2020.sindef);
+    
+    printf("\n---TRATA DE PERSONAS SIMPLE---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", tratadepersonassimple2020.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", tratadepersonassimple2020.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", tratadepersonassimple2020.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", tratadepersonassimple2020.sindef);
+    
+    printf("-----2023-----\n");
+    
+    printf("---ABUSO SEXUAL CON ACCESO CARNAL---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", abusosexualconaccesocarnal2023.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", abusosexualconaccesocarnal2023.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", abusosexualconaccesocarnal2023.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", abusosexualconaccesocarnal2023.sindef);
+    
+    printf("\n---HOMICIDIOS DOLOSOS---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", homicidiosdolosos2023.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", homicidiosdolosos2023.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", homicidiosdolosos2023.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", homicidiosdolosos2023.sindef);
+    
+    printf("\n---SUICIDIO (CONSUMADO)---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", suicidioconsumados2023.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", suicidioconsumados2023.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", suicidioconsumados2023.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", suicidioconsumados2023.sindef);
+    
+    printf("\n---TRATA DE PERSONAS SIMPLE---\n");
+    printf("CANTIDAD DE HECHOS: %d\n", tratadepersonassimple2023.cant);
+    printf("VICTIMAS MASCULINAS: %d\n", tratadepersonassimple2023.masc);
+    printf("VICTIMAS FEMENINAS: %d\n", tratadepersonassimple2023.fem);
+    printf("VICTIMAS SIN DEFINIR: %d\n", tratadepersonassimple2023.sindef);
+
+}
+
+
+
+void liberar_toda_memoria(nodo **delitos)
 {
     nodo *aux = *delitos;
     nodo *ant = NULL;

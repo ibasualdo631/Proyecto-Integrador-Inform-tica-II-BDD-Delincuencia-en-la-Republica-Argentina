@@ -1,52 +1,52 @@
-=================================================================================================================================================
+==================================================================================================================================================
 |                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (SANTIAGO DEL ESTERO)
-=============================================================================================================================================
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|22      |Santiago del Estero  |2023   |1       |Abuso sexual agravado                           |2       |2         |0        |1       |1      |
-|22      |Santiago del Estero  |2023   |2       |Abuso sexual simple                             |466     |474       |46       |392     |36     |
-|22      |Santiago del Estero  |2018   |3       |Abusos sexuales con acceso carnal (violacion    |33      |35        |15       |90      |0      |
-|22      |Santiago del Estero  |2020   |3       |Abusos sexuales con acceso carnal (violacion    |13      |122       |4        |38      |0      |
-|22      |Santiago del Estero  |2023   |3       |Abusos sexuales con acceso carnal (violacion    |61      |61        |9        |36      |16     |
-|22      |Santiago del Estero  |2023   |4       |Ciberdelitos sexuales vinculados a menores      |3       |3         |0        |3       |0      |
-|22      |Santiago del Estero  |2018   |5       |Delitos contra el honor                         |28      |29        |11       |18      |0      |
-|22      |Santiago del Estero  |2020   |5       |Delitos contra el honor                         |35      |37        |17       |20      |0      |
-|22      |Santiago del Estero  |2023   |5       |Delitos contra el honor                         |66      |67        |21       |43      |3      |
-|22      |Santiago del Estero  |2018   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0      |
-|22      |Santiago del Estero  |2020   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0      |
-|22      |Santiago del Estero  |2018   |7       |Homicidios dolosos                              |37      |37        |29       |8       |0      |
-|22      |Santiago del Estero  |2020   |7       |Homicidios dolosos                              |37      |37        |31       |6       |0      |
-|22      |Santiago del Estero  |2023   |7       |Homicidios dolosos                              |34      |34        |25       |9       |0      |
-|22      |Santiago del Estero  |2018   |8       |Homicidios dolosos en grado de tentativa        |70      |81        |69       |12      |0      |
-|22      |Santiago del Estero  |2020   |8       |Homicidios dolosos en grado de tentativa        |46      |53        |42       |11      |0      |
-|22      |Santiago del Estero  |2023   |8       |Homicidios dolosos en grado de tentativa        |16      |16        |9        |4       |3      |
-|22      |Santiago del Estero  |2018   |9       |Lesiones culposas en Accidentes Viales          |308     |348       |221      |127     |0      |
-|22      |Santiago del Estero  |2020   |9       |Lesiones culposas en Accidentes Viales          |116     |129       |77       |52      |0      |
-|22      |Santiago del Estero  |2023   |9       |Lesiones culposas en Accidentes Viales          |190     |221       |31       |84      |36     |
-|22      |Santiago del Estero  |2018   |10      |Lesiones culposas por otros hechos              |4       |5         |2        |3       |0      |
-|22      |Santiago del Estero  |2020   |10      |Lesiones culposas por otros hechos              |8       |8         |3        |5       |0      |
-|22      |Santiago del Estero  |2023   |10      |Lesiones culposas por otros hechos              |4       |4         |4        |7       |3      |
-|22      |Santiago del Estero  |2018   |11      |Lesiones dolosas                                |7639    |8266      |3206     |5059    |1      |
-|22      |Santiago del Estero  |2020   |11      |Lesiones dolosas                                |6320    |6840      |2503     |4336    |1      |
-|22      |Santiago del Estero  |2023   |11      |Lesiones dolosas                                |1122    |4407      |1343     |2437    |627    |
-|22      |Santiago del Estero  |2018   |12      |Muertes en accidentes viales                    |238     |274       |222      |52      |0      |
-|22      |Santiago del Estero  |2020   |12      |Muertes en accidentes viales                    |49      |152       |130      |22      |0      |
-|22      |Santiago del Estero  |2023   |12      |Muertes en accidentes viales                    |185     |203       |168      |34      |1      |
-|22      |Santiago del Estero  |2018   |13      |Otros delitos contra la integridad sexual       |523     |511       |14       |427     |0      |
-|22      |Santiago del Estero  |2020   |13      |Otros delitos contra la integridad sexual       |599     |637       |37       |530     |0      |
-|22      |Santiago del Estero  |2023   |13      |Otros delitos contra la integridad sexual       |511     |519       |48       |44      |57     |
-|22      |Santiago del Estero  |2023   |13      |Otros delitos contra la integridad sexual       |40      |40        |2        |18      |20     |
-|22      |Santiago del Estero  |2018   |14      |Otros delitos contra la libertad                |332     |348       |130      |217     |1      |
-|22      |Santiago del Estero  |2018   |14      |Otros delitos contra la libertad                |332     |348       |130      |217     |1      |
-|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |237     |270       |116      |154     |0      |
-|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |236     |246       |92       |154     |0      |
-|22      |Santiago del Estero  |2023   |14      |Otros delitos contra la libertad                |138     |45        |40       |80      |25     |
-|22      |Santiago del Estero  |2023   |14      |Otros delitos contra la libertad                |129     |134       |40       |76      |18     |
-|22      |Santiago del Estero  |2018   |15      |Otros delitos contra las personas               |186     |204       |77       |127     |0      |
-|22      |Santiago del Estero  |2020   |15      |Otros delitos contra las personas               |243     |267       |60       |207     |0      |
-|22      |Santiago del Estero  |2023   |15      |Otros delitos contra las personas               |36      |42        |8        |17      |17     |
-|22      |Santiago del Estero  |2018   |16      |Suicidios (consumados)                          |118     |118       |33       |15      |0      |
-|22      |Santiago del Estero  |2020   |16      |Suicidios (consumados)                          |119     |119       |97       |22      |0      |
-|22      |Santiago del Estero  |2023   |16      |Suicidios (consumados)                          |130     |130       |13       |20      |0      |
-|22      |Santiago del Estero  |2020   |19      |Trata de personas simple                        |1       |24        |24       |0       |0      |
-|22      |Santiago del Estero  |2023   |19      |Trata de personas simple                        |9       |11        |0        |4       |7      |
+==================================================================================================================================================
+|22      |Santiago del Estero  |2023   |1       |Abuso sexual agravado                           |2       |2         |0        |1       |1       |
+|22      |Santiago del Estero  |2023   |2       |Abuso sexual simple                             |466     |474       |46       |392     |36      |
+|22      |Santiago del Estero  |2018   |3       |Abusos sexuales con acceso carnal (violacion    |33      |35        |15       |90      |0       |
+|22      |Santiago del Estero  |2020   |3       |Abusos sexuales con acceso carnal (violacion    |13      |122       |4        |38      |0       |
+|22      |Santiago del Estero  |2023   |3       |Abusos sexuales con acceso carnal (violacion    |61      |61        |9        |36      |16      |
+|22      |Santiago del Estero  |2023   |4       |Ciberdelitos sexuales vinculados a menores      |3       |3         |0        |3       |0       |
+|22      |Santiago del Estero  |2018   |5       |Delitos contra el honor                         |28      |29        |11       |18      |0       |
+|22      |Santiago del Estero  |2020   |5       |Delitos contra el honor                         |35      |37        |17       |20      |0       |
+|22      |Santiago del Estero  |2023   |5       |Delitos contra el honor                         |66      |67        |21       |43      |3       |
+|22      |Santiago del Estero  |2018   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|22      |Santiago del Estero  |2020   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|22      |Santiago del Estero  |2018   |7       |Homicidios dolosos                              |37      |37        |29       |8       |0       |
+|22      |Santiago del Estero  |2020   |7       |Homicidios dolosos                              |37      |37        |31       |6       |0       |
+|22      |Santiago del Estero  |2023   |7       |Homicidios dolosos                              |34      |34        |25       |9       |0       |
+|22      |Santiago del Estero  |2018   |8       |Homicidios dolosos en grado de tentativa        |70      |81        |69       |12      |0       |
+|22      |Santiago del Estero  |2020   |8       |Homicidios dolosos en grado de tentativa        |46      |53        |42       |11      |0       |
+|22      |Santiago del Estero  |2023   |8       |Homicidios dolosos en grado de tentativa        |16      |16        |9        |4       |3       |
+|22      |Santiago del Estero  |2018   |9       |Lesiones culposas en Accidentes Viales          |308     |348       |221      |127     |0       |
+|22      |Santiago del Estero  |2020   |9       |Lesiones culposas en Accidentes Viales          |116     |129       |77       |52      |0       |
+|22      |Santiago del Estero  |2023   |9       |Lesiones culposas en Accidentes Viales          |190     |221       |31       |84      |36      |
+|22      |Santiago del Estero  |2018   |10      |Lesiones culposas por otros hechos              |4       |5         |2        |3       |0       |
+|22      |Santiago del Estero  |2020   |10      |Lesiones culposas por otros hechos              |8       |8         |3        |5       |0       |
+|22      |Santiago del Estero  |2023   |10      |Lesiones culposas por otros hechos              |4       |4         |4        |7       |3       |
+|22      |Santiago del Estero  |2018   |11      |Lesiones dolosas                                |7639    |8266      |3206     |5059    |1       |
+|22      |Santiago del Estero  |2020   |11      |Lesiones dolosas                                |6320    |6840      |2503     |4336    |1       |
+|22      |Santiago del Estero  |2023   |11      |Lesiones dolosas                                |1122    |4407      |1343     |2437    |627     |
+|22      |Santiago del Estero  |2018   |12      |Muertes en accidentes viales                    |238     |274       |222      |52      |0       |
+|22      |Santiago del Estero  |2020   |12      |Muertes en accidentes viales                    |49      |152       |130      |22      |0       |
+|22      |Santiago del Estero  |2023   |12      |Muertes en accidentes viales                    |185     |203       |168      |34      |1       |
+|22      |Santiago del Estero  |2018   |13      |Otros delitos contra la integridad sexual       |523     |511       |14       |427     |0       |
+|22      |Santiago del Estero  |2020   |13      |Otros delitos contra la integridad sexual       |599     |637       |37       |530     |0       |
+|22      |Santiago del Estero  |2023   |13      |Otros delitos contra la integridad sexual       |511     |519       |48       |44      |57      |
+|22      |Santiago del Estero  |2023   |13      |Otros delitos contra la integridad sexual       |40      |40        |2        |18      |20      |
+|22      |Santiago del Estero  |2018   |14      |Otros delitos contra la libertad                |332     |348       |130      |217     |1       |
+|22      |Santiago del Estero  |2018   |14      |Otros delitos contra la libertad                |332     |348       |130      |217     |1       |
+|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |237     |270       |116      |154     |0       |
+|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |236     |246       |92       |154     |0       |
+|22      |Santiago del Estero  |2023   |14      |Otros delitos contra la libertad                |138     |45        |40       |80      |25      |
+|22      |Santiago del Estero  |2023   |14      |Otros delitos contra la libertad                |129     |134       |40       |76      |18      |
+|22      |Santiago del Estero  |2018   |15      |Otros delitos contra las personas               |186     |204       |77       |127     |0       |
+|22      |Santiago del Estero  |2020   |15      |Otros delitos contra las personas               |243     |267       |60       |207     |0       |
+|22      |Santiago del Estero  |2023   |15      |Otros delitos contra las personas               |36      |42        |8        |17      |17      |
+|22      |Santiago del Estero  |2018   |16      |Suicidios (consumados)                          |118     |118       |33       |15      |0       |
+|22      |Santiago del Estero  |2020   |16      |Suicidios (consumados)                          |119     |119       |97       |22      |0       |
+|22      |Santiago del Estero  |2023   |16      |Suicidios (consumados)                          |130     |130       |13       |20      |0       |
+|22      |Santiago del Estero  |2020   |19      |Trata de personas simple                        |1       |24        |24       |0       |0       |
+|22      |Santiago del Estero  |2023   |19      |Trata de personas simple                        |9       |11        |0        |4       |7       |

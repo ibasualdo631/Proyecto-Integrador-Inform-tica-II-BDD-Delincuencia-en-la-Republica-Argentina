@@ -1,0 +1,13 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (TRATA DE PERSONAS AGRAVADO) EN EL ANIO (2023)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2023   |18      |Trata de personas agravado                      |24      |24        |0        |1       |23      |
+|2       |Buenos Aires         |2023   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1       |
+|4       |Cordoba              |2023   |18      |Trata de personas agravado                      |1       |1         |0        |1       |0       |
+|5       |Corrientes           |2023   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1       |
+|6       |Chaco                |2023   |18      |Trata de personas agravado                      |2       |19        |17       |2       |0       |
+|13      |Mendoza              |2023   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1       |
+|18      |San Juan             |2023   |18      |Trata de personas agravado                      |4       |5         |2        |3       |0       |
+|21      |Santa Fe             |2023   |18      |Trata de personas agravado                      |4       |4         |0        |0       |4       |

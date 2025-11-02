@@ -1,0 +1,49 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (OTROS DELITOS CONTRA LA INTEGRIDAD SEXUAL) EN EL ANIO (2023)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2023   |13      |Otros delitos contra la integridad sexual       |1972    |2036      |328      |485     |223     |
+|1       |CABA                 |2023   |13      |Otros delitos contra la integridad sexual       |48      |151       |34       |89      |28      |
+|2       |Buenos Aires         |2023   |13      |Otros delitos contra la integridad sexual       |13135   |15599     |2159     |13313   |127     |
+|2       |Buenos Aires         |2023   |13      |Otros delitos contra la integridad sexual       |8616    |3073      |428      |8593    |52      |
+|3       |Catamarca            |2023   |13      |Otros delitos contra la integridad sexual       |356     |356       |8        |300     |48      |
+|3       |Catamarca            |2023   |13      |Otros delitos contra la integridad sexual       |252     |252       |5        |208     |39      |
+|4       |Cordoba              |2023   |13      |Otros delitos contra la integridad sexual       |834     |844       |76       |473     |295     |
+|4       |Cordoba              |2023   |13      |Otros delitos contra la integridad sexual       |480     |484       |35       |243     |206     |
+|5       |Corrientes           |2023   |13      |Otros delitos contra la integridad sexual       |382     |382       |3        |24      |355     |
+|5       |Corrientes           |2023   |13      |Otros delitos contra la integridad sexual       |91      |91        |0        |4       |87      |
+|6       |Chaco                |2023   |13      |Otros delitos contra la integridad sexual       |573     |611       |61       |547     |3       |
+|6       |Chaco                |2023   |13      |Otros delitos contra la integridad sexual       |73      |76        |8        |68      |0       |
+|7       |Chubut               |2023   |13      |Otros delitos contra la integridad sexual       |561     |590       |79       |474     |37      |
+|7       |Chubut               |2023   |13      |Otros delitos contra la integridad sexual       |84      |89        |17       |68      |4       |
+|8       |Entre Rios           |2023   |13      |Otros delitos contra la integridad sexual       |322     |329       |59       |265     |5       |
+|8       |Entre Rios           |2023   |13      |Otros delitos contra la integridad sexual       |26      |26        |13       |11      |2       |
+|9       |Formosa              |2023   |13      |Otros delitos contra la integridad sexual       |319     |360       |33       |323     |4       |
+|9       |Formosa              |2023   |13      |Otros delitos contra la integridad sexual       |67      |79        |3        |69      |0       |
+|10      |Jujuy                |2023   |13      |Otros delitos contra la integridad sexual       |985     |353       |48       |874     |31      |
+|10      |Jujuy                |2023   |13      |Otros delitos contra la integridad sexual       |376     |391       |51       |325     |15      |
+|11      |La Pampa             |2023   |13      |Otros delitos contra la integridad sexual       |219     |219       |31       |187     |1       |
+|12      |La Rioja             |2023   |13      |Otros delitos contra la integridad sexual       |157     |157       |0        |157     |0       |
+|13      |Mendoza              |2023   |13      |Otros delitos contra la integridad sexual       |3484    |3484      |0        |2       |3482    |
+|13      |Mendoza              |2023   |13      |Otros delitos contra la integridad sexual       |230     |230       |0        |0       |230     |
+|14      |Misiones             |2023   |13      |Otros delitos contra la integridad sexual       |839     |856       |81       |772     |3       |
+|14      |Misiones             |2023   |13      |Otros delitos contra la integridad sexual       |177     |179       |20       |157     |2       |
+|15      |Neuquen              |2023   |13      |Otros delitos contra la integridad sexual       |251     |259       |28       |231     |0       |
+|15      |Neuquen              |2023   |13      |Otros delitos contra la integridad sexual       |50      |52        |9        |43      |0       |
+|16      |Rio Negro            |2023   |13      |Otros delitos contra la integridad sexual       |579     |622       |73       |483     |66      |
+|16      |Rio Negro            |2023   |13      |Otros delitos contra la integridad sexual       |564     |606       |72       |468     |66      |
+|17      |Salta                |2023   |13      |Otros delitos contra la integridad sexual       |443     |443       |27       |967     |449     |
+|17      |Salta                |2023   |13      |Otros delitos contra la integridad sexual       |693     |693       |12       |457     |224     |
+|18      |San Juan             |2023   |13      |Otros delitos contra la integridad sexual       |800     |825       |39       |609     |37      |
+|18      |San Juan             |2023   |13      |Otros delitos contra la integridad sexual       |90      |92        |4        |36      |42      |
+|19      |San Luis             |2023   |13      |Otros delitos contra la integridad sexual       |186     |190       |20       |170     |0       |
+|19      |San Luis             |2023   |13      |Otros delitos contra la integridad sexual       |95      |95        |9        |86      |0       |
+|20      |Santa Cruz           |2023   |13      |Otros delitos contra la integridad sexual       |242     |247       |36       |211     |0       |
+|20      |Santa Cruz           |2023   |13      |Otros delitos contra la integridad sexual       |12      |13        |6        |7       |0       |
+|21      |Santa Fe             |2023   |13      |Otros delitos contra la integridad sexual       |2722    |2861      |370      |243     |81      |
+|21      |Santa Fe             |2023   |13      |Otros delitos contra la integridad sexual       |522     |558       |77       |459     |22      |
+|22      |Santiago del Estero  |2023   |13      |Otros delitos contra la integridad sexual       |511     |519       |48       |44      |57      |
+|22      |Santiago del Estero  |2023   |13      |Otros delitos contra la integridad sexual       |40      |40        |2        |18      |20      |
+|23      |Tucuman              |2023   |13      |Otros delitos contra la integridad sexual       |334     |352       |135      |913     |4       |
+|23      |Tucuman              |2023   |13      |Otros delitos contra la integridad sexual       |499     |511       |72       |437     |2       |

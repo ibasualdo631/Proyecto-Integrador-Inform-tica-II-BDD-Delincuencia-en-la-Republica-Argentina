@@ -1,54 +1,54 @@
-=================================================================================================================================================
+==================================================================================================================================================
 |                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (TUCUMAN)
-=============================================================================================================================================
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|23      |Tucuman              |2023   |1       |Abuso sexual agravado                           |40      |42        |9        |33      |0      |
-|23      |Tucuman              |2023   |2       |Abuso sexual simple                             |115     |119       |11       |377     |1      |
-|23      |Tucuman              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |205     |208       |34       |167     |7      |
-|23      |Tucuman              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |230     |230       |33       |196     |1      |
-|23      |Tucuman              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |251     |252       |22       |228     |2      |
-|23      |Tucuman              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |73      |73        |13       |59      |1      |
-|23      |Tucuman              |2018   |5       |Delitos contra el honor                         |13      |13        |7        |6       |0      |
-|23      |Tucuman              |2020   |5       |Delitos contra el honor                         |2       |2         |0        |2       |0      |
-|23      |Tucuman              |2023   |5       |Delitos contra el honor                         |4       |4         |6        |8       |0      |
-|23      |Tucuman              |2018   |6       |Homicidios culposos por otros hechos            |39      |49        |34       |12      |3      |
-|23      |Tucuman              |2020   |6       |Homicidios culposos por otros hechos            |57      |67        |51       |16      |0      |
-|23      |Tucuman              |2023   |6       |Homicidios culposos por otros hechos            |1       |2         |2        |0       |0      |
-|23      |Tucuman              |2018   |7       |Homicidios dolosos                              |128     |135       |39       |26      |0      |
-|23      |Tucuman              |2020   |7       |Homicidios dolosos                              |47      |152       |126      |26      |0      |
-|23      |Tucuman              |2023   |7       |Homicidios dolosos                              |80      |81        |66       |15      |0      |
-|23      |Tucuman              |2018   |8       |Homicidios dolosos en grado de tentativa        |39      |117       |81       |30      |6      |
-|23      |Tucuman              |2020   |8       |Homicidios dolosos en grado de tentativa        |85      |88        |74       |4       |0      |
-|23      |Tucuman              |2023   |8       |Homicidios dolosos en grado de tentativa        |37      |37        |17       |20      |0      |
-|23      |Tucuman              |2018   |9       |Lesiones culposas en Accidentes Viales          |2877    |3181      |2096     |950     |135    |
-|23      |Tucuman              |2020   |9       |Lesiones culposas en Accidentes Viales          |1821    |1996      |426      |565     |5      |
-|23      |Tucuman              |2023   |9       |Lesiones culposas en Accidentes Viales          |3833    |5392      |3454     |1938    |0      |
-|23      |Tucuman              |2018   |10      |Lesiones culposas por otros hechos              |668     |685       |275      |393     |17     |
-|23      |Tucuman              |2020   |10      |Lesiones culposas por otros hechos              |574     |580       |297      |283     |0      |
-|23      |Tucuman              |2023   |10      |Lesiones culposas por otros hechos              |3       |11        |7        |4       |0      |
-|23      |Tucuman              |2018   |11      |Lesiones dolosas                                |7018    |7193      |2616     |4440    |137    |
-|23      |Tucuman              |2020   |11      |Lesiones dolosas                                |6183    |6336      |2404     |3885    |47     |
-|23      |Tucuman              |2023   |11      |Lesiones dolosas                                |3997    |1339      |3760     |7227    |52     |
-|23      |Tucuman              |2018   |12      |Muertes en accidentes viales                    |274     |300       |253      |45      |2      |
-|23      |Tucuman              |2020   |12      |Muertes en accidentes viales                    |208     |227       |196      |31      |0      |
-|23      |Tucuman              |2023   |12      |Muertes en accidentes viales                    |206     |217       |188      |29      |0      |
-|23      |Tucuman              |2018   |13      |Otros delitos contra la integridad sexual       |335     |336       |43       |286     |7      |
-|23      |Tucuman              |2020   |13      |Otros delitos contra la integridad sexual       |355     |360       |58       |302     |0      |
-|23      |Tucuman              |2023   |13      |Otros delitos contra la integridad sexual       |334     |352       |135      |913     |4      |
-|23      |Tucuman              |2023   |13      |Otros delitos contra la integridad sexual       |499     |511       |72       |437     |2      |
-|23      |Tucuman              |2018   |14      |Otros delitos contra la libertad                |58      |58        |13       |28      |17     |
-|23      |Tucuman              |2018   |14      |Otros delitos contra la libertad                |15      |15        |2        |6       |7      |
-|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42     |
-|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42     |
-|23      |Tucuman              |2023   |14      |Otros delitos contra la libertad                |270     |277       |60       |93      |124    |
-|23      |Tucuman              |2023   |14      |Otros delitos contra la libertad                |260     |260       |60       |83      |117    |
-|23      |Tucuman              |2018   |15      |Otros delitos contra las personas               |879     |893       |379      |484     |30     |
-|23      |Tucuman              |2020   |15      |Otros delitos contra las personas               |370     |385       |161      |195     |29     |
-|23      |Tucuman              |2023   |15      |Otros delitos contra las personas               |494     |519       |233      |278     |8      |
-|23      |Tucuman              |2018   |16      |Suicidios (consumados)                          |116     |116       |94       |22      |0      |
-|23      |Tucuman              |2020   |16      |Suicidios (consumados)                          |125     |126       |35       |21      |0      |
-|23      |Tucuman              |2023   |16      |Suicidios (consumados)                          |205     |205       |158      |47      |0      |
-|23      |Tucuman              |2023   |17      |Tentativa de abuso sexual con acceso carnal     |7       |7         |0        |7       |0      |
-|23      |Tucuman              |2018   |19      |Trata de personas simple                        |43      |43        |11       |22      |3      |
-|23      |Tucuman              |2023   |19      |Trata de personas simple                        |3       |17        |0        |3       |7      |
+==================================================================================================================================================
+|23      |Tucuman              |2023   |1       |Abuso sexual agravado                           |40      |42        |9        |33      |0       |
+|23      |Tucuman              |2023   |2       |Abuso sexual simple                             |115     |119       |11       |377     |1       |
+|23      |Tucuman              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |205     |208       |34       |167     |7       |
+|23      |Tucuman              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |230     |230       |33       |196     |1       |
+|23      |Tucuman              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |251     |252       |22       |228     |2       |
+|23      |Tucuman              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |73      |73        |13       |59      |1       |
+|23      |Tucuman              |2018   |5       |Delitos contra el honor                         |13      |13        |7        |6       |0       |
+|23      |Tucuman              |2020   |5       |Delitos contra el honor                         |2       |2         |0        |2       |0       |
+|23      |Tucuman              |2023   |5       |Delitos contra el honor                         |4       |4         |6        |8       |0       |
+|23      |Tucuman              |2018   |6       |Homicidios culposos por otros hechos            |39      |49        |34       |12      |3       |
+|23      |Tucuman              |2020   |6       |Homicidios culposos por otros hechos            |57      |67        |51       |16      |0       |
+|23      |Tucuman              |2023   |6       |Homicidios culposos por otros hechos            |1       |2         |2        |0       |0       |
+|23      |Tucuman              |2018   |7       |Homicidios dolosos                              |128     |135       |39       |26      |0       |
+|23      |Tucuman              |2020   |7       |Homicidios dolosos                              |47      |152       |126      |26      |0       |
+|23      |Tucuman              |2023   |7       |Homicidios dolosos                              |80      |81        |66       |15      |0       |
+|23      |Tucuman              |2018   |8       |Homicidios dolosos en grado de tentativa        |39      |117       |81       |30      |6       |
+|23      |Tucuman              |2020   |8       |Homicidios dolosos en grado de tentativa        |85      |88        |74       |4       |0       |
+|23      |Tucuman              |2023   |8       |Homicidios dolosos en grado de tentativa        |37      |37        |17       |20      |0       |
+|23      |Tucuman              |2018   |9       |Lesiones culposas en Accidentes Viales          |2877    |3181      |2096     |950     |135     |
+|23      |Tucuman              |2020   |9       |Lesiones culposas en Accidentes Viales          |1821    |1996      |426      |565     |5       |
+|23      |Tucuman              |2023   |9       |Lesiones culposas en Accidentes Viales          |3833    |5392      |3454     |1938    |0       |
+|23      |Tucuman              |2018   |10      |Lesiones culposas por otros hechos              |668     |685       |275      |393     |17      |
+|23      |Tucuman              |2020   |10      |Lesiones culposas por otros hechos              |574     |580       |297      |283     |0       |
+|23      |Tucuman              |2023   |10      |Lesiones culposas por otros hechos              |3       |11        |7        |4       |0       |
+|23      |Tucuman              |2018   |11      |Lesiones dolosas                                |7018    |7193      |2616     |4440    |137     |
+|23      |Tucuman              |2020   |11      |Lesiones dolosas                                |6183    |6336      |2404     |3885    |47      |
+|23      |Tucuman              |2023   |11      |Lesiones dolosas                                |3997    |1339      |3760     |7227    |52      |
+|23      |Tucuman              |2018   |12      |Muertes en accidentes viales                    |274     |300       |253      |45      |2       |
+|23      |Tucuman              |2020   |12      |Muertes en accidentes viales                    |208     |227       |196      |31      |0       |
+|23      |Tucuman              |2023   |12      |Muertes en accidentes viales                    |206     |217       |188      |29      |0       |
+|23      |Tucuman              |2018   |13      |Otros delitos contra la integridad sexual       |335     |336       |43       |286     |7       |
+|23      |Tucuman              |2020   |13      |Otros delitos contra la integridad sexual       |355     |360       |58       |302     |0       |
+|23      |Tucuman              |2023   |13      |Otros delitos contra la integridad sexual       |334     |352       |135      |913     |4       |
+|23      |Tucuman              |2023   |13      |Otros delitos contra la integridad sexual       |499     |511       |72       |437     |2       |
+|23      |Tucuman              |2018   |14      |Otros delitos contra la libertad                |58      |58        |13       |28      |17      |
+|23      |Tucuman              |2018   |14      |Otros delitos contra la libertad                |15      |15        |2        |6       |7       |
+|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42      |
+|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42      |
+|23      |Tucuman              |2023   |14      |Otros delitos contra la libertad                |270     |277       |60       |93      |124     |
+|23      |Tucuman              |2023   |14      |Otros delitos contra la libertad                |260     |260       |60       |83      |117     |
+|23      |Tucuman              |2018   |15      |Otros delitos contra las personas               |879     |893       |379      |484     |30      |
+|23      |Tucuman              |2020   |15      |Otros delitos contra las personas               |370     |385       |161      |195     |29      |
+|23      |Tucuman              |2023   |15      |Otros delitos contra las personas               |494     |519       |233      |278     |8       |
+|23      |Tucuman              |2018   |16      |Suicidios (consumados)                          |116     |116       |94       |22      |0       |
+|23      |Tucuman              |2020   |16      |Suicidios (consumados)                          |125     |126       |35       |21      |0       |
+|23      |Tucuman              |2023   |16      |Suicidios (consumados)                          |205     |205       |158      |47      |0       |
+|23      |Tucuman              |2023   |17      |Tentativa de abuso sexual con acceso carnal     |7       |7         |0        |7       |0       |
+|23      |Tucuman              |2018   |19      |Trata de personas simple                        |43      |43        |11       |22      |3       |
+|23      |Tucuman              |2023   |19      |Trata de personas simple                        |3       |17        |0        |3       |7       |

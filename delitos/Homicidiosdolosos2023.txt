@@ -1,0 +1,28 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (HOMICIDIOS DOLOSOS) EN EL ANIO (2023)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2023   |7       |Homicidios dolosos                              |89      |91        |74       |17      |0       |
+|2       |Buenos Aires         |2023   |7       |Homicidios dolosos                              |805     |829       |700      |129     |0       |
+|3       |Catamarca            |2023   |7       |Homicidios dolosos                              |5       |5         |5        |0       |0       |
+|4       |Cordoba              |2023   |7       |Homicidios dolosos                              |115     |116       |89       |27      |0       |
+|5       |Corrientes           |2023   |7       |Homicidios dolosos                              |11      |43        |31       |12      |0       |
+|6       |Chaco                |2023   |7       |Homicidios dolosos                              |60      |62        |52       |3       |0       |
+|7       |Chubut               |2023   |7       |Homicidios dolosos                              |30      |30        |26       |4       |0       |
+|8       |Entre Rios           |2023   |7       |Homicidios dolosos                              |40      |40        |32       |8       |0       |
+|9       |Formosa              |2023   |7       |Homicidios dolosos                              |21      |21        |4        |7       |0       |
+|10      |Jujuy                |2023   |7       |Homicidios dolosos                              |17      |17        |13       |4       |0       |
+|11      |La Pampa             |2023   |7       |Homicidios dolosos                              |5       |5         |4        |1       |0       |
+|12      |La Rioja             |2023   |7       |Homicidios dolosos                              |9       |9         |5        |4       |0       |
+|13      |Mendoza              |2023   |7       |Homicidios dolosos                              |64      |66        |54       |12      |0       |
+|14      |Misiones             |2023   |7       |Homicidios dolosos                              |44      |45        |36       |9       |0       |
+|15      |Neuquen              |2023   |7       |Homicidios dolosos                              |30      |31        |20       |11      |0       |
+|16      |Rio Negro            |2023   |7       |Homicidios dolosos                              |27      |27        |26       |1       |0       |
+|17      |Salta                |2023   |7       |Homicidios dolosos                              |63      |63        |50       |13      |0       |
+|18      |San Juan             |2023   |7       |Homicidios dolosos                              |9       |9         |8        |1       |0       |
+|19      |San Luis             |2023   |7       |Homicidios dolosos                              |4       |4         |8        |6       |0       |
+|20      |Santa Cruz           |2023   |7       |Homicidios dolosos                              |9       |9         |8        |1       |0       |
+|21      |Santa Fe             |2023   |7       |Homicidios dolosos                              |383     |398       |337      |61      |0       |
+|22      |Santiago del Estero  |2023   |7       |Homicidios dolosos                              |34      |34        |25       |9       |0       |
+|23      |Tucuman              |2023   |7       |Homicidios dolosos                              |80      |81        |66       |15      |0       |

@@ -1,0 +1,28 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (SUICIDIOS (CONSUMADOS)) EN EL ANIO (2018)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2018   |16      |Suicidios (consumados)                          |237     |238       |154      |83      |1       |
+|2       |Buenos Aires         |2018   |16      |Suicidios (consumados)                          |1393    |1393      |1153     |240     |0       |
+|3       |Catamarca            |2018   |16      |Suicidios (consumados)                          |44      |44        |29       |15      |0       |
+|4       |Cordoba              |2018   |16      |Suicidios (consumados)                          |255     |255       |194      |61      |0       |
+|5       |Corrientes           |2018   |16      |Suicidios (consumados)                          |83      |83        |70       |13      |0       |
+|6       |Chaco                |2018   |16      |Suicidios (consumados)                          |38      |38        |87       |21      |0       |
+|7       |Chubut               |2018   |16      |Suicidios (consumados)                          |69      |69        |65       |4       |0       |
+|8       |Entre Rios           |2018   |16      |Suicidios (consumados)                          |234     |234       |190      |44      |0       |
+|9       |Formosa              |2018   |16      |Suicidios (consumados)                          |65      |65        |51       |4       |0       |
+|10      |Jujuy                |2018   |16      |Suicidios (consumados)                          |28      |28        |23       |5       |0       |
+|11      |La Pampa             |2018   |16      |Suicidios (consumados)                          |40      |40        |32       |8       |0       |
+|12      |La Rioja             |2018   |16      |Suicidios (consumados)                          |47      |47        |38       |9       |0       |
+|13      |Mendoza              |2018   |16      |Suicidios (consumados)                          |198     |198       |48       |50      |0       |
+|14      |Misiones             |2018   |16      |Suicidios (consumados)                          |70      |70        |55       |15      |0       |
+|15      |Neuquen              |2018   |16      |Suicidios (consumados)                          |70      |70        |59       |11      |0       |
+|16      |Rio Negro            |2018   |16      |Suicidios (consumados)                          |43      |43        |36       |7       |0       |
+|17      |Salta                |2018   |16      |Suicidios (consumados)                          |160     |160       |122      |38      |0       |
+|18      |San Juan             |2018   |16      |Suicidios (consumados)                          |51      |51        |11       |3       |0       |
+|19      |San Luis             |2018   |16      |Suicidios (consumados)                          |52      |52        |46       |6       |0       |
+|20      |Santa Cruz           |2018   |16      |Suicidios (consumados)                          |39      |39        |32       |7       |0       |
+|21      |Santa Fe             |2018   |16      |Suicidios (consumados)                          |368     |368       |288      |80      |0       |
+|22      |Santiago del Estero  |2018   |16      |Suicidios (consumados)                          |118     |118       |33       |15      |0       |
+|23      |Tucuman              |2018   |16      |Suicidios (consumados)                          |116     |116       |94       |22      |0       |

@@ -1,0 +1,22 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (TRATA DE PERSONAS SIMPLE) EN EL ANIO (2023)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2023   |19      |Trata de personas simple                        |83      |131       |7        |64      |60      |
+|2       |Buenos Aires         |2023   |19      |Trata de personas simple                        |24      |91        |37       |45      |9       |
+|4       |Cordoba              |2023   |19      |Trata de personas simple                        |3       |11        |7        |8       |26      |
+|5       |Corrientes           |2023   |19      |Trata de personas simple                        |2       |2         |0        |0       |2       |
+|6       |Chaco                |2023   |19      |Trata de personas simple                        |21      |24        |4        |11      |9       |
+|7       |Chubut               |2023   |19      |Trata de personas simple                        |2       |2         |0        |2       |0       |
+|8       |Entre Rios           |2023   |19      |Trata de personas simple                        |1       |1         |1        |0       |0       |
+|9       |Formosa              |2023   |19      |Trata de personas simple                        |1       |2         |0        |2       |0       |
+|10      |Jujuy                |2023   |19      |Trata de personas simple                        |1       |1         |0        |1       |0       |
+|13      |Mendoza              |2023   |19      |Trata de personas simple                        |7       |8         |2        |1       |5       |
+|15      |Neuquen              |2023   |19      |Trata de personas simple                        |8       |21        |0        |20      |1       |
+|18      |San Juan             |2023   |19      |Trata de personas simple                        |1       |1         |1        |0       |0       |
+|19      |San Luis             |2023   |19      |Trata de personas simple                        |2       |6         |1        |1       |4       |
+|20      |Santa Cruz           |2023   |19      |Trata de personas simple                        |1       |3         |0        |3       |0       |
+|21      |Santa Fe             |2023   |19      |Trata de personas simple                        |48      |73        |24       |25      |24      |
+|22      |Santiago del Estero  |2023   |19      |Trata de personas simple                        |9       |11        |0        |4       |7       |
+|23      |Tucuman              |2023   |19      |Trata de personas simple                        |3       |17        |0        |3       |7       |

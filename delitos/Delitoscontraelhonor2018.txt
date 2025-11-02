@@ -1,0 +1,21 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (DELITOS CONTRA EL HONOR) EN EL ANIO (2018)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2018   |5       |Delitos contra el honor                         |31      |32        |16       |3       |13      |
+|4       |Cordoba              |2018   |5       |Delitos contra el honor                         |35      |38        |6        |31      |1       |
+|5       |Corrientes           |2018   |5       |Delitos contra el honor                         |4       |4         |0        |4       |0       |
+|7       |Chubut               |2018   |5       |Delitos contra el honor                         |13      |13        |9        |4       |0       |
+|8       |Entre Rios           |2018   |5       |Delitos contra el honor                         |221     |221       |85       |126     |3       |
+|9       |Formosa              |2018   |5       |Delitos contra el honor                         |2       |2         |0        |2       |0       |
+|10      |Jujuy                |2018   |5       |Delitos contra el honor                         |79      |79        |32       |47      |0       |
+|13      |Mendoza              |2018   |5       |Delitos contra el honor                         |43      |49        |4        |2       |43      |
+|14      |Misiones             |2018   |5       |Delitos contra el honor                         |18      |18        |3        |8       |0       |
+|15      |Neuquen              |2018   |5       |Delitos contra el honor                         |8       |8         |1        |7       |0       |
+|16      |Rio Negro            |2018   |5       |Delitos contra el honor                         |1       |1         |0        |0       |1       |
+|17      |Salta                |2018   |5       |Delitos contra el honor                         |1       |1         |1        |0       |0       |
+|18      |San Juan             |2018   |5       |Delitos contra el honor                         |4       |4         |4        |9       |1       |
+|21      |Santa Fe             |2018   |5       |Delitos contra el honor                         |16      |19        |6        |13      |0       |
+|22      |Santiago del Estero  |2018   |5       |Delitos contra el honor                         |28      |29        |11       |18      |0       |
+|23      |Tucuman              |2018   |5       |Delitos contra el honor                         |13      |13        |7        |6       |0       |

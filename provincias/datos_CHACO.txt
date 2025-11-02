@@ -1,51 +1,51 @@
-=================================================================================================================================================
+==================================================================================================================================================
 |                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (CHACO)
-=============================================================================================================================================
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|6       |Chaco                |2023   |1       |Abuso sexual agravado                           |31      |112       |8        |34      |0      |
-|6       |Chaco                |2023   |2       |Abuso sexual simple                             |377     |401       |40       |361     |0      |
-|6       |Chaco                |2018   |3       |Abusos sexuales con acceso carnal (violacion    |83      |84        |5        |79      |0      |
-|6       |Chaco                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |87      |90        |3        |87      |0      |
-|6       |Chaco                |2023   |3       |Abusos sexuales con acceso carnal (violacion    |129     |131       |4        |116     |1      |
-|6       |Chaco                |2023   |4       |Ciberdelitos sexuales vinculados a menores      |22      |22        |5        |4       |3      |
-|6       |Chaco                |2018   |6       |Homicidios culposos por otros hechos            |36      |39        |82       |27      |0      |
-|6       |Chaco                |2020   |6       |Homicidios culposos por otros hechos            |80      |85        |63       |21      |1      |
-|6       |Chaco                |2023   |6       |Homicidios culposos por otros hechos            |173     |182       |135      |47      |0      |
-|6       |Chaco                |2018   |7       |Homicidios dolosos                              |52      |54        |43       |11      |0      |
-|6       |Chaco                |2020   |7       |Homicidios dolosos                              |35      |36        |88       |18      |0      |
-|6       |Chaco                |2023   |7       |Homicidios dolosos                              |60      |62        |52       |3       |0      |
-|6       |Chaco                |2018   |8       |Homicidios dolosos en grado de tentativa        |29      |36        |27       |9       |0      |
-|6       |Chaco                |2020   |8       |Homicidios dolosos en grado de tentativa        |35      |44        |35       |9       |0      |
-|6       |Chaco                |2023   |8       |Homicidios dolosos en grado de tentativa        |13      |4         |8        |6       |0      |
-|6       |Chaco                |2018   |9       |Lesiones culposas en Accidentes Viales          |1194    |1727      |1185     |542     |0      |
-|6       |Chaco                |2020   |9       |Lesiones culposas en Accidentes Viales          |945     |1343      |924      |118     |1      |
-|6       |Chaco                |2023   |9       |Lesiones culposas en Accidentes Viales          |1686    |2234      |1382     |851     |1      |
-|6       |Chaco                |2018   |10      |Lesiones culposas por otros hechos              |17      |17        |11       |6       |0      |
-|6       |Chaco                |2020   |10      |Lesiones culposas por otros hechos              |13      |13        |12       |1       |0      |
-|6       |Chaco                |2023   |10      |Lesiones culposas por otros hechos              |18      |20        |15       |5       |0      |
-|6       |Chaco                |2018   |11      |Lesiones dolosas                                |2913    |3248      |1255     |1982    |11     |
-|6       |Chaco                |2020   |11      |Lesiones dolosas                                |2793    |349       |1295     |1833    |21     |
-|6       |Chaco                |2023   |11      |Lesiones dolosas                                |2832    |3059      |309      |2044    |6      |
-|6       |Chaco                |2018   |12      |Muertes en accidentes viales                    |184     |192       |158      |34      |0      |
-|6       |Chaco                |2020   |12      |Muertes en accidentes viales                    |136     |47        |132      |15      |0      |
-|6       |Chaco                |2023   |12      |Muertes en accidentes viales                    |185     |203       |161      |42      |0      |
-|6       |Chaco                |2018   |13      |Otros delitos contra la integridad sexual       |401     |423       |52       |370     |1      |
-|6       |Chaco                |2020   |13      |Otros delitos contra la integridad sexual       |538     |572       |65       |492     |15     |
-|6       |Chaco                |2023   |13      |Otros delitos contra la integridad sexual       |573     |611       |61       |547     |3      |
-|6       |Chaco                |2023   |13      |Otros delitos contra la integridad sexual       |73      |76        |8        |68      |0      |
-|6       |Chaco                |2018   |14      |Otros delitos contra la libertad                |55      |63        |21       |40      |2      |
-|6       |Chaco                |2018   |14      |Otros delitos contra la libertad                |54      |58        |19       |37      |2      |
-|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1      |
-|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1      |
-|6       |Chaco                |2023   |14      |Otros delitos contra la libertad                |185     |209       |58       |11      |3      |
-|6       |Chaco                |2023   |14      |Otros delitos contra la libertad                |162     |166       |37       |128     |1      |
-|6       |Chaco                |2018   |15      |Otros delitos contra las personas               |264     |302       |155      |121     |26     |
-|6       |Chaco                |2020   |15      |Otros delitos contra las personas               |213     |244       |14       |111     |19     |
-|6       |Chaco                |2023   |15      |Otros delitos contra las personas               |49      |158       |88       |65      |5      |
-|6       |Chaco                |2018   |16      |Suicidios (consumados)                          |38      |38        |87       |21      |0      |
-|6       |Chaco                |2020   |16      |Suicidios (consumados)                          |32      |32        |85       |17      |0      |
-|6       |Chaco                |2023   |16      |Suicidios (consumados)                          |153     |153       |120      |33      |0      |
-|6       |Chaco                |2018   |18      |Trata de personas agravado                      |1       |5         |2        |3       |0      |
-|6       |Chaco                |2023   |18      |Trata de personas agravado                      |2       |19        |17       |2       |0      |
-|6       |Chaco                |2023   |19      |Trata de personas simple                        |21      |24        |4        |11      |9      |
+==================================================================================================================================================
+|6       |Chaco                |2023   |1       |Abuso sexual agravado                           |31      |112       |8        |34      |0       |
+|6       |Chaco                |2023   |2       |Abuso sexual simple                             |377     |401       |40       |361     |0       |
+|6       |Chaco                |2018   |3       |Abusos sexuales con acceso carnal (violacion    |83      |84        |5        |79      |0       |
+|6       |Chaco                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |87      |90        |3        |87      |0       |
+|6       |Chaco                |2023   |3       |Abusos sexuales con acceso carnal (violacion    |129     |131       |4        |116     |1       |
+|6       |Chaco                |2023   |4       |Ciberdelitos sexuales vinculados a menores      |22      |22        |5        |4       |3       |
+|6       |Chaco                |2018   |6       |Homicidios culposos por otros hechos            |36      |39        |82       |27      |0       |
+|6       |Chaco                |2020   |6       |Homicidios culposos por otros hechos            |80      |85        |63       |21      |1       |
+|6       |Chaco                |2023   |6       |Homicidios culposos por otros hechos            |173     |182       |135      |47      |0       |
+|6       |Chaco                |2018   |7       |Homicidios dolosos                              |52      |54        |43       |11      |0       |
+|6       |Chaco                |2020   |7       |Homicidios dolosos                              |35      |36        |88       |18      |0       |
+|6       |Chaco                |2023   |7       |Homicidios dolosos                              |60      |62        |52       |3       |0       |
+|6       |Chaco                |2018   |8       |Homicidios dolosos en grado de tentativa        |29      |36        |27       |9       |0       |
+|6       |Chaco                |2020   |8       |Homicidios dolosos en grado de tentativa        |35      |44        |35       |9       |0       |
+|6       |Chaco                |2023   |8       |Homicidios dolosos en grado de tentativa        |13      |4         |8        |6       |0       |
+|6       |Chaco                |2018   |9       |Lesiones culposas en Accidentes Viales          |1194    |1727      |1185     |542     |0       |
+|6       |Chaco                |2020   |9       |Lesiones culposas en Accidentes Viales          |945     |1343      |924      |118     |1       |
+|6       |Chaco                |2023   |9       |Lesiones culposas en Accidentes Viales          |1686    |2234      |1382     |851     |1       |
+|6       |Chaco                |2018   |10      |Lesiones culposas por otros hechos              |17      |17        |11       |6       |0       |
+|6       |Chaco                |2020   |10      |Lesiones culposas por otros hechos              |13      |13        |12       |1       |0       |
+|6       |Chaco                |2023   |10      |Lesiones culposas por otros hechos              |18      |20        |15       |5       |0       |
+|6       |Chaco                |2018   |11      |Lesiones dolosas                                |2913    |3248      |1255     |1982    |11      |
+|6       |Chaco                |2020   |11      |Lesiones dolosas                                |2793    |349       |1295     |1833    |21      |
+|6       |Chaco                |2023   |11      |Lesiones dolosas                                |2832    |3059      |309      |2044    |6       |
+|6       |Chaco                |2018   |12      |Muertes en accidentes viales                    |184     |192       |158      |34      |0       |
+|6       |Chaco                |2020   |12      |Muertes en accidentes viales                    |136     |47        |132      |15      |0       |
+|6       |Chaco                |2023   |12      |Muertes en accidentes viales                    |185     |203       |161      |42      |0       |
+|6       |Chaco                |2018   |13      |Otros delitos contra la integridad sexual       |401     |423       |52       |370     |1       |
+|6       |Chaco                |2020   |13      |Otros delitos contra la integridad sexual       |538     |572       |65       |492     |15      |
+|6       |Chaco                |2023   |13      |Otros delitos contra la integridad sexual       |573     |611       |61       |547     |3       |
+|6       |Chaco                |2023   |13      |Otros delitos contra la integridad sexual       |73      |76        |8        |68      |0       |
+|6       |Chaco                |2018   |14      |Otros delitos contra la libertad                |55      |63        |21       |40      |2       |
+|6       |Chaco                |2018   |14      |Otros delitos contra la libertad                |54      |58        |19       |37      |2       |
+|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1       |
+|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1       |
+|6       |Chaco                |2023   |14      |Otros delitos contra la libertad                |185     |209       |58       |11      |3       |
+|6       |Chaco                |2023   |14      |Otros delitos contra la libertad                |162     |166       |37       |128     |1       |
+|6       |Chaco                |2018   |15      |Otros delitos contra las personas               |264     |302       |155      |121     |26      |
+|6       |Chaco                |2020   |15      |Otros delitos contra las personas               |213     |244       |14       |111     |19      |
+|6       |Chaco                |2023   |15      |Otros delitos contra las personas               |49      |158       |88       |65      |5       |
+|6       |Chaco                |2018   |16      |Suicidios (consumados)                          |38      |38        |87       |21      |0       |
+|6       |Chaco                |2020   |16      |Suicidios (consumados)                          |32      |32        |85       |17      |0       |
+|6       |Chaco                |2023   |16      |Suicidios (consumados)                          |153     |153       |120      |33      |0       |
+|6       |Chaco                |2018   |18      |Trata de personas agravado                      |1       |5         |2        |3       |0       |
+|6       |Chaco                |2023   |18      |Trata de personas agravado                      |2       |19        |17       |2       |0       |
+|6       |Chaco                |2023   |19      |Trata de personas simple                        |21      |24        |4        |11      |9       |

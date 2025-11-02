@@ -1,0 +1,27 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (OTROS DELITOS CONTRA LAS PERSONAS) EN EL ANIO (2020)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2020   |15      |Otros delitos contra las personas               |371     |434       |196      |177     |61      |
+|2       |Buenos Aires         |2020   |15      |Otros delitos contra las personas               |2138    |2269      |1212     |792     |265     |
+|3       |Catamarca            |2020   |15      |Otros delitos contra las personas               |238     |238       |43       |193     |2       |
+|4       |Cordoba              |2020   |15      |Otros delitos contra las personas               |32165   |32792     |9828     |20765   |2199    |
+|5       |Corrientes           |2020   |15      |Otros delitos contra las personas               |533     |543       |235      |296     |12      |
+|6       |Chaco                |2020   |15      |Otros delitos contra las personas               |213     |244       |14       |111     |19      |
+|7       |Chubut               |2020   |15      |Otros delitos contra las personas               |1811    |1915      |555      |1360    |0       |
+|8       |Entre Rios           |2020   |15      |Otros delitos contra las personas               |2807    |2891      |1257     |1616    |18      |
+|9       |Formosa              |2020   |15      |Otros delitos contra las personas               |127     |136       |73       |62      |1       |
+|10      |Jujuy                |2020   |15      |Otros delitos contra las personas               |62      |62        |29       |33      |0       |
+|12      |La Rioja             |2020   |15      |Otros delitos contra las personas               |4       |4         |2        |2       |0       |
+|13      |Mendoza              |2020   |15      |Otros delitos contra las personas               |1904    |1967      |439      |482     |346     |
+|14      |Misiones             |2020   |15      |Otros delitos contra las personas               |1211    |1230      |505      |665     |60      |
+|15      |Neuquen              |2020   |15      |Otros delitos contra las personas               |1152    |1180      |657      |438     |85      |
+|16      |Rio Negro            |2020   |15      |Otros delitos contra las personas               |302     |309       |70       |25      |24      |
+|17      |Salta                |2020   |15      |Otros delitos contra las personas               |275     |275       |65       |89      |121     |
+|18      |San Juan             |2020   |15      |Otros delitos contra las personas               |918     |964       |462      |484     |18      |
+|19      |San Luis             |2020   |15      |Otros delitos contra las personas               |31      |131       |98       |33      |0       |
+|20      |Santa Cruz           |2020   |15      |Otros delitos contra las personas               |17      |17        |13       |2       |2       |
+|21      |Santa Fe             |2020   |15      |Otros delitos contra las personas               |2008    |2160      |1244     |881     |35      |
+|22      |Santiago del Estero  |2020   |15      |Otros delitos contra las personas               |243     |267       |60       |207     |0       |
+|23      |Tucuman              |2020   |15      |Otros delitos contra las personas               |370     |385       |161      |195     |29      |

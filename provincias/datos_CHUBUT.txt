@@ -1,52 +1,52 @@
-=================================================================================================================================================
+==================================================================================================================================================
 |                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (CHUBUT)
-=============================================================================================================================================
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|7       |Chubut               |2023   |1       |Abuso sexual agravado                           |47      |51        |13       |32      |6      |
-|7       |Chubut               |2023   |2       |Abuso sexual simple                             |348     |357       |35       |322     |0      |
-|7       |Chubut               |2018   |3       |Abusos sexuales con acceso carnal (violacion    |160     |163       |4        |49      |0      |
-|7       |Chubut               |2020   |3       |Abusos sexuales con acceso carnal (violacion    |212     |219       |18       |200     |1      |
-|7       |Chubut               |2023   |3       |Abusos sexuales con acceso carnal (violacion    |193     |201       |24       |173     |4      |
-|7       |Chubut               |2023   |4       |Ciberdelitos sexuales vinculados a menores      |33      |34        |3        |24      |7      |
-|7       |Chubut               |2018   |5       |Delitos contra el honor                         |13      |13        |9        |4       |0      |
-|7       |Chubut               |2020   |5       |Delitos contra el honor                         |31      |32        |18       |4       |0      |
-|7       |Chubut               |2023   |5       |Delitos contra el honor                         |95      |96        |58       |28      |3      |
-|7       |Chubut               |2018   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0      |
-|7       |Chubut               |2023   |6       |Homicidios culposos por otros hechos            |4       |5         |1        |0       |4      |
-|7       |Chubut               |2018   |7       |Homicidios dolosos                              |46      |46        |38       |8       |0      |
-|7       |Chubut               |2020   |7       |Homicidios dolosos                              |32      |32        |26       |5       |1      |
-|7       |Chubut               |2023   |7       |Homicidios dolosos                              |30      |30        |26       |4       |0      |
-|7       |Chubut               |2018   |8       |Homicidios dolosos en grado de tentativa        |40      |42        |34       |8       |0      |
-|7       |Chubut               |2020   |8       |Homicidios dolosos en grado de tentativa        |28      |33        |31       |2       |0      |
-|7       |Chubut               |2023   |8       |Homicidios dolosos en grado de tentativa        |33      |34        |27       |7       |0      |
-|7       |Chubut               |2018   |9       |Lesiones culposas en Accidentes Viales          |324     |471       |34       |157     |0      |
-|7       |Chubut               |2020   |9       |Lesiones culposas en Accidentes Viales          |219     |283       |200      |82      |1      |
-|7       |Chubut               |2023   |9       |Lesiones culposas en Accidentes Viales          |356     |512       |300      |211     |1      |
-|7       |Chubut               |2023   |10      |Lesiones culposas por otros hechos              |535     |566       |205      |351     |3      |
-|7       |Chubut               |2018   |11      |Lesiones dolosas                                |2120    |2260      |939      |1321    |0      |
-|7       |Chubut               |2020   |11      |Lesiones dolosas                                |2031    |2199      |857      |1342    |0      |
-|7       |Chubut               |2023   |11      |Lesiones dolosas                                |2055    |2160      |933      |1130    |97     |
-|7       |Chubut               |2018   |12      |Muertes en accidentes viales                    |49      |54        |11       |13      |0      |
-|7       |Chubut               |2020   |12      |Muertes en accidentes viales                    |16      |17        |11       |6       |0      |
-|7       |Chubut               |2023   |12      |Muertes en accidentes viales                    |23      |26        |21       |5       |0      |
-|7       |Chubut               |2018   |13      |Otros delitos contra la integridad sexual       |354     |365       |26       |339     |0      |
-|7       |Chubut               |2020   |13      |Otros delitos contra la integridad sexual       |381     |406       |53       |352     |1      |
-|7       |Chubut               |2023   |13      |Otros delitos contra la integridad sexual       |561     |590       |79       |474     |37     |
-|7       |Chubut               |2023   |13      |Otros delitos contra la integridad sexual       |84      |89        |17       |68      |4      |
-|7       |Chubut               |2018   |14      |Otros delitos contra la libertad                |260     |265       |113      |152     |0      |
-|7       |Chubut               |2018   |14      |Otros delitos contra la libertad                |259     |264       |113      |151     |0      |
-|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |319     |332       |136      |194     |2      |
-|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |316     |329       |136      |192     |1      |
-|7       |Chubut               |2023   |14      |Otros delitos contra la libertad                |592     |631       |238      |289     |34     |
-|7       |Chubut               |2023   |14      |Otros delitos contra la libertad                |590     |629       |238      |287     |34     |
-|7       |Chubut               |2018   |15      |Otros delitos contra las personas               |2034    |214       |509      |1605    |0      |
-|7       |Chubut               |2020   |15      |Otros delitos contra las personas               |1811    |1915      |555      |1360    |0      |
-|7       |Chubut               |2023   |15      |Otros delitos contra las personas               |1138    |1223      |369      |821     |33     |
-|7       |Chubut               |2018   |16      |Suicidios (consumados)                          |69      |69        |65       |4       |0      |
-|7       |Chubut               |2020   |16      |Suicidios (consumados)                          |71      |71        |65       |6       |0      |
-|7       |Chubut               |2023   |16      |Suicidios (consumados)                          |52      |52        |11       |11      |0      |
-|7       |Chubut               |2023   |17      |Tentativa de abuso sexual con acceso carnal     |49      |59        |11       |28      |20     |
-|7       |Chubut               |2018   |19      |Trata de personas simple                        |1       |1         |0        |1       |0      |
-|7       |Chubut               |2020   |19      |Trata de personas simple                        |3       |3         |0        |2       |1      |
-|7       |Chubut               |2023   |19      |Trata de personas simple                        |2       |2         |0        |2       |0      |
+==================================================================================================================================================
+|7       |Chubut               |2023   |1       |Abuso sexual agravado                           |47      |51        |13       |32      |6       |
+|7       |Chubut               |2023   |2       |Abuso sexual simple                             |348     |357       |35       |322     |0       |
+|7       |Chubut               |2018   |3       |Abusos sexuales con acceso carnal (violacion    |160     |163       |4        |49      |0       |
+|7       |Chubut               |2020   |3       |Abusos sexuales con acceso carnal (violacion    |212     |219       |18       |200     |1       |
+|7       |Chubut               |2023   |3       |Abusos sexuales con acceso carnal (violacion    |193     |201       |24       |173     |4       |
+|7       |Chubut               |2023   |4       |Ciberdelitos sexuales vinculados a menores      |33      |34        |3        |24      |7       |
+|7       |Chubut               |2018   |5       |Delitos contra el honor                         |13      |13        |9        |4       |0       |
+|7       |Chubut               |2020   |5       |Delitos contra el honor                         |31      |32        |18       |4       |0       |
+|7       |Chubut               |2023   |5       |Delitos contra el honor                         |95      |96        |58       |28      |3       |
+|7       |Chubut               |2018   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|7       |Chubut               |2023   |6       |Homicidios culposos por otros hechos            |4       |5         |1        |0       |4       |
+|7       |Chubut               |2018   |7       |Homicidios dolosos                              |46      |46        |38       |8       |0       |
+|7       |Chubut               |2020   |7       |Homicidios dolosos                              |32      |32        |26       |5       |1       |
+|7       |Chubut               |2023   |7       |Homicidios dolosos                              |30      |30        |26       |4       |0       |
+|7       |Chubut               |2018   |8       |Homicidios dolosos en grado de tentativa        |40      |42        |34       |8       |0       |
+|7       |Chubut               |2020   |8       |Homicidios dolosos en grado de tentativa        |28      |33        |31       |2       |0       |
+|7       |Chubut               |2023   |8       |Homicidios dolosos en grado de tentativa        |33      |34        |27       |7       |0       |
+|7       |Chubut               |2018   |9       |Lesiones culposas en Accidentes Viales          |324     |471       |34       |157     |0       |
+|7       |Chubut               |2020   |9       |Lesiones culposas en Accidentes Viales          |219     |283       |200      |82      |1       |
+|7       |Chubut               |2023   |9       |Lesiones culposas en Accidentes Viales          |356     |512       |300      |211     |1       |
+|7       |Chubut               |2023   |10      |Lesiones culposas por otros hechos              |535     |566       |205      |351     |3       |
+|7       |Chubut               |2018   |11      |Lesiones dolosas                                |2120    |2260      |939      |1321    |0       |
+|7       |Chubut               |2020   |11      |Lesiones dolosas                                |2031    |2199      |857      |1342    |0       |
+|7       |Chubut               |2023   |11      |Lesiones dolosas                                |2055    |2160      |933      |1130    |97      |
+|7       |Chubut               |2018   |12      |Muertes en accidentes viales                    |49      |54        |11       |13      |0       |
+|7       |Chubut               |2020   |12      |Muertes en accidentes viales                    |16      |17        |11       |6       |0       |
+|7       |Chubut               |2023   |12      |Muertes en accidentes viales                    |23      |26        |21       |5       |0       |
+|7       |Chubut               |2018   |13      |Otros delitos contra la integridad sexual       |354     |365       |26       |339     |0       |
+|7       |Chubut               |2020   |13      |Otros delitos contra la integridad sexual       |381     |406       |53       |352     |1       |
+|7       |Chubut               |2023   |13      |Otros delitos contra la integridad sexual       |561     |590       |79       |474     |37      |
+|7       |Chubut               |2023   |13      |Otros delitos contra la integridad sexual       |84      |89        |17       |68      |4       |
+|7       |Chubut               |2018   |14      |Otros delitos contra la libertad                |260     |265       |113      |152     |0       |
+|7       |Chubut               |2018   |14      |Otros delitos contra la libertad                |259     |264       |113      |151     |0       |
+|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |319     |332       |136      |194     |2       |
+|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |316     |329       |136      |192     |1       |
+|7       |Chubut               |2023   |14      |Otros delitos contra la libertad                |592     |631       |238      |289     |34      |
+|7       |Chubut               |2023   |14      |Otros delitos contra la libertad                |590     |629       |238      |287     |34      |
+|7       |Chubut               |2018   |15      |Otros delitos contra las personas               |2034    |214       |509      |1605    |0       |
+|7       |Chubut               |2020   |15      |Otros delitos contra las personas               |1811    |1915      |555      |1360    |0       |
+|7       |Chubut               |2023   |15      |Otros delitos contra las personas               |1138    |1223      |369      |821     |33      |
+|7       |Chubut               |2018   |16      |Suicidios (consumados)                          |69      |69        |65       |4       |0       |
+|7       |Chubut               |2020   |16      |Suicidios (consumados)                          |71      |71        |65       |6       |0       |
+|7       |Chubut               |2023   |16      |Suicidios (consumados)                          |52      |52        |11       |11      |0       |
+|7       |Chubut               |2023   |17      |Tentativa de abuso sexual con acceso carnal     |49      |59        |11       |28      |20      |
+|7       |Chubut               |2018   |19      |Trata de personas simple                        |1       |1         |0        |1       |0       |
+|7       |Chubut               |2020   |19      |Trata de personas simple                        |3       |3         |0        |2       |1       |
+|7       |Chubut               |2023   |19      |Trata de personas simple                        |2       |2         |0        |2       |0       |

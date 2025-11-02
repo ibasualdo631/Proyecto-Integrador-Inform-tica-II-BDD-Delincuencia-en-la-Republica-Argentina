@@ -1,325 +1,325 @@
-=================================================================================================================================================
-|                                  ESTADÍSTICAS DE DELITOS SEGÚN ANIO (2020)
-=============================================================================================================================================
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DE DELITOS SEGÚN ANIO (2020)                                                                     |
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|1       |CABA                 |2020   |3       |Abusos sexuales con acceso carnal (violacion    |249     |258       |21       |232     |5      |
-|1       |CABA                 |2020   |5       |Delitos contra el honor                         |17      |18        |4        |3       |1      |
-|1       |CABA                 |2020   |6       |Homicidios culposos por otros hechos            |16      |16        |12       |4       |0      |
-|1       |CABA                 |2020   |7       |Homicidios dolosos                              |121     |126       |112      |4       |0      |
-|1       |CABA                 |2020   |8       |Homicidios dolosos en grado de tentativa        |75      |93        |59       |23      |11     |
-|1       |CABA                 |2020   |9       |Lesiones culposas en Accidentes Viales          |6457    |8381      |5234     |2255    |892    |
-|1       |CABA                 |2020   |10      |Lesiones culposas por otros hechos              |220     |250       |39       |122     |19     |
-|1       |CABA                 |2020   |11      |Lesiones dolosas                                |3630    |11869     |5158     |5777    |934    |
-|1       |CABA                 |2020   |12      |Muertes en accidentes viales                    |79      |82        |66       |16      |0      |
-|1       |CABA                 |2020   |13      |Otros delitos contra la integridad sexual       |438     |1600      |229      |1243    |128    |
-|1       |CABA                 |2020   |14      |Otros delitos contra la libertad                |1238    |1621      |620      |738     |263    |
-|1       |CABA                 |2020   |14      |Otros delitos contra la libertad                |1133    |480       |63       |688     |182    |
-|1       |CABA                 |2020   |15      |Otros delitos contra las personas               |371     |434       |196      |177     |61     |
-|1       |CABA                 |2020   |16      |Suicidios (consumados)                          |206     |206       |44       |62      |0      |
-|1       |CABA                 |2020   |18      |Trata de personas agravado                      |3       |3         |1        |1       |1      |
-|1       |CABA                 |2020   |19      |Trata de personas simple                        |32      |138       |9        |49      |80     |
-|2       |Buenos Aires         |2020   |3       |Abusos sexuales con acceso carnal (violacion    |1924    |1925      |265      |1651    |9      |
-|2       |Buenos Aires         |2020   |6       |Homicidios culposos por otros hechos            |99      |118       |67       |46      |5      |
-|2       |Buenos Aires         |2020   |7       |Homicidios dolosos                              |915     |931       |792      |139     |0      |
-|2       |Buenos Aires         |2020   |8       |Homicidios dolosos en grado de tentativa        |760     |811       |669      |137     |35     |
-|2       |Buenos Aires         |2020   |9       |Lesiones culposas en Accidentes Viales          |25408   |28799     |2044     |8377    |8      |
-|2       |Buenos Aires         |2020   |10      |Lesiones culposas por otros hechos              |118     |448       |180      |263     |5      |
-|2       |Buenos Aires         |2020   |11      |Lesiones dolosas                                |41199   |47930     |2344     |25137   |1749   |
-|2       |Buenos Aires         |2020   |12      |Muertes en accidentes viales                    |676     |717       |546      |117     |54     |
-|2       |Buenos Aires         |2020   |13      |Otros delitos contra la integridad sexual       |7633    |9401      |1293     |7883    |225    |
-|2       |Buenos Aires         |2020   |14      |Otros delitos contra la libertad                |3115    |3697      |1328     |1788    |581    |
-|2       |Buenos Aires         |2020   |14      |Otros delitos contra la libertad                |3406    |3677      |1322     |1777    |578    |
-|2       |Buenos Aires         |2020   |15      |Otros delitos contra las personas               |2138    |2269      |1212     |792     |265    |
-|2       |Buenos Aires         |2020   |16      |Suicidios (consumados)                          |858     |858       |688      |166     |4      |
-|2       |Buenos Aires         |2020   |19      |Trata de personas simple                        |9       |20        |6        |11      |3      |
-|3       |Catamarca            |2020   |3       |Abusos sexuales con acceso carnal (violacion    |3       |3         |0        |3       |0      |
-|3       |Catamarca            |2020   |7       |Homicidios dolosos                              |7       |7         |5        |2       |0      |
-|3       |Catamarca            |2020   |9       |Lesiones culposas en Accidentes Viales          |1260    |117       |304      |111     |2      |
-|3       |Catamarca            |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |0        |1       |0      |
-|3       |Catamarca            |2020   |11      |Lesiones dolosas                                |2424    |2424      |384      |1323    |17     |
-|3       |Catamarca            |2020   |12      |Muertes en accidentes viales                    |45      |50        |40       |3       |0      |
-|3       |Catamarca            |2020   |13      |Otros delitos contra la integridad sexual       |234     |234       |12       |204     |18     |
-|3       |Catamarca            |2020   |14      |Otros delitos contra la libertad                |29      |29        |11       |17      |1      |
-|3       |Catamarca            |2020   |14      |Otros delitos contra la libertad                |29      |29        |11       |17      |1      |
-|3       |Catamarca            |2020   |15      |Otros delitos contra las personas               |238     |238       |43       |193     |2      |
-|3       |Catamarca            |2020   |16      |Suicidios (consumados)                          |48      |48        |39       |9       |0      |
-|4       |Cordoba              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |23      |217       |17       |195     |5      |
-|4       |Cordoba              |2020   |5       |Delitos contra el honor                         |39      |40        |11       |23      |6      |
-|4       |Cordoba              |2020   |6       |Homicidios culposos por otros hechos            |3       |12        |12       |0       |0      |
-|4       |Cordoba              |2020   |7       |Homicidios dolosos                              |120     |121       |95       |25      |1      |
-|4       |Cordoba              |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |2        |1       |0      |
-|4       |Cordoba              |2020   |9       |Lesiones culposas en Accidentes Viales          |5282    |5925      |3785     |1964    |176    |
-|4       |Cordoba              |2020   |10      |Lesiones culposas por otros hechos              |505     |535       |253      |201     |81     |
-|4       |Cordoba              |2020   |11      |Lesiones dolosas                                |6069    |6362      |3219     |2926    |217    |
-|4       |Cordoba              |2020   |12      |Muertes en accidentes viales                    |295     |329       |276      |53      |0      |
-|4       |Cordoba              |2020   |13      |Otros delitos contra la integridad sexual       |767     |775       |48       |560     |67     |
-|4       |Cordoba              |2020   |14      |Otros delitos contra la libertad                |1139    |1158      |465      |433     |260    |
-|4       |Cordoba              |2020   |14      |Otros delitos contra la libertad                |1137    |1156      |465      |433     |258    |
-|4       |Cordoba              |2020   |15      |Otros delitos contra las personas               |32165   |32792     |9828     |20765   |2199   |
-|4       |Cordoba              |2020   |16      |Suicidios (consumados)                          |197     |197       |158      |35      |4      |
-|4       |Cordoba              |2020   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
-|4       |Cordoba              |2020   |19      |Trata de personas simple                        |1       |1         |0        |0       |1      |
-|5       |Corrientes           |2020   |3       |Abusos sexuales con acceso carnal (violacion    |43      |43        |4        |117     |12     |
-|5       |Corrientes           |2020   |5       |Delitos contra el honor                         |8       |9         |4        |5       |0      |
-|5       |Corrientes           |2020   |6       |Homicidios culposos por otros hechos            |36      |36        |15       |21      |0      |
-|5       |Corrientes           |2020   |7       |Homicidios dolosos                              |38      |40        |29       |11      |0      |
-|5       |Corrientes           |2020   |8       |Homicidios dolosos en grado de tentativa        |6       |8         |8        |0       |0      |
-|5       |Corrientes           |2020   |9       |Lesiones culposas en Accidentes Viales          |376     |422       |272      |131     |19     |
-|5       |Corrientes           |2020   |10      |Lesiones culposas por otros hechos              |355     |357       |208      |48      |1      |
-|5       |Corrientes           |2020   |11      |Lesiones dolosas                                |1139    |1159      |393      |627     |139    |
-|5       |Corrientes           |2020   |12      |Muertes en accidentes viales                    |39      |45        |38       |7       |0      |
-|5       |Corrientes           |2020   |13      |Otros delitos contra la integridad sexual       |134     |135       |7        |117     |11     |
-|5       |Corrientes           |2020   |14      |Otros delitos contra la libertad                |54      |61        |27       |34      |0      |
-|5       |Corrientes           |2020   |14      |Otros delitos contra la libertad                |18      |19        |8        |11      |0      |
-|5       |Corrientes           |2020   |15      |Otros delitos contra las personas               |533     |543       |235      |296     |12     |
-|5       |Corrientes           |2020   |16      |Suicidios (consumados)                          |36      |36        |32       |4       |0      |
-|5       |Corrientes           |2020   |19      |Trata de personas simple                        |36      |42        |19       |23      |0      |
-|6       |Chaco                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |87      |90        |3        |87      |0      |
-|6       |Chaco                |2020   |6       |Homicidios culposos por otros hechos            |80      |85        |63       |21      |1      |
-|6       |Chaco                |2020   |7       |Homicidios dolosos                              |35      |36        |88       |18      |0      |
-|6       |Chaco                |2020   |8       |Homicidios dolosos en grado de tentativa        |35      |44        |35       |9       |0      |
-|6       |Chaco                |2020   |9       |Lesiones culposas en Accidentes Viales          |945     |1343      |924      |118     |1      |
-|6       |Chaco                |2020   |10      |Lesiones culposas por otros hechos              |13      |13        |12       |1       |0      |
-|6       |Chaco                |2020   |11      |Lesiones dolosas                                |2793    |349       |1295     |1833    |21     |
-|6       |Chaco                |2020   |12      |Muertes en accidentes viales                    |136     |47        |132      |15      |0      |
-|6       |Chaco                |2020   |13      |Otros delitos contra la integridad sexual       |538     |572       |65       |492     |15     |
-|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1      |
-|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1      |
-|6       |Chaco                |2020   |15      |Otros delitos contra las personas               |213     |244       |14       |111     |19     |
-|6       |Chaco                |2020   |16      |Suicidios (consumados)                          |32      |32        |85       |17      |0      |
-|7       |Chubut               |2020   |3       |Abusos sexuales con acceso carnal (violacion    |212     |219       |18       |200     |1      |
-|7       |Chubut               |2020   |5       |Delitos contra el honor                         |31      |32        |18       |4       |0      |
-|7       |Chubut               |2020   |7       |Homicidios dolosos                              |32      |32        |26       |5       |1      |
-|7       |Chubut               |2020   |8       |Homicidios dolosos en grado de tentativa        |28      |33        |31       |2       |0      |
-|7       |Chubut               |2020   |9       |Lesiones culposas en Accidentes Viales          |219     |283       |200      |82      |1      |
-|7       |Chubut               |2020   |11      |Lesiones dolosas                                |2031    |2199      |857      |1342    |0      |
-|7       |Chubut               |2020   |12      |Muertes en accidentes viales                    |16      |17        |11       |6       |0      |
-|7       |Chubut               |2020   |13      |Otros delitos contra la integridad sexual       |381     |406       |53       |352     |1      |
-|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |319     |332       |136      |194     |2      |
-|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |316     |329       |136      |192     |1      |
-|7       |Chubut               |2020   |15      |Otros delitos contra las personas               |1811    |1915      |555      |1360    |0      |
-|7       |Chubut               |2020   |16      |Suicidios (consumados)                          |71      |71        |65       |6       |0      |
-|7       |Chubut               |2020   |19      |Trata de personas simple                        |3       |3         |0        |2       |1      |
-|8       |Entre Rios           |2020   |3       |Abusos sexuales con acceso carnal (violacion    |52      |57        |13       |44      |0      |
-|8       |Entre Rios           |2020   |5       |Delitos contra el honor                         |338     |343       |40       |197     |6      |
-|8       |Entre Rios           |2020   |6       |Homicidios culposos por otros hechos            |28      |28        |22       |6       |0      |
-|8       |Entre Rios           |2020   |7       |Homicidios dolosos                              |48      |50        |42       |8       |0      |
-|8       |Entre Rios           |2020   |8       |Homicidios dolosos en grado de tentativa        |49      |51        |45       |6       |0      |
-|8       |Entre Rios           |2020   |9       |Lesiones culposas en Accidentes Viales          |1986    |2187      |480      |707     |0      |
-|8       |Entre Rios           |2020   |10      |Lesiones culposas por otros hechos              |254     |260       |158      |97      |5      |
-|8       |Entre Rios           |2020   |11      |Lesiones dolosas                                |2536    |2592      |1566     |318     |8      |
-|8       |Entre Rios           |2020   |12      |Muertes en accidentes viales                    |63      |71        |57       |4       |0      |
-|8       |Entre Rios           |2020   |13      |Otros delitos contra la integridad sexual       |287     |294       |52       |240     |2      |
-|8       |Entre Rios           |2020   |14      |Otros delitos contra la libertad                |56      |63        |17       |43      |3      |
-|8       |Entre Rios           |2020   |14      |Otros delitos contra la libertad                |53      |60        |15       |42      |3      |
-|8       |Entre Rios           |2020   |15      |Otros delitos contra las personas               |2807    |2891      |1257     |1616    |18     |
-|8       |Entre Rios           |2020   |16      |Suicidios (consumados)                          |198     |198       |156      |42      |0      |
-|8       |Entre Rios           |2020   |18      |Trata de personas agravado                      |2       |2         |1        |1       |0      |
-|8       |Entre Rios           |2020   |19      |Trata de personas simple                        |1       |1         |1        |0       |0      |
-|9       |Formosa              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |14      |119       |18       |31      |0      |
-|9       |Formosa              |2020   |5       |Delitos contra el honor                         |3       |3         |8        |2       |0      |
-|9       |Formosa              |2020   |6       |Homicidios culposos por otros hechos            |6       |6         |2        |4       |0      |
-|9       |Formosa              |2020   |7       |Homicidios dolosos                              |27      |28        |22       |6       |0      |
-|9       |Formosa              |2020   |8       |Homicidios dolosos en grado de tentativa        |86      |94        |71       |23      |0      |
-|9       |Formosa              |2020   |9       |Lesiones culposas en Accidentes Viales          |648     |769       |426      |343     |0      |
-|9       |Formosa              |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |1        |0       |0      |
-|9       |Formosa              |2020   |11      |Lesiones dolosas                                |2980    |3346      |1352     |1994    |0      |
-|9       |Formosa              |2020   |12      |Muertes en accidentes viales                    |73      |76        |61       |15      |0      |
-|9       |Formosa              |2020   |13      |Otros delitos contra la integridad sexual       |265     |279       |29       |247     |3      |
-|9       |Formosa              |2020   |14      |Otros delitos contra la libertad                |512     |566       |242      |324     |0      |
-|9       |Formosa              |2020   |14      |Otros delitos contra la libertad                |512     |566       |242      |324     |0      |
-|9       |Formosa              |2020   |15      |Otros delitos contra las personas               |127     |136       |73       |62      |1      |
-|9       |Formosa              |2020   |16      |Suicidios (consumados)                          |66      |66        |45       |21      |0      |
-|10      |Jujuy                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |198     |200       |29       |171     |0      |
-|10      |Jujuy                |2020   |5       |Delitos contra el honor                         |182     |185       |83       |31      |1      |
-|10      |Jujuy                |2020   |6       |Homicidios culposos por otros hechos            |5       |6         |4        |2       |0      |
-|10      |Jujuy                |2020   |7       |Homicidios dolosos                              |35      |36        |25       |11      |0      |
-|10      |Jujuy                |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |1        |2       |0      |
-|10      |Jujuy                |2020   |9       |Lesiones culposas en Accidentes Viales          |812     |1317      |960      |352     |5      |
-|10      |Jujuy                |2020   |10      |Lesiones culposas por otros hechos              |26      |27        |18       |8       |1      |
-|10      |Jujuy                |2020   |11      |Lesiones dolosas                                |2223    |2427      |1246     |1173    |8      |
-|10      |Jujuy                |2020   |12      |Muertes en accidentes viales                    |53      |60        |48       |12      |0      |
-|10      |Jujuy                |2020   |13      |Otros delitos contra la integridad sexual       |398     |408       |54       |354     |0      |
-|10      |Jujuy                |2020   |14      |Otros delitos contra la libertad                |45      |153       |47       |33      |3      |
-|10      |Jujuy                |2020   |14      |Otros delitos contra la libertad                |43      |151       |47       |32      |2      |
-|10      |Jujuy                |2020   |15      |Otros delitos contra las personas               |62      |62        |29       |33      |0      |
-|10      |Jujuy                |2020   |16      |Suicidios (consumados)                          |65      |65        |53       |12      |0      |
-|10      |Jujuy                |2020   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
-|10      |Jujuy                |2020   |19      |Trata de personas simple                        |1       |1         |0        |1       |0      |
-|11      |La Pampa             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |8       |8         |0        |8       |0      |
-|11      |La Pampa             |2020   |7       |Homicidios dolosos                              |4       |4         |3        |1       |0      |
-|11      |La Pampa             |2020   |11      |Lesiones dolosas                                |381     |385       |28       |357     |0      |
-|11      |La Pampa             |2020   |12      |Muertes en accidentes viales                    |23      |25        |20       |5       |0      |
-|11      |La Pampa             |2020   |13      |Otros delitos contra la integridad sexual       |3       |3         |3        |7       |0      |
-|11      |La Pampa             |2020   |16      |Suicidios (consumados)                          |43      |43        |38       |5       |0      |
-|12      |La Rioja             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |30      |30        |0        |30      |0      |
-|12      |La Rioja             |2020   |6       |Homicidios culposos por otros hechos            |4       |4         |2        |2       |0      |
-|12      |La Rioja             |2020   |7       |Homicidios dolosos                              |4       |4         |3        |1       |0      |
-|12      |La Rioja             |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |1        |2       |0      |
-|12      |La Rioja             |2020   |9       |Lesiones culposas en Accidentes Viales          |1611    |1943      |1222     |721     |0      |
-|12      |La Rioja             |2020   |11      |Lesiones dolosas                                |462     |467       |92       |375     |0      |
-|12      |La Rioja             |2020   |12      |Muertes en accidentes viales                    |47      |51        |38       |13      |0      |
-|12      |La Rioja             |2020   |13      |Otros delitos contra la integridad sexual       |121     |121       |9        |112     |0      |
-|12      |La Rioja             |2020   |14      |Otros delitos contra la libertad                |6       |6         |1        |4       |1      |
-|12      |La Rioja             |2020   |14      |Otros delitos contra la libertad                |6       |6         |1        |4       |1      |
-|12      |La Rioja             |2020   |15      |Otros delitos contra las personas               |4       |4         |2        |2       |0      |
-|12      |La Rioja             |2020   |16      |Suicidios (consumados)                          |45      |45        |40       |5       |0      |
-|13      |Mendoza              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |434     |434       |0        |2       |432    |
-|13      |Mendoza              |2020   |5       |Delitos contra el honor                         |40      |46        |2        |5       |39     |
-|13      |Mendoza              |2020   |6       |Homicidios culposos por otros hechos            |90      |40        |52       |12      |76     |
-|13      |Mendoza              |2020   |7       |Homicidios dolosos                              |89      |91        |80       |11      |0      |
-|13      |Mendoza              |2020   |8       |Homicidios dolosos en grado de tentativa        |68      |120       |53       |7       |60     |
-|13      |Mendoza              |2020   |9       |Lesiones culposas en Accidentes Viales          |164     |23        |42       |27      |11     |
-|13      |Mendoza              |2020   |10      |Lesiones culposas por otros hechos              |7163    |7163      |631      |437     |6095   |
-|13      |Mendoza              |2020   |11      |Lesiones dolosas                                |12697   |12704     |1647     |3392    |7665   |
-|13      |Mendoza              |2020   |12      |Muertes en accidentes viales                    |87      |31        |80       |21      |0      |
-|13      |Mendoza              |2020   |13      |Otros delitos contra la integridad sexual       |2590    |2590      |0        |0       |2590   |
-|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |886     |920       |115      |162     |643    |
-|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |880     |93        |112      |157     |611    |
-|13      |Mendoza              |2020   |15      |Otros delitos contra las personas               |1904    |1967      |439      |482     |346    |
-|13      |Mendoza              |2020   |16      |Suicidios (consumados)                          |194     |194       |156      |38      |0      |
-|13      |Mendoza              |2020   |19      |Trata de personas simple                        |6       |3         |3        |5       |2      |
-|14      |Misiones             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |366     |372       |23       |344     |5      |
-|14      |Misiones             |2020   |5       |Delitos contra el honor                         |3       |3         |7        |3       |0      |
-|14      |Misiones             |2020   |6       |Homicidios culposos por otros hechos            |5       |5         |3        |2       |0      |
-|14      |Misiones             |2020   |7       |Homicidios dolosos                              |57      |57        |45       |12      |0      |
-|14      |Misiones             |2020   |8       |Homicidios dolosos en grado de tentativa        |35      |37        |20       |17      |0      |
-|14      |Misiones             |2020   |9       |Lesiones culposas en Accidentes Viales          |737     |950       |673      |267     |3      |
-|14      |Misiones             |2020   |10      |Lesiones culposas por otros hechos              |117     |118       |65       |49      |4      |
-|14      |Misiones             |2020   |11      |Lesiones dolosas                                |2270    |2373      |1256     |399     |18     |
-|14      |Misiones             |2020   |12      |Muertes en accidentes viales                    |138     |49        |129      |19      |1      |
-|14      |Misiones             |2020   |13      |Otros delitos contra la integridad sexual       |819     |828       |99       |717     |12     |
-|14      |Misiones             |2020   |14      |Otros delitos contra la libertad                |38      |39        |16       |21      |2      |
-|14      |Misiones             |2020   |14      |Otros delitos contra la libertad                |38      |39        |16       |21      |2      |
-|14      |Misiones             |2020   |15      |Otros delitos contra las personas               |1211    |1230      |505      |665     |60     |
-|14      |Misiones             |2020   |16      |Suicidios (consumados)                          |120     |120       |93       |27      |0      |
-|15      |Neuquen              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |35      |35        |3        |30      |2      |
-|15      |Neuquen              |2020   |5       |Delitos contra el honor                         |13      |13        |6        |7       |0      |
-|15      |Neuquen              |2020   |6       |Homicidios culposos por otros hechos            |4       |4         |1        |3       |0      |
-|15      |Neuquen              |2020   |7       |Homicidios dolosos                              |42      |42        |38       |4       |0      |
-|15      |Neuquen              |2020   |8       |Homicidios dolosos en grado de tentativa        |5       |5         |3        |2       |0      |
-|15      |Neuquen              |2020   |9       |Lesiones culposas en Accidentes Viales          |145     |1382      |942      |437     |3      |
-|15      |Neuquen              |2020   |10      |Lesiones culposas por otros hechos              |54      |54        |33       |20      |1      |
-|15      |Neuquen              |2020   |11      |Lesiones dolosas                                |1387    |401       |857      |502     |42     |
-|15      |Neuquen              |2020   |12      |Muertes en accidentes viales                    |44      |50        |11       |9       |0      |
-|15      |Neuquen              |2020   |13      |Otros delitos contra la integridad sexual       |283     |289       |35       |237     |17     |
-|15      |Neuquen              |2020   |14      |Otros delitos contra la libertad                |4       |17        |3        |5       |2      |
-|15      |Neuquen              |2020   |14      |Otros delitos contra la libertad                |13      |13        |6        |5       |2      |
-|15      |Neuquen              |2020   |15      |Otros delitos contra las personas               |1152    |1180      |657      |438     |85     |
-|15      |Neuquen              |2020   |16      |Suicidios (consumados)                          |52      |52        |43       |9       |0      |
-|15      |Neuquen              |2020   |18      |Trata de personas agravado                      |1       |4         |4        |0       |0      |
-|16      |Rio Negro            |2020   |3       |Abusos sexuales con acceso carnal (violacion    |31      |36        |7        |40      |59     |
-|16      |Rio Negro            |2020   |5       |Delitos contra el honor                         |8       |8         |3        |1       |4      |
-|16      |Rio Negro            |2020   |6       |Homicidios culposos por otros hechos            |6       |6         |3        |3       |0      |
-|16      |Rio Negro            |2020   |7       |Homicidios dolosos                              |37      |39        |37       |2       |0      |
-|16      |Rio Negro            |2020   |8       |Homicidios dolosos en grado de tentativa        |19      |21        |13       |1       |7      |
-|16      |Rio Negro            |2020   |9       |Lesiones culposas en Accidentes Viales          |323     |363       |43       |78      |42     |
-|16      |Rio Negro            |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |0        |0       |1      |
-|16      |Rio Negro            |2020   |11      |Lesiones dolosas                                |2098    |2179      |512      |439     |1228   |
-|16      |Rio Negro            |2020   |12      |Muertes en accidentes viales                    |36      |11        |30       |11      |0      |
-|16      |Rio Negro            |2020   |13      |Otros delitos contra la integridad sexual       |380     |390       |26       |153     |211    |
-|16      |Rio Negro            |2020   |14      |Otros delitos contra la libertad                |43      |421       |37       |28      |356    |
-|16      |Rio Negro            |2020   |14      |Otros delitos contra la libertad                |408     |119       |37       |28      |354    |
-|16      |Rio Negro            |2020   |15      |Otros delitos contra las personas               |302     |309       |70       |25      |24     |
-|16      |Rio Negro            |2020   |16      |Suicidios (consumados)                          |35      |35        |28       |7       |0      |
-|16      |Rio Negro            |2020   |18      |Trata de personas agravado                      |2       |2         |0        |0       |2      |
-|17      |Salta                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |328     |328       |24       |206     |98     |
-|17      |Salta                |2020   |6       |Homicidios culposos por otros hechos            |7       |7         |1        |0       |6      |
-|17      |Salta                |2020   |7       |Homicidios dolosos                              |89      |89        |75       |4       |0      |
-|17      |Salta                |2020   |8       |Homicidios dolosos en grado de tentativa        |79      |79        |42       |8       |29     |
-|17      |Salta                |2020   |9       |Lesiones culposas en Accidentes Viales          |3340    |3340      |1512     |500     |1328   |
-|17      |Salta                |2020   |11      |Lesiones dolosas                                |3117    |3117      |2740     |4478    |2899   |
-|17      |Salta                |2020   |12      |Muertes en accidentes viales                    |128     |137       |112      |25      |0      |
-|17      |Salta                |2020   |13      |Otros delitos contra la integridad sexual       |1113    |1113      |74       |665     |374    |
-|17      |Salta                |2020   |14      |Otros delitos contra la libertad                |2473    |2473      |859      |705     |909    |
-|17      |Salta                |2020   |14      |Otros delitos contra la libertad                |2471    |2471      |859      |704     |908    |
-|17      |Salta                |2020   |15      |Otros delitos contra las personas               |275     |275       |65       |89      |121    |
-|17      |Salta                |2020   |16      |Suicidios (consumados)                          |195     |195       |161      |34      |0      |
-|17      |Salta                |2020   |19      |Trata de personas simple                        |2       |2         |0        |1       |1      |
-|18      |San Juan             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |38      |38        |0        |38      |0      |
-|18      |San Juan             |2020   |5       |Delitos contra el honor                         |2       |2         |2        |0       |0      |
-|18      |San Juan             |2020   |6       |Homicidios culposos por otros hechos            |12      |4         |8        |5       |1      |
-|18      |San Juan             |2020   |7       |Homicidios dolosos                              |16      |16        |12       |4       |0      |
-|18      |San Juan             |2020   |8       |Homicidios dolosos en grado de tentativa        |6       |6         |5        |1       |0      |
-|18      |San Juan             |2020   |9       |Lesiones culposas en Accidentes Viales          |475     |503       |355      |48      |0      |
-|18      |San Juan             |2020   |10      |Lesiones culposas por otros hechos              |27      |29        |21       |7       |1      |
-|18      |San Juan             |2020   |11      |Lesiones dolosas                                |2544    |2767      |1216     |1509    |42     |
-|18      |San Juan             |2020   |12      |Muertes en accidentes viales                    |69      |71        |60       |11      |0      |
-|18      |San Juan             |2020   |13      |Otros delitos contra la integridad sexual       |132     |132       |8        |124     |0      |
-|18      |San Juan             |2020   |14      |Otros delitos contra la libertad                |37      |37        |36       |65      |6      |
-|18      |San Juan             |2020   |14      |Otros delitos contra la libertad                |36      |36        |36       |65      |5      |
-|18      |San Juan             |2020   |15      |Otros delitos contra las personas               |918     |964       |462      |484     |18     |
-|18      |San Juan             |2020   |16      |Suicidios (consumados)                          |54      |54        |48       |6       |0      |
-|18      |San Juan             |2020   |19      |Trata de personas simple                        |1       |1         |0        |0       |1      |
-|19      |San Luis             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |75      |78        |11       |66      |1      |
-|19      |San Luis             |2020   |5       |Delitos contra el honor                         |6       |6         |3        |3       |0      |
-|19      |San Luis             |2020   |7       |Homicidios dolosos                              |13      |4         |11       |3       |0      |
-|19      |San Luis             |2020   |8       |Homicidios dolosos en grado de tentativa        |29      |30        |24       |6       |0      |
-|19      |San Luis             |2020   |9       |Lesiones culposas en Accidentes Viales          |638     |903       |579      |324     |0      |
-|19      |San Luis             |2020   |10      |Lesiones culposas por otros hechos              |9       |12        |6        |6       |0      |
-|19      |San Luis             |2020   |11      |Lesiones dolosas                                |2338    |2520      |939      |1573    |8      |
-|19      |San Luis             |2020   |12      |Muertes en accidentes viales                    |58      |64        |52       |12      |0      |
-|19      |San Luis             |2020   |13      |Otros delitos contra la integridad sexual       |189     |197       |15       |181     |1      |
-|19      |San Luis             |2020   |14      |Otros delitos contra la libertad                |181     |187       |78       |38      |1      |
-|19      |San Luis             |2020   |14      |Otros delitos contra la libertad                |181     |187       |78       |38      |1      |
-|19      |San Luis             |2020   |15      |Otros delitos contra las personas               |31      |131       |98       |33      |0      |
-|19      |San Luis             |2020   |16      |Suicidios (consumados)                          |62      |62        |47       |15      |0      |
-|20      |Santa Cruz           |2020   |3       |Abusos sexuales con acceso carnal (violacion    |62      |62        |3        |59      |0      |
-|20      |Santa Cruz           |2020   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0      |
-|20      |Santa Cruz           |2020   |7       |Homicidios dolosos                              |15      |22        |18       |4       |0      |
-|20      |Santa Cruz           |2020   |8       |Homicidios dolosos en grado de tentativa        |11      |12        |3        |2       |0      |
-|20      |Santa Cruz           |2020   |9       |Lesiones culposas en Accidentes Viales          |85      |14        |81       |33      |0      |
-|20      |Santa Cruz           |2020   |10      |Lesiones culposas por otros hechos              |1       |2         |1        |1       |0      |
-|20      |Santa Cruz           |2020   |11      |Lesiones dolosas                                |1547    |1577      |589      |988     |0      |
-|20      |Santa Cruz           |2020   |12      |Muertes en accidentes viales                    |8       |8         |6        |2       |0      |
-|20      |Santa Cruz           |2020   |13      |Otros delitos contra la integridad sexual       |215     |218       |19       |199     |0      |
-|20      |Santa Cruz           |2020   |14      |Otros delitos contra la libertad                |267     |268       |85       |183     |0      |
-|20      |Santa Cruz           |2020   |14      |Otros delitos contra la libertad                |267     |268       |85       |183     |0      |
-|20      |Santa Cruz           |2020   |15      |Otros delitos contra las personas               |17      |17        |13       |2       |2      |
-|20      |Santa Cruz           |2020   |16      |Suicidios (consumados)                          |33      |33        |29       |4       |0      |
-|21      |Santa Fe             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |580     |604       |73       |518     |13     |
-|21      |Santa Fe             |2020   |5       |Delitos contra el honor                         |5       |5         |2        |3       |0      |
-|21      |Santa Fe             |2020   |6       |Homicidios culposos por otros hechos            |23      |23        |18       |5       |0      |
-|21      |Santa Fe             |2020   |7       |Homicidios dolosos                              |351     |374       |329      |45      |0      |
-|21      |Santa Fe             |2020   |8       |Homicidios dolosos en grado de tentativa        |115     |129       |34       |25      |0      |
-|21      |Santa Fe             |2020   |9       |Lesiones culposas en Accidentes Viales          |8389    |9906      |6348     |3558    |0      |
-|21      |Santa Fe             |2020   |10      |Lesiones culposas por otros hechos              |644     |690       |389      |301     |0      |
-|21      |Santa Fe             |2020   |11      |Lesiones dolosas                                |336     |3975      |5217     |5735    |23     |
-|21      |Santa Fe             |2020   |12      |Muertes en accidentes viales                    |270     |305       |211      |64      |0      |
-|21      |Santa Fe             |2020   |13      |Otros delitos contra la integridad sexual       |2651    |2808      |343      |2425    |40     |
-|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |972     |978       |0        |18      |960    |
-|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |836     |836       |0        |4       |832    |
-|21      |Santa Fe             |2020   |15      |Otros delitos contra las personas               |2008    |2160      |1244     |881     |35     |
-|21      |Santa Fe             |2020   |16      |Suicidios (consumados)                          |328     |328       |253      |75      |0      |
-|21      |Santa Fe             |2020   |18      |Trata de personas agravado                      |116     |116       |0        |3       |113    |
-|21      |Santa Fe             |2020   |19      |Trata de personas simple                        |20      |26        |0        |11      |15     |
-|22      |Santiago del Estero  |2020   |3       |Abusos sexuales con acceso carnal (violacion    |13      |122       |4        |38      |0      |
-|22      |Santiago del Estero  |2020   |5       |Delitos contra el honor                         |35      |37        |17       |20      |0      |
-|22      |Santiago del Estero  |2020   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0      |
-|22      |Santiago del Estero  |2020   |7       |Homicidios dolosos                              |37      |37        |31       |6       |0      |
-|22      |Santiago del Estero  |2020   |8       |Homicidios dolosos en grado de tentativa        |46      |53        |42       |11      |0      |
-|22      |Santiago del Estero  |2020   |9       |Lesiones culposas en Accidentes Viales          |116     |129       |77       |52      |0      |
-|22      |Santiago del Estero  |2020   |10      |Lesiones culposas por otros hechos              |8       |8         |3        |5       |0      |
-|22      |Santiago del Estero  |2020   |11      |Lesiones dolosas                                |6320    |6840      |2503     |4336    |1      |
-|22      |Santiago del Estero  |2020   |12      |Muertes en accidentes viales                    |49      |152       |130      |22      |0      |
-|22      |Santiago del Estero  |2020   |13      |Otros delitos contra la integridad sexual       |599     |637       |37       |530     |0      |
-|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |237     |270       |116      |154     |0      |
-|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |236     |246       |92       |154     |0      |
-|22      |Santiago del Estero  |2020   |15      |Otros delitos contra las personas               |243     |267       |60       |207     |0      |
-|22      |Santiago del Estero  |2020   |16      |Suicidios (consumados)                          |119     |119       |97       |22      |0      |
-|22      |Santiago del Estero  |2020   |19      |Trata de personas simple                        |1       |24        |24       |0       |0      |
-|23      |Tucuman              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |230     |230       |33       |196     |1      |
-|23      |Tucuman              |2020   |5       |Delitos contra el honor                         |2       |2         |0        |2       |0      |
-|23      |Tucuman              |2020   |6       |Homicidios culposos por otros hechos            |57      |67        |51       |16      |0      |
-|23      |Tucuman              |2020   |7       |Homicidios dolosos                              |47      |152       |126      |26      |0      |
-|23      |Tucuman              |2020   |8       |Homicidios dolosos en grado de tentativa        |85      |88        |74       |4       |0      |
-|23      |Tucuman              |2020   |9       |Lesiones culposas en Accidentes Viales          |1821    |1996      |426      |565     |5      |
-|23      |Tucuman              |2020   |10      |Lesiones culposas por otros hechos              |574     |580       |297      |283     |0      |
-|23      |Tucuman              |2020   |11      |Lesiones dolosas                                |6183    |6336      |2404     |3885    |47     |
-|23      |Tucuman              |2020   |12      |Muertes en accidentes viales                    |208     |227       |196      |31      |0      |
-|23      |Tucuman              |2020   |13      |Otros delitos contra la integridad sexual       |355     |360       |58       |302     |0      |
-|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42     |
-|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42     |
-|23      |Tucuman              |2020   |15      |Otros delitos contra las personas               |370     |385       |161      |195     |29     |
-|23      |Tucuman              |2020   |16      |Suicidios (consumados)                          |125     |126       |35       |21      |0      |
+==================================================================================================================================================
+|1       |CABA                 |2020   |3       |Abusos sexuales con acceso carnal (violacion    |249     |258       |21       |232     |5       |
+|1       |CABA                 |2020   |5       |Delitos contra el honor                         |17      |18        |4        |3       |1       |
+|1       |CABA                 |2020   |6       |Homicidios culposos por otros hechos            |16      |16        |12       |4       |0       |
+|1       |CABA                 |2020   |7       |Homicidios dolosos                              |121     |126       |112      |4       |0       |
+|1       |CABA                 |2020   |8       |Homicidios dolosos en grado de tentativa        |75      |93        |59       |23      |11      |
+|1       |CABA                 |2020   |9       |Lesiones culposas en Accidentes Viales          |6457    |8381      |5234     |2255    |892     |
+|1       |CABA                 |2020   |10      |Lesiones culposas por otros hechos              |220     |250       |39       |122     |19      |
+|1       |CABA                 |2020   |11      |Lesiones dolosas                                |3630    |11869     |5158     |5777    |934     |
+|1       |CABA                 |2020   |12      |Muertes en accidentes viales                    |79      |82        |66       |16      |0       |
+|1       |CABA                 |2020   |13      |Otros delitos contra la integridad sexual       |438     |1600      |229      |1243    |128     |
+|1       |CABA                 |2020   |14      |Otros delitos contra la libertad                |1238    |1621      |620      |738     |263     |
+|1       |CABA                 |2020   |14      |Otros delitos contra la libertad                |1133    |480       |63       |688     |182     |
+|1       |CABA                 |2020   |15      |Otros delitos contra las personas               |371     |434       |196      |177     |61      |
+|1       |CABA                 |2020   |16      |Suicidios (consumados)                          |206     |206       |44       |62      |0       |
+|1       |CABA                 |2020   |18      |Trata de personas agravado                      |3       |3         |1        |1       |1       |
+|1       |CABA                 |2020   |19      |Trata de personas simple                        |32      |138       |9        |49      |80      |
+|2       |Buenos Aires         |2020   |3       |Abusos sexuales con acceso carnal (violacion    |1924    |1925      |265      |1651    |9       |
+|2       |Buenos Aires         |2020   |6       |Homicidios culposos por otros hechos            |99      |118       |67       |46      |5       |
+|2       |Buenos Aires         |2020   |7       |Homicidios dolosos                              |915     |931       |792      |139     |0       |
+|2       |Buenos Aires         |2020   |8       |Homicidios dolosos en grado de tentativa        |760     |811       |669      |137     |35      |
+|2       |Buenos Aires         |2020   |9       |Lesiones culposas en Accidentes Viales          |25408   |28799     |2044     |8377    |8       |
+|2       |Buenos Aires         |2020   |10      |Lesiones culposas por otros hechos              |118     |448       |180      |263     |5       |
+|2       |Buenos Aires         |2020   |11      |Lesiones dolosas                                |41199   |47930     |2344     |25137   |1749    |
+|2       |Buenos Aires         |2020   |12      |Muertes en accidentes viales                    |676     |717       |546      |117     |54      |
+|2       |Buenos Aires         |2020   |13      |Otros delitos contra la integridad sexual       |7633    |9401      |1293     |7883    |225     |
+|2       |Buenos Aires         |2020   |14      |Otros delitos contra la libertad                |3115    |3697      |1328     |1788    |581     |
+|2       |Buenos Aires         |2020   |14      |Otros delitos contra la libertad                |3406    |3677      |1322     |1777    |578     |
+|2       |Buenos Aires         |2020   |15      |Otros delitos contra las personas               |2138    |2269      |1212     |792     |265     |
+|2       |Buenos Aires         |2020   |16      |Suicidios (consumados)                          |858     |858       |688      |166     |4       |
+|2       |Buenos Aires         |2020   |19      |Trata de personas simple                        |9       |20        |6        |11      |3       |
+|3       |Catamarca            |2020   |3       |Abusos sexuales con acceso carnal (violacion    |3       |3         |0        |3       |0       |
+|3       |Catamarca            |2020   |7       |Homicidios dolosos                              |7       |7         |5        |2       |0       |
+|3       |Catamarca            |2020   |9       |Lesiones culposas en Accidentes Viales          |1260    |117       |304      |111     |2       |
+|3       |Catamarca            |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |0        |1       |0       |
+|3       |Catamarca            |2020   |11      |Lesiones dolosas                                |2424    |2424      |384      |1323    |17      |
+|3       |Catamarca            |2020   |12      |Muertes en accidentes viales                    |45      |50        |40       |3       |0       |
+|3       |Catamarca            |2020   |13      |Otros delitos contra la integridad sexual       |234     |234       |12       |204     |18      |
+|3       |Catamarca            |2020   |14      |Otros delitos contra la libertad                |29      |29        |11       |17      |1       |
+|3       |Catamarca            |2020   |14      |Otros delitos contra la libertad                |29      |29        |11       |17      |1       |
+|3       |Catamarca            |2020   |15      |Otros delitos contra las personas               |238     |238       |43       |193     |2       |
+|3       |Catamarca            |2020   |16      |Suicidios (consumados)                          |48      |48        |39       |9       |0       |
+|4       |Cordoba              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |23      |217       |17       |195     |5       |
+|4       |Cordoba              |2020   |5       |Delitos contra el honor                         |39      |40        |11       |23      |6       |
+|4       |Cordoba              |2020   |6       |Homicidios culposos por otros hechos            |3       |12        |12       |0       |0       |
+|4       |Cordoba              |2020   |7       |Homicidios dolosos                              |120     |121       |95       |25      |1       |
+|4       |Cordoba              |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |2        |1       |0       |
+|4       |Cordoba              |2020   |9       |Lesiones culposas en Accidentes Viales          |5282    |5925      |3785     |1964    |176     |
+|4       |Cordoba              |2020   |10      |Lesiones culposas por otros hechos              |505     |535       |253      |201     |81      |
+|4       |Cordoba              |2020   |11      |Lesiones dolosas                                |6069    |6362      |3219     |2926    |217     |
+|4       |Cordoba              |2020   |12      |Muertes en accidentes viales                    |295     |329       |276      |53      |0       |
+|4       |Cordoba              |2020   |13      |Otros delitos contra la integridad sexual       |767     |775       |48       |560     |67      |
+|4       |Cordoba              |2020   |14      |Otros delitos contra la libertad                |1139    |1158      |465      |433     |260     |
+|4       |Cordoba              |2020   |14      |Otros delitos contra la libertad                |1137    |1156      |465      |433     |258     |
+|4       |Cordoba              |2020   |15      |Otros delitos contra las personas               |32165   |32792     |9828     |20765   |2199    |
+|4       |Cordoba              |2020   |16      |Suicidios (consumados)                          |197     |197       |158      |35      |4       |
+|4       |Cordoba              |2020   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1       |
+|4       |Cordoba              |2020   |19      |Trata de personas simple                        |1       |1         |0        |0       |1       |
+|5       |Corrientes           |2020   |3       |Abusos sexuales con acceso carnal (violacion    |43      |43        |4        |117     |12      |
+|5       |Corrientes           |2020   |5       |Delitos contra el honor                         |8       |9         |4        |5       |0       |
+|5       |Corrientes           |2020   |6       |Homicidios culposos por otros hechos            |36      |36        |15       |21      |0       |
+|5       |Corrientes           |2020   |7       |Homicidios dolosos                              |38      |40        |29       |11      |0       |
+|5       |Corrientes           |2020   |8       |Homicidios dolosos en grado de tentativa        |6       |8         |8        |0       |0       |
+|5       |Corrientes           |2020   |9       |Lesiones culposas en Accidentes Viales          |376     |422       |272      |131     |19      |
+|5       |Corrientes           |2020   |10      |Lesiones culposas por otros hechos              |355     |357       |208      |48      |1       |
+|5       |Corrientes           |2020   |11      |Lesiones dolosas                                |1139    |1159      |393      |627     |139     |
+|5       |Corrientes           |2020   |12      |Muertes en accidentes viales                    |39      |45        |38       |7       |0       |
+|5       |Corrientes           |2020   |13      |Otros delitos contra la integridad sexual       |134     |135       |7        |117     |11      |
+|5       |Corrientes           |2020   |14      |Otros delitos contra la libertad                |54      |61        |27       |34      |0       |
+|5       |Corrientes           |2020   |14      |Otros delitos contra la libertad                |18      |19        |8        |11      |0       |
+|5       |Corrientes           |2020   |15      |Otros delitos contra las personas               |533     |543       |235      |296     |12      |
+|5       |Corrientes           |2020   |16      |Suicidios (consumados)                          |36      |36        |32       |4       |0       |
+|5       |Corrientes           |2020   |19      |Trata de personas simple                        |36      |42        |19       |23      |0       |
+|6       |Chaco                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |87      |90        |3        |87      |0       |
+|6       |Chaco                |2020   |6       |Homicidios culposos por otros hechos            |80      |85        |63       |21      |1       |
+|6       |Chaco                |2020   |7       |Homicidios dolosos                              |35      |36        |88       |18      |0       |
+|6       |Chaco                |2020   |8       |Homicidios dolosos en grado de tentativa        |35      |44        |35       |9       |0       |
+|6       |Chaco                |2020   |9       |Lesiones culposas en Accidentes Viales          |945     |1343      |924      |118     |1       |
+|6       |Chaco                |2020   |10      |Lesiones culposas por otros hechos              |13      |13        |12       |1       |0       |
+|6       |Chaco                |2020   |11      |Lesiones dolosas                                |2793    |349       |1295     |1833    |21      |
+|6       |Chaco                |2020   |12      |Muertes en accidentes viales                    |136     |47        |132      |15      |0       |
+|6       |Chaco                |2020   |13      |Otros delitos contra la integridad sexual       |538     |572       |65       |492     |15      |
+|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1       |
+|6       |Chaco                |2020   |14      |Otros delitos contra la libertad                |74      |76        |20       |55      |1       |
+|6       |Chaco                |2020   |15      |Otros delitos contra las personas               |213     |244       |14       |111     |19      |
+|6       |Chaco                |2020   |16      |Suicidios (consumados)                          |32      |32        |85       |17      |0       |
+|7       |Chubut               |2020   |3       |Abusos sexuales con acceso carnal (violacion    |212     |219       |18       |200     |1       |
+|7       |Chubut               |2020   |5       |Delitos contra el honor                         |31      |32        |18       |4       |0       |
+|7       |Chubut               |2020   |7       |Homicidios dolosos                              |32      |32        |26       |5       |1       |
+|7       |Chubut               |2020   |8       |Homicidios dolosos en grado de tentativa        |28      |33        |31       |2       |0       |
+|7       |Chubut               |2020   |9       |Lesiones culposas en Accidentes Viales          |219     |283       |200      |82      |1       |
+|7       |Chubut               |2020   |11      |Lesiones dolosas                                |2031    |2199      |857      |1342    |0       |
+|7       |Chubut               |2020   |12      |Muertes en accidentes viales                    |16      |17        |11       |6       |0       |
+|7       |Chubut               |2020   |13      |Otros delitos contra la integridad sexual       |381     |406       |53       |352     |1       |
+|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |319     |332       |136      |194     |2       |
+|7       |Chubut               |2020   |14      |Otros delitos contra la libertad                |316     |329       |136      |192     |1       |
+|7       |Chubut               |2020   |15      |Otros delitos contra las personas               |1811    |1915      |555      |1360    |0       |
+|7       |Chubut               |2020   |16      |Suicidios (consumados)                          |71      |71        |65       |6       |0       |
+|7       |Chubut               |2020   |19      |Trata de personas simple                        |3       |3         |0        |2       |1       |
+|8       |Entre Rios           |2020   |3       |Abusos sexuales con acceso carnal (violacion    |52      |57        |13       |44      |0       |
+|8       |Entre Rios           |2020   |5       |Delitos contra el honor                         |338     |343       |40       |197     |6       |
+|8       |Entre Rios           |2020   |6       |Homicidios culposos por otros hechos            |28      |28        |22       |6       |0       |
+|8       |Entre Rios           |2020   |7       |Homicidios dolosos                              |48      |50        |42       |8       |0       |
+|8       |Entre Rios           |2020   |8       |Homicidios dolosos en grado de tentativa        |49      |51        |45       |6       |0       |
+|8       |Entre Rios           |2020   |9       |Lesiones culposas en Accidentes Viales          |1986    |2187      |480      |707     |0       |
+|8       |Entre Rios           |2020   |10      |Lesiones culposas por otros hechos              |254     |260       |158      |97      |5       |
+|8       |Entre Rios           |2020   |11      |Lesiones dolosas                                |2536    |2592      |1566     |318     |8       |
+|8       |Entre Rios           |2020   |12      |Muertes en accidentes viales                    |63      |71        |57       |4       |0       |
+|8       |Entre Rios           |2020   |13      |Otros delitos contra la integridad sexual       |287     |294       |52       |240     |2       |
+|8       |Entre Rios           |2020   |14      |Otros delitos contra la libertad                |56      |63        |17       |43      |3       |
+|8       |Entre Rios           |2020   |14      |Otros delitos contra la libertad                |53      |60        |15       |42      |3       |
+|8       |Entre Rios           |2020   |15      |Otros delitos contra las personas               |2807    |2891      |1257     |1616    |18      |
+|8       |Entre Rios           |2020   |16      |Suicidios (consumados)                          |198     |198       |156      |42      |0       |
+|8       |Entre Rios           |2020   |18      |Trata de personas agravado                      |2       |2         |1        |1       |0       |
+|8       |Entre Rios           |2020   |19      |Trata de personas simple                        |1       |1         |1        |0       |0       |
+|9       |Formosa              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |14      |119       |18       |31      |0       |
+|9       |Formosa              |2020   |5       |Delitos contra el honor                         |3       |3         |8        |2       |0       |
+|9       |Formosa              |2020   |6       |Homicidios culposos por otros hechos            |6       |6         |2        |4       |0       |
+|9       |Formosa              |2020   |7       |Homicidios dolosos                              |27      |28        |22       |6       |0       |
+|9       |Formosa              |2020   |8       |Homicidios dolosos en grado de tentativa        |86      |94        |71       |23      |0       |
+|9       |Formosa              |2020   |9       |Lesiones culposas en Accidentes Viales          |648     |769       |426      |343     |0       |
+|9       |Formosa              |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |1        |0       |0       |
+|9       |Formosa              |2020   |11      |Lesiones dolosas                                |2980    |3346      |1352     |1994    |0       |
+|9       |Formosa              |2020   |12      |Muertes en accidentes viales                    |73      |76        |61       |15      |0       |
+|9       |Formosa              |2020   |13      |Otros delitos contra la integridad sexual       |265     |279       |29       |247     |3       |
+|9       |Formosa              |2020   |14      |Otros delitos contra la libertad                |512     |566       |242      |324     |0       |
+|9       |Formosa              |2020   |14      |Otros delitos contra la libertad                |512     |566       |242      |324     |0       |
+|9       |Formosa              |2020   |15      |Otros delitos contra las personas               |127     |136       |73       |62      |1       |
+|9       |Formosa              |2020   |16      |Suicidios (consumados)                          |66      |66        |45       |21      |0       |
+|10      |Jujuy                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |198     |200       |29       |171     |0       |
+|10      |Jujuy                |2020   |5       |Delitos contra el honor                         |182     |185       |83       |31      |1       |
+|10      |Jujuy                |2020   |6       |Homicidios culposos por otros hechos            |5       |6         |4        |2       |0       |
+|10      |Jujuy                |2020   |7       |Homicidios dolosos                              |35      |36        |25       |11      |0       |
+|10      |Jujuy                |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |1        |2       |0       |
+|10      |Jujuy                |2020   |9       |Lesiones culposas en Accidentes Viales          |812     |1317      |960      |352     |5       |
+|10      |Jujuy                |2020   |10      |Lesiones culposas por otros hechos              |26      |27        |18       |8       |1       |
+|10      |Jujuy                |2020   |11      |Lesiones dolosas                                |2223    |2427      |1246     |1173    |8       |
+|10      |Jujuy                |2020   |12      |Muertes en accidentes viales                    |53      |60        |48       |12      |0       |
+|10      |Jujuy                |2020   |13      |Otros delitos contra la integridad sexual       |398     |408       |54       |354     |0       |
+|10      |Jujuy                |2020   |14      |Otros delitos contra la libertad                |45      |153       |47       |33      |3       |
+|10      |Jujuy                |2020   |14      |Otros delitos contra la libertad                |43      |151       |47       |32      |2       |
+|10      |Jujuy                |2020   |15      |Otros delitos contra las personas               |62      |62        |29       |33      |0       |
+|10      |Jujuy                |2020   |16      |Suicidios (consumados)                          |65      |65        |53       |12      |0       |
+|10      |Jujuy                |2020   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1       |
+|10      |Jujuy                |2020   |19      |Trata de personas simple                        |1       |1         |0        |1       |0       |
+|11      |La Pampa             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |8       |8         |0        |8       |0       |
+|11      |La Pampa             |2020   |7       |Homicidios dolosos                              |4       |4         |3        |1       |0       |
+|11      |La Pampa             |2020   |11      |Lesiones dolosas                                |381     |385       |28       |357     |0       |
+|11      |La Pampa             |2020   |12      |Muertes en accidentes viales                    |23      |25        |20       |5       |0       |
+|11      |La Pampa             |2020   |13      |Otros delitos contra la integridad sexual       |3       |3         |3        |7       |0       |
+|11      |La Pampa             |2020   |16      |Suicidios (consumados)                          |43      |43        |38       |5       |0       |
+|12      |La Rioja             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |30      |30        |0        |30      |0       |
+|12      |La Rioja             |2020   |6       |Homicidios culposos por otros hechos            |4       |4         |2        |2       |0       |
+|12      |La Rioja             |2020   |7       |Homicidios dolosos                              |4       |4         |3        |1       |0       |
+|12      |La Rioja             |2020   |8       |Homicidios dolosos en grado de tentativa        |3       |3         |1        |2       |0       |
+|12      |La Rioja             |2020   |9       |Lesiones culposas en Accidentes Viales          |1611    |1943      |1222     |721     |0       |
+|12      |La Rioja             |2020   |11      |Lesiones dolosas                                |462     |467       |92       |375     |0       |
+|12      |La Rioja             |2020   |12      |Muertes en accidentes viales                    |47      |51        |38       |13      |0       |
+|12      |La Rioja             |2020   |13      |Otros delitos contra la integridad sexual       |121     |121       |9        |112     |0       |
+|12      |La Rioja             |2020   |14      |Otros delitos contra la libertad                |6       |6         |1        |4       |1       |
+|12      |La Rioja             |2020   |14      |Otros delitos contra la libertad                |6       |6         |1        |4       |1       |
+|12      |La Rioja             |2020   |15      |Otros delitos contra las personas               |4       |4         |2        |2       |0       |
+|12      |La Rioja             |2020   |16      |Suicidios (consumados)                          |45      |45        |40       |5       |0       |
+|13      |Mendoza              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |434     |434       |0        |2       |432     |
+|13      |Mendoza              |2020   |5       |Delitos contra el honor                         |40      |46        |2        |5       |39      |
+|13      |Mendoza              |2020   |6       |Homicidios culposos por otros hechos            |90      |40        |52       |12      |76      |
+|13      |Mendoza              |2020   |7       |Homicidios dolosos                              |89      |91        |80       |11      |0       |
+|13      |Mendoza              |2020   |8       |Homicidios dolosos en grado de tentativa        |68      |120       |53       |7       |60      |
+|13      |Mendoza              |2020   |9       |Lesiones culposas en Accidentes Viales          |164     |23        |42       |27      |11      |
+|13      |Mendoza              |2020   |10      |Lesiones culposas por otros hechos              |7163    |7163      |631      |437     |6095    |
+|13      |Mendoza              |2020   |11      |Lesiones dolosas                                |12697   |12704     |1647     |3392    |7665    |
+|13      |Mendoza              |2020   |12      |Muertes en accidentes viales                    |87      |31        |80       |21      |0       |
+|13      |Mendoza              |2020   |13      |Otros delitos contra la integridad sexual       |2590    |2590      |0        |0       |2590    |
+|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |886     |920       |115      |162     |643     |
+|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |880     |93        |112      |157     |611     |
+|13      |Mendoza              |2020   |15      |Otros delitos contra las personas               |1904    |1967      |439      |482     |346     |
+|13      |Mendoza              |2020   |16      |Suicidios (consumados)                          |194     |194       |156      |38      |0       |
+|13      |Mendoza              |2020   |19      |Trata de personas simple                        |6       |3         |3        |5       |2       |
+|14      |Misiones             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |366     |372       |23       |344     |5       |
+|14      |Misiones             |2020   |5       |Delitos contra el honor                         |3       |3         |7        |3       |0       |
+|14      |Misiones             |2020   |6       |Homicidios culposos por otros hechos            |5       |5         |3        |2       |0       |
+|14      |Misiones             |2020   |7       |Homicidios dolosos                              |57      |57        |45       |12      |0       |
+|14      |Misiones             |2020   |8       |Homicidios dolosos en grado de tentativa        |35      |37        |20       |17      |0       |
+|14      |Misiones             |2020   |9       |Lesiones culposas en Accidentes Viales          |737     |950       |673      |267     |3       |
+|14      |Misiones             |2020   |10      |Lesiones culposas por otros hechos              |117     |118       |65       |49      |4       |
+|14      |Misiones             |2020   |11      |Lesiones dolosas                                |2270    |2373      |1256     |399     |18      |
+|14      |Misiones             |2020   |12      |Muertes en accidentes viales                    |138     |49        |129      |19      |1       |
+|14      |Misiones             |2020   |13      |Otros delitos contra la integridad sexual       |819     |828       |99       |717     |12      |
+|14      |Misiones             |2020   |14      |Otros delitos contra la libertad                |38      |39        |16       |21      |2       |
+|14      |Misiones             |2020   |14      |Otros delitos contra la libertad                |38      |39        |16       |21      |2       |
+|14      |Misiones             |2020   |15      |Otros delitos contra las personas               |1211    |1230      |505      |665     |60      |
+|14      |Misiones             |2020   |16      |Suicidios (consumados)                          |120     |120       |93       |27      |0       |
+|15      |Neuquen              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |35      |35        |3        |30      |2       |
+|15      |Neuquen              |2020   |5       |Delitos contra el honor                         |13      |13        |6        |7       |0       |
+|15      |Neuquen              |2020   |6       |Homicidios culposos por otros hechos            |4       |4         |1        |3       |0       |
+|15      |Neuquen              |2020   |7       |Homicidios dolosos                              |42      |42        |38       |4       |0       |
+|15      |Neuquen              |2020   |8       |Homicidios dolosos en grado de tentativa        |5       |5         |3        |2       |0       |
+|15      |Neuquen              |2020   |9       |Lesiones culposas en Accidentes Viales          |145     |1382      |942      |437     |3       |
+|15      |Neuquen              |2020   |10      |Lesiones culposas por otros hechos              |54      |54        |33       |20      |1       |
+|15      |Neuquen              |2020   |11      |Lesiones dolosas                                |1387    |401       |857      |502     |42      |
+|15      |Neuquen              |2020   |12      |Muertes en accidentes viales                    |44      |50        |11       |9       |0       |
+|15      |Neuquen              |2020   |13      |Otros delitos contra la integridad sexual       |283     |289       |35       |237     |17      |
+|15      |Neuquen              |2020   |14      |Otros delitos contra la libertad                |4       |17        |3        |5       |2       |
+|15      |Neuquen              |2020   |14      |Otros delitos contra la libertad                |13      |13        |6        |5       |2       |
+|15      |Neuquen              |2020   |15      |Otros delitos contra las personas               |1152    |1180      |657      |438     |85      |
+|15      |Neuquen              |2020   |16      |Suicidios (consumados)                          |52      |52        |43       |9       |0       |
+|15      |Neuquen              |2020   |18      |Trata de personas agravado                      |1       |4         |4        |0       |0       |
+|16      |Rio Negro            |2020   |3       |Abusos sexuales con acceso carnal (violacion    |31      |36        |7        |40      |59      |
+|16      |Rio Negro            |2020   |5       |Delitos contra el honor                         |8       |8         |3        |1       |4       |
+|16      |Rio Negro            |2020   |6       |Homicidios culposos por otros hechos            |6       |6         |3        |3       |0       |
+|16      |Rio Negro            |2020   |7       |Homicidios dolosos                              |37      |39        |37       |2       |0       |
+|16      |Rio Negro            |2020   |8       |Homicidios dolosos en grado de tentativa        |19      |21        |13       |1       |7       |
+|16      |Rio Negro            |2020   |9       |Lesiones culposas en Accidentes Viales          |323     |363       |43       |78      |42      |
+|16      |Rio Negro            |2020   |10      |Lesiones culposas por otros hechos              |1       |1         |0        |0       |1       |
+|16      |Rio Negro            |2020   |11      |Lesiones dolosas                                |2098    |2179      |512      |439     |1228    |
+|16      |Rio Negro            |2020   |12      |Muertes en accidentes viales                    |36      |11        |30       |11      |0       |
+|16      |Rio Negro            |2020   |13      |Otros delitos contra la integridad sexual       |380     |390       |26       |153     |211     |
+|16      |Rio Negro            |2020   |14      |Otros delitos contra la libertad                |43      |421       |37       |28      |356     |
+|16      |Rio Negro            |2020   |14      |Otros delitos contra la libertad                |408     |119       |37       |28      |354     |
+|16      |Rio Negro            |2020   |15      |Otros delitos contra las personas               |302     |309       |70       |25      |24      |
+|16      |Rio Negro            |2020   |16      |Suicidios (consumados)                          |35      |35        |28       |7       |0       |
+|16      |Rio Negro            |2020   |18      |Trata de personas agravado                      |2       |2         |0        |0       |2       |
+|17      |Salta                |2020   |3       |Abusos sexuales con acceso carnal (violacion    |328     |328       |24       |206     |98      |
+|17      |Salta                |2020   |6       |Homicidios culposos por otros hechos            |7       |7         |1        |0       |6       |
+|17      |Salta                |2020   |7       |Homicidios dolosos                              |89      |89        |75       |4       |0       |
+|17      |Salta                |2020   |8       |Homicidios dolosos en grado de tentativa        |79      |79        |42       |8       |29      |
+|17      |Salta                |2020   |9       |Lesiones culposas en Accidentes Viales          |3340    |3340      |1512     |500     |1328    |
+|17      |Salta                |2020   |11      |Lesiones dolosas                                |3117    |3117      |2740     |4478    |2899    |
+|17      |Salta                |2020   |12      |Muertes en accidentes viales                    |128     |137       |112      |25      |0       |
+|17      |Salta                |2020   |13      |Otros delitos contra la integridad sexual       |1113    |1113      |74       |665     |374     |
+|17      |Salta                |2020   |14      |Otros delitos contra la libertad                |2473    |2473      |859      |705     |909     |
+|17      |Salta                |2020   |14      |Otros delitos contra la libertad                |2471    |2471      |859      |704     |908     |
+|17      |Salta                |2020   |15      |Otros delitos contra las personas               |275     |275       |65       |89      |121     |
+|17      |Salta                |2020   |16      |Suicidios (consumados)                          |195     |195       |161      |34      |0       |
+|17      |Salta                |2020   |19      |Trata de personas simple                        |2       |2         |0        |1       |1       |
+|18      |San Juan             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |38      |38        |0        |38      |0       |
+|18      |San Juan             |2020   |5       |Delitos contra el honor                         |2       |2         |2        |0       |0       |
+|18      |San Juan             |2020   |6       |Homicidios culposos por otros hechos            |12      |4         |8        |5       |1       |
+|18      |San Juan             |2020   |7       |Homicidios dolosos                              |16      |16        |12       |4       |0       |
+|18      |San Juan             |2020   |8       |Homicidios dolosos en grado de tentativa        |6       |6         |5        |1       |0       |
+|18      |San Juan             |2020   |9       |Lesiones culposas en Accidentes Viales          |475     |503       |355      |48      |0       |
+|18      |San Juan             |2020   |10      |Lesiones culposas por otros hechos              |27      |29        |21       |7       |1       |
+|18      |San Juan             |2020   |11      |Lesiones dolosas                                |2544    |2767      |1216     |1509    |42      |
+|18      |San Juan             |2020   |12      |Muertes en accidentes viales                    |69      |71        |60       |11      |0       |
+|18      |San Juan             |2020   |13      |Otros delitos contra la integridad sexual       |132     |132       |8        |124     |0       |
+|18      |San Juan             |2020   |14      |Otros delitos contra la libertad                |37      |37        |36       |65      |6       |
+|18      |San Juan             |2020   |14      |Otros delitos contra la libertad                |36      |36        |36       |65      |5       |
+|18      |San Juan             |2020   |15      |Otros delitos contra las personas               |918     |964       |462      |484     |18      |
+|18      |San Juan             |2020   |16      |Suicidios (consumados)                          |54      |54        |48       |6       |0       |
+|18      |San Juan             |2020   |19      |Trata de personas simple                        |1       |1         |0        |0       |1       |
+|19      |San Luis             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |75      |78        |11       |66      |1       |
+|19      |San Luis             |2020   |5       |Delitos contra el honor                         |6       |6         |3        |3       |0       |
+|19      |San Luis             |2020   |7       |Homicidios dolosos                              |13      |4         |11       |3       |0       |
+|19      |San Luis             |2020   |8       |Homicidios dolosos en grado de tentativa        |29      |30        |24       |6       |0       |
+|19      |San Luis             |2020   |9       |Lesiones culposas en Accidentes Viales          |638     |903       |579      |324     |0       |
+|19      |San Luis             |2020   |10      |Lesiones culposas por otros hechos              |9       |12        |6        |6       |0       |
+|19      |San Luis             |2020   |11      |Lesiones dolosas                                |2338    |2520      |939      |1573    |8       |
+|19      |San Luis             |2020   |12      |Muertes en accidentes viales                    |58      |64        |52       |12      |0       |
+|19      |San Luis             |2020   |13      |Otros delitos contra la integridad sexual       |189     |197       |15       |181     |1       |
+|19      |San Luis             |2020   |14      |Otros delitos contra la libertad                |181     |187       |78       |38      |1       |
+|19      |San Luis             |2020   |14      |Otros delitos contra la libertad                |181     |187       |78       |38      |1       |
+|19      |San Luis             |2020   |15      |Otros delitos contra las personas               |31      |131       |98       |33      |0       |
+|19      |San Luis             |2020   |16      |Suicidios (consumados)                          |62      |62        |47       |15      |0       |
+|20      |Santa Cruz           |2020   |3       |Abusos sexuales con acceso carnal (violacion    |62      |62        |3        |59      |0       |
+|20      |Santa Cruz           |2020   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|20      |Santa Cruz           |2020   |7       |Homicidios dolosos                              |15      |22        |18       |4       |0       |
+|20      |Santa Cruz           |2020   |8       |Homicidios dolosos en grado de tentativa        |11      |12        |3        |2       |0       |
+|20      |Santa Cruz           |2020   |9       |Lesiones culposas en Accidentes Viales          |85      |14        |81       |33      |0       |
+|20      |Santa Cruz           |2020   |10      |Lesiones culposas por otros hechos              |1       |2         |1        |1       |0       |
+|20      |Santa Cruz           |2020   |11      |Lesiones dolosas                                |1547    |1577      |589      |988     |0       |
+|20      |Santa Cruz           |2020   |12      |Muertes en accidentes viales                    |8       |8         |6        |2       |0       |
+|20      |Santa Cruz           |2020   |13      |Otros delitos contra la integridad sexual       |215     |218       |19       |199     |0       |
+|20      |Santa Cruz           |2020   |14      |Otros delitos contra la libertad                |267     |268       |85       |183     |0       |
+|20      |Santa Cruz           |2020   |14      |Otros delitos contra la libertad                |267     |268       |85       |183     |0       |
+|20      |Santa Cruz           |2020   |15      |Otros delitos contra las personas               |17      |17        |13       |2       |2       |
+|20      |Santa Cruz           |2020   |16      |Suicidios (consumados)                          |33      |33        |29       |4       |0       |
+|21      |Santa Fe             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |580     |604       |73       |518     |13      |
+|21      |Santa Fe             |2020   |5       |Delitos contra el honor                         |5       |5         |2        |3       |0       |
+|21      |Santa Fe             |2020   |6       |Homicidios culposos por otros hechos            |23      |23        |18       |5       |0       |
+|21      |Santa Fe             |2020   |7       |Homicidios dolosos                              |351     |374       |329      |45      |0       |
+|21      |Santa Fe             |2020   |8       |Homicidios dolosos en grado de tentativa        |115     |129       |34       |25      |0       |
+|21      |Santa Fe             |2020   |9       |Lesiones culposas en Accidentes Viales          |8389    |9906      |6348     |3558    |0       |
+|21      |Santa Fe             |2020   |10      |Lesiones culposas por otros hechos              |644     |690       |389      |301     |0       |
+|21      |Santa Fe             |2020   |11      |Lesiones dolosas                                |336     |3975      |5217     |5735    |23      |
+|21      |Santa Fe             |2020   |12      |Muertes en accidentes viales                    |270     |305       |211      |64      |0       |
+|21      |Santa Fe             |2020   |13      |Otros delitos contra la integridad sexual       |2651    |2808      |343      |2425    |40      |
+|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |972     |978       |0        |18      |960     |
+|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |836     |836       |0        |4       |832     |
+|21      |Santa Fe             |2020   |15      |Otros delitos contra las personas               |2008    |2160      |1244     |881     |35      |
+|21      |Santa Fe             |2020   |16      |Suicidios (consumados)                          |328     |328       |253      |75      |0       |
+|21      |Santa Fe             |2020   |18      |Trata de personas agravado                      |116     |116       |0        |3       |113     |
+|21      |Santa Fe             |2020   |19      |Trata de personas simple                        |20      |26        |0        |11      |15      |
+|22      |Santiago del Estero  |2020   |3       |Abusos sexuales con acceso carnal (violacion    |13      |122       |4        |38      |0       |
+|22      |Santiago del Estero  |2020   |5       |Delitos contra el honor                         |35      |37        |17       |20      |0       |
+|22      |Santiago del Estero  |2020   |6       |Homicidios culposos por otros hechos            |1       |1         |1        |0       |0       |
+|22      |Santiago del Estero  |2020   |7       |Homicidios dolosos                              |37      |37        |31       |6       |0       |
+|22      |Santiago del Estero  |2020   |8       |Homicidios dolosos en grado de tentativa        |46      |53        |42       |11      |0       |
+|22      |Santiago del Estero  |2020   |9       |Lesiones culposas en Accidentes Viales          |116     |129       |77       |52      |0       |
+|22      |Santiago del Estero  |2020   |10      |Lesiones culposas por otros hechos              |8       |8         |3        |5       |0       |
+|22      |Santiago del Estero  |2020   |11      |Lesiones dolosas                                |6320    |6840      |2503     |4336    |1       |
+|22      |Santiago del Estero  |2020   |12      |Muertes en accidentes viales                    |49      |152       |130      |22      |0       |
+|22      |Santiago del Estero  |2020   |13      |Otros delitos contra la integridad sexual       |599     |637       |37       |530     |0       |
+|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |237     |270       |116      |154     |0       |
+|22      |Santiago del Estero  |2020   |14      |Otros delitos contra la libertad                |236     |246       |92       |154     |0       |
+|22      |Santiago del Estero  |2020   |15      |Otros delitos contra las personas               |243     |267       |60       |207     |0       |
+|22      |Santiago del Estero  |2020   |16      |Suicidios (consumados)                          |119     |119       |97       |22      |0       |
+|22      |Santiago del Estero  |2020   |19      |Trata de personas simple                        |1       |24        |24       |0       |0       |
+|23      |Tucuman              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |230     |230       |33       |196     |1       |
+|23      |Tucuman              |2020   |5       |Delitos contra el honor                         |2       |2         |0        |2       |0       |
+|23      |Tucuman              |2020   |6       |Homicidios culposos por otros hechos            |57      |67        |51       |16      |0       |
+|23      |Tucuman              |2020   |7       |Homicidios dolosos                              |47      |152       |126      |26      |0       |
+|23      |Tucuman              |2020   |8       |Homicidios dolosos en grado de tentativa        |85      |88        |74       |4       |0       |
+|23      |Tucuman              |2020   |9       |Lesiones culposas en Accidentes Viales          |1821    |1996      |426      |565     |5       |
+|23      |Tucuman              |2020   |10      |Lesiones culposas por otros hechos              |574     |580       |297      |283     |0       |
+|23      |Tucuman              |2020   |11      |Lesiones dolosas                                |6183    |6336      |2404     |3885    |47      |
+|23      |Tucuman              |2020   |12      |Muertes en accidentes viales                    |208     |227       |196      |31      |0       |
+|23      |Tucuman              |2020   |13      |Otros delitos contra la integridad sexual       |355     |360       |58       |302     |0       |
+|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42      |
+|23      |Tucuman              |2020   |14      |Otros delitos contra la libertad                |72      |74        |18       |4       |42      |
+|23      |Tucuman              |2020   |15      |Otros delitos contra las personas               |370     |385       |161      |195     |29      |
+|23      |Tucuman              |2020   |16      |Suicidios (consumados)                          |125     |126       |35       |21      |0       |

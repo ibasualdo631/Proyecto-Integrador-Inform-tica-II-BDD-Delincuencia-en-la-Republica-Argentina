@@ -3,7 +3,8 @@
 #include <stdlib.h>
 
 // Estructura principal
-typedef struct nodo {
+typedef struct nodo 
+{
     int provincia_id;
     char provincia_nombre[25];
     int anio;
@@ -17,7 +18,18 @@ typedef struct nodo {
     struct nodo *sig;
 } nodo;
 
+ struct acumulador
+    {
+        int cant;
+        int masc;
+        int fem;
+        int sindef;
+    };
+
 
 // Prototipos de funciones del módulo carga
+
 void cargar_informacion(nodo **delitos);
-void liberartodamemoria(nodo **delitos);
+void liberar_toda_memoria(nodo **delitos);
+void acumulador_delitos_mostrar(nodo *delitos);
+void acumulador_delitos_principales_mostrar(nodo *delitos);

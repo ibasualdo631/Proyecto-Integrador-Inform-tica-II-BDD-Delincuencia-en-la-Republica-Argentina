@@ -1,0 +1,20 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (LESIONES CULPOSAS POR OTRS HECHOS) EN EL ANIO (2018)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2018   |10      |Lesiones culposas por otros hechos              |1926    |1999      |921      |603     |475     |
+|1       |CABA                 |2018   |10      |Lesiones dolosas                                |1533    |1540      |6057     |5923    |3160    |
+|2       |Buenos Aires         |2018   |10      |Lesiones culposas por otros hechos              |913     |960       |388      |557     |15      |
+|4       |Cordoba              |2018   |10      |Lesiones culposas por otros hechos              |636     |699       |348      |346     |5       |
+|5       |Corrientes           |2018   |10      |Lesiones culposas por otros hechos              |360     |366       |112      |246     |8       |
+|6       |Chaco                |2018   |10      |Lesiones culposas por otros hechos              |17      |17        |11       |6       |0       |
+|8       |Entre Rios           |2018   |10      |Lesiones culposas por otros hechos              |323     |333       |204      |116     |13      |
+|10      |Jujuy                |2018   |10      |Lesiones culposas por otros hechos              |11      |11        |20       |20      |1       |
+|13      |Mendoza              |2018   |10      |Lesiones culposas por otros hechos              |1357    |1357      |716      |584     |9757    |
+|14      |Misiones             |2018   |10      |Lesiones culposas por otros hechos              |170     |174       |65       |89      |20      |
+|15      |Neuquen              |2018   |10      |Lesiones culposas por otros hechos              |13      |14        |51       |60      |3       |
+|18      |San Juan             |2018   |10      |Lesiones culposas por otros hechos              |220     |222       |124      |96      |2       |
+|21      |Santa Fe             |2018   |10      |Lesiones culposas por otros hechos              |302     |362       |658      |401     |3       |
+|22      |Santiago del Estero  |2018   |10      |Lesiones culposas por otros hechos              |4       |5         |2        |3       |0       |
+|23      |Tucuman              |2018   |10      |Lesiones culposas por otros hechos              |668     |685       |275      |393     |17      |

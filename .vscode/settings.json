@@ -4,6 +4,8 @@
         "COPIA_PROYECTO.C": "cpp",
         "tempCodeRunnerFile.C": "cpp",
         "stdlib.h": "c",
-        "carga.h": "c"
+        "carga.h": "c",
+        "stdio.h": "c",
+        "escribir.h": "c"
     }
 }

@@ -1,57 +1,57 @@
-=================================================================================================================================================
+==================================================================================================================================================
 |                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (SANTA FE)
-=============================================================================================================================================
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|21      |Santa Fe             |2023   |1       |Abuso sexual agravado                           |231     |243       |32       |23      |1      |
-|21      |Santa Fe             |2023   |2       |Abuso sexual simple                             |1815    |1901      |247      |1651    |3      |
-|21      |Santa Fe             |2018   |3       |Abusos sexuales con acceso carnal (violacion    |233     |257       |29       |216     |12     |
-|21      |Santa Fe             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |580     |604       |73       |518     |13     |
-|21      |Santa Fe             |2023   |3       |Abusos sexuales con acceso carnal (violacion    |654     |672       |78       |592     |2      |
-|21      |Santa Fe             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |34      |39        |4        |50      |55     |
-|21      |Santa Fe             |2018   |5       |Delitos contra el honor                         |16      |19        |6        |13      |0      |
-|21      |Santa Fe             |2020   |5       |Delitos contra el honor                         |5       |5         |2        |3       |0      |
-|21      |Santa Fe             |2023   |5       |Delitos contra el honor                         |13      |4         |6        |8       |0      |
-|21      |Santa Fe             |2018   |6       |Homicidios culposos por otros hechos            |38      |38        |30       |8       |0      |
-|21      |Santa Fe             |2020   |6       |Homicidios culposos por otros hechos            |23      |23        |18       |5       |0      |
-|21      |Santa Fe             |2023   |6       |Homicidios culposos por otros hechos            |89      |92        |73       |19      |0      |
-|21      |Santa Fe             |2018   |7       |Homicidios dolosos                              |335     |355       |306      |49      |0      |
-|21      |Santa Fe             |2020   |7       |Homicidios dolosos                              |351     |374       |329      |45      |0      |
-|21      |Santa Fe             |2023   |7       |Homicidios dolosos                              |383     |398       |337      |61      |0      |
-|21      |Santa Fe             |2018   |8       |Homicidios dolosos en grado de tentativa        |138     |156       |123      |33      |0      |
-|21      |Santa Fe             |2020   |8       |Homicidios dolosos en grado de tentativa        |115     |129       |34       |25      |0      |
-|21      |Santa Fe             |2023   |8       |Homicidios dolosos en grado de tentativa        |119     |124       |92       |32      |0      |
-|21      |Santa Fe             |2018   |9       |Lesiones culposas en Accidentes Viales          |13190   |16232     |3295     |5848    |89     |
-|21      |Santa Fe             |2020   |9       |Lesiones culposas en Accidentes Viales          |8389    |9906      |6348     |3558    |0      |
-|21      |Santa Fe             |2023   |9       |Lesiones culposas en Accidentes Viales          |9373    |3699      |6317     |4335    |47     |
-|21      |Santa Fe             |2018   |10      |Lesiones culposas por otros hechos              |302     |362       |658      |401     |3      |
-|21      |Santa Fe             |2020   |10      |Lesiones culposas por otros hechos              |644     |690       |389      |301     |0      |
-|21      |Santa Fe             |2023   |10      |Lesiones culposas por otros hechos              |34      |345       |511      |477     |27     |
-|21      |Santa Fe             |2018   |11      |Lesiones dolosas                                |11329   |12030     |5612     |6113    |5      |
-|21      |Santa Fe             |2020   |11      |Lesiones dolosas                                |336     |3975      |5217     |5735    |23     |
-|21      |Santa Fe             |2023   |11      |Lesiones dolosas                                |3075    |3719      |5012     |5638    |69     |
-|21      |Santa Fe             |2018   |12      |Muertes en accidentes viales                    |366     |409       |332      |77      |0      |
-|21      |Santa Fe             |2020   |12      |Muertes en accidentes viales                    |270     |305       |211      |64      |0      |
-|21      |Santa Fe             |2023   |12      |Muertes en accidentes viales                    |281     |308       |240      |68      |0      |
-|21      |Santa Fe             |2018   |13      |Otros delitos contra la integridad sexual       |811     |845       |99       |743     |3      |
-|21      |Santa Fe             |2020   |13      |Otros delitos contra la integridad sexual       |2651    |2808      |343      |2425    |40     |
-|21      |Santa Fe             |2023   |13      |Otros delitos contra la integridad sexual       |2722    |2861      |370      |243     |81     |
-|21      |Santa Fe             |2023   |13      |Otros delitos contra la integridad sexual       |522     |558       |77       |459     |22     |
-|21      |Santa Fe             |2018   |14      |Otros delitos contra la libertad                |487     |487       |2        |11      |474    |
-|21      |Santa Fe             |2018   |14      |Otros delitos contra la libertad                |467     |467       |1        |0       |466    |
-|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |972     |978       |0        |18      |960    |
-|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |836     |836       |0        |4       |832    |
-|21      |Santa Fe             |2023   |14      |Otros delitos contra la libertad                |670     |718       |322      |356     |40     |
-|21      |Santa Fe             |2023   |14      |Otros delitos contra la libertad                |618     |611       |298      |331     |12     |
-|21      |Santa Fe             |2018   |15      |Otros delitos contra las personas               |1782    |1943      |1127     |804     |12     |
-|21      |Santa Fe             |2020   |15      |Otros delitos contra las personas               |2008    |2160      |1244     |881     |35     |
-|21      |Santa Fe             |2023   |15      |Otros delitos contra las personas               |1225    |1263      |703      |546     |4      |
-|21      |Santa Fe             |2018   |16      |Suicidios (consumados)                          |368     |368       |288      |80      |0      |
-|21      |Santa Fe             |2020   |16      |Suicidios (consumados)                          |328     |328       |253      |75      |0      |
-|21      |Santa Fe             |2023   |16      |Suicidios (consumados)                          |382     |382       |308      |74      |0      |
-|21      |Santa Fe             |2023   |17      |Tentativa de abuso sexual con acceso carnal     |50      |50        |3        |40      |0      |
-|21      |Santa Fe             |2020   |18      |Trata de personas agravado                      |116     |116       |0        |3       |113    |
-|21      |Santa Fe             |2023   |18      |Trata de personas agravado                      |4       |4         |0        |0       |4      |
-|21      |Santa Fe             |2018   |19      |Trata de personas simple                        |20      |20        |1        |11      |8      |
-|21      |Santa Fe             |2020   |19      |Trata de personas simple                        |20      |26        |0        |11      |15     |
-|21      |Santa Fe             |2023   |19      |Trata de personas simple                        |48      |73        |24       |25      |24     |
+==================================================================================================================================================
+|21      |Santa Fe             |2023   |1       |Abuso sexual agravado                           |231     |243       |32       |23      |1       |
+|21      |Santa Fe             |2023   |2       |Abuso sexual simple                             |1815    |1901      |247      |1651    |3       |
+|21      |Santa Fe             |2018   |3       |Abusos sexuales con acceso carnal (violacion    |233     |257       |29       |216     |12      |
+|21      |Santa Fe             |2020   |3       |Abusos sexuales con acceso carnal (violacion    |580     |604       |73       |518     |13      |
+|21      |Santa Fe             |2023   |3       |Abusos sexuales con acceso carnal (violacion    |654     |672       |78       |592     |2       |
+|21      |Santa Fe             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |34      |39        |4        |50      |55      |
+|21      |Santa Fe             |2018   |5       |Delitos contra el honor                         |16      |19        |6        |13      |0       |
+|21      |Santa Fe             |2020   |5       |Delitos contra el honor                         |5       |5         |2        |3       |0       |
+|21      |Santa Fe             |2023   |5       |Delitos contra el honor                         |13      |4         |6        |8       |0       |
+|21      |Santa Fe             |2018   |6       |Homicidios culposos por otros hechos            |38      |38        |30       |8       |0       |
+|21      |Santa Fe             |2020   |6       |Homicidios culposos por otros hechos            |23      |23        |18       |5       |0       |
+|21      |Santa Fe             |2023   |6       |Homicidios culposos por otros hechos            |89      |92        |73       |19      |0       |
+|21      |Santa Fe             |2018   |7       |Homicidios dolosos                              |335     |355       |306      |49      |0       |
+|21      |Santa Fe             |2020   |7       |Homicidios dolosos                              |351     |374       |329      |45      |0       |
+|21      |Santa Fe             |2023   |7       |Homicidios dolosos                              |383     |398       |337      |61      |0       |
+|21      |Santa Fe             |2018   |8       |Homicidios dolosos en grado de tentativa        |138     |156       |123      |33      |0       |
+|21      |Santa Fe             |2020   |8       |Homicidios dolosos en grado de tentativa        |115     |129       |34       |25      |0       |
+|21      |Santa Fe             |2023   |8       |Homicidios dolosos en grado de tentativa        |119     |124       |92       |32      |0       |
+|21      |Santa Fe             |2018   |9       |Lesiones culposas en Accidentes Viales          |13190   |16232     |3295     |5848    |89      |
+|21      |Santa Fe             |2020   |9       |Lesiones culposas en Accidentes Viales          |8389    |9906      |6348     |3558    |0       |
+|21      |Santa Fe             |2023   |9       |Lesiones culposas en Accidentes Viales          |9373    |3699      |6317     |4335    |47      |
+|21      |Santa Fe             |2018   |10      |Lesiones culposas por otros hechos              |302     |362       |658      |401     |3       |
+|21      |Santa Fe             |2020   |10      |Lesiones culposas por otros hechos              |644     |690       |389      |301     |0       |
+|21      |Santa Fe             |2023   |10      |Lesiones culposas por otros hechos              |34      |345       |511      |477     |27      |
+|21      |Santa Fe             |2018   |11      |Lesiones dolosas                                |11329   |12030     |5612     |6113    |5       |
+|21      |Santa Fe             |2020   |11      |Lesiones dolosas                                |336     |3975      |5217     |5735    |23      |
+|21      |Santa Fe             |2023   |11      |Lesiones dolosas                                |3075    |3719      |5012     |5638    |69      |
+|21      |Santa Fe             |2018   |12      |Muertes en accidentes viales                    |366     |409       |332      |77      |0       |
+|21      |Santa Fe             |2020   |12      |Muertes en accidentes viales                    |270     |305       |211      |64      |0       |
+|21      |Santa Fe             |2023   |12      |Muertes en accidentes viales                    |281     |308       |240      |68      |0       |
+|21      |Santa Fe             |2018   |13      |Otros delitos contra la integridad sexual       |811     |845       |99       |743     |3       |
+|21      |Santa Fe             |2020   |13      |Otros delitos contra la integridad sexual       |2651    |2808      |343      |2425    |40      |
+|21      |Santa Fe             |2023   |13      |Otros delitos contra la integridad sexual       |2722    |2861      |370      |243     |81      |
+|21      |Santa Fe             |2023   |13      |Otros delitos contra la integridad sexual       |522     |558       |77       |459     |22      |
+|21      |Santa Fe             |2018   |14      |Otros delitos contra la libertad                |487     |487       |2        |11      |474     |
+|21      |Santa Fe             |2018   |14      |Otros delitos contra la libertad                |467     |467       |1        |0       |466     |
+|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |972     |978       |0        |18      |960     |
+|21      |Santa Fe             |2020   |14      |Otros delitos contra la libertad                |836     |836       |0        |4       |832     |
+|21      |Santa Fe             |2023   |14      |Otros delitos contra la libertad                |670     |718       |322      |356     |40      |
+|21      |Santa Fe             |2023   |14      |Otros delitos contra la libertad                |618     |611       |298      |331     |12      |
+|21      |Santa Fe             |2018   |15      |Otros delitos contra las personas               |1782    |1943      |1127     |804     |12      |
+|21      |Santa Fe             |2020   |15      |Otros delitos contra las personas               |2008    |2160      |1244     |881     |35      |
+|21      |Santa Fe             |2023   |15      |Otros delitos contra las personas               |1225    |1263      |703      |546     |4       |
+|21      |Santa Fe             |2018   |16      |Suicidios (consumados)                          |368     |368       |288      |80      |0       |
+|21      |Santa Fe             |2020   |16      |Suicidios (consumados)                          |328     |328       |253      |75      |0       |
+|21      |Santa Fe             |2023   |16      |Suicidios (consumados)                          |382     |382       |308      |74      |0       |
+|21      |Santa Fe             |2023   |17      |Tentativa de abuso sexual con acceso carnal     |50      |50        |3        |40      |0       |
+|21      |Santa Fe             |2020   |18      |Trata de personas agravado                      |116     |116       |0        |3       |113     |
+|21      |Santa Fe             |2023   |18      |Trata de personas agravado                      |4       |4         |0        |0       |4       |
+|21      |Santa Fe             |2018   |19      |Trata de personas simple                        |20      |20        |1        |11      |8       |
+|21      |Santa Fe             |2020   |19      |Trata de personas simple                        |20      |26        |0        |11      |15      |
+|21      |Santa Fe             |2023   |19      |Trata de personas simple                        |48      |73        |24       |25      |24      |

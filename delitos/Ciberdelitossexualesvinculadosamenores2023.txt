@@ -1,0 +1,28 @@
+==================================================================================================================================================
+|                                  ESTADÍSTICAS DETALLADAS POR TIPO DE DELITO (CIBERDELITOS SEXUALES VINCULADOS A MENORES) EN EL ANIO (2023)                 |
+==================================================================================================================================================
+| IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
+==================================================================================================================================================
+|1       |CABA                 |2023   |4       |Ciberdelitos sexuales vinculados a menores      |79      |81        |15       |59      |7       |
+|2       |Buenos Aires         |2023   |4       |Ciberdelitos sexuales vinculados a menores      |53      |55        |0        |4       |51      |
+|3       |Catamarca            |2023   |4       |Ciberdelitos sexuales vinculados a menores      |5       |5         |1        |4       |0       |
+|4       |Cordoba              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |35      |35        |4        |6       |25      |
+|5       |Corrientes           |2023   |4       |Ciberdelitos sexuales vinculados a menores      |1       |1         |0        |0       |1       |
+|6       |Chaco                |2023   |4       |Ciberdelitos sexuales vinculados a menores      |22      |22        |5        |4       |3       |
+|7       |Chubut               |2023   |4       |Ciberdelitos sexuales vinculados a menores      |33      |34        |3        |24      |7       |
+|8       |Entre Rios           |2023   |4       |Ciberdelitos sexuales vinculados a menores      |4       |4         |1        |3       |0       |
+|9       |Formosa              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |4       |4         |0        |4       |0       |
+|10      |Jujuy                |2023   |4       |Ciberdelitos sexuales vinculados a menores      |25      |26        |2        |23      |1       |
+|11      |La Pampa             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |3       |3         |7        |3       |0       |
+|12      |La Rioja             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |1       |1         |0        |1       |0       |
+|13      |Mendoza              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |760     |760       |0        |0       |760     |
+|14      |Misiones             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |13      |13        |3        |3       |0       |
+|15      |Neuquen              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |5       |5         |0        |5       |0       |
+|16      |Rio Negro            |2023   |4       |Ciberdelitos sexuales vinculados a menores      |4       |15        |1        |4       |0       |
+|17      |Salta                |2023   |4       |Ciberdelitos sexuales vinculados a menores      |47      |47        |0        |32      |15      |
+|18      |San Juan             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |61      |63        |3        |26      |34      |
+|19      |San Luis             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |6       |6         |2        |4       |0       |
+|20      |Santa Cruz           |2023   |4       |Ciberdelitos sexuales vinculados a menores      |5       |5         |0        |5       |0       |
+|21      |Santa Fe             |2023   |4       |Ciberdelitos sexuales vinculados a menores      |34      |39        |4        |50      |55      |
+|22      |Santiago del Estero  |2023   |4       |Ciberdelitos sexuales vinculados a menores      |3       |3         |0        |3       |0       |
+|23      |Tucuman              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |73      |73        |13       |59      |1       |

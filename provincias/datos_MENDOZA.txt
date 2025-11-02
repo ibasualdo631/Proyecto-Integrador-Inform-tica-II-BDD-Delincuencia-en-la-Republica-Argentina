@@ -1,56 +1,56 @@
-=================================================================================================================================================
+==================================================================================================================================================
 |                                  ESTADÍSTICAS DE DELITOS POR PROVINCIA (MENDOZA)
-=============================================================================================================================================
+==================================================================================================================================================
 | IDProv | PROVINCIA           | ANIO  | CODDel | DELITO                                         | HECHOS | VICTIMAS | VicMASC | VicFEM | VicS/D |
-=================================================================================================================================================
-|13      |Mendoza              |2023   |1       |Abuso sexual agravado                           |51      |51        |0        |0       |51     |
-|13      |Mendoza              |2023   |2       |Abuso sexual simple                             |2443    |2443      |0        |2       |2411   |
-|13      |Mendoza              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |383     |383       |0        |0       |383    |
-|13      |Mendoza              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |434     |434       |0        |2       |432    |
-|13      |Mendoza              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |525     |525       |0        |0       |525    |
-|13      |Mendoza              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |760     |760       |0        |0       |760    |
-|13      |Mendoza              |2018   |5       |Delitos contra el honor                         |43      |49        |4        |2       |43     |
-|13      |Mendoza              |2020   |5       |Delitos contra el honor                         |40      |46        |2        |5       |39     |
-|13      |Mendoza              |2023   |5       |Delitos contra el honor                         |61      |69        |3        |6       |53     |
-|13      |Mendoza              |2018   |6       |Homicidios culposos por otros hechos            |173     |211       |82       |22      |137    |
-|13      |Mendoza              |2020   |6       |Homicidios culposos por otros hechos            |90      |40        |52       |12      |76     |
-|13      |Mendoza              |2023   |6       |Homicidios culposos por otros hechos            |43      |292       |34       |55      |133    |
-|13      |Mendoza              |2018   |7       |Homicidios dolosos                              |97      |36        |90       |16      |0      |
-|13      |Mendoza              |2020   |7       |Homicidios dolosos                              |89      |91        |80       |11      |0      |
-|13      |Mendoza              |2023   |7       |Homicidios dolosos                              |64      |66        |54       |12      |0      |
-|13      |Mendoza              |2018   |8       |Homicidios dolosos en grado de tentativa        |50      |30        |36       |16      |48     |
-|13      |Mendoza              |2020   |8       |Homicidios dolosos en grado de tentativa        |68      |120       |53       |7       |60     |
-|13      |Mendoza              |2023   |8       |Homicidios dolosos en grado de tentativa        |93      |167       |70       |12      |85     |
-|13      |Mendoza              |2018   |9       |Lesiones culposas en Accidentes Viales          |46      |191       |38       |29      |124    |
-|13      |Mendoza              |2020   |9       |Lesiones culposas en Accidentes Viales          |164     |23        |42       |27      |11     |
-|13      |Mendoza              |2023   |9       |Lesiones culposas en Accidentes Viales          |118     |161       |40       |17      |34     |
-|13      |Mendoza              |2018   |10      |Lesiones culposas por otros hechos              |1357    |1357      |716      |584     |9757   |
-|13      |Mendoza              |2020   |10      |Lesiones culposas por otros hechos              |7163    |7163      |631      |437     |6095   |
-|13      |Mendoza              |2023   |10      |Lesiones culposas por otros hechos              |11183   |11201     |1296     |313     |8892   |
-|13      |Mendoza              |2018   |11      |Lesiones dolosas                                |4949    |15112     |1746     |644     |6952   |
-|13      |Mendoza              |2020   |11      |Lesiones dolosas                                |12697   |12704     |1647     |3392    |7665   |
-|13      |Mendoza              |2023   |11      |Lesiones dolosas                                |16611   |16676     |2988     |5609    |8079   |
-|13      |Mendoza              |2018   |12      |Muertes en accidentes viales                    |157     |168       |135      |31      |2      |
-|13      |Mendoza              |2020   |12      |Muertes en accidentes viales                    |87      |31        |80       |21      |0      |
-|13      |Mendoza              |2023   |12      |Muertes en accidentes viales                    |13      |119       |85       |34      |0      |
-|13      |Mendoza              |2018   |13      |Otros delitos contra la integridad sexual       |2569    |2569      |0        |1       |2568   |
-|13      |Mendoza              |2020   |13      |Otros delitos contra la integridad sexual       |2590    |2590      |0        |0       |2590   |
-|13      |Mendoza              |2023   |13      |Otros delitos contra la integridad sexual       |3484    |3484      |0        |2       |3482   |
-|13      |Mendoza              |2023   |13      |Otros delitos contra la integridad sexual       |230     |230       |0        |0       |230    |
-|13      |Mendoza              |2018   |14      |Otros delitos contra la libertad                |1131    |1213      |14       |282     |817    |
-|13      |Mendoza              |2018   |14      |Otros delitos contra la libertad                |1118    |1173      |36       |258     |809    |
-|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |886     |920       |115      |162     |643    |
-|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |880     |93        |112      |157     |611    |
-|13      |Mendoza              |2023   |14      |Otros delitos contra la libertad                |395     |1139      |227      |232     |680    |
-|13      |Mendoza              |2023   |14      |Otros delitos contra la libertad                |387     |1130      |225      |231     |674    |
-|13      |Mendoza              |2018   |15      |Otros delitos contra las personas               |2011    |2078      |335      |43      |1333   |
-|13      |Mendoza              |2020   |15      |Otros delitos contra las personas               |1904    |1967      |439      |482     |346    |
-|13      |Mendoza              |2023   |15      |Otros delitos contra las personas               |2618    |2750      |769      |862     |1119   |
-|13      |Mendoza              |2018   |16      |Suicidios (consumados)                          |198     |198       |48       |50      |0      |
-|13      |Mendoza              |2020   |16      |Suicidios (consumados)                          |194     |194       |156      |38      |0      |
-|13      |Mendoza              |2023   |16      |Suicidios (consumados)                          |207     |207       |162      |45      |0      |
-|13      |Mendoza              |2018   |18      |Trata de personas agravado                      |5       |5         |0        |0       |5      |
-|13      |Mendoza              |2023   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1      |
-|13      |Mendoza              |2018   |19      |Trata de personas simple                        |8       |35        |8        |24      |3      |
-|13      |Mendoza              |2020   |19      |Trata de personas simple                        |6       |3         |3        |5       |2      |
-|13      |Mendoza              |2023   |19      |Trata de personas simple                        |7       |8         |2        |1       |5      |
+==================================================================================================================================================
+|13      |Mendoza              |2023   |1       |Abuso sexual agravado                           |51      |51        |0        |0       |51      |
+|13      |Mendoza              |2023   |2       |Abuso sexual simple                             |2443    |2443      |0        |2       |2411    |
+|13      |Mendoza              |2018   |3       |Abusos sexuales con acceso carnal (violacion    |383     |383       |0        |0       |383     |
+|13      |Mendoza              |2020   |3       |Abusos sexuales con acceso carnal (violacion    |434     |434       |0        |2       |432     |
+|13      |Mendoza              |2023   |3       |Abusos sexuales con acceso carnal (violacion    |525     |525       |0        |0       |525     |
+|13      |Mendoza              |2023   |4       |Ciberdelitos sexuales vinculados a menores      |760     |760       |0        |0       |760     |
+|13      |Mendoza              |2018   |5       |Delitos contra el honor                         |43      |49        |4        |2       |43      |
+|13      |Mendoza              |2020   |5       |Delitos contra el honor                         |40      |46        |2        |5       |39      |
+|13      |Mendoza              |2023   |5       |Delitos contra el honor                         |61      |69        |3        |6       |53      |
+|13      |Mendoza              |2018   |6       |Homicidios culposos por otros hechos            |173     |211       |82       |22      |137     |
+|13      |Mendoza              |2020   |6       |Homicidios culposos por otros hechos            |90      |40        |52       |12      |76      |
+|13      |Mendoza              |2023   |6       |Homicidios culposos por otros hechos            |43      |292       |34       |55      |133     |
+|13      |Mendoza              |2018   |7       |Homicidios dolosos                              |97      |36        |90       |16      |0       |
+|13      |Mendoza              |2020   |7       |Homicidios dolosos                              |89      |91        |80       |11      |0       |
+|13      |Mendoza              |2023   |7       |Homicidios dolosos                              |64      |66        |54       |12      |0       |
+|13      |Mendoza              |2018   |8       |Homicidios dolosos en grado de tentativa        |50      |30        |36       |16      |48      |
+|13      |Mendoza              |2020   |8       |Homicidios dolosos en grado de tentativa        |68      |120       |53       |7       |60      |
+|13      |Mendoza              |2023   |8       |Homicidios dolosos en grado de tentativa        |93      |167       |70       |12      |85      |
+|13      |Mendoza              |2018   |9       |Lesiones culposas en Accidentes Viales          |46      |191       |38       |29      |124     |
+|13      |Mendoza              |2020   |9       |Lesiones culposas en Accidentes Viales          |164     |23        |42       |27      |11      |
+|13      |Mendoza              |2023   |9       |Lesiones culposas en Accidentes Viales          |118     |161       |40       |17      |34      |
+|13      |Mendoza              |2018   |10      |Lesiones culposas por otros hechos              |1357    |1357      |716      |584     |9757    |
+|13      |Mendoza              |2020   |10      |Lesiones culposas por otros hechos              |7163    |7163      |631      |437     |6095    |
+|13      |Mendoza              |2023   |10      |Lesiones culposas por otros hechos              |11183   |11201     |1296     |313     |8892    |
+|13      |Mendoza              |2018   |11      |Lesiones dolosas                                |4949    |15112     |1746     |644     |6952    |
+|13      |Mendoza              |2020   |11      |Lesiones dolosas                                |12697   |12704     |1647     |3392    |7665    |
+|13      |Mendoza              |2023   |11      |Lesiones dolosas                                |16611   |16676     |2988     |5609    |8079    |
+|13      |Mendoza              |2018   |12      |Muertes en accidentes viales                    |157     |168       |135      |31      |2       |
+|13      |Mendoza              |2020   |12      |Muertes en accidentes viales                    |87      |31        |80       |21      |0       |
+|13      |Mendoza              |2023   |12      |Muertes en accidentes viales                    |13      |119       |85       |34      |0       |
+|13      |Mendoza              |2018   |13      |Otros delitos contra la integridad sexual       |2569    |2569      |0        |1       |2568    |
+|13      |Mendoza              |2020   |13      |Otros delitos contra la integridad sexual       |2590    |2590      |0        |0       |2590    |
+|13      |Mendoza              |2023   |13      |Otros delitos contra la integridad sexual       |3484    |3484      |0        |2       |3482    |
+|13      |Mendoza              |2023   |13      |Otros delitos contra la integridad sexual       |230     |230       |0        |0       |230     |
+|13      |Mendoza              |2018   |14      |Otros delitos contra la libertad                |1131    |1213      |14       |282     |817     |
+|13      |Mendoza              |2018   |14      |Otros delitos contra la libertad                |1118    |1173      |36       |258     |809     |
+|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |886     |920       |115      |162     |643     |
+|13      |Mendoza              |2020   |14      |Otros delitos contra la libertad                |880     |93        |112      |157     |611     |
+|13      |Mendoza              |2023   |14      |Otros delitos contra la libertad                |395     |1139      |227      |232     |680     |
+|13      |Mendoza              |2023   |14      |Otros delitos contra la libertad                |387     |1130      |225      |231     |674     |
+|13      |Mendoza              |2018   |15      |Otros delitos contra las personas               |2011    |2078      |335      |43      |1333    |
+|13      |Mendoza              |2020   |15      |Otros delitos contra las personas               |1904    |1967      |439      |482     |346     |
+|13      |Mendoza              |2023   |15      |Otros delitos contra las personas               |2618    |2750      |769      |862     |1119    |
+|13      |Mendoza              |2018   |16      |Suicidios (consumados)                          |198     |198       |48       |50      |0       |
+|13      |Mendoza              |2020   |16      |Suicidios (consumados)                          |194     |194       |156      |38      |0       |
+|13      |Mendoza              |2023   |16      |Suicidios (consumados)                          |207     |207       |162      |45      |0       |
+|13      |Mendoza              |2018   |18      |Trata de personas agravado                      |5       |5         |0        |0       |5       |
+|13      |Mendoza              |2023   |18      |Trata de personas agravado                      |1       |1         |0        |0       |1       |
+|13      |Mendoza              |2018   |19      |Trata de personas simple                        |8       |35        |8        |24      |3       |
+|13      |Mendoza              |2020   |19      |Trata de personas simple                        |6       |3         |3        |5       |2       |
+|13      |Mendoza              |2023   |19      |Trata de personas simple                        |7       |8         |2        |1       |5       |
