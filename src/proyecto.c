@@ -5,6 +5,7 @@
 #include "../include/carga.h"
 #include "../include/escribir.h"
 #include "../include/escribir2.h"
+#include "../include/exportar.h"
 
 int main()
 {
@@ -167,12 +168,13 @@ int main()
                 {
                     printf("\n");
                     printf("=============================================================================\n");
-                    printf(" || HERRAMIENTA Generación de datos Estadisticos (pre-graficos)            ||\n");
+                    printf(" || HERRAMIENTA Generacion de datos Estadisticos (pre-graficos)            ||\n");
                     printf("=============================================================================\n");
-                    printf(" || [1] Comparativa +/- Cantidad de Delitos c/Provincia (todos los anios)  ||\n"); // 1 grafico de barras, compara todos los delitos en los 3 años de c/provincia
+                    printf(" || [1] Comparativa +/- Cantidad de Delitos c/Provincia (general)          ||\n"); // 1 grafico de barras, compara todos los delitos en los 3 años de c/provincia
                     printf(" || [2] Comparativa Hombres vs Mujeres por Anio                            ||\n"); // 3 graficos torta, 1/p/c año. C/grafico contiene la comparacion entre el total de victimas hombres de ese año vs la cantidad de victimas mujeres en ese año
-                    printf(" || [3] Comparativa Cantidad de delitos x Anio                             ||\n"); 
-                    printf(" || [4]                            ||\n"); // 1 grafico torta 3 paneles 1 p/c año. C/panel tiene la cantidad de delitos totales de ese año
+                    printf(" || [3] Comparativa Cantidad de delitos x Anio                             ||\n"); // 1 grafico torta 3 paneles 1 p/c año. C/panel tiene la cantidad de delitos totales de ese año
+                    printf(" || [4] Comparativa Delitos Especificos x Anio                             ||\n");
+                    printf(" || [5] Comparativa +/- Cantidad de Delitos c/Provincia (x anio)          ||\n"); 
                     printf(" || [0] Volver al menu principal                                           ||\n");
                     printf("=============================================================================\n");
                     printf("   >>> Seleccione una opcion: ");
@@ -181,22 +183,22 @@ int main()
                     switch (opcion)
                     {
                     case 1:
+                        limpiar_Archivo("datos_graficos/1_delitosxprovincia.csv");
                         exportar_datos_csv_hechos_provincia(delitos);    
-                        
                         break;
                     case 2:
-                        limpiar_Archivo("datos_graficos/2_Hombres_vs_Mujeres_2018");
-                        limpiar_Archivo("datos_graficos/2_Hombres_vs_Mujeres_2020");
-                        limpiar_Archivo("datos_graficos/2_Hombres_vs_Mujeres_2023");
+                        limpiar_Archivo("datos_graficos/2_Hombres_vs_Mujeres.csv");
                         exportar_datos_csv_cantidad_hombres_mujeres(delitos);
                         break;
                     case 3:
-                        // putos
+                        limpiar_Archivo("datos_graficos/3_Cantidad_hechos_anio.csv");
+                        exportar_datos_csv_cantidad_delitos_anio(delitos);
                         break;
                     case 4:
-                        // exportar_datos_csv(delitos, 4);
+                        limpiar_Archivo("datos_graficos/4_Delitos_especificos.csv");
+                        exportar_datos_csv_cantidad_delitos_especifico(delitos);
                         break;
-                    case 0:
+                    case 5:
                         printf("\nVolviendo al Menu...\n");
                         break;
                     default:
