@@ -1,7 +1,8 @@
-#include "../include/escribir.h"
-#include "../include/escribir2.h"
-#include "../include/carga.h"
-#include "../include/exportar.h"
+#include "../headers/escribir.h"
+#include "../headers/escribir2.h"
+#include "../headers/carga.h"
+#include "../headers/exportar.h"
+#include <locale.h>
 #include <stdlib.h>
 #include <string.h>
 
@@ -251,11 +252,14 @@ void exportar_datos_csv_cantidad_delitos_especifico(nodo *delitos)
     fprintf(abrir, "2018,Homicidiosdoloso,%d,%d,%d\n", homicidiosdolosos2018.masc, homicidiosdolosos2018.fem, homicidiosdolosos2018.sindef);
     fprintf(abrir, "2018,Suicidioconsumados,%d,%d,%d\n", suicidioconsumados2018.masc, suicidioconsumados2018.fem, suicidioconsumados2018.sindef);
     fprintf(abrir, "2018,Tratadepersonassimple,%d,%d,%d\n", tratadepersonassimple2018.masc, tratadepersonassimple2018.fem, tratadepersonassimple2018.sindef);
-    fprintf(abrir, "2020,Delito,Victimas_Masc,Victimas_Fem,Victimas_Si\n");
+    fprintf(abrir,"\n");
+    fprintf(abrir, "2020,Delito,Victimas_Masc,Victimas_Fem,Victimas_SI\n");
     fprintf(abrir, "2020,Abusosexualconaccesocarnal,%d,%d,%d\n", abusosexualconaccesocarnal2020.masc, abusosexualconaccesocarnal2020.fem, abusosexualconaccesocarnal2020.sindef);
     fprintf(abrir, "2020,Homicidiosdoloso,%d,%d,%d\n", homicidiosdolosos2020.masc, homicidiosdolosos2020.fem, homicidiosdolosos2020.sindef);
     fprintf(abrir, "2020,Suicidioconsumados,%d,%d,%d\n", suicidioconsumados2020.masc, suicidioconsumados2020.fem, suicidioconsumados2020.sindef);
     fprintf(abrir, "2020,Tratadepersonassimple,%d,%d,%d\n", tratadepersonassimple2020.masc, tratadepersonassimple2020.fem, tratadepersonassimple2020.sindef);
+    fprintf(abrir,"\n");
+    fprintf(abrir, "2023,Delito,Victimas_Masc,Victimas_Fem,Victimas_SI\n");
     fprintf(abrir, "2023,Abusosexualconaccesocarnal,%d,%d,%d\n", abusosexualconaccesocarnal2023.masc, abusosexualconaccesocarnal2023.fem, abusosexualconaccesocarnal2023.sindef);
     fprintf(abrir, "2023,Homicidiosdoloso,%d,%d,%d\n", homicidiosdolosos2023.masc, homicidiosdolosos2023.fem, homicidiosdolosos2023.sindef);
     fprintf(abrir, "2023,Suicidioconsumados,%d,%d,%d\n", suicidioconsumados2023.masc, suicidioconsumados2023.fem, suicidioconsumados2023.sindef);
@@ -335,11 +339,9 @@ void menu_poblaciones()
     fprintf(f, "La Rioja,383865\n");
     fprintf(f, "La Pampa,361859\n");
     fprintf(f, "Santa Cruz,337226\n");
-
+    printf("\nSe cargo correctamente los datos en el archivo 'poblacion_Argentina2022.csv'");
     fclose(f);
 }
-
-
 
 
 
@@ -347,80 +349,179 @@ void exportar_datos_csv_hechos_provincia_anio(nodo *delitos)
 {
     
     int provincias = 23; // cantidad de provincias
+    int id = 0;
+    int id_aux = 0; 
+    
+
+    Acumulador_Provincia acumulado[23];
+    nodo *aux = NULL; 
 
     
-    
-    Acumulador_Provincia acumulado[24]; 
-    nodo *aux = NULL; // Puntero para el bucle interno
-
-    // --- BUCLE EXTERNO (Controlado por ID, 1 al 23) ---
-    // Esta es tu lógica de "23 pasadas"
-    for(int id = 1; id <= provincias; id++)
+    // BUCLE X23 (externo)
+    for(id = 1; id <= provincias; id++)
     {
-        // El índice del array es siempre (ID - 1)
+        id_aux = id - 1; // utilizo un id auxiliar para poder meterme en la verdadera posicion del array    
         
-        int id_aux = id - 1; // utilizo un id auxiliar para poder meterme en la verdadera posicion del array
-
-
-        // a. Inicializar el acumulador para esta provincia
+        // inicializo el acumulador para esta provincia
         
-        strcpy(acumulado[id_aux].provincia_nombre, "N/D"); // Ponemos "N/D" por si no encontramos datos
+        strcpy(acumulado[id_aux].provincia_nombre, "N/D"); 
         acumulado[id_aux].total_hechos_2018 = 0;
         acumulado[id_aux].total_hechos_2020 = 0;
         acumulado[id_aux].total_hechos_2023 = 0;
 
         
         aux = delitos;
+
+        // BUCLE INTERNO (provincia x provincia)
         while(aux != NULL)
         {
-            // c. Si el nodo coincide con el ID de esta pasada...
+            
             if (aux->provincia_id == id)
             {
-                // d. (El "truco") Si es la primera vez que vemos esta ID,
-                // le "robamos" el nombre de provincia a este nodo.
+                
+                // verificador de si ya se ha asignado el nombre de la provincia
+
                 if (strcmp(acumulado[id_aux].provincia_nombre, "N/D") == 0)
                 {
                     strcpy(acumulado[id_aux].provincia_nombre, aux->provincia_nombre);
                 }
             
-                // e. ...acumulamos en el año correcto
-                if (aux->anio == 2018) {
+
+                // vamos llenando c/ acumulador correspondiente a esa provincia
+                if (aux->anio == 2018) 
+                {
                     acumulado[id_aux].total_hechos_2018 += aux->cantidad_hechos;
-                } else if (aux->anio == 2020) {
+                } else if (aux->anio == 2020) 
+                {
                     acumulado[id_aux].total_hechos_2020 += aux->cantidad_hechos;
-                } else if (aux->anio == 2023) {
+                } else if (aux->anio == 2023) 
+                {
                     acumulado[id_aux].total_hechos_2023 += aux->cantidad_hechos;
                 }
             }
             aux = aux->sig; // Siguiente nodo
         }
-        // (En este punto, la Vuelta 'id_actual' terminó y 'acumulado[index]' tiene los totales)
+        // fin de una provincia, paso a buscar otra
     }
-    // (Fin del bucle externo. Todas las 23 provincias están calculadas)
+    
 
-    // 3. Escribir los resultados en el archivo
-    FILE *abrir = fopen("datos_graficos/1_delitosxprovincia_por_anio.csv", "w");
+    // 2018
+    FILE *abrir = NULL;
+    abrir = fopen("datos_graficos/5_delitosxprovincia_por_anio_2018.csv", "w");
     if(abrir == NULL)
     {
-        printf("ERROR AL ABRIR EL ARCHIVO\n");
+        printf("ERROR AL ABRIR EL ARCHIVO 2018\n");
+        return;
+    }
+    fprintf(abrir,"\n======== 2018 ========\n");
+    fprintf(abrir, "Provincia,Hechos\n");
+    for(int i = 0; i < provincias; i++)
+    {
+        fprintf(abrir, "%s,%d\n", 
+
+            acumulado[i].provincia_nombre,
+            acumulado[i].total_hechos_2018);
+    }
+    fprintf(abrir,"\n======================\n");
+    printf("\nSe cargo correctamente los datos en el archivo '5_delitosxprovincia_por_anio_2018.csv'");
+    fclose(abrir); // cerrando 2018
+
+
+    // 2020
+    abrir = NULL;
+    abrir = fopen("datos_graficos/5_delitosxprovincia_por_anio_2020.csv", "w");
+    if(abrir == NULL)
+    {
+        printf("ERROR AL ABRIR EL ARCHIVO 2020\n");
+        return;
+    }
+    fprintf(abrir,"\n======== 2020 ========\n");
+    fprintf(abrir, "Provincia,Hechos\n");
+    for(int i = 0; i < provincias; i++)
+    {
+        fprintf(abrir, "%s,%d\n",acumulado[i].provincia_nombre,acumulado[i].total_hechos_2020);
+    }
+    fprintf(abrir,"\n======================\n");
+    printf("\nSe cargo correctamente los datos en el archivo '5_delitosxprovincia_por_anio_2020.csv'");
+    fclose(abrir); // cerrando 2020
+
+
+    // 2023
+    abrir = NULL;
+    abrir = fopen("datos_graficos/5_delitosxprovincia_por_anio_2023.csv", "w");
+    if(abrir == NULL)
+    {
+        printf("ERROR AL ABRIR EL ARCHIVO 2023\n");
+        return;
+    }
+    fprintf(abrir,"\n======== 2023 ========\n");
+    fprintf(abrir, "Provincia,Hechos\n");
+    for(int i = 0; i < provincias; i++)
+    {
+        fprintf(abrir, "%s,%d\n",acumulado[i].provincia_nombre,acumulado[i].total_hechos_2023);
+    }
+    fprintf(abrir,"\n======================\n");
+    printf("\nSe cargo correctamente los datos en el archivo '5_delitosxprovincia_por_anio_2023.csv'");
+    fclose(abrir); // cerrando 2023
+
+
+    // INCLUIMOS LA TASA DE CRIMINALIDAD
+    
+
+
+    int poblaciones[23] = 
+    {
+    3121707,  // 0: CABA
+    17523996, // 1: Buenos Aires
+    429562,   // 2: Catamarca
+    3840905,  // 3: Cordoba
+    1212696,  // 4: Corrientes
+    1129606,  // 5: Chaco
+    592621,   // 6: Chubut
+    1425578,  // 7: Entre Rios
+    607419,   // 8: Formosa
+    811611,   // 9: Jujuy
+    361859,   // 10: La Pampa
+    383865,   // 11: La Rioja
+    2043540,  // 12: Mendoza
+    1278873,  // 13: Misiones
+    710814,   // 14: Neuquen
+    750768,   // 15: Rio Negro
+    1440672,  // 16: Salta
+    822853,   // 17: San Juan
+    542069,   // 18: San Luis
+    337226,   // 19: Santa Cruz
+    3544908,  // 20: Santa Fe
+    1060906,  // 21: Santiago del Estero
+    1731820   // 22: Tucuman
+};
+    float criminalidad[23] = {0};
+
+    abrir = fopen("datos_graficos/6_tasa_criminalidad.csv", "w");
+
+    if(abrir == NULL)
+    {
+        printf("Lo sentimos, hubo un problema al abrir el archivo.");
         return;
     }
     
-    fprintf(abrir, "Provincia,Hechos_2018,Hechos_2020,Hechos_2023\n");
-    
-    for(int i = 0; i < provincias; i++)
-    {
-        fprintf(abrir, "%s,%d,%d,%d\n", 
-            acumulado[i].provincia_nombre,
-            acumulado[i].total_hechos_2018,
-            acumulado[i].total_hechos_2020,
-            acumulado[i].total_hechos_2023);
-    }
+    char *locale_original = setlocale(LC_NUMERIC, NULL);
+    setlocale(LC_NUMERIC, "C");
 
+    fprintf(abrir, "Provincia,Tasa_Criminalidad\n");
+    float tasa = 10000.0; 
+    for(int i = 0  ; i<23 ; i++)
+    {
+        acumulado[i].total_hechos = acumulado[i].total_hechos_2018 + acumulado[i].total_hechos_2020 + acumulado[i].total_hechos_2023;
+        criminalidad[i] = (((float)acumulado[i].total_hechos / (float)poblaciones[i]) * tasa);
+        fprintf(abrir, "%s,%.2f\n", acumulado[i].provincia_nombre, criminalidad[i]);
+    }
+    
     fclose(abrir);
-    printf("Archivo '1_delitosxprovincia_por_anio.csv' generado.\n");
+    abrir = NULL;
+    printf("\nSe cargo correctamente los datos en el archivo '6_tasa_criminalidad.csv'");
 }
-     
+  
 
     
 

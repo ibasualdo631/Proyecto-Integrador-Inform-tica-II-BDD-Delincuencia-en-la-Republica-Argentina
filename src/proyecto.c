@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
-#include "../include/carga.h"
-#include "../include/escribir.h"
-#include "../include/escribir2.h"
-#include "../include/exportar.h"
+#include "../headers/carga.h"
+#include "../headers/escribir.h"
+#include "../headers/escribir2.h"
+#include "../headers/exportar.h"
 
 int main()
 {
@@ -174,7 +174,7 @@ int main()
                     printf(" || [2] Comparativa Hombres vs Mujeres por Anio                            ||\n"); // 3 graficos torta, 1/p/c año. C/grafico contiene la comparacion entre el total de victimas hombres de ese año vs la cantidad de victimas mujeres en ese año
                     printf(" || [3] Comparativa Cantidad de delitos x Anio                             ||\n"); // 1 grafico torta 3 paneles 1 p/c año. C/panel tiene la cantidad de delitos totales de ese año
                     printf(" || [4] Comparativa Delitos Especificos x Anio                             ||\n");
-                    printf(" || [5] Comparativa +/- Cantidad de Delitos c/Provincia (x anio)          ||\n"); 
+                    printf(" || [5] Comparativa +/- Cantidad de Delitos c/Provincia (x anio)           ||\n"); 
                     printf(" || [0] Volver al menu principal                                           ||\n");
                     printf("=============================================================================\n");
                     printf("   >>> Seleccione una opcion: ");
@@ -199,6 +199,13 @@ int main()
                         exportar_datos_csv_cantidad_delitos_especifico(delitos);
                         break;
                     case 5:
+                        limpiar_Archivo("datos_graficos/5_delitosxprovincia_por_anio_2018.csv");
+                        limpiar_Archivo("datos_graficos/5_delitosxprovincia_por_anio_2020.csv");
+                        limpiar_Archivo("datos_graficos/5_delitosxprovincia_por_anio_2023.csv");
+                        limpiar_Archivo("datos_graficos/6_tasa_criminalidad.csv");
+                        exportar_datos_csv_hechos_provincia_anio(delitos);
+                        break;
+                    case 0:
                         printf("\nVolviendo al Menu...\n");
                         break;
                     default:
@@ -211,6 +218,7 @@ int main()
             break;
 
         case 6:
+            limpiar_Archivo("datos_graficos/poblacion_Argentina2022.csv");
             menu_poblaciones();
             break;
 

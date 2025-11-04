@@ -1,5 +1,5 @@
-#include "../include/escribir.h"
-#include "../include/carga.h"
+#include "../headers/escribir.h"
+#include "../headers/carga.h"
 #include <stdlib.h>
 #include <string.h>
 
